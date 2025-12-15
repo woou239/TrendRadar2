@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-16T04:18:58.893747+08:00",
-  "total_titles_processed": 560,
+  "generated_at": "2025-12-16T05:15:49.127242+08:00",
+  "total_titles_processed": 617,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- 第三组：美国宏观与军事 --- 美国 白宫 五角大楼 美军 美联储 布林肯 拜登 特朗普",
-      "match_count": 93,
+      "match_count": 114,
       "titles": [
         {
           "title": "这一涉台内容被删，“白宫不愿挑衅大陆”",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 04时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 05时15分]"
         },
         {
           "title": "美国蜜雪冰城价格",
@@ -24,11 +24,12 @@
           "source": "微博",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 04时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 05时15分]"
         },
         {
           "title": "日媒：特朗普曾警告高市早苗“别添乱”",
@@ -38,8 +39,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 04时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 05时15分]"
         },
         {
           "title": "日媒爆特朗普警告高市早苗别添乱",
@@ -48,11 +49,12 @@
           "ranks": [
             6,
             8,
-            17
+            17,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 04时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 05时15分]"
         },
         {
           "title": "曝特朗普曾警告高市早苗别来添乱",
@@ -66,8 +68,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 04时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 05时15分]"
         },
         {
           "title": "美国官员：（乌克兰会谈）在若干问题上达成共识。",
@@ -136,16 +138,41 @@
           "time_info": "01时22分"
         },
         {
+          "title": "美国总统特朗普：我今天没看股市，可能涨了。",
+          "url": "https://wallstreetcn.com/livenews/3021167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
+        },
+        {
+          "title": "美国版战忽局再上线",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E7%89%88%E6%88%98%E5%BF%BD%E5%B1%80%E5%86%8D%E4%B8%8A%E7%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            24,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时21分 ~ 05时15分]"
+        },
+        {
           "title": "美国亚特兰大联储宣布，开始寻找新的联储主席。 遴选委员会将由董事会主席Gregory Haile牵头。 此前报道称，该地区联储的现任主席Raphael Bostic将于2026年2月底离职。",
           "url": "https://wallstreetcn.com/livenews/3021142",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            7
+            7,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时17分 ~ 04时18分]"
+          "appearance_count": 3,
+          "time_info": "[03时17分 ~ 05时15分]"
         },
         {
           "title": "美国联邦贸易委员会（FTC）和多个州自定针对优步（Uber）的投诉。",
@@ -209,18 +236,6 @@
           "time_info": "[00时23分 ~ 01时22分]"
         },
         {
-          "title": "美国版战忽局再上线",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E7%89%88%E6%88%98%E5%BF%BD%E5%B1%80%E5%86%8D%E4%B8%8A%E7%BA%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时21分 ~ 04时18分]"
-        },
-        {
           "title": "美联储理事米兰：可能会继续留在美联储，直至（美国总统特朗普）新的提名人获得国会山确认。",
           "url": "https://wallstreetcn.com/livenews/3021113",
           "source": "华尔街见闻-快讯",
@@ -232,6 +247,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时22分 ~ 03时17分]"
+        },
+        {
+          "title": "周一（12月15日），美联储隔夜逆回购协议（RRP）使用规模为26.01亿美元，上个交易日报8.38亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3021135",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时17分 ~ 05时15分]"
         },
         {
           "title": "美国纽约联储主席威廉姆斯：随着时间的推移，储备金规模可能会从2.9万亿美元增长。",
@@ -298,18 +326,6 @@
           "time_info": "[03时17分 ~ 04时18分]"
         },
         {
-          "title": "周一（12月15日），美联储隔夜逆回购协议（RRP）使用规模为26.01亿美元，上个交易日报8.38亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3021135",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时17分 ~ 04时18分]"
-        },
-        {
           "title": "欧盟抵制美国施压，拒绝修改科技监管规则",
           "url": "https://wallstreetcn.com/livenews/3021107",
           "source": "华尔街见闻-快讯",
@@ -369,6 +385,17 @@
           "time_info": "02时24分"
         },
         {
+          "title": "美国总统特朗普：丰田刚刚批准了在美国建设制造工厂。",
+          "url": "https://flash.jin10.com/detail/20251216050154625800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
+        },
+        {
           "title": "美国纽约联储主席（享有FOMC永久投票权、号称美联储三把手）威廉姆斯：降息意味着，政策在进入2026年之际准备就绪。 关税造成的（通胀）影响在很大程度上是一次性的，预计（关税的通胀影响）将在2026年消退。 关税对通胀的影响并不会蔓延至其他领域。 必须在避免影响到就业市场的情况下实现2%通胀目标。 就业市场面临的下行风险在最近数月加重。 数据表明，劳动力需求的趋软程度超过供应（的趋软程度）。",
           "url": "https://wallstreetcn.com/livenews/3021083",
           "source": "华尔街见闻-快讯",
@@ -386,7 +413,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
         },
@@ -400,6 +427,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "美国总统特朗普：我要起诉BBC，对方将文字塞进我的嘴里。 我们可能会在今天或明天早间递交诉状。",
+          "url": "https://wallstreetcn.com/livenews/3021165",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
         },
         {
           "title": "美联储威廉姆斯：官方政府数据是“黄金标准”。",
@@ -419,7 +457,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
         },
@@ -452,7 +490,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
         },
@@ -474,9 +512,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
+        },
+        {
+          "title": "美国总统特朗普：国际维和部队已经在以某种形式运行了。",
+          "url": "https://flash.jin10.com/detail/20251216045805156800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
         },
         {
           "title": "据知情人士透露，哈塞特的美联储理事提名在特朗普阵营内部遭遇一定阻力。 美国总统特朗普的一些盟友认为/担心，白宫顾问哈塞特与特朗普关系过从甚密。（CNBC）",
@@ -529,9 +578,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
+        },
+        {
+          "title": "美国总统特朗普：更多国家将加入加沙国际维和部队。",
+          "url": "https://flash.jin10.com/detail/20251216045719232800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
         },
         {
           "title": "化肥概念股美股早盘下跌，特朗普政府上周末撤销对白俄罗斯钾肥的制裁，美国财政部周一对该国钾肥公司发放通用许可证。 Nutrien跌4.1%, Mosaic跌3.1%，Intrepid Potash跌1.0%，FMC跌5.5%, CF Industries Holdings跌2.0%。",
@@ -554,6 +614,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "特朗普：现在比以往任何时候都更接近达成“和平协议”",
+          "url": "https://flash.jin10.com/detail/20251216045556707800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
+        },
+        {
+          "title": "美国总统特朗普：一个小时之前与欧洲领导人对话。 与乌克兰总统泽连斯基谈论了很长时间。 今天对话之后，乌克兰战事将比任何时候都更加接近结束。",
+          "url": "https://wallstreetcn.com/livenews/3021155",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
         },
         {
           "title": "美联储理事米兰：总统特朗普并未与我商谈美联储席位的安排。",
@@ -609,6 +691,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
+        },
+        {
+          "title": "美国总统特朗普：直接与俄罗斯总统普京进行了通话。",
+          "url": "https://flash.jin10.com/detail/20251216045447003800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
         },
         {
           "title": "美联储威廉姆斯：关税不确定性已大幅下降。",
@@ -683,9 +776,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
+        },
+        {
+          "title": "美国总统特朗普：将对极端组织 “伊斯兰国” 实施严厉打击。",
+          "url": "https://flash.jin10.com/detail/20251216044703308800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
         },
         {
           "title": "美联储威廉姆斯：市场估值“偏高”，但定价存在合理理由。",
@@ -708,6 +812,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
+        },
+        {
+          "title": "美国总统特朗普：我与内塔尼亚胡一直保持着良好的关系。",
+          "url": "https://flash.jin10.com/detail/20251216044528423800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
         },
         {
           "title": "美国纽约联储主席威廉姆斯：企业在一定程度上消耗掉（总统特朗普挑起）关税之前的库存。",
@@ -743,6 +858,17 @@
           "time_info": "00时23分"
         },
         {
+          "title": "美国原油期货创2021年2月份以来收盘新低",
+          "url": "https://wallstreetcn.com/livenews/3021147",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
+        },
+        {
           "title": "市场分析：美元和美国国债收益率是本周金价的主要推动因素",
           "url": "https://flash.jin10.com/detail/20251215235510246800",
           "source": "金十数据",
@@ -774,6 +900,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
+        },
+        {
+          "title": "美国总统特朗普：我们正在调查以色列是否通过杀害哈马斯领导人而违反了停火协议。",
+          "url": "https://flash.jin10.com/detail/20251216044444718800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
         },
         {
           "title": "美国12月NAHB房产市场指数 39，预期 38，前值 38。",
@@ -842,6 +979,17 @@
           "time_info": "03时17分"
         },
         {
+          "title": "美国总统特朗普：正考虑通过行政命令重新对大麻进行分类。",
+          "url": "https://flash.jin10.com/detail/20251216044421725800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
+        },
+        {
           "title": "美联储理事米兰：通胀预期（调查）中并没有出现担忧。",
           "url": "https://wallstreetcn.com/livenews/3021068",
           "source": "华尔街见闻-快讯",
@@ -884,6 +1032,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
+        },
+        {
+          "title": "美国总统特朗普：可能在今天下午或明天上午提交诉讼申请。",
+          "url": "https://flash.jin10.com/detail/20251216044233822800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
         },
         {
           "title": "非农前夜，特朗普的BLS发布预警：11月住户调查统计方差更大",
@@ -941,6 +1100,17 @@
           "time_info": "00时23分"
         },
         {
+          "title": "美国总统特朗普：将很快对英国广播公司（BBC）提起诉讼。",
+          "url": "https://flash.jin10.com/detail/20251216044150857800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
+        },
+        {
           "title": "美联储威廉姆斯：就业放缓和通胀风险缓解支持美联储降息",
           "url": "https://flash.jin10.com/detail/20251215234858267800",
           "source": "金十数据",
@@ -961,6 +1131,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至11月25日当周，原油投机者持有的WTI净空头头寸增加了23,210手，达到53,239手。",
+          "url": "https://flash.jin10.com/detail/20251216043317532800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
         },
         {
           "title": "提醒：北京时间23:00，将发布美国12月NAHB房产市场指数。",
@@ -985,6 +1166,17 @@
           "time_info": "00时23分"
         },
         {
+          "title": "美国商品期货交易委员会（CFTC）：截至11月25日当周，在纽约商品交易所（NYMEX）和洲际交易所（ICE）的四个主要市场中，天然气投机者的净多头头寸减少了1,578手，降至199,357手。",
+          "url": "https://flash.jin10.com/detail/20251216043202087800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
+        },
+        {
           "title": "美联储威廉姆斯：商业地产领域整体稳健",
           "url": "https://flash.jin10.com/detail/20251216003244103800",
           "source": "金十数据",
@@ -994,6 +1186,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至11月25日当周，COMEX白银投机者的净多头头寸减少了806手，降至20,127手。",
+          "url": "https://flash.jin10.com/detail/20251216043141603800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
         },
         {
           "title": "美国至12月15日6个月国债竞拍-投标倍数 2.84，前值3.01。",
@@ -1018,6 +1221,17 @@
           "time_info": "03时17分"
         },
         {
+          "title": "美国商品期货交易委员会（CFTC）：截至11月25日当周，COMEX铜投机者的净多头头寸减少了4,343手，降至58,497手。",
+          "url": "https://flash.jin10.com/detail/20251216043126698800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
+        },
+        {
           "title": "美国至12月15日6个月国债竞拍-得标利率配置百分比 4.57%，前值82.34%。",
           "url": "https://flash.jin10.com/detail/20251216003205333800",
           "source": "金十数据",
@@ -1027,6 +1241,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "美国总统特朗普：将签署行政命令，将芬太尼列为“大规模杀伤性武器”。",
+          "url": "https://flash.jin10.com/detail/20251216043109134800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
         },
         {
           "title": "美联储主席人选博弈加剧，哈塞特面临特朗普身边高层反对",
@@ -1051,6 +1276,17 @@
           "time_info": "01时22分"
         },
         {
+          "title": "美国商品期货交易委员会（CFTC）：截至11月25日当周，COMEX黄金投机者的净多头头寸增加了11,291手，达到107,976手。",
+          "url": "https://flash.jin10.com/detail/20251216043030598800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
+        },
+        {
           "title": "“美联储三把手”威廉姆斯：目前的货币政策已为2026年做好充分准备",
           "url": "https://wallstreetcn.com/livenews/3021083",
           "source": "华尔街见闻-快讯",
@@ -1065,7 +1301,7 @@
     },
     {
       "keyword_group": "# --- 第六组：俄乌局势 --- 俄乌 俄罗斯 乌克兰 普京 泽连斯基 北约",
-      "match_count": 36,
+      "match_count": 40,
       "titles": [
         {
           "title": "第一批免签去俄罗斯的中产傻眼了",
@@ -1076,8 +1312,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 04时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 05时15分]"
         },
         {
           "title": "卡德罗夫：将竭尽全力阻止乌克兰无人机飞到俄境内",
@@ -1087,8 +1323,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 04时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 05时15分]"
         },
         {
           "title": "波兰总统公开批评乌克兰：两国之间不能被称为伙伴关系",
@@ -1098,8 +1334,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 04时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 05时15分]"
         },
         {
           "title": "泽连斯基称乌克兰放弃加入北约",
@@ -1112,8 +1348,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 04时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 05时15分]"
+        },
+        {
+          "title": "乌克兰放弃入北约,到头一场空",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347970&amp;topic_name=%E4%B9%8C%E5%85%8B%E5%85%B0%E6%94%BE%E5%BC%83%E5%85%A5%E5%8C%97%E7%BA%A6%2C%E5%88%B0%E5%A4%B4%E4%B8%80%E5%9C%BA%E7%A9%BA",
+          "source": "贴吧",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 05时15分]"
         },
         {
           "title": "乌克兰放弃加入北约 俄罗斯赢了吗",
@@ -1128,17 +1375,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时21分 ~ 04时18分]"
-        },
-        {
-          "title": "乌克兰放弃入北约,到头一场空",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347970&amp;topic_name=%E4%B9%8C%E5%85%8B%E5%85%B0%E6%94%BE%E5%BC%83%E5%85%A5%E5%8C%97%E7%BA%A6%2C%E5%88%B0%E5%A4%B4%E4%B8%80%E5%9C%BA%E7%A9%BA",
-          "source": "贴吧",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 04时18分]"
         },
         {
           "title": "据国际文传电讯社：乌克兰军队从西南方向向库皮扬斯克郊区推进的尝试正遭到挫败。",
@@ -1169,9 +1405,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
+        },
+        {
+          "title": "白俄罗斯总统卢卡申科：如果委内瑞拉总统马杜罗想来白俄罗斯，大门向他敞开。",
+          "url": "https://flash.jin10.com/detail/20251216050225295800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
         },
         {
           "title": "乌克兰总统泽连斯基：我们在领土问题上立场不同。",
@@ -1263,7 +1510,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
         },
@@ -1351,9 +1598,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
+        },
+        {
+          "title": "普京批准俄印军事合作协议",
+          "url": "https://wallstreetcn.com/livenews/3021154",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
         },
         {
           "title": "英国政府发布联合领导人声明。联合声明显示，各国领导人一致同意，支持乌克兰总统泽连斯基就具体乌克兰问题最终作出的“任何决定”。领导人重申，国际边界不得以武力改变。",
@@ -1362,7 +1620,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
         },
@@ -1389,6 +1647,17 @@
           "time_info": "01时22分"
         },
         {
+          "title": "欧洲提议组建“多国部队”支持乌克兰",
+          "url": "https://wallstreetcn.com/livenews/3021156",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
+        },
+        {
           "title": "声明显示：承诺支持乌克兰建设其武装力量，该力量规模应维持在和平时期的80万人水平，以具备遏制冲突和捍卫乌克兰领土的能力。",
           "url": "https://flash.jin10.com/detail/20251216024719592800",
           "source": "金十数据",
@@ -1406,7 +1675,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
         },
@@ -1455,6 +1724,17 @@
           "time_info": "03时17分"
         },
         {
+          "title": "泽连斯基：美方并未要求乌克兰做出领土让步",
+          "url": "https://wallstreetcn.com/livenews/3021153",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
+        },
+        {
           "title": "泽连斯基：柏林会谈富有成效 但美乌在领土问题上立场不同",
           "url": "https://flash.jin10.com/detail/20251216011810751800",
           "source": "金十数据",
@@ -1490,8 +1770,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 04时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 05时15分]"
         },
         {
           "title": "明年经济工作政策取向确立这八个字",
@@ -1501,8 +1781,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 04时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 05时15分]"
         },
         {
           "title": "不确定经济政策能否赢中选，特朗普质疑“现在有好消息股市反而下跌，消息特别好股市就会崩盘”，这都是美联储的错！",
@@ -1513,8 +1793,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 04时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 05时15分]"
         },
         {
           "title": "十大券商看后市｜A股跨年行情蓄势待发，布局春季躁动",
@@ -1525,8 +1805,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 04时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 05时15分]"
         },
         {
           "title": "市场监管总局公开征求意见，拟禁止车企亏本卖车，并要求明码标价，从市场和经济角度如何解读？新车会涨价么？",
@@ -1538,8 +1818,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 04时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 05时15分]"
         },
         {
           "title": "人民币“破7”在即吗",
@@ -1552,8 +1832,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 04时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 05时15分]"
         },
         {
           "title": "中央经济工作会议后，证监会首场会议点明12条重点改革方向",
@@ -1573,7 +1853,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
         },
@@ -1583,11 +1863,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            8
+            8,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时17分 ~ 04时18分]"
+          "appearance_count": 3,
+          "time_info": "[03时17分 ~ 05时15分]"
         },
         {
           "title": "阿根廷央行将于明年修改汇率区间体系",
@@ -1595,11 +1876,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            10
+            10,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时17分 ~ 04时18分]"
+          "appearance_count": 3,
+          "time_info": "[03时17分 ~ 05时15分]"
         },
         {
           "title": "阿根廷央行将调整其汇率交易区间机制，并于明年年初启动外汇储备积累计划，受此消息影响，阿根廷2035年到期的美元计价债券价格盘中一度升至当日高点。",
@@ -1631,11 +1913,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            12
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时17分 ~ 05时15分]"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0482元，较上周五夜盘收盘涨64点。成交量303.39亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3021143",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时17分 ~ 04时18分]"
+          "time_info": "[04时18分 ~ 05时15分]"
         },
         {
           "title": "四论学习贯彻中央经济工作会议精神：发展新质生产力，培育壮大新动能",
@@ -1648,17 +1943,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时22分 ~ 02时24分]"
-        },
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0482元，较上周五夜盘收盘涨64点。成交量303.39亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3021143",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时18分"
         },
         {
           "title": "全美住宅建筑商协会（NAHB）首席经济学家Robert Dietz：“建筑商继续面临供应侧的阻力，因为监管成本和材料价格仍然居高不下。库存增加也加剧了新建住宅的竞争。”",
@@ -1774,7 +2058,7 @@
     },
     {
       "keyword_group": "# --- 第一组：中国宏观 (去掉了必须词，只过滤娱乐) --- 中国 央视 外交部 国防部 解放军 人民日报 新华社",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "“中国最冷小镇”最低温降至-39℃",
@@ -1784,8 +2068,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 04时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 05时15分]"
         },
         {
           "title": "汽车与家电零售跌幅扩大，中国11月社会消费品零售同比增速降至1.3%",
@@ -1796,8 +2080,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 04时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 05时15分]"
         },
         {
           "title": "日本学界发愁：中国要在发展中国家扩大影响力了",
@@ -1807,8 +2091,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 04时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 05时15分]"
         },
         {
           "title": "中国铁路建设到底有多牛",
@@ -1820,8 +2104,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 04时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 05时15分]"
         },
         {
           "title": "央视曝光30天速成陈皮",
@@ -1835,8 +2119,78 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 04时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 05时15分]"
+        },
+        {
+          "title": "外交部：对日本自卫队前统合幕僚长岩崎茂采取反制措施",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32177544",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 05时15分]"
+        },
+        {
+          "title": "回望2025中国经济",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%9E%E6%9C%9B2025%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 05时15分]"
+        },
+        {
+          "title": "中国1—11月全国房地产开发投资同比下降15.9%，新建商品房销售面积同比下降7.8%",
+          "url": "https://wallstreetcn.com/articles/3761394",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 05时15分]"
+        },
+        {
+          "title": "中国驻英国使馆发表声明：强烈谴责英方干预香港司法",
+          "url": "https://news.ifeng.com/c/8p6v7BPjm1z",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 05时15分]"
+        },
+        {
+          "title": "日方倒打一耙不可能得逞！国防部公布中国航母编队舰载机飞行训练实际情况",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32179194",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 05时15分]"
+        },
+        {
+          "title": "韩国年轻人流行周五下班来中国",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%B5%81%E8%A1%8C%E5%91%A8%E4%BA%94%E4%B8%8B%E7%8F%AD%E6%9D%A5%E4%B8%AD%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 05时15分]"
         },
         {
           "title": "中国科学家终结爱因斯坦和玻尔争论",
@@ -1865,74 +2219,19 @@
           "time_info": "[00时23分 ~ 01时22分]"
         },
         {
-          "title": "外交部：对日本自卫队前统合幕僚长岩崎茂采取反制措施",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32177544",
-          "source": "澎湃新闻",
+          "title": "央视曝光20倍暴利假陈皮",
+          "url": "https://www.toutiao.com/trending/7582792396368330758/",
+          "source": "今日头条",
           "ranks": [
-            7,
-            6
+            18,
+            30,
+            17,
+            27,
+            19
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[00时23分 ~ 04时18分]"
-        },
-        {
-          "title": "回望2025中国经济",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%9E%E6%9C%9B2025%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 04时18分]"
-        },
-        {
-          "title": "中国1—11月全国房地产开发投资同比下降15.9%，新建商品房销售面积同比下降7.8%",
-          "url": "https://wallstreetcn.com/articles/3761394",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 04时18分]"
-        },
-        {
-          "title": "中国驻英国使馆发表声明：强烈谴责英方干预香港司法",
-          "url": "https://news.ifeng.com/c/8p6v7BPjm1z",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 04时18分]"
-        },
-        {
-          "title": "日方倒打一耙不可能得逞！国防部公布中国航母编队舰载机飞行训练实际情况",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32179194",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 04时18分]"
-        },
-        {
-          "title": "韩国年轻人流行周五下班来中国",
-          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%B5%81%E8%A1%8C%E5%91%A8%E4%BA%94%E4%B8%8B%E7%8F%AD%E6%9D%A5%E4%B8%AD%E5%9B%BD",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 04时18分]"
+          "time_info": "[01时21分 ~ 05时15分]"
         },
         {
           "title": "为什么中国的牛肉这么贵？",
@@ -1949,18 +2248,15 @@
           "time_info": "[00时23分 ~ 03时17分]"
         },
         {
-          "title": "央视曝光20倍暴利假陈皮",
-          "url": "https://www.toutiao.com/trending/7582792396368330758/",
-          "source": "今日头条",
+          "title": "纳斯达克金龙中国指数初步收跌2.1%。 热门中概股里，小马智行、百度初步收跌4.9%，阿里巴巴跌3.5%，小鹏跌3.5%，理想、文远知行跌超2%，京东、小米集团ADR、拼多多、百胜中国跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3021170",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18,
-            30,
-            17,
-            27
+            3
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时21分 ~ 04时18分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
         },
         {
           "title": "“中国最冷小镇”最低温降至-39℃",
@@ -2058,7 +2354,7 @@
     },
     {
       "keyword_group": "# --- 第四组：美股与科技 (去掉了具体的“财报”限制) --- 美股 纳指 道琼斯 标普 特斯拉 英伟达 苹果 微软 OpenAI",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "科技股抛压暂歇，美股指数期货小幅回血，贵金属集体大涨，黄金逼近历史新高，白银铂金大涨3%",
@@ -2070,8 +2366,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 04时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 05时15分]"
         },
         {
           "title": "现货黄金、白银逼近历史高位 美股三大期指温和走高 | 今夜看点",
@@ -2080,11 +2376,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 04时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 05时15分]"
         },
         {
           "title": "英伟达发布Nemotron 3开源模型系列：混合MoE架构+100万token上下文",
@@ -2095,8 +2392,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 04时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 05时15分]"
+        },
+        {
+          "title": "金十图示：2025年12月15日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251216050520167800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
         },
         {
           "title": "OpenAI聘请谷歌高管，负责主导并购业务。（The Information）",
@@ -2119,6 +2427,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
+        },
+        {
+          "title": "标普500指数初步收跌0.1%，科技板块初步收跌1%，能源板块跌0.8%，电信板块跌0.1%，可选消费板块则涨0.5%，公用事业板块涨0.8%，保健板块涨1.3%。 纳斯达克100指数初步收跌0.5%，成分股中，Strategy初步收跌7.9%，博通、CoStar Group跌6.2%，Arm控股跌5.2%，Booking、ISRG、万豪国际、康卡斯特、特斯拉则涨超3%。 Salesforce初步收跌3.1%，3M、亚马逊、苹果、卡特彼勒跌超1%，领跌道指成分股，宝洁、强生、霍尼韦尔则至少涨约1.6%，Travelers Companies Inc.涨1.9%，安进涨2.2%。",
+          "url": "https://wallstreetcn.com/livenews/3021168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
         },
         {
           "title": "通用汽车敲定一份协议，将在未来的汽车产品提供苹果音乐（Apple Music）。",
@@ -2169,6 +2488,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时22分 ~ 02时24分]"
+        },
+        {
+          "title": "美股收盘：三大股指收跌 特斯拉涨3.5%",
+          "url": "https://flash.jin10.com/detail/20251216050109624800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
         },
         {
           "title": "金十图示：2025年12月15日（周一）美股热门股票行情一览（美股盘中）",
@@ -2237,22 +2567,12 @@
           "source": "今日头条",
           "ranks": [
             6,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 04时18分]"
-        },
-        {
-          "title": "据日经新闻：KKR准备对日本个人护理产品制造商Mandom提出竞争性收购要约。KKR拟以每股超过2800日元的价格收购Mandom。",
-          "url": "https://flash.jin10.com/detail/20251216015712590800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时24分"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 05时15分]"
         },
         {
           "title": "中方反制日自卫队前高官释放何信号",
@@ -2265,8 +2585,19 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 03时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 05时15分]"
+        },
+        {
+          "title": "据日经新闻：KKR准备对日本个人护理产品制造商Mandom提出竞争性收购要约。KKR拟以每股超过2800日元的价格收购Mandom。",
+          "url": "https://flash.jin10.com/detail/20251216015712590800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时24分"
         },
         {
           "title": "日本主动调整军事战略或走向穷兵黩武",
