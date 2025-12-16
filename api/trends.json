@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-16T07:27:46.477842+08:00",
-  "total_titles_processed": 730,
+  "generated_at": "2025-12-16T09:13:24.168042+08:00",
+  "total_titles_processed": 861,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- 第三组：美国宏观与军事 --- 美国 白宫 五角大楼 美军 美联储 布林肯 拜登 特朗普",
-      "match_count": 133,
+      "match_count": 146,
       "titles": [
         {
           "title": "这一涉台内容被删，“白宫不愿挑衅大陆”",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 07时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 09时13分]"
         },
         {
           "title": "日媒：特朗普曾警告高市早苗“别添乱”",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 07时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 09时13分]"
         },
         {
           "title": "美国蜜雪冰城价格",
@@ -53,11 +53,28 @@
             17,
             5,
             3,
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 07时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 09时13分]"
+        },
+        {
+          "title": "美国版战忽局再上线",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E7%89%88%E6%88%98%E5%BF%BD%E5%B1%80%E5%86%8D%E4%B8%8A%E7%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            24,
+            18,
+            22,
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时21分 ~ 09时13分]"
         },
         {
           "title": "曝特朗普曾警告高市早苗别来添乱",
@@ -73,21 +90,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时23分 ~ 05时15分]"
-        },
-        {
-          "title": "美国版战忽局再上线",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E7%89%88%E6%88%98%E5%BF%BD%E5%B1%80%E5%86%8D%E4%B8%8A%E7%BA%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30,
-            24,
-            18,
-            22,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时21分 ~ 07时27分]"
         },
         {
           "title": "美国官员：（乌克兰会谈）在若干问题上达成共识。",
@@ -121,6 +123,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
+        },
+        {
+          "title": "韩国总统府官员：韩国将与美国讨论推动韩国建造核动力潜舰计划。",
+          "url": "https://wallstreetcn.com/livenews/3021272",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         },
         {
           "title": "美国总统特朗普邀请斯洛伐克总理访美商谈核能合作事宜。",
@@ -276,6 +289,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时15分 ~ 06时59分]"
+        },
+        {
+          "title": "美国蜜雪冰城糖度",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E7%B3%96%E5%BA%A6%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时27分 ~ 09时13分]"
         },
         {
           "title": "美联储理事米兰：可能会继续留在美联储，直至（美国总统特朗普）新的提名人获得国会山确认。",
@@ -574,9 +599,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
+        },
+        {
+          "title": "韩国总统府：韩国将与美国商讨，为韩国建造核动力潜艇计划积蓄动力。",
+          "url": "https://flash.jin10.com/detail/20251216085948875800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         },
         {
           "title": "美联储理事米兰：乐于投票支持地方联储主席们连任。",
@@ -629,7 +665,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
         },
@@ -673,7 +709,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
         },
@@ -777,6 +813,17 @@
           "time_info": "05时15分"
         },
         {
+          "title": "特朗普起诉BBC 索赔50亿美元",
+          "url": "https://flash.jin10.com/detail/20251216083812913800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
           "title": "化肥概念股美股早盘下跌，特朗普政府上周末撤销对白俄罗斯钾肥的制裁，美国财政部周一对该国钾肥公司发放通用许可证。 Nutrien跌4.1%, Mosaic跌3.1%，Intrepid Potash跌1.0%，FMC跌5.5%, CF Industries Holdings跌2.0%。",
           "url": "https://wallstreetcn.com/livenews/3021076",
           "source": "华尔街见闻-快讯",
@@ -810,6 +857,17 @@
           "time_info": "05时15分"
         },
         {
+          "title": "欢迎进入链接网页右侧下载本周财经数据与事件精美周历壁纸：今日将公布美国11月非农就业人口与失业率、英国11月失业率。",
+          "url": "https://flash.jin10.com/detail/20251216083033379800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
           "title": "美国总统特朗普：一个小时之前与欧洲领导人对话。 与乌克兰总统泽连斯基谈论了很长时间。 今天对话之后，乌克兰战事将比任何时候都更加接近结束。",
           "url": "https://wallstreetcn.com/livenews/3021155",
           "source": "华尔街见闻-快讯",
@@ -819,6 +877,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
+        },
+        {
+          "title": "据英国金融时报周一报道，美国已暂停执行与英国达成的一项技术协议。",
+          "url": "https://wallstreetcn.com/livenews/3021261",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         },
         {
           "title": "美联储理事米兰：总统特朗普并未与我商谈美联储席位的安排。",
@@ -920,6 +989,17 @@
           "time_info": "00时23分"
         },
         {
+          "title": "特朗普正式起诉BBC 索赔50亿美元",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%AD%A3%E5%BC%8F%E8%B5%B7%E8%AF%89BBC+%E7%B4%A2%E8%B5%9450%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
           "title": "美联储威廉姆斯：纽约贸易活动依然活跃。",
           "url": "https://flash.jin10.com/detail/20251215235559768800",
           "source": "金十数据",
@@ -1019,6 +1099,17 @@
           "time_info": "01时22分"
         },
         {
+          "title": "美国蜜雪冰城可选糖度200%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E5%8F%AF%E9%80%89%E7%B3%96%E5%BA%A6200%25",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
           "title": "美联储威廉姆斯：美联储降息立场旨在平衡就业与通胀两大使命。",
           "url": "https://flash.jin10.com/detail/20251215235525741800",
           "source": "金十数据",
@@ -1028,6 +1119,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "文件显示：美国总统特朗普向英国广播公司（BBC）索赔50亿美元。",
+          "url": "https://flash.jin10.com/detail/20251216081629510800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         },
         {
           "title": "美国房屋建筑商信心小幅上升，得益于激励措施",
@@ -1094,6 +1196,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
+        },
+        {
+          "title": "文件显示：美国总统特朗普就“1月6日事件”演讲的剪辑片段起诉英国广播公司诽谤。",
+          "url": "https://flash.jin10.com/detail/20251216081535762800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         },
         {
           "title": "美国12月NAHB房产市场指数 39，预期 38，前值 38。",
@@ -1195,17 +1308,6 @@
           "time_info": "00时23分"
         },
         {
-          "title": "美国蜜雪冰城糖度",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E7%B3%96%E5%BA%A6%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时27分"
-        },
-        {
           "title": "美联储理事米兰：目前劳动力市场远未达到严重紧张的程度。现在需要制定2027年的货币政策。",
           "url": "https://flash.jin10.com/detail/20251216004320640800",
           "source": "金十数据",
@@ -1283,6 +1385,17 @@
           "time_info": "01时22分"
         },
         {
+          "title": "美国不满与英国的贸易谈判进展 科技协议被叫停",
+          "url": "https://flash.jin10.com/detail/20251216080249472800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
           "title": "美国纽约联储主席威廉姆斯：并没有看到AI领域之外的投资繁荣。 预计未来5-10年的生产力将高于均值水平。",
           "url": "https://wallstreetcn.com/livenews/3021094",
           "source": "华尔街见闻-快讯",
@@ -1316,6 +1429,17 @@
           "time_info": "05时15分"
         },
         {
+          "title": "法庭文件显示，特朗普就2024年拼接纪录片一事起诉BBC诽谤，要求BBC赔偿50亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3021248",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
           "title": "美国总统特朗普：我今天没看股市，也许它上涨了。",
           "url": "https://flash.jin10.com/detail/20251216050700724800",
           "source": "金十数据",
@@ -1325,6 +1449,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时59分"
+        },
+        {
+          "title": "据英国金融时报：美国暂停了与英国的科技协议。",
+          "url": "https://flash.jin10.com/detail/20251216075953282800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         },
         {
           "title": "美联储威廉姆斯：就业放缓和通胀风险缓解支持美联储降息",
@@ -1481,6 +1616,17 @@
           "time_info": "05时15分"
         },
         {
+          "title": "特朗普起诉BBC诽谤，寻求向BBC索赔至少50亿美元。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3021240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
           "title": "美联储主席人选博弈加剧，哈塞特面临特朗普身边高层反对",
           "url": "https://flash.jin10.com/detail/20251215234404561800",
           "source": "金十数据",
@@ -1528,7 +1674,7 @@
     },
     {
       "keyword_group": "# --- 第六组：俄乌局势 --- 俄乌 俄罗斯 乌克兰 普京 泽连斯基 北约",
-      "match_count": 51,
+      "match_count": 55,
       "titles": [
         {
           "title": "第一批免签去俄罗斯的中产傻眼了",
@@ -1536,33 +1682,12 @@
           "source": "微博",
           "ranks": [
             5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 07时27分]"
-        },
-        {
-          "title": "卡德罗夫：将竭尽全力阻止乌克兰无人机飞到俄境内",
-          "url": "https://news.ifeng.com/c/8p6tBrZ6ddF",
-          "source": "凤凰网",
-          "ranks": [
+            4,
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 07时27分]"
-        },
-        {
-          "title": "波兰总统公开批评乌克兰：两国之间不能被称为伙伴关系",
-          "url": "https://news.ifeng.com/c/8p6wy5l0JDm",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 07时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 09时13分]"
         },
         {
           "title": "泽连斯基称乌克兰放弃加入北约",
@@ -1573,11 +1698,34 @@
             14,
             15,
             11,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 09时13分]"
+        },
+        {
+          "title": "卡德罗夫：将竭尽全力阻止乌克兰无人机飞到俄境内",
+          "url": "https://news.ifeng.com/c/8p6tBrZ6ddF",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 09时13分]"
+        },
+        {
+          "title": "波兰总统公开批评乌克兰：两国之间不能被称为伙伴关系",
+          "url": "https://news.ifeng.com/c/8p6wy5l0JDm",
+          "source": "凤凰网",
+          "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 07时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 09时13分]"
         },
         {
           "title": "乌克兰放弃入北约,到头一场空",
@@ -1587,8 +1735,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 07时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 09时13分]"
         },
         {
           "title": "乌克兰放弃加入北约 俄罗斯赢了吗",
@@ -1655,7 +1803,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
         },
@@ -1688,7 +1836,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
         },
@@ -1728,6 +1876,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时24分 ~ 04时18分]"
+        },
+        {
+          "title": "欧洲拟组“多国部队”支持乌克兰",
+          "url": "https://www.baidu.com/s?wd=%E6%AC%A7%E6%B4%B2%E6%8B%9F%E7%BB%84%E2%80%9C%E5%A4%9A%E5%9B%BD%E9%83%A8%E9%98%9F%E2%80%9D%E6%94%AF%E6%8C%81%E4%B9%8C%E5%85%8B%E5%85%B0",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时27分 ~ 09时13分]"
         },
         {
           "title": "乌克兰总统泽连斯基：目前仍不存在“理想的和平方案”，当前草案只是“工作版本”。",
@@ -1819,7 +1979,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
         },
@@ -1874,9 +2034,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
+        },
+        {
+          "title": "“法律噩梦”拉开序幕 俄罗斯向欧洲清算银行索赔2300亿美元",
+          "url": "https://www.cls.cn/detail/2230273",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         },
         {
           "title": "乌克兰总统泽连斯基：如果冲突持续，乌克兰每年将依赖450亿欧元用于国防支持。如果敌对行动停止，资金将用于重建。",
@@ -1885,7 +2056,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
         },
@@ -1918,7 +2089,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
         },
@@ -2000,17 +2171,6 @@
           "time_info": "05时15分"
         },
         {
-          "title": "欧洲拟组“多国部队”支持乌克兰",
-          "url": "https://www.baidu.com/s?wd=%E6%AC%A7%E6%B4%B2%E6%8B%9F%E7%BB%84%E2%80%9C%E5%A4%9A%E5%9B%BD%E9%83%A8%E9%98%9F%E2%80%9D%E6%94%AF%E6%8C%81%E4%B9%8C%E5%85%8B%E5%85%B0",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时27分"
-        },
-        {
           "title": "声明显示：承诺支持乌克兰建设其武装力量，该力量规模应维持在和平时期的80万人水平，以具备遏制冲突和捍卫乌克兰领土的能力。",
           "url": "https://flash.jin10.com/detail/20251216024719592800",
           "source": "金十数据",
@@ -2033,6 +2193,17 @@
           "time_info": "04时18分"
         },
         {
+          "title": "泽连斯基称乌克兰接近获得“强有力安全保障”",
+          "url": "https://wallstreetcn.com/livenews/3021252",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
           "title": "乌克兰总统泽连斯基：与美方的会谈虽然不易，但富有成效。",
           "url": "https://flash.jin10.com/detail/20251215235118774800",
           "source": "金十数据",
@@ -2042,6 +2213,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "俄乌停火前景可能释放俄油 油价逼近2021年低点",
+          "url": "https://flash.jin10.com/detail/20251216080109076800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         },
         {
           "title": "市场消息：德国总理默茨和乌克兰总统泽连斯基在德乌商业论坛上发表讲话。",
@@ -2075,6 +2257,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
+        },
+        {
+          "title": "泽连斯基称乌美谈判领土问题棘手",
+          "url": "https://wallstreetcn.com/livenews/3021247",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         },
         {
           "title": "泽连斯基：美方并未要求乌克兰做出领土让步",
@@ -2113,7 +2306,7 @@
     },
     {
       "keyword_group": "# --- 第一组：中国宏观 (去掉了必须词，只过滤娱乐) --- 中国 央视 外交部 国防部 解放军 人民日报 新华社",
-      "match_count": 30,
+      "match_count": 33,
       "titles": [
         {
           "title": "汽车与家电零售跌幅扩大，中国11月社会消费品零售同比增速降至1.3%",
@@ -2124,8 +2317,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 07时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 09时13分]"
         },
         {
           "title": "日本学界发愁：中国要在发展中国家扩大影响力了",
@@ -2135,8 +2328,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 07时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 09时13分]"
         },
         {
           "title": "中国铁路建设到底有多牛",
@@ -2146,11 +2339,12 @@
             5,
             7,
             4,
-            2
+            2,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 07时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 09时13分]"
         },
         {
           "title": "“中国最冷小镇”最低温降至-39℃",
@@ -2158,11 +2352,12 @@
           "source": "百度热搜",
           "ranks": [
             4,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 07时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 09时13分]"
         },
         {
           "title": "韩国年轻人流行周五下班来中国",
@@ -2170,11 +2365,12 @@
           "source": "百度热搜",
           "ranks": [
             16,
-            4
+            4,
+            27
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 07时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 09时13分]"
         },
         {
           "title": "央视曝光30天速成陈皮",
@@ -2186,11 +2382,12 @@
             14,
             8,
             2,
-            4
+            4,
+            26
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 06时59分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 09时13分]"
         },
         {
           "title": "外交部：对日本自卫队前统合幕僚长岩崎茂采取反制措施",
@@ -2202,8 +2399,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 07时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 09时13分]"
         },
         {
           "title": "回望2025中国经济",
@@ -2225,8 +2422,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 07时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 09时13分]"
         },
         {
           "title": "日方倒打一耙不可能得逞！国防部公布中国航母编队舰载机飞行训练实际情况",
@@ -2238,8 +2435,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 07时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 09时13分]"
         },
         {
           "title": "央视曝光20倍暴利假陈皮",
@@ -2340,7 +2537,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
         },
@@ -2382,6 +2579,18 @@
           "time_info": "[00时23分 ~ 02时24分]"
         },
         {
+          "title": "首批L3自动驾驶获准入许可，中国无人驾驶进入“商业化应用”新纪元",
+          "url": "https://wallstreetcn.com/articles/3761426",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时59分 ~ 09时13分]"
+        },
+        {
           "title": "中国代表再次敦促日方撤回错误言论",
           "url": "https://wallstreetcn.com/livenews/3021195",
           "source": "华尔街见闻-快讯",
@@ -2394,15 +2603,15 @@
           "time_info": "[06时59分 ~ 07时27分]"
         },
         {
-          "title": "首批L3自动驾驶获准入许可，中国无人驾驶进入“商业化应用”新纪元",
-          "url": "https://wallstreetcn.com/articles/3761426",
-          "source": "华尔街见闻",
+          "title": "富时中国A50指数期货盘初跌0.08%，上一个交易日夜盘收盘持平。",
+          "url": "https://wallstreetcn.com/livenews/3021265",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            8
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时59分 ~ 07时27分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         },
         {
           "title": "俄罗斯外交部发言人扎哈罗娃：悉尼恐怖袭击的受害者中包括一些在澳大利亚永久居住的俄罗斯同胞。俄罗斯强烈谴责这起恐怖袭击事件。",
@@ -2414,6 +2623,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
+        },
+        {
+          "title": "2026年春节前预计超25万吨智利樱桃经上海口岸进入中国市场",
+          "url": "https://wallstreetcn.com/livenews/3021263",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
+          "title": "中国代表再次敦促日方撤回错误言论",
+          "url": "https://www.toutiao.com/trending/7583547015829962806/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         },
         {
           "title": "产地造假、年份速成、无视监管！央视曝光新会陈皮市场乱象",
@@ -2466,7 +2697,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
         },
@@ -2485,7 +2716,7 @@
     },
     {
       "keyword_group": "# --- 第二组：中国经济与A股 (保留宽泛的行情词) --- A股 上证 深证 恒生 人民币 汇率 经济 GDP",
-      "match_count": 29,
+      "match_count": 32,
       "titles": [
         {
           "title": "国民经济延续稳中有进发展态势",
@@ -2495,8 +2726,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 07时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 09时13分]"
         },
         {
           "title": "明年经济工作政策取向确立这八个字",
@@ -2506,8 +2737,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 07时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 09时13分]"
         },
         {
           "title": "不确定经济政策能否赢中选，特朗普质疑“现在有好消息股市反而下跌，消息特别好股市就会崩盘”，这都是美联储的错！",
@@ -2532,8 +2763,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 07时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 09时13分]"
         },
         {
           "title": "十大券商看后市｜A股跨年行情蓄势待发，布局春季躁动",
@@ -2556,11 +2787,12 @@
             15,
             16,
             10,
-            5
+            5,
+            26
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 07时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 09时13分]"
         },
         {
           "title": "非农数据前夕，科技股续跌拖累大盘，特斯拉创年内新高，加密货币遭挫，人民币走强",
@@ -2573,6 +2805,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时59分 ~ 07时27分]"
+        },
+        {
+          "title": "非农前夕，科技股续跌拖累大盘，特斯拉年内新高，加密货币跌，人民币走强，金银走高",
+          "url": "https://wallstreetcn.com/articles/3761417",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         },
         {
           "title": "中央经济工作会议后，证监会首场会议点明12条重点改革方向",
@@ -2597,13 +2840,24 @@
           "time_info": "04时18分"
         },
         {
+          "title": "金十数据整理：A股盘前市场要闻速递（2025-12-16）",
+          "url": "https://flash.jin10.com/detail/20251216090539645800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
           "title": "上证报：在政策和市场的双轮驱动下，商业航天迈向下一个黄金十年",
           "url": "https://wallstreetcn.com/livenews/3021207",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
         },
@@ -2827,12 +3081,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
+        },
+        {
+          "title": "评论员：2026年经济重点是提振消费",
+          "url": "https://www.toutiao.com/trending/7584225702128389659/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         }
       ]
     },
     {
       "keyword_group": "# --- 第四组：美股与科技 (去掉了具体的“财报”限制) --- 美股 纳指 道琼斯 标普 特斯拉 英伟达 苹果 微软 OpenAI",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "科技股抛压暂歇，美股指数期货小幅回血，贵金属集体大涨，黄金逼近历史新高，白银铂金大涨3%",
@@ -2859,8 +3124,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 07时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 09时13分]"
         },
         {
           "title": "英伟达发布Nemotron 3开源模型系列：混合MoE架构+100万token上下文",
@@ -2869,11 +3134,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 07时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 09时13分]"
         },
         {
           "title": "美股收盘：AI概念股继续承压 三大指数集体收跌 特斯拉涨超3%",
@@ -2881,11 +3147,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时59分 ~ 07时27分]"
+          "appearance_count": 3,
+          "time_info": "[06时59分 ~ 09时13分]"
         },
         {
           "title": "OpenAI聘请谷歌高管，负责主导并购业务。（The Information）",
@@ -2919,6 +3186,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
+        },
+        {
+          "title": "【早报】纳斯达克：申请将工作日交易时长延长至23小时；特斯拉无人驾驶要来了",
+          "url": "https://www.cls.cn/detail/2230394",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时27分 ~ 09时13分]"
         },
         {
           "title": "金十图示：2025年12月15日（周一）热门中概股行情一览（美股收盘）",
@@ -3043,6 +3322,18 @@
           "time_info": "[06时59分 ~ 07时27分]"
         },
         {
+          "title": "这样煮苹果水养生又瘦身",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%A0%B7%E7%85%AE%E8%8B%B9%E6%9E%9C%E6%B0%B4%E5%85%BB%E7%94%9F%E5%8F%88%E7%98%A6%E8%BA%AB%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时27分 ~ 09时13分]"
+        },
+        {
           "title": "科技行业ETF收跌将近1%，领跌美股行业ETF",
           "url": "https://wallstreetcn.com/livenews/3021176",
           "source": "华尔街见闻-快讯",
@@ -3053,17 +3344,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时59分 ~ 07时27分]"
-        },
-        {
-          "title": "【早报】纳斯达克：申请将工作日交易时长延长至23小时；特斯拉无人驾驶要来了",
-          "url": "https://www.cls.cn/detail/2230394",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时27分"
         },
         {
           "title": "美股收盘：三大股指收跌 特斯拉涨3.5%",
@@ -3099,15 +3379,15 @@
           "time_info": "02时24分"
         },
         {
-          "title": "这样煮苹果水养生又瘦身",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%A0%B7%E7%85%AE%E8%8B%B9%E6%9E%9C%E6%B0%B4%E5%85%BB%E7%94%9F%E5%8F%88%E7%98%A6%E8%BA%AB%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
+          "title": "OpenAI首席通信官Hannah Wong即将在1月底离职。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3021245",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时27分"
+          "time_info": "09时13分"
         },
         {
           "title": "市场消息：英伟达(NVDA.O)收购开源工作负载管理提供商SchedMD。",
@@ -3119,6 +3399,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "中信证券：看好美股软件板块中期投资机会",
+          "url": "https://flash.jin10.com/detail/20251216075757698800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         },
         {
           "title": "OpenAI： Albert Lee将于周二出任企业发展副总裁，并向首席财务官Sarah Friar汇报。",
@@ -3179,7 +3470,7 @@
     },
     {
       "keyword_group": "# --- 第五组：日本动态 (关键修改：去掉了外交限制) --- 日本 岸田文雄 自卫队 靖国神社 核污水",
-      "match_count": 5,
+      "match_count": 12,
       "titles": [
         {
           "title": "吴蔚：中俄或模拟过打击日本本土",
@@ -3233,6 +3524,72 @@
           "time_info": "[03时16分 ~ 03时17分]"
         },
         {
+          "title": "日本12月综合PMI初值 51.5，前值52。",
+          "url": "https://flash.jin10.com/detail/20251216083002263800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
+          "title": "日本12月制造业PMI初值 49.7，前值48.7。",
+          "url": "https://flash.jin10.com/detail/20251216083002236800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
+          "title": "日本12月服务业PMI初值 52.5，前值53.2。",
+          "url": "https://flash.jin10.com/detail/20251216083002207800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
+          "title": "日本12月综合PMI初值 51.5，前值 52。",
+          "url": "https://wallstreetcn.com/livenews/3021251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
+          "title": "日本12月服务业PMI初值 52.5，前值 53.2。",
+          "url": "https://wallstreetcn.com/livenews/3021250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
+          "title": "日本12月制造业PMI初值 49.7，前值 48.7。",
+          "url": "https://wallstreetcn.com/livenews/3021249",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
           "title": "日本媒体急问还能租大熊猫吗",
           "url": "https://www.toutiao.com/trending/7583957214957404214/",
           "source": "今日头条",
@@ -3242,6 +3599,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "日本东证指数日内跌幅扩大至1%。",
+          "url": "https://wallstreetcn.com/livenews/3021243",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         }
       ]
     }
