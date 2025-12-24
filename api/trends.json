@@ -1,22 +1,23 @@
 {
-  "generated_at": "2025-12-24T16:23:03.473832+08:00",
-  "total_titles_processed": 1369,
+  "generated_at": "2025-12-24T17:20:31.626978+08:00",
+  "total_titles_processed": 1459,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- 第三组：美国宏观与军事 --- 美国 白宫 五角大楼 美军 美联储 布林肯 拜登 特朗普",
-      "match_count": 141,
+      "match_count": 145,
       "titles": [
         {
           "title": "贝森特暗示美联储未来方向：通胀“区间制”，取消“点阵图”，支持财政部，回归“幕后”",
           "url": "https://wallstreetcn.com/articles/3761939",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时20分 ~ 16时23分]"
+          "appearance_count": 9,
+          "time_info": "[11时20分 ~ 17时20分]"
         },
         {
           "title": "特朗普公布 \"黄金舰队\"计划，首艘舰艇预计在2028年完工",
@@ -77,6 +78,18 @@
           "time_info": "[00时20分 ~ 13时20分]"
         },
         {
+          "title": "特朗普的资本重构：一场万亿美元级别的资金流向大转移",
+          "url": "https://wallstreetcn.com/articles/3761916",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时11分 ~ 17时20分]"
+        },
+        {
           "title": "布林肯为何对特朗普发出严厉警告",
           "url": "https://www.toutiao.com/trending/7587029251379957291/",
           "source": "今日头条",
@@ -108,11 +121,12 @@
             12,
             11,
             17,
-            23
+            23,
+            18
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时20分 ~ 16时23分]"
+          "appearance_count": 21,
+          "time_info": "[00时20分 ~ 17时20分]"
         },
         {
           "title": "美国斩杀线现象",
@@ -144,8 +158,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时20分 ~ 16时23分]"
+          "appearance_count": 22,
+          "time_info": "[00时20分 ~ 17时20分]"
         },
         {
           "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
@@ -177,16 +191,49 @@
           "time_info": "[00时20分 ~ 05时15分]"
         },
         {
-          "title": "特朗普的资本重构：一场万亿美元级别的资金流向大转移",
-          "url": "https://wallstreetcn.com/articles/3761916",
-          "source": "华尔街见闻",
+          "title": "是谁划下了“美国斩杀线”",
+          "url": "https://www.baidu.com/s?wd=%E6%98%AF%E8%B0%81%E5%88%92%E4%B8%8B%E4%BA%86%E2%80%9C%E7%BE%8E%E5%9B%BD%E6%96%A9%E6%9D%80%E7%BA%BF%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
-            9,
-            10
+            21,
+            4,
+            16,
+            14,
+            22,
+            20,
+            19
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[09时11分 ~ 16时23分]"
+          "time_info": "[11时20分 ~ 17时20分]"
+        },
+        {
+          "title": "美国斩杀线",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E6%96%A9%E6%9D%80%E7%BA%BF&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时20分 ~ 17时20分]"
+        },
+        {
+          "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
+          "url": "https://wallstreetcn.com/articles/3761946",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时20分 ~ 17时20分]"
         },
         {
           "title": "“特朗普级”新型战列舰命名打破惯例",
@@ -204,35 +251,18 @@
           "time_info": "[00时20分 ~ 05时15分]"
         },
         {
-          "title": "是谁划下了“美国斩杀线”",
-          "url": "https://www.baidu.com/s?wd=%E6%98%AF%E8%B0%81%E5%88%92%E4%B8%8B%E4%BA%86%E2%80%9C%E7%BE%8E%E5%9B%BD%E6%96%A9%E6%9D%80%E7%BA%BF%E2%80%9D",
-          "source": "百度热搜",
+          "title": "观察｜美国大规模召回大使或致外交能力断层，“特使当道”引担忧",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32237082",
+          "source": "澎湃新闻",
           "ranks": [
-            21,
-            4,
-            16,
-            14,
-            22,
             20,
-            19
+            16,
+            18,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时20分 ~ 16时23分]"
-        },
-        {
-          "title": "美国斩杀线",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E6%96%A9%E6%9D%80%E7%BA%BF&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时20分 ~ 16时23分]"
+          "appearance_count": 9,
+          "time_info": "[11时20分 ~ 17时20分]"
         },
         {
           "title": "特朗普表示不同意其观点的人不会成为美联储主席 | 环球市场",
@@ -249,17 +279,15 @@
           "time_info": "[09时11分 ~ 15时20分]"
         },
         {
-          "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
-          "url": "https://wallstreetcn.com/articles/3761946",
-          "source": "华尔街见闻",
+          "title": "什么是美国斩杀线",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BB%80%E4%B9%88%E6%98%AF%E7%BE%8E%E5%9B%BD%E6%96%A9%E6%9D%80%E7%BA%BF",
+          "source": "bilibili 热搜",
           "ranks": [
-            10,
-            9,
-            7
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时20分 ~ 16时23分]"
+          "appearance_count": 4,
+          "time_info": "[15时20分 ~ 17时20分]"
         },
         {
           "title": "李凯尔改回美国国籍",
@@ -276,28 +304,18 @@
           "time_info": "[09时11分 ~ 15时20分]"
         },
         {
-          "title": "观察｜美国大规模召回大使或致外交能力断层，“特使当道”引担忧",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32237082",
-          "source": "澎湃新闻",
+          "title": "网友讨论美国存在「斩杀线」，真的存在所谓的斩杀线吗？",
+          "url": "https://www.zhihu.com/question/1985020927335998097",
+          "source": "知乎",
           "ranks": [
             20,
+            11,
             16,
-            18
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时20分 ~ 16时23分]"
-        },
-        {
-          "title": "什么是美国斩杀线",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BB%80%E4%B9%88%E6%98%AF%E7%BE%8E%E5%9B%BD%E6%96%A9%E6%9D%80%E7%BA%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时20分 ~ 16时23分]"
+          "appearance_count": 7,
+          "time_info": "[13时20分 ~ 17时20分]"
         },
         {
           "title": "美军将建造“特朗普级”战舰",
@@ -339,6 +357,17 @@
           "time_info": "[16时22分 ~ 16时23分]"
         },
         {
+          "title": "升级！美国罕见制裁欧盟前官员",
+          "url": "https://news.ifeng.com/c/8pLdYbNCAk7",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        },
+        {
           "title": "美国至12月26日当周石油钻井总数将于十分钟后公布。",
           "url": "https://flash.jin10.com/detail/20251224015000000800",
           "source": "金十数据",
@@ -348,17 +377,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：乌克兰和美国向着敲定计划的方向大大接近。乌克兰与美国的主要分歧在于领土问题。",
-          "url": "https://wallstreetcn.com/livenews/3026094",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时23分"
         },
         {
           "title": "美国批准首款“口服版减肥神药”，诺和诺德拔得头筹股价大涨，礼来预计3月获批",
@@ -388,19 +406,6 @@
           "time_info": "[09时11分 ~ 14时26分]"
         },
         {
-          "title": "网友讨论美国存在「斩杀线」，真的存在所谓的斩杀线吗？",
-          "url": "https://www.zhihu.com/question/1985020927335998097",
-          "source": "知乎",
-          "ranks": [
-            20,
-            11,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时20分 ~ 16时23分]"
-        },
-        {
           "title": "美新型战舰被命名为特朗普级你咋看",
           "url": "https://www.toutiao.com/trending/7586859203608772635/",
           "source": "今日头条",
@@ -412,24 +417,24 @@
           "time_info": "[03时14分 ~ 06时16分]"
         },
         {
+          "title": "美国欲邀其派兵加沙，阿塞拜疆：谢邀，没空",
+          "url": "https://news.ifeng.com/c/8pLWEtJdcIg",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        },
+        {
           "title": "美国政府放假三天 EIA数据推迟至下周公布",
           "url": "https://flash.jin10.com/detail/20251224161402636800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
-          "title": "美国削减对乌克兰支持450亿美元",
-          "url": "https://wallstreetcn.com/livenews/3026093",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -445,6 +450,17 @@
           "time_info": "07时15分"
         },
         {
+          "title": "特朗普发小作文称《怦然心动》导演“精神错乱”招批评",
+          "url": "https://news.ifeng.com/c/8pLddKy6eAN",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        },
+        {
           "title": "美国财长贝森特支持重新考虑美联储2%的通胀目标。贝森特表示，相关讨论可能会围绕将通胀目标调整为1.5%-2.5%或1%-3%的区间展开。",
           "url": "https://flash.jin10.com/detail/20251223233942099800",
           "source": "金十数据",
@@ -454,6 +470,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "辟谣美国治理骚扰电话",
+          "url": "https://search.bilibili.com/all?keyword=%E8%BE%9F%E8%B0%A3%E7%BE%8E%E5%9B%BD%E6%B2%BB%E7%90%86%E9%AA%9A%E6%89%B0%E7%94%B5%E8%AF%9D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时20分 ~ 17时20分]"
         },
         {
           "title": "男篮归化球员李凯尔国籍变回美国",
@@ -479,18 +508,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
-        },
-        {
-          "title": "辟谣美国治理骚扰电话",
-          "url": "https://search.bilibili.com/all?keyword=%E8%BE%9F%E8%B0%A3%E7%BE%8E%E5%9B%BD%E6%B2%BB%E7%90%86%E9%AA%9A%E6%89%B0%E7%94%B5%E8%AF%9D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时20分 ~ 16时23分]"
         },
         {
           "title": "美联储主席热门人选哈西特：降息节奏仍不够快 且落后其他央行",
@@ -593,6 +610,18 @@
           "time_info": "[05时15分 ~ 06时16分]"
         },
         {
+          "title": "乌克兰总统泽连斯基：乌克兰和美国向着敲定计划的方向大大接近。乌克兰与美国的主要分歧在于领土问题。",
+          "url": "https://wallstreetcn.com/livenews/3026094",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时23分 ~ 17时20分]"
+        },
+        {
           "title": "贝森特：建议美联储将2%通胀目标修改为区间，1.5%-2.5%、或者1%-3%",
           "url": "https://wallstreetcn.com/livenews/3025689",
           "source": "华尔街见闻-快讯",
@@ -628,6 +657,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时18分 ~ 05时15分]"
+        },
+        {
+          "title": "美国削减对乌克兰支持450亿美元",
+          "url": "https://wallstreetcn.com/livenews/3026093",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时23分 ~ 17时20分]"
         },
         {
           "title": "印度商务部长Rajesh Agrawal：印度与美国深入讨论，以期敲定贸易协议。",
@@ -838,6 +879,18 @@
           "time_info": "[09时11分 ~ 12时32分]"
         },
         {
+          "title": "美媒计算美国入侵委内瑞拉成本",
+          "url": "https://www.toutiao.com/trending/7587304118604008979/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时22分 ~ 17时20分]"
+        },
+        {
           "title": "美国消费者信心指数连续第五个月下滑",
           "url": "https://wallstreetcn.com/livenews/3025683",
           "source": "华尔街见闻-快讯",
@@ -874,6 +927,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时21分 ~ 02时23分]"
+        },
+        {
+          "title": "美国为何提前两年预告对华半导体加税",
+          "url": "https://www.toutiao.com/trending/7587318705801924146/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时22分 ~ 17时20分]"
         },
         {
           "title": "美国至12月23日1年期国债竞拍-得标利率 3.38%，前值3.46%。",
@@ -982,17 +1047,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时16分 ~ 07时15分]"
-        },
-        {
-          "title": "美媒计算美国入侵委内瑞拉成本",
-          "url": "https://www.toutiao.com/trending/7587304118604008979/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时22分 ~ 16时23分]"
         },
         {
           "title": "美国至12月19日当周API汽油库存 109万桶，前值483.5万桶。",
@@ -1210,17 +1264,6 @@
           "time_info": "[00时21分 ~ 01时16分]"
         },
         {
-          "title": "美国为何提前两年预告对华半导体加税",
-          "url": "https://www.toutiao.com/trending/7587318705801924146/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时22分 ~ 16时23分]"
-        },
-        {
           "title": "据科技媒体TechCrunsh：美国保险巨头Aflac表示，黑客窃取了2260万份个人和健康数据。",
           "url": "https://flash.jin10.com/detail/20251224012647562800",
           "source": "金十数据",
@@ -1417,6 +1460,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基公布了由乌克兰和美国支持的完整20点和平计划草案。",
+          "url": "https://flash.jin10.com/detail/20251224162349634800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         },
         {
           "title": "美联储主席鲍威尔成为“最受欢迎的高级官员”",
@@ -1719,8 +1773,19 @@
     },
     {
       "keyword_group": "# --- 第二组：中国经济与A股 (保留宽泛的行情词) --- A股 上证 深证 恒生 人民币 汇率 经济 GDP",
-      "match_count": 76,
+      "match_count": 79,
       "titles": [
+        {
+          "title": "科技股助标普收创新高，金银铜再新高，人民币强势逼近7.0，GDP强劲打击美债",
+          "url": "https://wallstreetcn.com/articles/3761906",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时11分 ~ 17时20分]"
+        },
         {
           "title": "京东巴黎仓库遭抢劫，5 万件电子产品被盗，损失 3 亿人民币，会对京东业务造成多大影响？损失由谁承担？",
           "url": "https://www.zhihu.com/question/1986870862725529845",
@@ -1746,15 +1811,18 @@
           "time_info": "[00时20分 ~ 13时20分]"
         },
         {
-          "title": "科技股助标普收创新高，金银铜再新高，人民币强势逼近7.0，GDP强劲打击美债",
-          "url": "https://wallstreetcn.com/articles/3761906",
+          "title": "美国第三季度GDP增长4.3%创两年来最快增速，PCE物价指数2.9%",
+          "url": "https://wallstreetcn.com/articles/3761934",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            7,
+            6,
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时11分 ~ 16时23分]"
+          "appearance_count": 22,
+          "time_info": "[00时20分 ~ 17时20分]"
         },
         {
           "title": "强劲GDP打击降息预期，美股低开，金银铜再创新高，伦铜突破1.2万美元，日元两日反弹",
@@ -1767,19 +1835,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时20分 ~ 06时16分]"
-        },
-        {
-          "title": "美国第三季度GDP增长4.3%创两年来最快增速，PCE物价指数2.9%",
-          "url": "https://wallstreetcn.com/articles/3761934",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时20分 ~ 16时23分]"
         },
         {
           "title": "2025 年大厂加薪潮 Q4 继续，比亚迪、字节、宁德时代几乎同时集体加薪，从经济角度看反应了什么信号？",
@@ -1836,8 +1891,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时20分 ~ 16时23分]"
+          "appearance_count": 22,
+          "time_info": "[00时20分 ~ 17时20分]"
         },
         {
           "title": "美国第三季度经济增长4.3%",
@@ -2183,6 +2238,18 @@
           "time_info": "[04时18分 ~ 05时15分]"
         },
         {
+          "title": "张瑜接任华创证券首席经济学家",
+          "url": "https://wallstreetcn.com/livenews/3026083",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时23分 ~ 17时20分]"
+        },
+        {
           "title": "美国白宫国家经济委员会主任凯文·哈塞特：在下调利率方面，美国落后于全球曲线。",
           "url": "https://wallstreetcn.com/livenews/3025697",
           "source": "华尔街见闻-快讯",
@@ -2265,6 +2332,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时16分 ~ 02时23分]"
+        },
+        {
+          "title": "央行等八部门：支持东盟国家投资者以人民币投资、境内再投资",
+          "url": "https://wallstreetcn.com/livenews/3026077",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时23分 ~ 17时20分]"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：特朗普有很多住房可负担性方案可供选择。",
@@ -2363,17 +2442,6 @@
           "time_info": "[12时32分 ~ 13时20分]"
         },
         {
-          "title": "张瑜接任华创证券首席经济学家",
-          "url": "https://wallstreetcn.com/livenews/3026083",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
           "title": "人民币汇率创逾一年高位，分析称出现单边快速升值的概率较低",
           "url": "https://wallstreetcn.com/livenews/3025794",
           "source": "华尔街见闻-快讯",
@@ -2383,17 +2451,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
-        },
-        {
-          "title": "央行等八部门：支持东盟国家投资者以人民币投资、境内再投资",
-          "url": "https://wallstreetcn.com/livenews/3026077",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时23分"
         },
         {
           "title": "特朗普：多数经济学家错估三季度GDP数据 “好戏还在后头”",
@@ -2413,7 +2470,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -2427,6 +2484,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
+        },
+        {
+          "title": "A股喜提六连阳 还能涨吗",
+          "url": "https://www.toutiao.com/trending/7587319094953643556/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         },
         {
           "title": "机构：美国三季度GDP强劲增长背后暗藏隐忧",
@@ -2482,6 +2550,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
+        },
+        {
+          "title": "在岸人民币兑美元北京时间16:30官方收报7.0161，较上一交易日官方收盘价涨126点，较上日夜盘收盘涨119点。",
+          "url": "https://wallstreetcn.com/livenews/3026102",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：物价下降且收入增长，这正是我们取得强劲增长数据的原因。",
@@ -2605,6 +2684,17 @@
           "time_info": "05时15分"
         },
         {
+          "title": "专家分析明年国际局势与国内经济形势",
+          "url": "https://www.toutiao.com/trending/7587003636698320422/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        },
+        {
           "title": "A股半导体板块继续走强，圣晖集成3连板，德明利、北京君正、芯源微、汇成股份、华虹公司等涨幅居前，消息上，中芯国际已经对部分产能实施了涨价，涨幅约为10%。",
           "url": "https://wallstreetcn.com/livenews/3025893",
           "source": "华尔街见闻-快讯",
@@ -2630,7 +2720,7 @@
     },
     {
       "keyword_group": "# --- 第一组：中国宏观 (去掉了必须词，只过滤娱乐) --- 中国 央视 外交部 国防部 解放军 人民日报 新华社",
-      "match_count": 72,
+      "match_count": 76,
       "titles": [
         {
           "title": "美国“飞手”怒了：我爱国货，但抱歉，中国无人机无可替代",
@@ -2655,6 +2745,18 @@
           "time_info": "[00时20分 ~ 09时11分]"
         },
         {
+          "title": "外交部：中方一直同包括俄乌在内的各方保持密切沟通",
+          "url": "https://news.ifeng.com/c/8pJtVEvcf0U",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时20分 ~ 17时20分]"
+        },
+        {
           "title": "超50万吨车厘子涌入中国",
           "url": "https://www.toutiao.com/trending/7587014830788185642/",
           "source": "今日头条",
@@ -2668,18 +2770,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时20分 ~ 07时15分]"
-        },
-        {
-          "title": "外交部：中方一直同包括俄乌在内的各方保持密切沟通",
-          "url": "https://news.ifeng.com/c/8pJtVEvcf0U",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时20分 ~ 16时23分]"
         },
         {
           "title": "英媒：英伟达放风春节前向中国客户交付H200芯片",
@@ -2700,11 +2790,12 @@
           "source": "百度热搜",
           "ranks": [
             2,
-            1
+            1,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时20分 ~ 16时23分]"
+          "appearance_count": 7,
+          "time_info": "[13时20分 ~ 17时20分]"
         },
         {
           "title": "中国父子偷渡美国，6岁儿子“失踪”？媒体：两人已被遣返",
@@ -2776,6 +2867,23 @@
           "time_info": "[00时20分 ~ 07时15分]"
         },
         {
+          "title": "中国足球协会纪律委员会原主任王小平受贿案二审维持原判",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32243197",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            13,
+            14,
+            11,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时20分 ~ 17时20分]"
+        },
+        {
           "title": "外交部就乌方或将制裁中国公民表态",
           "url": "https://www.toutiao.com/trending/7586712527296528447/",
           "source": "今日头条",
@@ -2791,20 +2899,20 @@
           "time_info": "[01时16分 ~ 06时16分]"
         },
         {
-          "title": "中国足球协会纪律委员会原主任王小平受贿案二审维持原判",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32243197",
-          "source": "澎湃新闻",
+          "title": "谷辣斯妄称不是中国人 国台办回应",
+          "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E8%BE%A3%E6%96%AF%E5%A6%84%E7%A7%B0%E4%B8%8D%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%BA%BA+%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
           "ranks": [
-            19,
-            18,
+            17,
+            4,
             13,
-            14,
-            11,
-            10
+            10,
+            9,
+            18
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[11时20分 ~ 16时23分]"
+          "time_info": "[12时32分 ~ 17时20分]"
         },
         {
           "title": "外交部敦促乌方立即纠正错误",
@@ -2820,21 +2928,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[03时14分 ~ 14时26分]"
-        },
-        {
-          "title": "谷辣斯妄称不是中国人 国台办回应",
-          "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E8%BE%A3%E6%96%AF%E5%A6%84%E7%A7%B0%E4%B8%8D%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%BA%BA+%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            4,
-            13,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时32分 ~ 16时23分]"
         },
         {
           "title": "超50万吨车厘子涌入中国",
@@ -2856,11 +2949,12 @@
           "url": "https://www.cls.cn/detail/2238769",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时22分 ~ 16时23分]"
+          "appearance_count": 3,
+          "time_info": "[16时22分 ~ 17时20分]"
         },
         {
           "title": "美将大疆无人机列入“受管制清单”，外交部：坚决反对无理打压中国企业",
@@ -2883,6 +2977,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "经纪公司声明：李凯尔仍是中国国籍",
+          "url": "https://www.toutiao.com/trending/7586564098591817770/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时25分 ~ 17时20分]"
         },
         {
           "title": "中国男足球员留洋现状如何",
@@ -2909,6 +3016,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时16分 ~ 04时18分]"
+        },
+        {
+          "title": "数读2025年中国经济活力",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%95%B0%E8%AF%BB2025%E5%B9%B4%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%B4%BB%E5%8A%9B%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         },
         {
           "title": "美国国防部：洛克希德·马丁公司获美国国防部100亿美元空军合同修改订单。",
@@ -2946,19 +3064,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时32分 ~ 15时20分]"
-        },
-        {
-          "title": "经纪公司声明：李凯尔仍是中国国籍",
-          "url": "https://www.toutiao.com/trending/7586564098591817770/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            16,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时25分 ~ 16时23分]"
         },
         {
           "title": "明查｜这是“中国工厂排放有毒烟雾”？实为热力烟囱意外起火",
@@ -3013,6 +3118,31 @@
           "time_info": "[09时11分 ~ 15时20分]"
         },
         {
+          "title": "据韩联社24日报道，“金建希特检组”以涉嫌受贿起诉韩国前总统尹锡悦。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3026059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            24,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时20分 ~ 17时20分]"
+        },
+        {
+          "title": "国台办回应台政客妄称自己不是中国人",
+          "url": "https://www.toutiao.com/trending/7587306121863249962/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时22分 ~ 17时20分]"
+        },
+        {
           "title": "每发射3枚火箭就有1枚来自中国",
           "url": "https://www.baidu.com/s?wd=%E6%AF%8F%E5%8F%91%E5%B0%843%E6%9E%9A%E7%81%AB%E7%AE%AD%E5%B0%B1%E6%9C%891%E6%9E%9A%E6%9D%A5%E8%87%AA%E4%B8%AD%E5%9B%BD",
           "source": "百度热搜",
@@ -3037,6 +3167,18 @@
           "time_info": "[00时20分 ~ 01时16分]"
         },
         {
+          "title": "外交部回应美拟对华半导体征关税",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E6%8B%9F%E5%AF%B9%E5%8D%8E%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%BE%81%E5%85%B3%E7%A8%8E",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时22分 ~ 17时20分]"
+        },
+        {
           "title": "如何看待 NBA 官网各处资料中，凯尔 - 安德森的国籍都是美国？他是否已经彻底退出中国男篮？",
           "url": "https://www.zhihu.com/question/1986478151128282094",
           "source": "知乎",
@@ -3047,6 +3189,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时20分 ~ 14时26分]"
+        },
+        {
+          "title": "经纪公司声明：李凯尔恢复美国国籍并不属实，依然是中国国籍",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32243519",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时22分 ~ 17时20分]"
         },
         {
           "title": "特朗普再谈格陵兰问题 还提到中国",
@@ -3074,29 +3228,6 @@
           "time_info": "[11时20分 ~ 14时26分]"
         },
         {
-          "title": "据韩联社24日报道，“金建希特检组”以涉嫌受贿起诉韩国前总统尹锡悦。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3026059",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时20分 ~ 16时23分]"
-        },
-        {
-          "title": "国台办回应台政客妄称自己不是中国人",
-          "url": "https://www.toutiao.com/trending/7587306121863249962/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时22分 ~ 16时23分]"
-        },
-        {
           "title": "美国国防部长赫格塞思授权350名国民警卫队成员于明年2月28日前前往路易斯安那州。",
           "url": "https://flash.jin10.com/detail/20251224052449615800",
           "source": "金十数据",
@@ -3121,17 +3252,6 @@
           "time_info": "[12时32分 ~ 13时20分]"
         },
         {
-          "title": "外交部回应美拟对华半导体征关税",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E6%8B%9F%E5%AF%B9%E5%8D%8E%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%BE%81%E5%85%B3%E7%A8%8E",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时22分 ~ 16时23分]"
-        },
-        {
           "title": "伊朗在安理会感谢中国",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%9C%A8%E5%AE%89%E7%90%86%E4%BC%9A%E6%84%9F%E8%B0%A2%E4%B8%AD%E5%9B%BD",
           "source": "百度热搜",
@@ -3142,17 +3262,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时11分 ~ 11时20分]"
-        },
-        {
-          "title": "经纪公司声明：李凯尔恢复美国国籍并不属实，依然是中国国籍",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32243519",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时22分 ~ 16时23分]"
         },
         {
           "title": "郑丽文激动发声：我们是中国人",
@@ -3216,7 +3325,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -3252,6 +3361,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
+        },
+        {
+          "title": "以色列外交部：数千万美元已转移至哈马斯军事部门，部分资金来源于人道主义援助。哈马斯必须解除武装，加沙地带必须实现非军事化。",
+          "url": "https://flash.jin10.com/detail/20251224163848288800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         },
         {
           "title": "金十图示：2025年12月24日（周三）富时中国A50指数成分股今日收盘行情一览：银行、保险、酿酒等板块午后全线下跌，医疗器械、有色金属板块全天飘红",
@@ -3315,9 +3435,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
+        },
+        {
+          "title": "如何看央视曝“8架歼16打6架阵风”",
+          "url": "https://www.toutiao.com/trending/7587318781622357546/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.58%，报7638.99点。 热门中概股里，小马智行初步收跌2.9%，蔚来跌2.5%，腾讯、理想、小鹏、小米、文远知行跌超1%，阿里巴巴、拼多多、新东方涨超0.1%。 ETF中，中概互联网指数ETF（KWEB）收跌0.52%，中国科技指数ETF（CQQQ）收跌0.50%。 XtrackersHarvest中证50（ASHS）收涨0.24%，德银嘉实沪深300指数ETF（ASHR）收涨0.34%。",
@@ -3337,7 +3468,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -3348,7 +3479,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -3370,7 +3501,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -3417,6 +3548,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
+        },
+        {
+          "title": "永远为这一抹中国红骄傲",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B0%B8%E8%BF%9C%E4%B8%BA%E8%BF%99%E4%B8%80%E6%8A%B9%E4%B8%AD%E5%9B%BD%E7%BA%A2%E9%AA%84%E5%82%B2%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         },
         {
           "title": "李凯尔只为中国男篮打了9场比赛",
@@ -3499,7 +3641,7 @@
     },
     {
       "keyword_group": "# --- 第五组：日本动态 (关键修改：去掉了外交限制) --- 日本 岸田文雄 自卫队 靖国神社 核污水",
-      "match_count": 44,
+      "match_count": 47,
       "titles": [
         {
           "title": "日本核反应堆泄漏水量约为20毫升，浓度被认为“较高”",
@@ -3522,11 +3664,26 @@
             7,
             4,
             2,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时20分 ~ 16时23分]"
+          "appearance_count": 22,
+          "time_info": "[00时20分 ~ 17时20分]"
+        },
+        {
+          "title": "精日实锤?原神套用日本军衔",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348312&amp;topic_name=%E7%B2%BE%E6%97%A5%E5%AE%9E%E9%94%A4%3F%E5%8E%9F%E7%A5%9E%E5%A5%97%E7%94%A8%E6%97%A5%E6%9C%AC%E5%86%9B%E8%A1%94",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            3,
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时20分 ~ 17时20分]"
         },
         {
           "title": "日本遗孤说不信我是日本孩子",
@@ -3554,25 +3711,12 @@
             7,
             12,
             15,
-            24
+            24,
+            20
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时20分 ~ 16时23分]"
-        },
-        {
-          "title": "精日实锤?原神套用日本军衔",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348312&amp;topic_name=%E7%B2%BE%E6%97%A5%E5%AE%9E%E9%94%A4%3F%E5%8E%9F%E7%A5%9E%E5%A5%97%E7%94%A8%E6%97%A5%E6%9C%AC%E5%86%9B%E8%A1%94",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            3,
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时20分 ~ 16时23分]"
+          "appearance_count": 21,
+          "time_info": "[00时20分 ~ 17时20分]"
         },
         {
           "title": "日本核反应堆含放射性水泄漏",
@@ -3597,11 +3741,12 @@
             2,
             5,
             7,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时32分 ~ 16时23分]"
+          "appearance_count": 8,
+          "time_info": "[12时32分 ~ 17时20分]"
         },
         {
           "title": "日本民间组织激烈抗议官员拥核言论，要求罢免涉事人员",
@@ -3650,6 +3795,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
+        },
+        {
+          "title": "日本可能将超长期国债发行量削减至17年来最低水平。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3026124",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        },
+        {
+          "title": "消息人士称，日本将在下一财年将超长期日本政府债券的新发行量削减至约17万亿日元，为17年来最低水平。",
+          "url": "https://flash.jin10.com/detail/20251224170029206800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         },
         {
           "title": "日本在2026财年预算中假设债券开支的利率（成本）为3%。（日本读卖新闻Yomiuri）",
@@ -3793,6 +3960,17 @@
           "time_info": "09时11分"
         },
         {
+          "title": "日本发放过期救济粮，要求领取者签免责书",
+          "url": "https://news.ifeng.com/c/8pLdALfAc5T",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        },
+        {
           "title": "日经225指数早盘收涨0.1%，日本东证指数收跌0.2%。",
           "url": "https://wallstreetcn.com/livenews/3025936",
           "source": "华尔街见闻-快讯",
@@ -3843,7 +4021,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -4027,7 +4205,7 @@
     },
     {
       "keyword_group": "# --- 第六组：俄乌局势 --- 俄乌 俄罗斯 乌克兰 普京 泽连斯基 北约",
-      "match_count": 27,
+      "match_count": 31,
       "titles": [
         {
           "title": "俄乌谈判如何解决领土问题？乌专家：有3种模式",
@@ -4202,6 +4380,17 @@
           "time_info": "14时26分"
         },
         {
+          "title": "乌克兰国有能源公司纳夫托加兹：俄罗斯在夜间袭击了乌克兰的石油和天然气基础设施。",
+          "url": "https://flash.jin10.com/detail/20251224164634058800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        },
+        {
           "title": "俄罗斯调查委员会：莫斯科汽车爆炸致两名警察及另一人身亡。",
           "url": "https://flash.jin10.com/detail/20251224135853314800",
           "source": "金十数据",
@@ -4233,6 +4422,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "据阿塞拜疆方面报道，俄罗斯总统普京和阿塞拜疆总统阿利耶夫通了电话。",
+          "url": "https://flash.jin10.com/detail/20251224163717321800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         },
         {
           "title": "俄罗斯总统普京今日将在克里姆林宫颁发国家奖项。",
@@ -4268,6 +4468,17 @@
           "time_info": "09时11分"
         },
         {
+          "title": "市场消息：乌克兰哈尔科夫近郊传出爆炸声。",
+          "url": "https://flash.jin10.com/detail/20251224162309981800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        },
+        {
           "title": "武契奇：塞尔维亚与俄罗斯天然气供应协议延至明年3月底",
           "url": "https://flash.jin10.com/detail/20251224021501920800",
           "source": "金十数据",
@@ -4299,6 +4510,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
+        },
+        {
+          "title": "俄罗斯为什么不会迁都西伯利亚",
+          "url": "https://www.toutiao.com/trending/7587301456319876662/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         },
         {
           "title": "俄中将遇害 俄乌和谈又要泡汤了吗",
@@ -4337,7 +4559,7 @@
     },
     {
       "keyword_group": "# --- 第四组：美股与科技 (去掉了具体的“财报”限制) --- 美股 纳指 道琼斯 标普 特斯拉 英伟达 苹果 微软 OpenAI",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "\"圣诞行情\"开启，标普逼近历史高位，特斯拉盘中新高，金银铜齐新高，原油大涨",
@@ -4379,6 +4601,17 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时20分 ~ 09时11分]"
+        },
+        {
+          "title": "Dynavax美股盘前涨近38%，赛诺菲以每股15.5美元的现金价格收购该公司。",
+          "url": "https://wallstreetcn.com/livenews/3026125",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         },
         {
           "title": "金十图示：2025年12月23日（周二）美股热门股票行情一览（美股盘中）",
