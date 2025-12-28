@@ -1,11 +1,614 @@
 {
-  "generated_at": "2025-12-28T17:16:46.973782+08:00",
-  "total_titles_processed": 927,
+  "generated_at": "2025-12-28T18:16:09.203819+08:00",
+  "total_titles_processed": 997,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "# --- 第一组：中国宏观 (去掉了必须词，只过滤娱乐) --- 中国 央视 外交部 国防部 解放军 人民日报 新华社",
+      "match_count": 47,
+      "titles": [
+        {
+          "title": "建议对42人追责问责，中国黄金集团内蒙古矿业有限公司较大坠落事故调查报告公布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32263936",
+          "source": "澎湃新闻",
+          "ranks": [
+            1,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 09时20分]"
+        },
+        {
+          "title": "2025中国经济盘点",
+          "url": "https://www.toutiao.com/trending/7587414817305034815/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时18分 ~ 11时43分]"
+        },
+        {
+          "title": "俄国防部宣布已控制库皮扬斯克",
+          "url": "https://news.ifeng.com/c/8pQjoKT4i8I",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 07时15分]"
+        },
+        {
+          "title": "新城市志｜突破5万公里，对中国高铁意味着什么",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32264326",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            6,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时18分 ~ 16时20分]"
+        },
+        {
+          "title": "外交部发言人就柬泰签署停火联合声明答记者问",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32266479",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[09时20分 ~ 18时16分]"
+        },
+        {
+          "title": "中国11月规模以上工业企业利润同比下降13.1%，前11个月同比微增，高技术制造业利润增速加快",
+          "url": "https://wallstreetcn.com/articles/3762171",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 09时20分]"
+        },
+        {
+          "title": "中国军事年终大片太硬核了",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%86%9B%E4%BA%8B%E5%B9%B4%E7%BB%88%E5%A4%A7%E7%89%87%E5%A4%AA%E7%A1%AC%E6%A0%B8%E4%BA%86%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时40分 ~ 16时20分]"
+        },
+        {
+          "title": "中国台湾宜兰县海域发生6.6级地震 震源深度60千米",
+          "url": "https://wallstreetcn.com/livenews/3027578",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            3,
+            7,
+            15,
+            17,
+            23,
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时18分 ~ 15时17分]"
+        },
+        {
+          "title": "外交部发言人就柬泰签署停火联合声明答记者问",
+          "url": "https://wallstreetcn.com/livenews/3027574",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            6,
+            10,
+            18,
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时18分 ~ 13时20分]"
+        },
+        {
+          "title": "中国两款可重复使用火箭首飞回收失败，航天「炸火箭」的学费是必经之路吗？",
+          "url": "https://www.zhihu.com/question/1987429494223564876",
+          "source": "知乎",
+          "ranks": [
+            6,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[11时43分 ~ 18时16分]"
+        },
+        {
+          "title": "突破5万公里！中国高铁持续升级，接下来要追求的是什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32263546",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            9,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 07时15分]"
+        },
+        {
+          "title": "中国航发集团原董事长曹建国已从中国工程院院士名单中撤下",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32263757",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            15,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 09时20分]"
+        },
+        {
+          "title": "外交部回应柬泰签署停火联合声明",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E6%9F%AC%E6%B3%B0%E7%AD%BE%E7%BD%B2%E5%81%9C%E7%81%AB%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            19,
+            18,
+            16,
+            22,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 07时15分]"
+        },
+        {
+          "title": "中国地震台网正式测定：12月27日18时40分在阿根廷（南纬28.35度，西经63.10度）发生5.6级地震，震源深度600千米。",
+          "url": "https://wallstreetcn.com/livenews/3027562",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            18,
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 11时43分]"
+        },
+        {
+          "title": "全国人大常委会批准任命张升民为中国人民解放军选举委员会副主任",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32265818",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时40分 ~ 18时16分]"
+        },
+        {
+          "title": "2025热搜里的中国",
+          "url": "https://s.weibo.com/weibo?q=%232025%E7%83%AD%E6%90%9C%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时21分 ~ 05时13分]"
+        },
+        {
+          "title": "外交部发言人就柬泰签署停火联合声明答记者问",
+          "url": "https://flash.jin10.com/detail/20251227215254806800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 09时20分]"
+        },
+        {
+          "title": "中国研发人工智能地震实时监测系统 将助力全球地震监测",
+          "url": "https://flash.jin10.com/detail/20251227211319753800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 09时20分]"
+        },
+        {
+          "title": "俄国防部称已控制库皮扬斯克",
+          "url": "https://wallstreetcn.com/livenews/3027555",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23,
+            25,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 09时20分]"
+        },
+        {
+          "title": "中国低温火箭年度发射新纪录",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BD%8E%E6%B8%A9%E7%81%AB%E7%AE%AD%E5%B9%B4%E5%BA%A6%E5%8F%91%E5%B0%84%E6%96%B0%E7%BA%AA%E5%BD%95%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时15分 ~ 11时43分]"
+        },
+        {
+          "title": "中国完全自主研制首款6吨级倾转旋翼飞行器成功首飞",
+          "url": "https://wallstreetcn.com/livenews/3027592",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            6,
+            12,
+            17,
+            18,
+            20,
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时43分 ~ 18时16分]"
+        },
+        {
+          "title": "中国自主研制6吨级飞行器成功首飞",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%87%AA%E4%B8%BB%E7%A0%94%E5%88%B66%E5%90%A8%E7%BA%A7%E9%A3%9E%E8%A1%8C%E5%99%A8%E6%88%90%E5%8A%9F%E9%A6%96%E9%A3%9E",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            6,
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时23分 ~ 18时16分]"
+        },
+        {
+          "title": "中国电视剧在外国热度怎么样，接受度如何？例如韩国、泰国、越南等等？",
+          "url": "https://www.zhihu.com/question/486710914",
+          "source": "知乎",
+          "ranks": [
+            10,
+            9,
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时21分 ~ 09时20分]"
+        },
+        {
+          "title": "人民日报钟声：以求同存异妥处双方分歧，中美两个大国完全可以相互成就、共同繁荣",
+          "url": "https://wallstreetcn.com/livenews/3027588",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            10,
+            16,
+            21,
+            22,
+            24,
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时43分 ~ 18时16分]"
+        },
+        {
+          "title": "美媒关注中国网友讨论美国斩杀线",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%AA%92%E5%85%B3%E6%B3%A8%E4%B8%AD%E5%9B%BD%E7%BD%91%E5%8F%8B%E8%AE%A8%E8%AE%BA%E7%BE%8E%E5%9B%BD%E6%96%A9%E6%9D%80%E7%BA%BF%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            7,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时40分 ~ 16时20分]"
+        },
+        {
+          "title": "2026年央视春晚分会场官宣",
+          "url": "https://www.baidu.com/s?wd=2026%E5%B9%B4%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%E5%88%86%E4%BC%9A%E5%9C%BA%E5%AE%98%E5%AE%A3",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时20分 ~ 18时16分]"
+        },
+        {
+          "title": "中国稀土管制让美西方军事工业窒息",
+          "url": "https://www.toutiao.com/trending/7588822066959224383/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时15分 ~ 18时16分]"
+        },
+        {
+          "title": "格鲁吉亚前国防部长因涉嫌组织策划政变被逮捕",
+          "url": "https://flash.jin10.com/detail/20251228110114254800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            4,
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时43分 ~ 14时23分]"
+        },
+        {
+          "title": "如何看待央视曝光韩束两款面膜被检出「违禁生长因子」（EGF），暴露了哪些行业问题，对消费者有何影响？",
+          "url": "https://www.zhihu.com/question/1987838040027132775",
+          "source": "知乎",
+          "ranks": [
+            11,
+            12,
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时20分 ~ 13时20分]"
+        },
+        {
+          "title": "中国地震台网正式测定：12月28日17时34分在四川雅安市雨城区（北纬30.02度，东经103.01度）发生3.1级地震，震源深度20千米。",
+          "url": "https://flash.jin10.com/detail/20251228174522079800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
+          "title": "中国电影120年金曲回顾",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%BD%B1120%E5%B9%B4%E9%87%91%E6%9B%B2%E5%9B%9E%E9%A1%BE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            7,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时40分 ~ 14时23分]"
+        },
+        {
+          "title": "俄罗斯国防部：俄军已对乌克兰国防部门使用的能源设施、导弹发动机部件生产车间以及乌克兰攻击无人机组装基地实施打击。俄军同时对乌克兰武装部队在148个地区的临时部署点实施了打击。",
+          "url": "https://flash.jin10.com/detail/20251228174311047800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
+          "title": "中国人民银行科技司司长李伟：积极稳妥、安全有序推进人工智能金融应用",
+          "url": "https://wallstreetcn.com/livenews/3027626",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
+          "title": "数字环驾中国大赛运营基地在津揭牌 打造新能源汽车产业创新服务新平台",
+          "url": "https://flash.jin10.com/detail/20251228164627469800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时16分 ~ 18时16分]"
+        },
+        {
+          "title": "美媒关注中国网友讨论美国斩杀线",
+          "url": "https://www.toutiao.com/trending/7588214940889956395/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时20分 ~ 18时16分]"
+        },
+        {
+          "title": "中国电视剧在外国热度怎么样，接受度如何，例如韩国，泰国，越南等等？",
+          "url": "https://www.zhihu.com/question/486710914",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 01时14分]"
+        },
+        {
+          "title": "《无限大》《异环》《望月》《终末地》等全新二游公测后，中国二游市场会陷入怎样的局面？",
+          "url": "https://www.zhihu.com/question/1988398567069610385",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时16分 ~ 18时16分]"
+        },
+        {
+          "title": "印度游客乘坐中国高铁",
+          "url": "https://s.weibo.com/weibo?q=%E5%8D%B0%E5%BA%A6%E6%B8%B8%E5%AE%A2%E4%B9%98%E5%9D%90%E4%B8%AD%E5%9B%BD%E9%AB%98%E9%93%81&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时16分 ~ 18时16分]"
+        },
+        {
+          "title": "俄罗斯国防部称，俄罗斯防空部队夜间在多个地区拦截了25架乌克兰无人机。",
+          "url": "https://flash.jin10.com/detail/20251228130525494800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时23分 ~ 15时17分]"
+        },
+        {
+          "title": "中国援柬埔寨紧急人道主义物资运抵",
+          "url": "https://www.toutiao.com/trending/7588728400999792683/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时15分 ~ 18时16分]"
+        },
+        {
+          "title": "首批中国援柬埔寨紧急人道主义物资运抵金边",
+          "url": "https://flash.jin10.com/detail/20251228160258413800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时16分 ~ 18时16分]"
+        },
+        {
+          "title": "周末要闻汇总：官方明确明年继续“国补”，中国ETF迈入6万亿时刻",
+          "url": "https://www.cls.cn/detail/2242083",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时15分 ~ 18时16分]"
+        },
+        {
+          "title": "俄罗斯国防部：俄罗斯军队占领乌克兰东部的米尔诺格拉德、阿尔捷米夫斯克、罗丁斯克和维尔内。",
+          "url": "https://flash.jin10.com/detail/20251228171238035800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
+          "title": "俄罗斯国防部：已占领扎波罗热州古利亚伊波列居民区。",
+          "url": "https://flash.jin10.com/detail/20251228171049385800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
+          "title": "俄罗斯国防部：俄罗斯防空系统一天之内击落了乌克兰武装部队的370架无人机。",
+          "url": "https://flash.jin10.com/detail/20251228171010414800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
+          "title": "英国国防部：英国和德国签署价值5200万英镑的移动火炮系统联合采购合同。",
+          "url": "https://flash.jin10.com/detail/20251228170950706800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
+          "title": "新华社：铭记历史荣耀 积蓄统一大势",
+          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E5%8D%8E%E7%A4%BE%EF%BC%9A%E9%93%AD%E8%AE%B0%E5%8E%86%E5%8F%B2%E8%8D%A3%E8%80%80+%E7%A7%AF%E8%93%84%E7%BB%9F%E4%B8%80%E5%A4%A7%E5%8A%BF",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时16分"
+        }
+      ]
+    },
+    {
       "keyword_group": "# --- 第三组：美国宏观与军事 --- 美国 白宫 五角大楼 美军 美联储 布林肯 拜登 特朗普",
-      "match_count": 41,
+      "match_count": 43,
       "titles": [
         {
           "title": "中方制裁军工企业，美国国务院还嘴硬",
@@ -75,6 +678,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时18分 ~ 09时20分]"
+        },
+        {
+          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
+          "url": "https://wallstreetcn.com/articles/3762196",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时40分 ~ 18时16分]"
         },
         {
           "title": "「斩杀线」现象的广泛讨论，是否标志着美国梦「完美滤镜」的打破？",
@@ -170,18 +786,6 @@
           "time_info": "[00时18分 ~ 06时15分]"
         },
         {
-          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
-          "url": "https://wallstreetcn.com/articles/3762196",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时40分 ~ 17时16分]"
-        },
-        {
           "title": "美国蜜雪收银小哥熟练用中文点单",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E8%9C%9C%E9%9B%AA%E6%94%B6%E9%93%B6%E5%B0%8F%E5%93%A5%E7%86%9F%E7%BB%83%E7%94%A8%E4%B8%AD%E6%96%87%E7%82%B9%E5%8D%95",
           "source": "百度热搜",
@@ -232,6 +836,19 @@
           "time_info": "[00时18分 ~ 07时15分]"
         },
         {
+          "title": "邵永灵：美媒承认斩杀线并甩锅特朗普",
+          "url": "https://www.toutiao.com/trending/7588795037148794414/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时20分 ~ 18时16分]"
+        },
+        {
           "title": "美国人的生存线可能继续上移",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%BA%BA%E7%9A%84%E7%94%9F%E5%AD%98%E7%BA%BF%E5%8F%AF%E8%83%BD%E7%BB%A7%E7%BB%AD%E4%B8%8A%E7%A7%BB",
           "source": "百度热搜",
@@ -245,6 +862,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时18分 ~ 07时15分]"
+        },
+        {
+          "title": "美军MQ-9死神无人机现身波多黎各",
+          "url": "https://www.toutiao.com/trending/7588709071470329919/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时15分 ~ 18时16分]"
         },
         {
           "title": "美国加州洛杉矶以北的5号高速公路因天然气管道破裂而封闭，卡斯泰克镇的居民已被下达就地避难令。",
@@ -270,6 +898,31 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时18分 ~ 03时12分]"
+        },
+        {
+          "title": "元旦周重磅日程：美联储主席或揭晓，巴菲特退休，“港股GPU第一股”挂牌",
+          "url": "https://wallstreetcn.com/articles/3762120",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时20分 ~ 18时16分]"
+        },
+        {
+          "title": "Ed Yardeni 2026展望：美国不衰退，标普7700，美债收益率超4%，金价6000美元",
+          "url": "https://wallstreetcn.com/articles/3762200",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时16分 ~ 18时16分]"
         },
         {
           "title": "拉夫罗夫：俄罗斯准备与美国进一步合作，就乌克兰问题达成协议",
@@ -336,18 +989,6 @@
           "time_info": "[09时20分 ~ 11时43分]"
         },
         {
-          "title": "邵永灵：美媒承认斩杀线并甩锅特朗普",
-          "url": "https://www.toutiao.com/trending/7588795037148794414/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时20分 ~ 17时16分]"
-        },
-        {
           "title": "拉夫罗夫：更新后的美国国家安全战略首次对北约扩张提出质疑",
           "url": "https://flash.jin10.com/detail/20251228131555459800",
           "source": "金十数据",
@@ -387,17 +1028,6 @@
           "time_info": "[11时43分 ~ 14时23分]"
         },
         {
-          "title": "Ed Yardeni 2026展望：美国不衰退，标普7700，美债收益率超4%，金价6000美元",
-          "url": "https://wallstreetcn.com/articles/3762200",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时16分 ~ 17时16分]"
-        },
-        {
           "title": "美国纽约州出台法律约束“成瘾性内容推送”",
           "url": "https://flash.jin10.com/detail/20251228103719391800",
           "source": "金十数据",
@@ -424,6 +1054,29 @@
           "time_info": "[11时43分 ~ 13时20分]"
         },
         {
+          "title": "美军“死神”无人机现身波多黎各",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E2%80%9C%E6%AD%BB%E7%A5%9E%E2%80%9D%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%8E%B0%E8%BA%AB%E6%B3%A2%E5%A4%9A%E9%BB%8E%E5%90%84",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时16分 ~ 18时16分]"
+        },
+        {
+          "title": "泽连斯基：我想跟特朗普谈5个问题",
+          "url": "https://news.ifeng.com/c/8pS8Ckuh1cP",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时15分 ~ 18时16分]"
+        },
+        {
           "title": "泽连斯基抵达美国，准备与特朗普会谈",
           "url": "https://flash.jin10.com/detail/20251228084239521800",
           "source": "金十数据",
@@ -434,6 +1087,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时20分 ~ 11时43分]"
+        },
+        {
+          "title": "美军M-Q9“死神”无人机现身波多黎各",
+          "url": "https://flash.jin10.com/detail/20251228161218652800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时16分 ~ 18时16分]"
         },
         {
           "title": "中方为何反制20家美军火商",
@@ -448,18 +1113,6 @@
           "time_info": "[09时20分 ~ 11时43分]"
         },
         {
-          "title": "元旦周重磅日程：美联储主席或揭晓，巴菲特退休，“港股GPU第一股”挂牌",
-          "url": "https://wallstreetcn.com/articles/3762120",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时20分 ~ 17时16分]"
-        },
-        {
           "title": "特朗普又盯上格陵兰岛 这次是动真格吗",
           "url": "https://www.toutiao.com/trending/7588519331349138954/",
           "source": "今日头条",
@@ -469,17 +1122,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时21分 ~ 02时22分]"
-        },
-        {
-          "title": "美军M-Q9“死神”无人机现身波多黎各",
-          "url": "https://flash.jin10.com/detail/20251228161218652800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时16分"
         },
         {
           "title": "美国人形机器人初创公司：连我们都觉得，外界吹得太过了",
@@ -504,17 +1146,6 @@
           "time_info": "13时20分"
         },
         {
-          "title": "美军“死神”无人机现身波多黎各",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E2%80%9C%E6%AD%BB%E7%A5%9E%E2%80%9D%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%8E%B0%E8%BA%AB%E6%B3%A2%E5%A4%9A%E9%BB%8E%E5%90%84",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时16分"
-        },
-        {
           "title": "美国小伙在武当习武15年",
           "url": "https://www.toutiao.com/trending/7588335667936509958/",
           "source": "今日头条",
@@ -528,494 +1159,25 @@
       ]
     },
     {
-      "keyword_group": "# --- 第一组：中国宏观 (去掉了必须词，只过滤娱乐) --- 中国 央视 外交部 国防部 解放军 人民日报 新华社",
-      "match_count": 37,
+      "keyword_group": "# --- 第六组：俄乌局势 --- 俄乌 俄罗斯 乌克兰 普京 泽连斯基 北约",
+      "match_count": 26,
       "titles": [
         {
-          "title": "建议对42人追责问责，中国黄金集团内蒙古矿业有限公司较大坠落事故调查报告公布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32263936",
-          "source": "澎湃新闻",
-          "ranks": [
-            1,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时18分 ~ 09时20分]"
-        },
-        {
-          "title": "2025中国经济盘点",
-          "url": "https://www.toutiao.com/trending/7587414817305034815/",
+          "title": "普京突然穿军装视察部队有何深意",
+          "url": "https://www.toutiao.com/trending/7587966163335987227/",
           "source": "今日头条",
           "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时18分 ~ 11时43分]"
-        },
-        {
-          "title": "俄国防部宣布已控制库皮扬斯克",
-          "url": "https://news.ifeng.com/c/8pQjoKT4i8I",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时18分 ~ 07时15分]"
-        },
-        {
-          "title": "新城市志｜突破5万公里，对中国高铁意味着什么",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32264326",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            6,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时18分 ~ 16时20分]"
-        },
-        {
-          "title": "中国11月规模以上工业企业利润同比下降13.1%，前11个月同比微增，高技术制造业利润增速加快",
-          "url": "https://wallstreetcn.com/articles/3762171",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时18分 ~ 09时20分]"
-        },
-        {
-          "title": "中国军事年终大片太硬核了",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%86%9B%E4%BA%8B%E5%B9%B4%E7%BB%88%E5%A4%A7%E7%89%87%E5%A4%AA%E7%A1%AC%E6%A0%B8%E4%BA%86%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时40分 ~ 16时20分]"
-        },
-        {
-          "title": "外交部发言人就柬泰签署停火联合声明答记者问",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32266479",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时20分 ~ 17时16分]"
-        },
-        {
-          "title": "中国台湾宜兰县海域发生6.6级地震 震源深度60千米",
-          "url": "https://wallstreetcn.com/livenews/3027578",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             1,
-            3,
-            7,
-            15,
-            17,
-            23,
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时18分 ~ 15时17分]"
-        },
-        {
-          "title": "外交部发言人就柬泰签署停火联合声明答记者问",
-          "url": "https://wallstreetcn.com/livenews/3027574",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            6,
-            10,
-            18,
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时18分 ~ 13时20分]"
-        },
-        {
-          "title": "突破5万公里！中国高铁持续升级，接下来要追求的是什么？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32263546",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            9,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时18分 ~ 07时15分]"
-        },
-        {
-          "title": "中国航发集团原董事长曹建国已从中国工程院院士名单中撤下",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32263757",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            15,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时18分 ~ 09时20分]"
-        },
-        {
-          "title": "外交部回应柬泰签署停火联合声明",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E6%9F%AC%E6%B3%B0%E7%AD%BE%E7%BD%B2%E5%81%9C%E7%81%AB%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            19,
-            18,
-            16,
-            22,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时18分 ~ 07时15分]"
-        },
-        {
-          "title": "中国地震台网正式测定：12月27日18时40分在阿根廷（南纬28.35度，西经63.10度）发生5.6级地震，震源深度600千米。",
-          "url": "https://wallstreetcn.com/livenews/3027562",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            18,
-            22,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时18分 ~ 11时43分]"
-        },
-        {
-          "title": "2025热搜里的中国",
-          "url": "https://s.weibo.com/weibo?q=%232025%E7%83%AD%E6%90%9C%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时21分 ~ 05时13分]"
-        },
-        {
-          "title": "中国两款可重复使用火箭首飞回收失败，航天「炸火箭」的学费是必经之路吗？",
-          "url": "https://www.zhihu.com/question/1987429494223564876",
-          "source": "知乎",
-          "ranks": [
-            6,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时43分 ~ 17时16分]"
-        },
-        {
-          "title": "外交部发言人就柬泰签署停火联合声明答记者问",
-          "url": "https://flash.jin10.com/detail/20251227215254806800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 09时20分]"
-        },
-        {
-          "title": "中国研发人工智能地震实时监测系统 将助力全球地震监测",
-          "url": "https://flash.jin10.com/detail/20251227211319753800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 09时20分]"
-        },
-        {
-          "title": "俄国防部称已控制库皮扬斯克",
-          "url": "https://wallstreetcn.com/livenews/3027555",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23,
-            25,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 09时20分]"
-        },
-        {
-          "title": "中国低温火箭年度发射新纪录",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BD%8E%E6%B8%A9%E7%81%AB%E7%AE%AD%E5%B9%B4%E5%BA%A6%E5%8F%91%E5%B0%84%E6%96%B0%E7%BA%AA%E5%BD%95%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时15分 ~ 11时43分]"
-        },
-        {
-          "title": "中国电视剧在外国热度怎么样，接受度如何？例如韩国、泰国、越南等等？",
-          "url": "https://www.zhihu.com/question/486710914",
-          "source": "知乎",
-          "ranks": [
-            10,
-            9,
-            8,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时21分 ~ 09时20分]"
-        },
-        {
-          "title": "全国人大常委会批准任命张升民为中国人民解放军选举委员会副主任",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32265818",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时40分 ~ 17时16分]"
-        },
-        {
-          "title": "中国完全自主研制首款6吨级倾转旋翼飞行器成功首飞",
-          "url": "https://wallstreetcn.com/livenews/3027592",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            6,
-            12,
-            17,
-            18,
-            20,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时43分 ~ 17时16分]"
-        },
-        {
-          "title": "美媒关注中国网友讨论美国斩杀线",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%AA%92%E5%85%B3%E6%B3%A8%E4%B8%AD%E5%9B%BD%E7%BD%91%E5%8F%8B%E8%AE%A8%E8%AE%BA%E7%BE%8E%E5%9B%BD%E6%96%A9%E6%9D%80%E7%BA%BF%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28,
-            7,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时40分 ~ 16时20分]"
-        },
-        {
-          "title": "人民日报钟声：以求同存异妥处双方分歧，中美两个大国完全可以相互成就、共同繁荣",
-          "url": "https://wallstreetcn.com/livenews/3027588",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            10,
-            16,
-            21,
-            22,
-            24,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时43分 ~ 17时16分]"
-        },
-        {
-          "title": "中国自主研制6吨级飞行器成功首飞",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%87%AA%E4%B8%BB%E7%A0%94%E5%88%B66%E5%90%A8%E7%BA%A7%E9%A3%9E%E8%A1%8C%E5%99%A8%E6%88%90%E5%8A%9F%E9%A6%96%E9%A3%9E",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时23分 ~ 17时16分]"
-        },
-        {
-          "title": "格鲁吉亚前国防部长因涉嫌组织策划政变被逮捕",
-          "url": "https://flash.jin10.com/detail/20251228110114254800",
-          "source": "金十数据",
-          "ranks": [
             2,
-            4,
-            6,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时43分 ~ 14时23分]"
-        },
-        {
-          "title": "如何看待央视曝光韩束两款面膜被检出「违禁生长因子」（EGF），暴露了哪些行业问题，对消费者有何影响？",
-          "url": "https://www.zhihu.com/question/1987838040027132775",
-          "source": "知乎",
-          "ranks": [
-            11,
-            12,
             5,
+            15,
+            10,
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时20分 ~ 13时20分]"
+          "appearance_count": 11,
+          "time_info": "[11时43分 ~ 18时16分]"
         },
-        {
-          "title": "数字环驾中国大赛运营基地在津揭牌 打造新能源汽车产业创新服务新平台",
-          "url": "https://flash.jin10.com/detail/20251228164627469800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时16分"
-        },
-        {
-          "title": "中国电影120年金曲回顾",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%BD%B1120%E5%B9%B4%E9%87%91%E6%9B%B2%E5%9B%9E%E9%A1%BE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            7,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时40分 ~ 14时23分]"
-        },
-        {
-          "title": "2026年央视春晚分会场官宣",
-          "url": "https://www.baidu.com/s?wd=2026%E5%B9%B4%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%E5%88%86%E4%BC%9A%E5%9C%BA%E5%AE%98%E5%AE%A3",
-          "source": "百度热搜",
-          "ranks": [
-            6,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时20分 ~ 17时16分]"
-        },
-        {
-          "title": "中国电视剧在外国热度怎么样，接受度如何，例如韩国，泰国，越南等等？",
-          "url": "https://www.zhihu.com/question/486710914",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 01时14分]"
-        },
-        {
-          "title": "俄罗斯国防部称，俄罗斯防空部队夜间在多个地区拦截了25架乌克兰无人机。",
-          "url": "https://flash.jin10.com/detail/20251228130525494800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时23分 ~ 15时17分]"
-        },
-        {
-          "title": "美媒关注中国网友讨论美国斩杀线",
-          "url": "https://www.toutiao.com/trending/7588214940889956395/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时20分 ~ 17时16分]"
-        },
-        {
-          "title": "首批中国援柬埔寨紧急人道主义物资运抵金边",
-          "url": "https://flash.jin10.com/detail/20251228160258413800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时16分"
-        },
-        {
-          "title": "《无限大》《异环》《望月》《终末地》等全新二游公测后，中国二游市场会陷入怎样的局面？",
-          "url": "https://www.zhihu.com/question/1988398567069610385",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时16分"
-        },
-        {
-          "title": "印度游客乘坐中国高铁",
-          "url": "https://s.weibo.com/weibo?q=%E5%8D%B0%E5%BA%A6%E6%B8%B8%E5%AE%A2%E4%B9%98%E5%9D%90%E4%B8%AD%E5%9B%BD%E9%AB%98%E9%93%81&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时16分"
-        },
-        {
-          "title": "新华社：铭记历史荣耀 积蓄统一大势",
-          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E5%8D%8E%E7%A4%BE%EF%BC%9A%E9%93%AD%E8%AE%B0%E5%8E%86%E5%8F%B2%E8%8D%A3%E8%80%80+%E7%A7%AF%E8%93%84%E7%BB%9F%E4%B8%80%E5%A4%A7%E5%8A%BF",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# --- 第六组：俄乌局势 --- 俄乌 俄罗斯 乌克兰 普京 泽连斯基 北约",
-      "match_count": 25,
-      "titles": [
         {
           "title": "俄乌局势关键时刻 普京穿上军装",
           "url": "https://www.baidu.com/s?wd=%E4%BF%84%E4%B9%8C%E5%B1%80%E5%8A%BF%E5%85%B3%E9%94%AE%E6%97%B6%E5%88%BB+%E6%99%AE%E4%BA%AC%E7%A9%BF%E4%B8%8A%E5%86%9B%E8%A3%85",
@@ -1042,22 +1204,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时18分 ~ 09时20分]"
-        },
-        {
-          "title": "普京突然穿军装视察部队有何深意",
-          "url": "https://www.toutiao.com/trending/7587966163335987227/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            2,
-            5,
-            15,
-            10,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时43分 ~ 17时16分]"
         },
         {
           "title": "一份计划两个版本，泽连斯基再赴美谈“和平协议”",
@@ -1216,6 +1362,18 @@
           "time_info": "[13时20分 ~ 15时17分]"
         },
         {
+          "title": "普京：若乌方不愿和平解决问题，俄将以军事手段解决",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32267398",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时20分 ~ 18时16分]"
+        },
+        {
           "title": "普京突然穿上军装",
           "url": "https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E7%AA%81%E7%84%B6%E7%A9%BF%E4%B8%8A%E5%86%9B%E8%A3%85%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
@@ -1239,6 +1397,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时43分 ~ 13时20分]"
+        },
+        {
+          "title": "国际原子能机构：在国际原子能机构促成的又一轮局部停火后，乌克兰扎波罗热核电站附近的关键电力线路维修工作已启动。",
+          "url": "https://flash.jin10.com/detail/20251228161934019800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时16分 ~ 18时16分]"
         },
         {
           "title": "金十数据整理：俄乌冲突最新24小时局势跟踪（12月28日）",
@@ -1277,18 +1447,6 @@
           "time_info": "[09时20分 ~ 11时43分]"
         },
         {
-          "title": "普京：若乌方不愿和平解决问题，俄将以军事手段解决",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32267398",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时20分 ~ 17时16分]"
-        },
-        {
           "title": "克里姆林宫称，普京会见了哈萨克斯坦首任总统努尔苏丹·纳扎尔巴耶夫。",
           "url": "https://flash.jin10.com/detail/20251228091943488800",
           "source": "金十数据",
@@ -1312,15 +1470,15 @@
           "time_info": "[00时18分 ~ 01时14分]"
         },
         {
-          "title": "国际原子能机构：在国际原子能机构促成的又一轮局部停火后，乌克兰扎波罗热核电站附近的关键电力线路维修工作已启动。",
-          "url": "https://flash.jin10.com/detail/20251228161934019800",
+          "title": "俄新社：俄罗斯军队占领乌克兰东部的斯捷普诺希尔斯克。",
+          "url": "https://flash.jin10.com/detail/20251228171653591800",
           "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时16分"
+          "time_info": "18时16分"
         },
         {
           "title": "普京再警告乌克兰",
@@ -1337,7 +1495,7 @@
     },
     {
       "keyword_group": "# --- 第五组：日本动态 (关键修改：去掉了外交限制) --- 日本 岸田文雄 自卫队 靖国神社 核污水",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "俄外长警告日本：要慎重！",
@@ -1347,8 +1505,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时43分 ~ 17时16分]"
+          "appearance_count": 11,
+          "time_info": "[11时43分 ~ 18时16分]"
         },
         {
           "title": "日本向多国免费提供武器装备",
@@ -1359,11 +1517,12 @@
             15,
             10,
             8,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时43分 ~ 17时16分]"
+          "appearance_count": 11,
+          "time_info": "[11时43分 ~ 18时16分]"
         },
         {
           "title": "鸡蛋拌饭已成日本“奢侈品”",
@@ -1405,6 +1564,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时43分 ~ 15时17分]"
+        },
+        {
+          "title": "真人扮熊猫关笼,日本为吸客拼了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348479&amp;topic_name=%E7%9C%9F%E4%BA%BA%E6%89%AE%E7%86%8A%E7%8C%AB%E5%85%B3%E7%AC%BC%2C%E6%97%A5%E6%9C%AC%E4%B8%BA%E5%90%B8%E5%AE%A2%E6%8B%BC%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时15分 ~ 18时16分]"
         },
         {
           "title": "俄外长：日本正加速军事化 最好审慎权衡避免草率决定",
@@ -1461,11 +1631,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            10
+            10,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时20分 ~ 17时16分]"
+          "appearance_count": 3,
+          "time_info": "[16时20分 ~ 18时16分]"
         },
         {
           "title": "泰国女子把女儿骗到日本卖淫",
@@ -1505,6 +1676,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时43分 ~ 13时20分]"
+        },
+        {
+          "title": "日本老年人称已经没希望了",
+          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E8%80%81%E5%B9%B4%E4%BA%BA%E7%A7%B0%E5%B7%B2%E7%BB%8F%E6%B2%A1%E5%B8%8C%E6%9C%9B%E4%BA%86&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时15分 ~ 18时16分]"
         },
         {
           "title": "俄罗斯外长拉夫罗夫表示，俄罗斯敦促日本慎重考虑其向军事化转变的举动。",
@@ -1564,11 +1746,12 @@
           "ranks": [
             2,
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时18分 ~ 17时16分]"
+          "appearance_count": 22,
+          "time_info": "[00时18分 ~ 18时16分]"
         },
         {
           "title": "2025年A股上市公司分红2.64万亿 分红超百亿个股名单一览",
@@ -1580,8 +1763,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时20分 ~ 17时16分]"
+          "appearance_count": 12,
+          "time_info": "[09时20分 ~ 18时16分]"
         },
         {
           "title": "拟易主特种机器人龙头的胜通能源月内股价涨超210% 12月披露并购重组进展的A股名单一览",
@@ -1596,8 +1779,40 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时43分 ~ 17时16分]"
+          "appearance_count": 11,
+          "time_info": "[11时43分 ~ 18时16分]"
+        },
+        {
+          "title": "智能驾驶细分龙头月内涨超95% 梳理产业链激光雷达等环节市占率居前A股名单",
+          "url": "https://www.cls.cn/detail/2241810",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时40分 ~ 18时16分]"
+        },
+        {
+          "title": "香港财政司司长陈茂波：继续从三方面助力人民币国际化的稳慎推进",
+          "url": "https://wallstreetcn.com/livenews/3027595",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            3,
+            9,
+            14,
+            15,
+            17,
+            19,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时43分 ~ 18时16分]"
         },
         {
           "title": "美国总统特朗普：关税正在为美国创造巨大财富，并带来前所未有的国家安全保障。贸易逆差已削减60%，实属史无前例。GDP增长率达4.3%，且持续攀升。没有通货膨胀！！！我们国家再次赢得世界尊重。",
@@ -1610,6 +1825,24 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时18分 ~ 09时20分]"
+        },
+        {
+          "title": "香港财政司司长陈茂波：明年香港经济可望保持良好势头",
+          "url": "https://wallstreetcn.com/livenews/3027594",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            4,
+            10,
+            15,
+            16,
+            18,
+            20,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时43分 ~ 18时16分]"
         },
         {
           "title": "恒生电子执行总裁官晓岚：海南封关为金融科技与财富管理带来重要机遇",
@@ -1637,53 +1870,6 @@
           "time_info": "[00时18分 ~ 09时20分]"
         },
         {
-          "title": "智能驾驶细分龙头月内涨超95% 梳理产业链激光雷达等环节市占率居前A股名单",
-          "url": "https://www.cls.cn/detail/2241810",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时40分 ~ 17时16分]"
-        },
-        {
-          "title": "香港财政司司长陈茂波：继续从三方面助力人民币国际化的稳慎推进",
-          "url": "https://wallstreetcn.com/livenews/3027595",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            3,
-            9,
-            14,
-            15,
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时43分 ~ 17时16分]"
-        },
-        {
-          "title": "香港财政司司长陈茂波：明年香港经济可望保持良好势头",
-          "url": "https://wallstreetcn.com/livenews/3027594",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            4,
-            10,
-            15,
-            16,
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时43分 ~ 17时16分]"
-        },
-        {
           "title": "金银铜现逼空行情，工业贵金属价格长期高位会对经济有多大影响？",
           "url": "https://www.zhihu.com/question/1981285887473129442",
           "source": "知乎",
@@ -1698,7 +1884,7 @@
     },
     {
       "keyword_group": "# --- 第四组：美股与科技 (去掉了具体的“财报”限制) --- 美股 纳指 道琼斯 标普 特斯拉 英伟达 苹果 微软 OpenAI",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "节后首日美股微跌，“金属狂潮”继续，白银暴涨10%，纽铜涨5%，铂钯双位数大涨，和平曙光重挫油价",
@@ -1739,8 +1925,19 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时43分 ~ 17时16分]"
+          "appearance_count": 11,
+          "time_info": "[11时43分 ~ 18时16分]"
+        },
+        {
+          "title": "苹果煮水喝好处太多了",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E7%85%AE%E6%B0%B4%E5%96%9D%E5%A5%BD%E5%A4%84%E5%A4%AA%E5%A4%9A%E4%BA%86%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时15分 ~ 18时16分]"
         },
         {
           "title": "如何评价苹果天才吧（Genius Bar）解决系统问题的水平？",
