@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-29T22:18:02.048839+08:00",
-  "total_titles_processed": 1749,
+  "generated_at": "2025-12-29T23:17:53.808053+08:00",
+  "total_titles_processed": 1867,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- 第一组：中国宏观 (去掉了必须词，只过滤娱乐) --- 中国 央视 外交部 国防部 解放军 人民日报 新华社",
-      "match_count": 127,
+      "match_count": 132,
       "titles": [
         {
           "title": "外交部：中方坚决反对以色列承认索马里兰",
@@ -29,17 +29,6 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时18分 ~ 11时45分]"
-        },
-        {
-          "title": "直击解放军演习现场",
-          "url": "https://search.bilibili.com/all?keyword=%E7%9B%B4%E5%87%BB%E8%A7%A3%E6%94%BE%E5%86%9B%E6%BC%94%E4%B9%A0%E7%8E%B0%E5%9C%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时22分 ~ 22时18分]"
         },
         {
           "title": "王毅会见柬埔寨副首相：希望加大对在柬中国公民保护",
@@ -90,22 +79,16 @@
           "time_info": "[18时18分 ~ 22时18分]"
         },
         {
-          "title": "郑丽文回应解放军对台军演",
-          "url": "https://www.toutiao.com/trending/7588309313622638638/",
-          "source": "今日头条",
+          "title": "直击解放军演习现场",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9B%B4%E5%87%BB%E8%A7%A3%E6%94%BE%E5%86%9B%E6%BC%94%E4%B9%A0%E7%8E%B0%E5%9C%BA",
+          "source": "bilibili 热搜",
           "ranks": [
-            2,
-            1,
             4,
-            10,
-            19,
-            21,
-            23,
-            14
+            11
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时44分 ~ 22时18分]"
+          "appearance_count": 12,
+          "time_info": "[15时22分 ~ 23时17分]"
         },
         {
           "title": "2025中国科技创新再攀高峰",
@@ -135,18 +118,23 @@
           "time_info": "[00时18分 ~ 15时22分]"
         },
         {
-          "title": "都是重返地球，印度返回舱光洁如新，为什么中国返回舱是焦黑的？",
-          "url": "https://www.zhihu.com/question/3668990467",
-          "source": "知乎",
+          "title": "郑丽文回应解放军对台军演",
+          "url": "https://www.toutiao.com/trending/7588309313622638638/",
+          "source": "今日头条",
           "ranks": [
+            2,
+            1,
             4,
-            6,
-            7,
-            9
+            10,
+            19,
+            21,
+            23,
+            14,
+            26
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时44分 ~ 22时18分]"
+          "appearance_count": 17,
+          "time_info": "[11时44分 ~ 23时17分]"
         },
         {
           "title": "长期冒充“中国书法家协会主席”的骗子被抓，此前曾有人冒充书协副主席",
@@ -162,19 +150,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时44分 ~ 22时18分]"
-        },
-        {
-          "title": "外交部发文：美国应认清对台军售的严重后果",
-          "url": "https://news.ifeng.com/c/8pTVOS3uKwd",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时44分 ~ 15时22分]"
+          "appearance_count": 17,
+          "time_info": "[11时44分 ~ 23时17分]"
         },
         {
           "title": "解放军历次演习带来了什么",
@@ -189,11 +166,62 @@
             15,
             29,
             28,
-            14
+            14,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时44分 ~ 22时18分]"
+          "appearance_count": 12,
+          "time_info": "[12时44分 ~ 23时17分]"
+        },
+        {
+          "title": "都是重返地球，印度返回舱光洁如新，为什么中国返回舱是焦黑的？",
+          "url": "https://www.zhihu.com/question/3668990467",
+          "source": "知乎",
+          "ranks": [
+            4,
+            6,
+            7,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[12时44分 ~ 23时17分]"
+        },
+        {
+          "title": "外交部发文：美国应认清对台军售的严重后果",
+          "url": "https://news.ifeng.com/c/8pTVOS3uKwd",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时44分 ~ 15时22分]"
+        },
+        {
+          "title": "解放军无人机俯瞰台北101大厦",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E6%94%BE%E5%86%9B%E6%97%A0%E4%BA%BA%E6%9C%BA%E4%BF%AF%E7%9E%B0%E5%8F%B0%E5%8C%97101%E5%A4%A7%E5%8E%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时33分 ~ 23时17分]"
+        },
+        {
+          "title": "解放军无人机俯瞰台北101大厦",
+          "url": "https://www.toutiao.com/trending/7588764981060091923/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时33分 ~ 23时17分]"
         },
         {
           "title": "泽连斯基称未见中方有意愿协助推动和平，外交部回应",
@@ -205,6 +233,20 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[16时24分 ~ 22时18分]"
+        },
+        {
+          "title": "解放军无人机俯瞰台北101大厦",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%A7%A3%E6%94%BE%E5%86%9B%E6%97%A0%E4%BA%BA%E6%9C%BA%E4%BF%AF%E7%9E%B0%E5%8F%B0%E5%8C%97101%E5%A4%A7%E5%8E%A6%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            1,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时33分 ~ 23时17分]"
         },
         {
           "title": "演习区域图对比：时隔一年，解放军演习离台岛越来越近",
@@ -281,14 +323,14 @@
         },
         {
           "title": "解放军无人机俯瞰台北101大厦",
-          "url": "https://www.toutiao.com/trending/7588764981060091923/",
-          "source": "今日头条",
+          "url": "https://www.douyin.com/hot/2351188",
+          "source": "抖音",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[20时33分 ~ 22时18分]"
+          "time_info": "[21时34分 ~ 23时17分]"
         },
         {
           "title": "解放军演习现场画面",
@@ -304,18 +346,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[12时44分 ~ 22时18分]"
-        },
-        {
-          "title": "解放军无人机俯瞰台北101大厦",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E6%94%BE%E5%86%9B%E6%97%A0%E4%BA%BA%E6%9C%BA%E4%BF%AF%E7%9E%B0%E5%8F%B0%E5%8C%97101%E5%A4%A7%E5%8E%A6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时33分 ~ 22时18分]"
         },
         {
           "title": "中国足球协会设立纪律与道德委员会，徐家力担任委员会主任",
@@ -358,19 +388,6 @@
           "time_info": "[16时24分 ~ 19时15分]"
         },
         {
-          "title": "解放军无人机俯瞰台北101大厦",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%A7%A3%E6%94%BE%E5%86%9B%E6%97%A0%E4%BA%BA%E6%9C%BA%E4%BF%AF%E7%9E%B0%E5%8F%B0%E5%8C%97101%E5%A4%A7%E5%8E%A6%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时33分 ~ 22时18分]"
-        },
-        {
           "title": "2025各国青年眼中的中国是这样的",
           "url": "https://www.douyin.com/hot/2350967",
           "source": "抖音",
@@ -410,17 +427,6 @@
           "time_info": "[12时44分 ~ 18时19分]"
         },
         {
-          "title": "解放军无人机俯瞰台北101大厦",
-          "url": "https://www.douyin.com/hot/2351188",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时34分 ~ 22时18分]"
-        },
-        {
           "title": "中国古建还是太超前了",
           "url": "https://www.douyin.com/hot/2350949",
           "source": "抖音",
@@ -446,18 +452,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时17分 ~ 14时27分]"
-        },
-        {
-          "title": "解放军军演后台防务部门慌了",
-          "url": "https://www.toutiao.com/trending/7589048687536373803/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时34分 ~ 22时18分]"
         },
         {
           "title": "中国驻巴拿马使馆：极度震惊、强烈愤慨、坚决反对！",
@@ -486,6 +480,19 @@
           "time_info": "[09时17分 ~ 14时27分]"
         },
         {
+          "title": "解放军军演后台防务部门慌了",
+          "url": "https://www.toutiao.com/trending/7589048687536373803/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时34分 ~ 23时17分]"
+        },
+        {
           "title": "台退将：解放军演训是标准奇袭作战",
           "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E9%80%80%E5%B0%86%EF%BC%9A%E8%A7%A3%E6%94%BE%E5%86%9B%E6%BC%94%E8%AE%AD%E6%98%AF%E6%A0%87%E5%87%86%E5%A5%87%E8%A2%AD%E4%BD%9C%E6%88%98",
           "source": "百度热搜",
@@ -498,6 +505,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时44分 ~ 16时24分]"
+        },
+        {
+          "title": "解放军无人机，俯瞰台北101大厦",
+          "url": "https://www.cls.cn/detail/2243210",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时34分 ~ 23时17分]"
         },
         {
           "title": "海警给台湾打了个中国结",
@@ -526,6 +546,44 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[19时15分 ~ 22时18分]"
+        },
+        {
+          "title": "中国军号发布视频，解放军无人机俯瞰台北 101 大厦，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1989061806895952041",
+          "source": "知乎",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时17分 ~ 23时17分]"
+        },
+        {
+          "title": "解放军无人机俯瞰台北101大厦",
+          "url": "https://www.baidu.com/s?wd=%E8%A7%A3%E6%94%BE%E5%86%9B%E6%97%A0%E4%BA%BA%E6%9C%BA%E4%BF%AF%E7%9E%B0%E5%8F%B0%E5%8C%97101%E5%A4%A7%E5%8E%A6",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时34分 ~ 23时17分]"
+        },
+        {
+          "title": "中方回应泽连斯基称中国无意愿促和",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E7%A7%B0%E4%B8%AD%E5%9B%BD%E6%97%A0%E6%84%8F%E6%84%BF%E4%BF%83%E5%92%8C",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            7,
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时33分 ~ 23时17分]"
         },
         {
           "title": "中国AES100发动机配装全球首款6吨级倾转旋翼机成功首飞",
@@ -600,31 +658,6 @@
           "time_info": "[00时19分 ~ 06时15分]"
         },
         {
-          "title": "解放军无人机俯瞰台北101大厦",
-          "url": "https://www.baidu.com/s?wd=%E8%A7%A3%E6%94%BE%E5%86%9B%E6%97%A0%E4%BA%BA%E6%9C%BA%E4%BF%AF%E7%9E%B0%E5%8F%B0%E5%8C%97101%E5%A4%A7%E5%8E%A6",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时34分 ~ 22时18分]"
-        },
-        {
-          "title": "中方回应泽连斯基称中国无意愿促和",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E7%A7%B0%E4%B8%AD%E5%9B%BD%E6%97%A0%E6%84%8F%E6%84%BF%E4%BF%83%E5%92%8C",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时33分 ~ 22时18分]"
-        },
-        {
           "title": "解放军为何此时开展对台演习",
           "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E6%94%BE%E5%86%9B%E4%B8%BA%E4%BD%95%E6%AD%A4%E6%97%B6%E5%BC%80%E5%B1%95%E5%AF%B9%E5%8F%B0%E6%BC%94%E4%B9%A0",
           "source": "bilibili 热搜",
@@ -647,17 +680,6 @@
           "time_info": "[11时44分 ~ 11时45分]"
         },
         {
-          "title": "中国军号发布视频，解放军无人机俯瞰台北 101 大厦，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/1989061806895952041",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时17分 ~ 22时18分]"
-        },
-        {
           "title": "海警给台湾打了个中国结",
           "url": "https://www.toutiao.com/trending/7588381732446015012/",
           "source": "今日头条",
@@ -672,16 +694,17 @@
           "time_info": "[16时24分 ~ 19时15分]"
         },
         {
-          "title": "解放军无人机，俯瞰台北101大厦",
-          "url": "https://www.cls.cn/detail/2243210",
-          "source": "财联社热门",
+          "title": "DeepSeek一夜爆火、Labubu引爆全球抢购潮、“史诗级”外卖大战……2025年中国十大商业事件全盘点",
+          "url": "https://wallstreetcn.com/articles/3762071",
+          "source": "华尔街见闻",
           "ranks": [
             10,
-            5
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时34分 ~ 22时18分]"
+          "appearance_count": 6,
+          "time_info": "[20时33分 ~ 23时17分]"
         },
         {
           "title": "解放军无人机与台北101大厦同框",
@@ -721,6 +744,20 @@
           "time_info": "[11时44分 ~ 16时24分]"
         },
         {
+          "title": "专家：解放军已瞄准台军致命弱点",
+          "url": "https://www.toutiao.com/trending/7589215807994069046/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            11,
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时33分 ~ 23时17分]"
+        },
+        {
           "title": "解放军联合战备警巡后台防务部门慌了",
           "url": "https://www.toutiao.com/trending/7589048687536373803/",
           "source": "今日头条",
@@ -741,6 +778,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
+        },
+        {
+          "title": "解放军战士：已做好真打实打准备",
+          "url": "https://www.baidu.com/s?wd=%E8%A7%A3%E6%94%BE%E5%86%9B%E6%88%98%E5%A3%AB%EF%BC%9A%E5%B7%B2%E5%81%9A%E5%A5%BD%E7%9C%9F%E6%89%93%E5%AE%9E%E6%89%93%E5%87%86%E5%A4%87",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时34分 ~ 23时17分]"
         },
         {
           "title": "金十图示：2025年12月29日（周一）富时中国A50指数成分股今日收盘行情一览：银行股全线上涨、保险股、酿酒行业股全线下跌",
@@ -771,7 +821,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -789,29 +839,41 @@
           "time_info": "[09时17分 ~ 12时44分]"
         },
         {
-          "title": "DeepSeek一夜爆火、Labubu引爆全球抢购潮、“史诗级”外卖大战……2025年中国十大商业事件全盘点",
-          "url": "https://wallstreetcn.com/articles/3762071",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时33分 ~ 22时18分]"
-        },
-        {
-          "title": "专家：解放军已瞄准台军致命弱点",
-          "url": "https://www.toutiao.com/trending/7589215807994069046/",
+          "title": "解放军环台军演首次出现“外线慑阻”",
+          "url": "https://www.toutiao.com/trending/7589208655031963174/",
           "source": "今日头条",
           "ranks": [
-            12,
-            11,
-            17
+            8,
+            11
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[20时33分 ~ 22时18分]"
+          "time_info": "[21时34分 ~ 23时17分]"
+        },
+        {
+          "title": "石破茂：决不能与中国关系恶化",
+          "url": "https://www.toutiao.com/trending/7589063195579433001/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时17分 ~ 23时17分]"
+        },
+        {
+          "title": "中国卫星尾盘涨停 今年暴涨超200%",
+          "url": "https://www.toutiao.com/trending/7588891489582923827/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时34分 ~ 23时17分]"
         },
         {
           "title": "解放军对台开展「正义使命 -2025」演习，我们对台演习的历次逻辑与变化是什么？是否真能威慑台岛？",
@@ -888,17 +950,6 @@
           "time_info": "[18时19分 ~ 19时15分]"
         },
         {
-          "title": "解放军环台军演首次出现“外线慑阻”",
-          "url": "https://www.toutiao.com/trending/7589208655031963174/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时34分 ~ 22时18分]"
-        },
-        {
           "title": "国防部新闻发言人张晓刚就东部战区“正义使命-2025”演习答记者问",
           "url": "https://wallstreetcn.com/livenews/3028182",
           "source": "华尔街见闻-快讯",
@@ -950,18 +1001,6 @@
           "time_info": "[18时18分 ~ 20时33分]"
         },
         {
-          "title": "解放军战士：已做好真打实打准备",
-          "url": "https://www.baidu.com/s?wd=%E8%A7%A3%E6%94%BE%E5%86%9B%E6%88%98%E5%A3%AB%EF%BC%9A%E5%B7%B2%E5%81%9A%E5%A5%BD%E7%9C%9F%E6%89%93%E5%AE%9E%E6%89%93%E5%87%86%E5%A4%87",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时34分 ~ 22时18分]"
-        },
-        {
           "title": "东部战区发布军事演习现场视频《进逼 夺权 阻逃》。（央视新闻）",
           "url": "https://wallstreetcn.com/livenews/3027902",
           "source": "华尔街见闻-快讯",
@@ -985,18 +1024,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时44分 ~ 13时25分]"
-        },
-        {
-          "title": "中国卫星尾盘涨停 今年暴涨超200%",
-          "url": "https://www.toutiao.com/trending/7588891489582923827/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时34分 ~ 22时18分]"
         },
         {
           "title": "为什么中国高中鲜少有文科综合（政史地）和语文类学科竞赛？",
@@ -1292,17 +1319,6 @@
           "time_info": "[09时17分 ~ 09时18分]"
         },
         {
-          "title": "石破茂：决不能与中国关系恶化",
-          "url": "https://www.toutiao.com/trending/7589063195579433001/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时17分 ~ 22时18分]"
-        },
-        {
           "title": "美媒：中国新五年规划建议受全球瞩目",
           "url": "https://www.toutiao.com/trending/7589173313789018122/",
           "source": "今日头条",
@@ -1413,6 +1429,17 @@
           "time_info": "07时15分"
         },
         {
+          "title": "视频丨解放军无人机俯瞰台北101大厦",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32275594",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "金十图示：2018年9月至2025年11月中国香港对内地黄金净出口量一览",
           "url": "https://flash.jin10.com/detail/20251229174219267800",
           "source": "金十数据",
@@ -1422,6 +1449,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
+        },
+        {
+          "title": "中国新型芯片绕开光刻机卡脖子环节",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%96%B0%E5%9E%8B%E8%8A%AF%E7%89%87%E7%BB%95%E5%BC%80%E5%85%89%E5%88%BB%E6%9C%BA%E5%8D%A1%E8%84%96%E5%AD%90%E7%8E%AF%E8%8A%82",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "人民日报钟声：以求同存异妥处双方分歧——二〇二五中美经贸启示录③",
@@ -1474,7 +1512,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -1496,7 +1534,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -1521,6 +1559,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
+        },
+        {
+          "title": "国防部：解放军打“独”促统决不手软",
+          "url": "https://www.toutiao.com/trending/7589095464734359588/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "大V：中国“武装货轮”火力堪比驱逐舰",
@@ -1556,6 +1605,28 @@
           "time_info": "07时15分"
         },
         {
+          "title": "解放军4大演练科目释出什么信号",
+          "url": "https://www.toutiao.com/trending/7589270854245027379/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "石破茂：决不能与中国关系恶化",
+          "url": "https://www.baidu.com/s?wd=%E7%9F%B3%E7%A0%B4%E8%8C%82%EF%BC%9A%E5%86%B3%E4%B8%8D%E8%83%BD%E4%B8%8E%E4%B8%AD%E5%9B%BD%E5%85%B3%E7%B3%BB%E6%81%B6%E5%8C%96",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "2019年中国电影市场有多强",
           "url": "https://search.bilibili.com/all?keyword=2019%E5%B9%B4%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%BD%B1%E5%B8%82%E5%9C%BA%E6%9C%89%E5%A4%9A%E5%BC%BA",
           "source": "bilibili 热搜",
@@ -1570,7 +1641,7 @@
     },
     {
       "keyword_group": "# --- 第三组：美国宏观与军事 --- 美国 白宫 五角大楼 美军 美联储 布林肯 拜登 特朗普",
-      "match_count": 110,
+      "match_count": 120,
       "titles": [
         {
           "title": "元旦周重磅日程：美联储主席或揭晓，巴菲特退休，“港股GPU第一股”挂牌",
@@ -1632,6 +1703,21 @@
           "time_info": "[00时18分 ~ 11时45分]"
         },
         {
+          "title": "美联储新主席5月上任“利好出尽”？野村：明年7-11月的美国市场“需要特别警惕”",
+          "url": "https://wallstreetcn.com/articles/3762224",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时25分 ~ 23时17分]"
+        },
+        {
           "title": "美国社会现状,传奇调查员早看透",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348487&amp;topic_name=%E7%BE%8E%E5%9B%BD%E7%A4%BE%E4%BC%9A%E7%8E%B0%E7%8A%B6%2C%E4%BC%A0%E5%A5%87%E8%B0%83%E6%9F%A5%E5%91%98%E6%97%A9%E7%9C%8B%E9%80%8F",
           "source": "贴吧",
@@ -1646,11 +1732,12 @@
             22,
             24,
             25,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[02时22分 ~ 22时18分]"
+          "appearance_count": 26,
+          "time_info": "[02时22分 ~ 23时17分]"
         },
         {
           "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
@@ -1697,25 +1784,12 @@
           "ranks": [
             15,
             18,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时22分 ~ 22时18分]"
-        },
-        {
-          "title": "美联储新主席5月上任“利好出尽”？野村：明年7-11月的美国市场“需要特别警惕”",
-          "url": "https://wallstreetcn.com/articles/3762224",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时25分 ~ 22时18分]"
+          "appearance_count": 12,
+          "time_info": "[15时22分 ~ 23时17分]"
         },
         {
           "title": "局座神预言,斩杀线下美军无人用",
@@ -1724,11 +1798,12 @@
           "ranks": [
             23,
             2,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时15分 ~ 22时18分]"
+          "appearance_count": 7,
+          "time_info": "[19时15分 ~ 23时17分]"
         },
         {
           "title": "美国住房部长：将在佛罗里达州会见特朗普，讨论关于楼市的若干想法。需要围绕50年期抵押贷款相关想法展开更多研究。",
@@ -1992,6 +2067,17 @@
           "time_info": "[00时19分 ~ 05时14分]"
         },
         {
+          "title": "【美国11月成屋销售创2023年年初以来新高】美国11月成屋签约销售指数环比 3.3%，预期 1%，前值 1.9%。 美国11月成屋签约销售指数同比 -0.3%，预期 0.1%，前值 -0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3028233",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "美国总统特朗普在与乌克兰总统泽连斯基会面之前表示：已经与俄罗斯总统普京进行富有成效的对话。",
           "url": "https://wallstreetcn.com/livenews/3027681",
           "source": "华尔街见闻-快讯",
@@ -2029,6 +2115,17 @@
           "time_info": "20时33分"
         },
         {
+          "title": "美国11月未季调成屋签约销售指数年率 -0.3%，预期0.1%，前值-0.40%。",
+          "url": "https://flash.jin10.com/detail/20251229230007038800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "特朗普与普京通话：均认为临时停火只会延长俄乌冲突",
           "url": "https://news.ifeng.com/c/8pSsNKYe4yO",
           "source": "凤凰网",
@@ -2038,6 +2135,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "美国11月成屋签约销售指数 79.2，前值由76.3修正为76.7。",
+          "url": "https://flash.jin10.com/detail/20251229230002546800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "美国11月成屋签约销售指数环比 3.3%，预期 1%，前值 1.9%。",
+          "url": "https://wallstreetcn.com/livenews/3028231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "MAGA“叛徒”喊话特朗普：我们能不能就关注美国？",
@@ -2050,6 +2169,39 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时22分 ~ 17时25分]"
+        },
+        {
+          "title": "泽连斯基：希望美国提供最长50年的安全保障",
+          "url": "https://news.ifeng.com/c/8pU2qLENxDu",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "美国11月成屋签约销售指数月率 3.3%，预期1%，前值由1.90%修正为2.4%。",
+          "url": "https://flash.jin10.com/detail/20251229230002521800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "美国11月成屋签约销售指数同比 -0.3%，预期 0.1%，前值 -0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3028230",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "美银CEO：预计明年特朗普政府将缓和关税局势",
@@ -2397,9 +2549,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
+        },
+        {
+          "title": "美国11月成屋签约销售指数月率将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20251229225000001800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "美国总统特朗普：俄罗斯想要结束这场战争。",
@@ -2430,9 +2593,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
+        },
+        {
+          "title": "美政治：特朗普回归一年强势色彩趋黯",
+          "url": "https://www.toutiao.com/trending/7589266725988732462/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "美国总统特朗普：乌克兰可能需要通过全民公投或议会批准才能通过相关方案。",
@@ -2499,6 +2673,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "美国弗州新规：16岁以下人群每天只能用1小时社交媒体",
+          "url": "https://wallstreetcn.com/livenews/3028219",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "美国总统特朗普：俄乌谈判中有一两个棘手问题。",
@@ -2878,7 +3063,7 @@
     },
     {
       "keyword_group": "# --- 第二组：中国经济与A股 (保留宽泛的行情词) --- A股 上证 深证 恒生 人民币 汇率 经济 GDP",
-      "match_count": 51,
+      "match_count": 55,
       "titles": [
         {
           "title": "拟易主特种机器人龙头的胜通能源月内股价涨超210% 12月披露并购重组进展的A股名单一览",
@@ -2937,11 +3122,12 @@
             2,
             13,
             14,
-            9
+            9,
+            19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时25分 ~ 22时18分]"
+          "appearance_count": 12,
+          "time_info": "[13时25分 ~ 23时17分]"
         },
         {
           "title": "龙头8连板 本周披露并购重组进展的A股名单一览",
@@ -2982,6 +3168,22 @@
           "time_info": "[11时44分 ~ 17时25分]"
         },
         {
+          "title": "数字人民币迎来重大调整",
+          "url": "https://www.toutiao.com/trending/7588860063851757594/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            9,
+            17,
+            21,
+            19,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[18时18分 ~ 23时17分]"
+        },
+        {
           "title": "2025 年上证指数重回 4000 点，A 股成交额突破 400 万亿元，A 股这一年都有哪些看点？",
           "url": "https://www.zhihu.com/question/1986751461766484039",
           "source": "知乎",
@@ -2996,21 +3198,6 @@
           "time_info": "[13时25分 ~ 19时15分]"
         },
         {
-          "title": "数字人民币迎来重大调整",
-          "url": "https://www.toutiao.com/trending/7588860063851757594/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            9,
-            17,
-            21,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时18分 ~ 22时18分]"
-        },
-        {
           "title": "年终盘点|DeepSeek点燃AI热，贵金属引领周期逆袭，商业航天奏响年末最强音......一文看懂2025年A股热炒题材",
           "url": "https://www.cls.cn/detail/2242969",
           "source": "财联社热门",
@@ -3020,8 +3207,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时15分 ~ 22时18分]"
+          "appearance_count": 7,
+          "time_info": "[19时15分 ~ 23时17分]"
         },
         {
           "title": "A股沪指冲高回落录得9连阳，商业航天、人形机器人爆发，国投白银LOF日内巨震，沪银涨幅回落至5.7%，港股转跌",
@@ -3033,8 +3220,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时15分 ~ 22时18分]"
+          "appearance_count": 7,
+          "time_info": "[19时15分 ~ 23时17分]"
         },
         {
           "title": "金十数据整理：A股盘前市场要闻速递（2025-12-29）",
@@ -3068,6 +3255,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
+        },
+        {
+          "title": "乌称各方商讨顿巴斯“自由经济区”，俄称乌撤军为停战前提",
+          "url": "https://news.ifeng.com/c/8pU70l75MM2",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "特朗普：“谈判没有最后期限” 乌克兰重建工作带来经济利好",
@@ -3300,7 +3498,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -3382,6 +3580,17 @@
           "time_info": "16时24分"
         },
         {
+          "title": "刘晓春：数字人民币需突破支付局限",
+          "url": "https://www.toutiao.com/trending/7589245652937215539/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "越南央行：其他国家的关税和政策利率将在2026年影响越南经济。",
           "url": "https://flash.jin10.com/detail/20251229153047720800",
           "source": "金十数据",
@@ -3443,9 +3652,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
+        },
+        {
+          "title": "越疆：建议于深圳证券交易所进行A股上市计划",
+          "url": "https://wallstreetcn.com/livenews/3028205",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "2026年起数字人民币余额按存款计息",
@@ -3457,6 +3677,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
+        },
+        {
+          "title": "数字人民币计息银行会受冲击吗",
+          "url": "https://www.toutiao.com/trending/7589259320596893247/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "中证报：多因素支撑人民币汇率走强，双向波动仍将是常态",
@@ -3484,7 +3715,7 @@
     },
     {
       "keyword_group": "# --- 第六组：俄乌局势 --- 俄乌 俄罗斯 乌克兰 普京 泽连斯基 北约",
-      "match_count": 51,
+      "match_count": 53,
       "titles": [
         {
           "title": "俄乌在顿巴斯激烈攻防，明年1月或爆发重大战役(图)",
@@ -3558,8 +3789,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时18分 ~ 22时18分]"
+          "appearance_count": 9,
+          "time_info": "[18时18分 ~ 23时17分]"
         },
         {
           "title": "泽连斯基：美乌已就安全保障“达成一致”",
@@ -3768,6 +3999,17 @@
           "time_info": "[05时14分 ~ 06时15分]"
         },
         {
+          "title": "普京与泽连斯基可能进行通话？克宫回应",
+          "url": "https://news.ifeng.com/c/8pU63ORLi4p",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "乌克兰总统泽连斯基：举行公投至少需要60天的停火。",
           "url": "https://flash.jin10.com/detail/20251229170241097800",
           "source": "金十数据",
@@ -3911,6 +4153,17 @@
           "time_info": "18时19分"
         },
         {
+          "title": "泽连斯基说“和平计划”中尚有两大问题未解决",
+          "url": "https://wallstreetcn.com/livenews/3028217",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "乌克兰总统泽连斯基：希望乌克兰能在和平计划签署的同时获得安全保证。",
           "url": "https://flash.jin10.com/detail/20251229165507209800",
           "source": "金十数据",
@@ -3961,7 +4214,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -3972,7 +4225,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -3994,7 +4247,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -4005,7 +4258,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -4016,7 +4269,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -4027,7 +4280,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -4049,7 +4302,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -4071,7 +4324,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         }
@@ -4079,7 +4332,7 @@
     },
     {
       "keyword_group": "# --- 第四组：美股与科技 (去掉了具体的“财报”限制) --- 美股 纳指 道琼斯 标普 特斯拉 英伟达 苹果 微软 OpenAI",
-      "match_count": 18,
+      "match_count": 26,
       "titles": [
         {
           "title": "英伟达800伏电压“革命”：全球数据中心面临史上最大规模基础设施改造",
@@ -4106,8 +4359,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时22分 ~ 22时18分]"
+          "appearance_count": 12,
+          "time_info": "[15时22分 ~ 23时17分]"
         },
         {
           "title": "白银史诗级暴涨！市值超越苹果 晋升全球第三大资产",
@@ -4180,6 +4433,17 @@
           "time_info": "[21时34分 ~ 21时35分]"
         },
         {
+          "title": "美股指集体低开，纳指跌超0.7%，现货黄金单日跌超100美元，白银暴跌8%，伦铜逼近13000美元",
+          "url": "https://wallstreetcn.com/articles/3762238",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "美股股指期货周一基本平开。",
           "url": "https://flash.jin10.com/detail/20251229070023196800",
           "source": "金十数据",
@@ -4215,6 +4479,18 @@
           "time_info": "[20时33分 ~ 21时35分]"
         },
         {
+          "title": "美股三大期指集体走低 AI概念股盘前承压 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2243270",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时17分 ~ 23时17分]"
+        },
+        {
           "title": "巴菲特谢幕、OpenAI搅动万亿市值、谷歌强势崛起......2025全球十大商业事件盘点",
           "url": "https://wallstreetcn.com/articles/3762142",
           "source": "华尔街见闻",
@@ -4236,17 +4512,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[20时33分 ~ 21时35分]"
-        },
-        {
-          "title": "美股三大期指集体走低 AI概念股盘前承压 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2243270",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时17分 ~ 22时18分]"
         },
         {
           "title": "美股白银股盘前下跌，科尔矿业跌3.5%，赫克拉矿业跌3.3%，First Majestic白银跌3%，泛美白银跌2.4%，希尔威金属矿业跌2.3%，Endeavour Silver跌2.1%，此前白银从纪录高位回落。",
@@ -4303,23 +4568,101 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时33分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡与特斯拉CEO埃隆·马斯克讨论与特斯拉(TSLA.O)的合作。",
+          "url": "https://flash.jin10.com/detail/20251229224502300800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "金十图示：2025年12月29日（周一）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251229224031885800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "行业ETF美股盘初涨跌各异",
+          "url": "https://wallstreetcn.com/livenews/3028215",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "标普500指数低开26.34点，跌幅0.38%，报6903.60点； 道琼斯工业平均指数低开74.34点，跌幅0.15%，报48636.63点； 纳斯达克综合指数低开178.42点，跌幅0.76%，报23414.68点。",
+          "url": "https://wallstreetcn.com/livenews/3028212",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "英特尔(INTC.O)跌0.08%，英伟达(NVDA.O)跌2.1%，此前英特尔完成向英伟达出售价值50亿美元的普通股。",
+          "url": "https://flash.jin10.com/detail/20251229223247590800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "美股开盘，道指跌0.19%，标普500指数跌0.43%，纳指跌0.75%。贵金属价格日内重挫，矿业股普遍低开，泛美白银(PAAS.O)、科尔黛伦矿业(CDE.N)、哈莫尼黄金(HMY.N)、纽蒙特矿业(NEM.N)跌约5%。",
+          "url": "https://flash.jin10.com/detail/20251229223023088800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "英伟达斥资50亿美元入股英特尔，提供关键资金支持",
+          "url": "https://flash.jin10.com/detail/20251229222001579800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         }
       ]
     },
     {
       "keyword_group": "# --- 第五组：日本动态 (关键修改：去掉了外交限制) --- 日本 岸田文雄 自卫队 靖国神社 核污水",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "石破茂：我们没有充分认识到，日本在二战中做了什么",
           "url": "https://v.ifeng.com/c/8pTtuF3FVUf",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时18分 ~ 22时18分]"
+          "appearance_count": 9,
+          "time_info": "[18时18分 ~ 23时17分]"
         },
         {
           "title": "真人扮熊猫关笼,日本为吸客拼了",
@@ -4337,11 +4680,12 @@
             19,
             20,
             22,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时18分 ~ 22时18分]"
+          "appearance_count": 30,
+          "time_info": "[00时18分 ~ 23时17分]"
         },
         {
           "title": "日本知名巨头川崎重工承认造假，涉及数百台船舶和潜水艇，如何评价？暴露了哪些问题？",
@@ -4394,6 +4738,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时18分 ~ 05时14分]"
+        },
+        {
+          "title": "日本学者：高市错误言论无视法律，应撤回",
+          "url": "https://news.ifeng.com/c/8pU57xiYUsz",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "日本40年期国债收益率上升6个基点至3.65%。",
@@ -4476,6 +4831,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
+        },
+        {
+          "title": "尹正演日本侵略者：下班后觉得恶心",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%B9%E6%AD%A3%E6%BC%94%E6%97%A5%E6%9C%AC%E4%BE%B5%E7%95%A5%E8%80%85%EF%BC%9A%E4%B8%8B%E7%8F%AD%E5%90%8E%E8%A7%89%E5%BE%97%E6%81%B6%E5%BF%83",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "日经225指数收涨0.4%，报50526.92点。 日本东证指数收涨0.1%，报3426.52点。 韩国首尔综指收涨2.2%，报4220.56点。",
