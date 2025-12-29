@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-29T17:25:49.759280+08:00",
-  "total_titles_processed": 1352,
+  "generated_at": "2025-12-29T18:19:02.177873+08:00",
+  "total_titles_processed": 1428,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- 第一组：中国宏观 (去掉了必须词，只过滤娱乐) --- 中国 央视 外交部 国防部 解放军 人民日报 新华社",
-      "match_count": 92,
+      "match_count": 100,
       "titles": [
         {
           "title": "周末要闻汇总：官方明确明年继续“国补”，中国ETF迈入6万亿时刻",
@@ -37,11 +37,12 @@
           "ranks": [
             2,
             1,
-            4
+            4,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时44分 ~ 17时25分]"
+          "appearance_count": 10,
+          "time_info": "[11时44分 ~ 18时19分]"
         },
         {
           "title": "消失 30 年的「中国豹」重现北京附近，这一生态事件对当地生物多样性有何意义？",
@@ -97,6 +98,18 @@
           "time_info": "[11时44分 ~ 15时22分]"
         },
         {
+          "title": "都是重返地球，印度返回舱光洁如新，为什么中国返回舱是焦黑的？",
+          "url": "https://www.zhihu.com/question/3668990467",
+          "source": "知乎",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时44分 ~ 18时19分]"
+        },
+        {
           "title": "担任中国足协纪律与道德委员会首位主任的徐家力是谁？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32269477",
           "source": "澎湃新闻",
@@ -108,8 +121,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时18分 ~ 17时25分]"
+          "appearance_count": 23,
+          "time_info": "[00时18分 ~ 18时19分]"
         },
         {
           "title": "围岛链条越勒越紧 解放军演习区公布",
@@ -156,6 +169,19 @@
           "time_info": "[00时18分 ~ 13时25分]"
         },
         {
+          "title": "长期冒充“中国书法家协会主席”的骗子被抓，此前曾有人冒充书协副主席",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32270766",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时44分 ~ 18时19分]"
+        },
+        {
           "title": "中国足球协会设立纪律与道德委员会，徐家力担任委员会主任",
           "url": "https://m.thepaper.cn/newsDetail_forward_32269135",
           "source": "澎湃新闻",
@@ -180,8 +206,58 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时15分 ~ 16时24分]"
+          "appearance_count": 12,
+          "time_info": "[07时15分 ~ 18时19分]"
+        },
+        {
+          "title": "直击解放军演习现场",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9B%B4%E5%87%BB%E8%A7%A3%E6%94%BE%E5%86%9B%E6%BC%94%E4%B9%A0%E7%8E%B0%E5%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时22分 ~ 18时19分]"
+        },
+        {
+          "title": "解放军台岛周边演习现场画面",
+          "url": "https://www.baidu.com/s?wd=%E8%A7%A3%E6%94%BE%E5%86%9B%E5%8F%B0%E5%B2%9B%E5%91%A8%E8%BE%B9%E6%BC%94%E4%B9%A0%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            1,
+            22,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时44分 ~ 18时19分]"
+        },
+        {
+          "title": "演习区域图对比：时隔一年，解放军演习离台岛越来越近",
+          "url": "https://www.cls.cn/detail/2242540",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时44分 ~ 18时19分]"
+        },
+        {
+          "title": "外交部：中方坚决反对以色列承认索马里兰",
+          "url": "https://news.ifeng.com/c/8pTt7aWtpJ6",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时24分 ~ 18时19分]"
         },
         {
           "title": "解放军演习离台岛越来越近",
@@ -199,16 +275,16 @@
           "time_info": "[09时17分 ~ 14时27分]"
         },
         {
-          "title": "都是重返地球，印度返回舱光洁如新，为什么中国返回舱是焦黑的？",
-          "url": "https://www.zhihu.com/question/3668990467",
-          "source": "知乎",
+          "title": "海警给台湾打了个中国结",
+          "url": "https://www.baidu.com/s?wd=%E6%B5%B7%E8%AD%A6%E7%BB%99%E5%8F%B0%E6%B9%BE%E6%89%93%E4%BA%86%E4%B8%AA%E4%B8%AD%E5%9B%BD%E7%BB%93",
+          "source": "百度热搜",
           "ranks": [
             4,
-            6
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时44分 ~ 17时25分]"
+          "appearance_count": 4,
+          "time_info": "[16时24分 ~ 18时19分]"
         },
         {
           "title": "中国驻巴拿马使馆：极度震惊、强烈愤慨、坚决反对！",
@@ -251,30 +327,28 @@
           "time_info": "[11时44分 ~ 16时24分]"
         },
         {
-          "title": "长期冒充“中国书法家协会主席”的骗子被抓，此前曾有人冒充书协副主席",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32270766",
-          "source": "澎湃新闻",
+          "title": "解放军演习现场画面",
+          "url": "https://www.douyin.com/hot/2350657",
+          "source": "抖音",
           "ranks": [
+            10,
             11,
-            9,
-            10
+            8
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[11时44分 ~ 17时25分]"
+          "time_info": "[12时44分 ~ 18时19分]"
         },
         {
-          "title": "解放军台岛周边演习现场画面",
-          "url": "https://www.baidu.com/s?wd=%E8%A7%A3%E6%94%BE%E5%86%9B%E5%8F%B0%E5%B2%9B%E5%91%A8%E8%BE%B9%E6%BC%94%E4%B9%A0%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2",
-          "source": "百度热搜",
+          "title": "2025各国青年眼中的中国是这样的",
+          "url": "https://www.douyin.com/hot/2350967",
+          "source": "抖音",
           "ranks": [
-            8,
-            1,
-            22
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时44分 ~ 17时25分]"
+          "appearance_count": 3,
+          "time_info": "[17时25分 ~ 18时19分]"
         },
         {
           "title": "解放军历次演习带来了什么",
@@ -293,40 +367,28 @@
           "time_info": "[12时44分 ~ 17时25分]"
         },
         {
-          "title": "直击解放军演习现场",
-          "url": "https://search.bilibili.com/all?keyword=%E7%9B%B4%E5%87%BB%E8%A7%A3%E6%94%BE%E5%86%9B%E6%BC%94%E4%B9%A0%E7%8E%B0%E5%9C%BA",
-          "source": "bilibili 热搜",
+          "title": "海警给台湾打了个中国结",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B5%B7%E8%AD%A6%E7%BB%99%E5%8F%B0%E6%B9%BE%E6%89%93%E4%BA%86%E4%B8%AA%E4%B8%AD%E5%9B%BD%E7%BB%93%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
           "ranks": [
-            4
+            2,
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时22分 ~ 17时25分]"
+          "appearance_count": 4,
+          "time_info": "[16时24分 ~ 18时19分]"
         },
         {
-          "title": "演习区域图对比：时隔一年，解放军演习离台岛越来越近",
-          "url": "https://www.cls.cn/detail/2242540",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时44分 ~ 17时25分]"
-        },
-        {
-          "title": "外交部：中方坚决反对以色列承认索马里兰",
-          "url": "https://news.ifeng.com/c/8pTt7aWtpJ6",
-          "source": "凤凰网",
+          "title": "外交部回应美方是不是外部干涉势力",
+          "url": "https://www.toutiao.com/trending/7589182414094925865/",
+          "source": "今日头条",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时24分 ~ 17时25分]"
+          "time_info": "[18时18分 ~ 18时19分]"
         },
         {
           "title": "中国AES100发动机配装全球首款6吨级倾转旋翼机成功首飞",
@@ -401,28 +463,15 @@
           "time_info": "[00时19分 ~ 06时15分]"
         },
         {
-          "title": "海警给台湾打了个中国结",
-          "url": "https://www.baidu.com/s?wd=%E6%B5%B7%E8%AD%A6%E7%BB%99%E5%8F%B0%E6%B9%BE%E6%89%93%E4%BA%86%E4%B8%AA%E4%B8%AD%E5%9B%BD%E7%BB%93",
-          "source": "百度热搜",
+          "title": "美方是不是中方提到的“外部干涉势力”？外交部回应",
+          "url": "https://news.ifeng.com/c/8pTuM1d8lYR",
+          "source": "凤凰网",
           "ranks": [
-            4,
-            1
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时24分 ~ 17时25分]"
-        },
-        {
-          "title": "海警给台湾打了个中国结",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B5%B7%E8%AD%A6%E7%BB%99%E5%8F%B0%E6%B9%BE%E6%89%93%E4%BA%86%E4%B8%AA%E4%B8%AD%E5%9B%BD%E7%BB%93%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时24分 ~ 17时25分]"
+          "time_info": "[18时18分 ~ 18时19分]"
         },
         {
           "title": "解放军为何此时开展对台演习",
@@ -434,6 +483,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时17分 ~ 09时18分]"
+        },
+        {
+          "title": "“兹事体大”，德国工业衰退，德最大工会又扯中国…",
+          "url": "https://news.ifeng.com/c/8pTt4m9VzD1",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时18分 ~ 18时19分]"
         },
         {
           "title": "中国奇谭2终极PV发布",
@@ -453,18 +513,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时25分"
-        },
-        {
-          "title": "中国能建：联合体中标68.64亿元生态综合治理项目",
-          "url": "https://wallstreetcn.com/livenews/3028058",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         },
@@ -484,27 +533,28 @@
           "time_info": "[11时44分 ~ 16时24分]"
         },
         {
-          "title": "解放军演习现场画面",
-          "url": "https://www.douyin.com/hot/2350657",
-          "source": "抖音",
+          "title": "4连板中国卫星：股价脱离基本面 存在估值偏高、换手率较高风险",
+          "url": "https://wallstreetcn.com/livenews/3028077",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时44分 ~ 17时25分]"
-        },
-        {
-          "title": "2025各国青年眼中的中国是这样的",
-          "url": "https://www.douyin.com/hot/2350967",
-          "source": "抖音",
-          "ranks": [
-            3
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时25分"
+          "time_info": "18时19分"
+        },
+        {
+          "title": "海警给台湾打了个中国结",
+          "url": "https://www.toutiao.com/trending/7588381732446015012/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时24分 ~ 18时19分]"
         },
         {
           "title": "灵心巧手完成年内第5轮融资，红杉中国、CCV参投",
@@ -535,7 +585,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         },
@@ -567,16 +617,39 @@
           "time_info": "[12时44分 ~ 16时24分]"
         },
         {
-          "title": "海警给台湾打了个中国结",
-          "url": "https://www.toutiao.com/trending/7588381732446015012/",
-          "source": "今日头条",
+          "title": "泽连斯基称未见中方有意愿协助推动和平，外交部回应",
+          "url": "https://news.ifeng.com/c/8pTrcBiqoTb",
+          "source": "凤凰网",
           "ranks": [
-            5,
-            7
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时24分 ~ 18时19分]"
+        },
+        {
+          "title": "中国能建：联合体中标68.64亿元生态综合治理项目",
+          "url": "https://wallstreetcn.com/livenews/3028058",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时24分 ~ 17时25分]"
+          "time_info": "[17时25分 ~ 18时19分]"
+        },
+        {
+          "title": "美报告承认：检查了92台中国起重机，安全得很",
+          "url": "https://news.ifeng.com/c/8pTl6mXAifj",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时24分 ~ 18时19分]"
         },
         {
           "title": "台退将：解放军一块演习区域针对日本",
@@ -641,6 +714,18 @@
           "time_info": "[09时17分 ~ 11时45分]"
         },
         {
+          "title": "解放军此次演习为何划分5个区域",
+          "url": "https://www.toutiao.com/trending/7589140777243000858/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时25分 ~ 18时19分]"
+        },
+        {
           "title": "专家：解放军围台军演三细节不容忽视",
           "url": "https://www.toutiao.com/trending/7589161873363177014/",
           "source": "今日头条",
@@ -664,6 +749,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时15分 ~ 09时18分]"
+        },
+        {
+          "title": "中国古建还是太超前了",
+          "url": "https://www.douyin.com/hot/2350949",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时25分 ~ 18时19分]"
         },
         {
           "title": "解放军为何周一早上演训",
@@ -691,26 +787,16 @@
           "time_info": "[14时27分 ~ 16时24分]"
         },
         {
-          "title": "泽连斯基称未见中方有意愿协助推动和平，外交部回应",
-          "url": "https://news.ifeng.com/c/8pTrcBiqoTb",
-          "source": "凤凰网",
+          "title": "安踏助力十支中国国家队征战米兰",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%89%E8%B8%8F%E5%8A%A9%E5%8A%9B%E5%8D%81%E6%94%AF%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%AE%B6%E9%98%9F%E5%BE%81%E6%88%98%E7%B1%B3%E5%85%B0%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
           "ranks": [
-            6
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时24分 ~ 17时25分]"
-        },
-        {
-          "title": "美报告承认：检查了92台中国起重机，安全得很",
-          "url": "https://news.ifeng.com/c/8pTl6mXAifj",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时24分 ~ 17时25分]"
+          "appearance_count": 3,
+          "time_info": "[17时25分 ~ 18时19分]"
         },
         {
           "title": "媒体：国际社会一致认可中国斡旋柬泰",
@@ -850,6 +936,17 @@
           "time_info": "[11时44分 ~ 11时45分]"
         },
         {
+          "title": "专家：解放军可精准制裁“台独”分子",
+          "url": "https://www.toutiao.com/trending/7589146357153021958/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时18分 ~ 18时19分]"
+        },
+        {
           "title": "岛内学者：解放军军演对美传递讯号",
           "url": "https://www.toutiao.com/trending/7589081188493574195/",
           "source": "今日头条",
@@ -984,17 +1081,6 @@
           "time_info": "16时24分"
         },
         {
-          "title": "中国古建还是太超前了",
-          "url": "https://www.douyin.com/hot/2350949",
-          "source": "抖音",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时25分"
-        },
-        {
           "title": "本重要事件与数据预告：中国官方制造业PMI、美联储会议纪要、元旦假期将至",
           "url": "https://flash.jin10.com/detail/20251229062825932800",
           "source": "金十数据",
@@ -1006,6 +1092,17 @@
           "time_info": "07时15分"
         },
         {
+          "title": "金十图示：2018年9月至2025年11月中国香港对内地黄金净出口量一览",
+          "url": "https://flash.jin10.com/detail/20251229174219267800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
           "title": "人民日报钟声：以求同存异妥处双方分歧——二〇二五中美经贸启示录③",
           "url": "https://m.thepaper.cn/newsDetail_forward_32267828",
           "source": "澎湃新闻",
@@ -1015,6 +1112,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "俄罗斯国防部：俄罗斯军队在特别军事行动区巩固阵地。",
+          "url": "https://flash.jin10.com/detail/20251229174202088800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
+          "title": "俄罗斯国防部：过去24小时内击落140架乌克兰无人机。",
+          "url": "https://flash.jin10.com/detail/20251229173352710800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
         },
         {
           "title": "欢迎进入链接网页右侧下载本周财经数据与事件精美周历壁纸：今日中国贸促会召开12月例行新闻发布会，介绍组织中国企业家代表团访美成果等。",
@@ -1050,17 +1169,6 @@
           "time_info": "15时22分"
         },
         {
-          "title": "安踏助力十支中国国家队征战米兰",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%89%E8%B8%8F%E5%8A%A9%E5%8A%9B%E5%8D%81%E6%94%AF%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%AE%B6%E9%98%9F%E5%BE%81%E6%88%98%E7%B1%B3%E5%85%B0%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时25分"
-        },
-        {
           "title": "金十图示：2025年12月29日（周一）中国工商银行账户贵金属行情",
           "url": "https://flash.jin10.com/detail/20251229102141744800",
           "source": "金十数据",
@@ -1070,17 +1178,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时45分"
-        },
-        {
-          "title": "解放军此次演习为何划分5个区域",
-          "url": "https://www.toutiao.com/trending/7589140777243000858/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时25分"
         },
         {
           "title": "大V：中国“武装货轮”火力堪比驱逐舰",
@@ -1130,7 +1227,7 @@
     },
     {
       "keyword_group": "# --- 第三组：美国宏观与军事 --- 美国 白宫 五角大楼 美军 美联储 布林肯 拜登 特朗普",
-      "match_count": 91,
+      "match_count": 99,
       "titles": [
         {
           "title": "元旦周重磅日程：美联储主席或揭晓，巴菲特退休，“港股GPU第一股”挂牌",
@@ -1141,8 +1238,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时18分 ~ 17时25分]"
+          "appearance_count": 23,
+          "time_info": "[00时18分 ~ 18时19分]"
         },
         {
           "title": "特朗普：不排除亲自前往乌克兰",
@@ -1178,11 +1275,12 @@
             16,
             17,
             20,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[02时22分 ~ 17时25分]"
+          "appearance_count": 19,
+          "time_info": "[02时22分 ~ 18时19分]"
         },
         {
           "title": "Ed Yardeni 2026展望：美国不衰退，标普7700，美债收益率超4%，金价6000美元",
@@ -1303,6 +1401,21 @@
           "time_info": "[00时19分 ~ 06时15分]"
         },
         {
+          "title": "特朗普当众施压泽连斯基",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%BD%93%E4%BC%97%E6%96%BD%E5%8E%8B%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            24,
+            20,
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时44分 ~ 18时19分]"
+        },
+        {
           "title": "乌克兰总统泽连斯基抵达美国佛罗里达州，即将会见美国总统特朗普。",
           "url": "https://wallstreetcn.com/livenews/3027672",
           "source": "华尔街见闻-快讯",
@@ -1352,6 +1465,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时17分 ~ 09时18分]"
+        },
+        {
+          "title": "被美国制裁后，欧盟前官员抱怨：咱们太软弱，必须站起来",
+          "url": "https://news.ifeng.com/c/8pTqXnJ8tEC",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时18分 ~ 18时19分]"
         },
         {
           "title": "特朗普称俄乌均有意结束冲突，美乌将达成安全协议",
@@ -1468,21 +1592,6 @@
           "time_info": "[03时13分 ~ 07时15分]"
         },
         {
-          "title": "特朗普当众施压泽连斯基",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%BD%93%E4%BC%97%E6%96%BD%E5%8E%8B%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            24,
-            20,
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时44分 ~ 17时25分]"
-        },
-        {
           "title": "金十整理：下周重要事件与数据预告——美联储会议纪要、全球多地市场因元旦假期调整交易时间",
           "url": "https://flash.jin10.com/detail/20251228210304492800",
           "source": "金十数据",
@@ -1533,6 +1642,17 @@
           "time_info": "07时15分"
         },
         {
+          "title": "俄罗斯总统新闻秘书佩斯科夫：普京和特朗普近期将再次通话，普京与泽连斯基通话目前不在议程之内。（IFX）",
+          "url": "https://wallstreetcn.com/livenews/3028074",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
           "title": "MAGA“叛徒”喊话特朗普：我们能不能就关注美国？",
           "url": "https://news.ifeng.com/c/8pTlUTKXGWO",
           "source": "凤凰网",
@@ -1543,6 +1663,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时22分 ~ 17时25分]"
+        },
+        {
+          "title": "克里姆林宫称同意特朗普有关乌克兰和平进程更进一步的说法。（塔斯社）",
+          "url": "https://wallstreetcn.com/livenews/3028086",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
+          "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32272421",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时22分 ~ 18时19分]"
         },
         {
           "title": "美银CEO：预计明年特朗普政府将缓和关税局势",
@@ -1644,16 +1787,15 @@
           "time_info": "[12时44分 ~ 15时22分]"
         },
         {
-          "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32272421",
-          "source": "澎湃新闻",
+          "title": "美联储新主席5月上任“利好出尽”？野村：明年7-11月的美国市场“需要特别警惕”",
+          "url": "https://wallstreetcn.com/articles/3762224",
+          "source": "华尔街见闻",
           "ranks": [
-            15,
-            18
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时22分 ~ 17时25分]"
+          "time_info": "[17时25分 ~ 18时19分]"
         },
         {
           "title": "博主深度解读美国“斩杀线”",
@@ -1737,6 +1879,18 @@
           "time_info": "[09时17分 ~ 09时18分]"
         },
         {
+          "title": "泽连斯基请求特朗普提供30-50年的安全保障。泽连斯基称，特朗普告诉他会考虑这一请求。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3028027",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 18时19分]"
+        },
+        {
           "title": "学者：美国需清楚中方反制释放的信号",
           "url": "https://www.toutiao.com/trending/7589043583027216434/",
           "source": "今日头条",
@@ -1792,6 +1946,17 @@
           "time_info": "07时15分"
         },
         {
+          "title": "克里姆林宫：预计俄罗斯总统普京与美国总统特朗普的通话很快就会举行。",
+          "url": "https://flash.jin10.com/detail/20251229175227087800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
           "title": "美国总统特朗普：顿巴斯问题仍未解决，但我认为最终会得到解决。",
           "url": "https://flash.jin10.com/detail/20251229060059959800",
           "source": "金十数据",
@@ -1814,6 +1979,17 @@
           "time_info": "07时15分"
         },
         {
+          "title": "克里姆林宫：重要的是要记住，美国总统特朗普曾表示，乌克兰正在失去领土，并可能失去更多领土。",
+          "url": "https://flash.jin10.com/detail/20251229175219434800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
           "title": "美国总统特朗普：俄罗斯想要结束这场战争。",
           "url": "https://flash.jin10.com/detail/20251229060057876800",
           "source": "金十数据",
@@ -1834,17 +2010,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
-        },
-        {
-          "title": "美联储新主席5月上任“利好出尽”？野村：明年7-11月的美国市场“需要特别警惕”",
-          "url": "https://wallstreetcn.com/articles/3762224",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时25分"
         },
         {
           "title": "特朗普与泽连斯基开始会晤",
@@ -1878,6 +2043,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "克里姆林宫：（就美国总统特朗普有关乌克兰和平协议更接近达成的言论）我们当然同意。",
+          "url": "https://flash.jin10.com/detail/20251229175043199800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
         },
         {
           "title": "特朗普与泽连斯基未谈妥领土问题",
@@ -1952,7 +2128,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         },
@@ -1966,17 +2142,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
-        },
-        {
-          "title": "泽连斯基请求特朗普提供30-50年的安全保障。泽连斯基称，特朗普告诉他会考虑这一请求。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3028027",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时25分"
         },
         {
           "title": "欧盟委员会主席冯德莱恩：和平计划取得了良好进展，欧洲已准备好继续与乌克兰和美国合作，以巩固这些进展。",
@@ -1996,7 +2161,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         },
@@ -2051,9 +2216,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：已告知美国总统特朗普，俄罗斯总统普京关于准备结束冲突的言论与其实际行动并不一致。",
+          "url": "https://flash.jin10.com/detail/20251229173217920800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
         },
         {
           "title": "美国总统特朗普：俄罗斯将帮助乌克兰重建。普京曾慷慨地帮助了乌克兰，包括以低价供应能源。",
@@ -2106,7 +2282,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         },
@@ -2139,7 +2315,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         },
@@ -2208,12 +2384,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
+        },
+        {
+          "title": "泽连斯基：特朗普告诉我，他曾与普京讨论过20点计划。 在特朗普和欧洲领导人就文件达成同意后，与俄罗斯举行会晤是可能的。 希望乌克兰在和平计划签署的同时获得安全保障。 20点计划应提交公投，至少需要60天的停火才能举行公投。 乌克兰和美国将共同努力达成自由贸易协定。",
+          "url": "https://wallstreetcn.com/livenews/3028029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
         }
       ]
     },
     {
       "keyword_group": "# --- 第二组：中国经济与A股 (保留宽泛的行情词) --- A股 上证 深证 恒生 人民币 汇率 经济 GDP",
-      "match_count": 36,
+      "match_count": 38,
       "titles": [
         {
           "title": "拟易主特种机器人龙头的胜通能源月内股价涨超210% 12月披露并购重组进展的A股名单一览",
@@ -2247,6 +2434,22 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时18分 ~ 09时18分]"
+        },
+        {
+          "title": "权威专家谈人民币汇率“破7”：系多空分歧点位，切忌赌汇率走势",
+          "url": "https://www.cls.cn/detail/2242394",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            10,
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时44分 ~ 18时19分]"
         },
         {
           "title": "龙头8连板 本周披露并购重组进展的A股名单一览",
@@ -2287,31 +2490,31 @@
           "time_info": "[11时44分 ~ 17时25分]"
         },
         {
-          "title": "权威专家谈人民币汇率“破7”：系多空分歧点位，切忌赌汇率走势",
-          "url": "https://www.cls.cn/detail/2242394",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9,
-            10,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时44分 ~ 17时25分]"
-        },
-        {
           "title": "2025全球经济概览",
           "url": "https://search.bilibili.com/all?keyword=2025%E5%85%A8%E7%90%83%E7%BB%8F%E6%B5%8E%E6%A6%82%E8%A7%88",
           "source": "bilibili 热搜",
           "ranks": [
             2,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时25分 ~ 17时25分]"
+          "appearance_count": 7,
+          "time_info": "[13时25分 ~ 18时19分]"
+        },
+        {
+          "title": "2025 年上证指数重回 4000 点，A 股成交额突破 400 万亿元，A 股这一年都有哪些看点？",
+          "url": "https://www.zhihu.com/question/1986751461766484039",
+          "source": "知乎",
+          "ranks": [
+            20,
+            10,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时25分 ~ 18时19分]"
         },
         {
           "title": "金十数据整理：A股盘前市场要闻速递（2025-12-29）",
@@ -2347,6 +2550,17 @@
           "time_info": "13时25分"
         },
         {
+          "title": "克里姆林宫：（就顿巴斯自由经济区/扎波罗热核电站的问题）我们认为公开讨论此事不妥。",
+          "url": "https://flash.jin10.com/detail/20251229175259892800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
           "title": "多家A股公司打响年末“保壳大战”",
           "url": "https://wallstreetcn.com/livenews/3027711",
           "source": "华尔街见闻-快讯",
@@ -2356,20 +2570,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
-        },
-        {
-          "title": "2025 年上证指数重回 4000 点，A 股成交额突破 400 万亿元，A 股这一年都有哪些看点？",
-          "url": "https://www.zhihu.com/question/1986751461766484039",
-          "source": "知乎",
-          "ranks": [
-            20,
-            10,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时25分 ~ 17时25分]"
         },
         {
           "title": "上证指数早盘收报3975.92点，涨0.31%。 深证成指早盘收报13607.39点，涨0.03%。 创业板指早盘收报3233.53点，跌0.32%。 沪深300早盘收报4660.90点，涨0.08%。 科创50早盘收报1358.01点，涨0.91%。 中证500早盘收报7473.69点，涨0.20%。 中证1000早盘收报7620.47点，涨0.20%。",
@@ -2480,6 +2680,17 @@
           "time_info": "[15时22分 ~ 16时24分]"
         },
         {
+          "title": "数字人民币迎来重大调整",
+          "url": "https://www.toutiao.com/trending/7588860063851757594/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时18分 ~ 18时19分]"
+        },
+        {
           "title": "A股三大指数集体翻红，创业板指此前一度跌近1%。",
           "url": "https://wallstreetcn.com/livenews/3027838",
           "source": "华尔街见闻-快讯",
@@ -2490,6 +2701,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时45分 ~ 12时44分]"
+        },
+        {
+          "title": "在岸人民币兑美元北京时间16:30官方收报7.0098，较上一交易日官方收盘价跌13点，较上日夜盘收盘跌35点。",
+          "url": "https://wallstreetcn.com/livenews/3028022",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 18时19分]"
         },
         {
           "title": "金十整理：从“口头博弈”到“真金白银” 2025全球各国汇率“保卫战”回顾",
@@ -2602,17 +2825,6 @@
           "time_info": "07时15分"
         },
         {
-          "title": "在岸人民币兑美元北京时间16:30官方收报7.0098，较上一交易日官方收盘价跌13点，较上日夜盘收盘跌35点。",
-          "url": "https://wallstreetcn.com/livenews/3028022",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时25分"
-        },
-        {
           "title": "中证报：多因素支撑人民币汇率走强，双向波动仍将是常态",
           "url": "https://wallstreetcn.com/livenews/3027741",
           "source": "华尔街见闻-快讯",
@@ -2638,7 +2850,7 @@
     },
     {
       "keyword_group": "# --- 第六组：俄乌局势 --- 俄乌 俄罗斯 乌克兰 普京 泽连斯基 北约",
-      "match_count": 26,
+      "match_count": 34,
       "titles": [
         {
           "title": "俄乌在顿巴斯激烈攻防，明年1月或爆发重大战役(图)",
@@ -2772,6 +2984,17 @@
           "time_info": "[09时17分 ~ 09时18分]"
         },
         {
+          "title": "俄乌和谈预期提振市场信心 俄罗斯MOEX指数创三个多月新高",
+          "url": "https://flash.jin10.com/detail/20251229180919151800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
           "title": "俄罗斯发射“一箭52星”",
           "url": "https://flash.jin10.com/detail/20251228215137562800",
           "source": "金十数据",
@@ -2791,7 +3014,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         },
@@ -2802,9 +3025,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
+        },
+        {
+          "title": "扎波罗热核电站负责人表示，一旦俄乌冲突结束，该核电站有望在18个月内重启。",
+          "url": "https://flash.jin10.com/detail/20251229175622800800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
         },
         {
           "title": "乌克兰总统泽连斯基：和平相关的决定取决于基辅的合作伙伴。",
@@ -2866,6 +3100,17 @@
           "time_info": "[00时19分 ~ 02时22分]"
         },
         {
+          "title": "俄外长警告欧洲：如果袭击俄罗斯，我们会作出“毁灭性回击”",
+          "url": "https://news.ifeng.com/c/8pTz7ttHdj8",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时18分 ~ 18时19分]"
+        },
+        {
           "title": "俄总统助理：俄美总统均认为临时停火只会延长俄乌冲突",
           "url": "https://flash.jin10.com/detail/20251229041021730800",
           "source": "金十数据",
@@ -2884,9 +3129,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
+        },
+        {
+          "title": "克里姆林宫：目前未讨论任何有关俄罗斯总统普京与乌克兰总统泽连斯基通话的问题。",
+          "url": "https://flash.jin10.com/detail/20251229175143524800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
+          "title": "克里姆林宫：乌克兰应从其部队控制的顿巴斯地区撤出军队。",
+          "url": "https://flash.jin10.com/detail/20251229175107717800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
         },
         {
           "title": "乌克兰总统泽连斯基：我们（美乌会谈）谈到了全民公投，可以将其用于20点和平计划。议会可以投票或举行全民公投。",
@@ -2900,13 +3167,35 @@
           "time_info": "06时15分"
         },
         {
+          "title": "克里姆林宫：俄罗斯正考虑在实现其目标的背景下结束冲突。",
+          "url": "https://flash.jin10.com/detail/20251229175052267800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：扎波罗热核电站和领土问题在20点计划中仍未得到解决。",
+          "url": "https://flash.jin10.com/detail/20251229174841119800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
           "title": "乌克兰总统泽连斯基：希望乌克兰能在和平计划签署的同时获得安全保证。",
           "url": "https://flash.jin10.com/detail/20251229165507209800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         },
@@ -2922,13 +3211,24 @@
           "time_info": "06时15分"
         },
         {
+          "title": "乌克兰总统泽连斯基：外国军队驻扎在乌克兰将是真正的安全保证。",
+          "url": "https://flash.jin10.com/detail/20251229173812007800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
           "title": "乌克兰总统泽连斯基：接下来将与欧洲领导人会晤。",
           "url": "https://flash.jin10.com/detail/20251229164721722800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         },
@@ -2958,7 +3258,7 @@
     },
     {
       "keyword_group": "# --- 第五组：日本动态 (关键修改：去掉了外交限制) --- 日本 岸田文雄 自卫队 靖国神社 核污水",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "真人扮熊猫关笼,日本为吸客拼了",
@@ -2972,11 +3272,12 @@
             13,
             14,
             17,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时18分 ~ 17时25分]"
+          "appearance_count": 23,
+          "time_info": "[00时18分 ~ 18时19分]"
         },
         {
           "title": "日本知名巨头川崎重工承认造假，涉及数百台船舶和潜水艇，如何评价？暴露了哪些问题？",
@@ -2987,8 +3288,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时17分 ~ 17时25分]"
+          "appearance_count": 12,
+          "time_info": "[09时17分 ~ 18时19分]"
+        },
+        {
+          "title": "石破茂：我们没有充分认识到，日本在二战中做了什么",
+          "url": "https://v.ifeng.com/c/8pTtuF3FVUf",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时18分 ~ 18时19分]"
         },
         {
           "title": "俄罗斯外长拉夫罗夫：俄罗斯敦促日本认真考虑其军事化进程。",
@@ -3117,7 +3429,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         },
@@ -3170,8 +3482,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时18分 ~ 17时25分]"
+          "appearance_count": 23,
+          "time_info": "[00时18分 ~ 18时19分]"
         },
         {
           "title": "特斯拉回应女子30多万买到老款车",
@@ -3191,6 +3503,21 @@
           "time_info": "[00时18分 ~ 09时18分]"
         },
         {
+          "title": "白银史诗级暴涨！市值超越苹果 晋升全球第三大资产",
+          "url": "https://www.cls.cn/detail/2242570",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            6,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时25分 ~ 18时19分]"
+        },
+        {
           "title": "苹果手机真的可以用上六年吗？",
           "url": "https://www.zhihu.com/question/1970032679488579040",
           "source": "知乎",
@@ -3207,21 +3534,6 @@
           "time_info": "[01时13分 ~ 07时15分]"
         },
         {
-          "title": "白银史诗级暴涨！市值超越苹果 晋升全球第三大资产",
-          "url": "https://www.cls.cn/detail/2242570",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8,
-            6,
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时25分 ~ 17时25分]"
-        },
-        {
           "title": "美股股指期货周一基本平开。",
           "url": "https://flash.jin10.com/detail/20251229070023196800",
           "source": "金十数据",
@@ -3231,6 +3543,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "宝马销冠试行特斯拉「一口价」8 天卖出 11 台，这对传统车企销售模式有何借鉴意义？",
+          "url": "https://www.zhihu.com/question/1988052599975466209",
+          "source": "知乎",
+          "ranks": [
+            19,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时22分 ~ 18时19分]"
         },
         {
           "title": "全球资产榜再刷新：白银跃居第三 剑指英伟达",
@@ -3256,26 +3581,13 @@
           "time_info": "[12时44分 ~ 14时27分]"
         },
         {
-          "title": "宝马销冠试行特斯拉「一口价」8 天卖出 11 台，这对传统车企销售模式有何借鉴意义？",
-          "url": "https://www.zhihu.com/question/1988052599975466209",
-          "source": "知乎",
-          "ranks": [
-            19,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时22分 ~ 17时25分]"
-        },
-        {
           "title": "美股三大股指期货走低，标普500指数期货下跌0.3%，纳斯达克100指数期货下跌0.5%，道琼斯指数期货下跌0.1%。",
           "url": "https://flash.jin10.com/detail/20251229170123670800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         }
