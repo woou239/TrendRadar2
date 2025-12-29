@@ -1,22 +1,23 @@
 {
-  "generated_at": "2025-12-29T07:15:27.543869+08:00",
-  "total_titles_processed": 501,
+  "generated_at": "2025-12-29T09:18:16.514762+08:00",
+  "total_titles_processed": 671,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- 第三组：美国宏观与军事 --- 美国 白宫 五角大楼 美军 美联储 布林肯 拜登 特朗普",
-      "match_count": 60,
+      "match_count": 74,
       "titles": [
         {
           "title": "元旦周重磅日程：美联储主席或揭晓，巴菲特退休，“港股GPU第一股”挂牌",
           "url": "https://wallstreetcn.com/articles/3762120",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时18分 ~ 07时15分]"
+          "appearance_count": 13,
+          "time_info": "[00时18分 ~ 09时18分]"
         },
         {
           "title": "美国社会现状,传奇调查员早看透",
@@ -26,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时22分 ~ 07时15分]"
+          "appearance_count": 9,
+          "time_info": "[02时22分 ~ 09时18分]"
         },
         {
           "title": "泽连斯基：我想跟特朗普谈5个问题",
@@ -45,11 +46,12 @@
           "url": "https://wallstreetcn.com/articles/3762200",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时18分 ~ 07时15分]"
+          "appearance_count": 13,
+          "time_info": "[00时18分 ~ 09时18分]"
         },
         {
           "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
@@ -162,6 +164,28 @@
           "time_info": "[00时19分 ~ 05时14分]"
         },
         {
+          "title": "特朗普：不排除亲自前往乌克兰",
+          "url": "https://news.ifeng.com/c/8pTDPPdlvje",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时17分 ~ 09时18分]"
+        },
+        {
+          "title": "特朗普与泽连斯基会晤",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E4%BC%9A%E6%99%A4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时17分 ~ 09时18分]"
+        },
+        {
           "title": "特朗普称俄乌均有意结束冲突，美乌将达成安全协议",
           "url": "https://wallstreetcn.com/livenews/3027691",
           "source": "华尔街见闻-快讯",
@@ -245,7 +269,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -256,7 +280,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -310,7 +334,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -321,7 +345,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -412,6 +436,28 @@
           "time_info": "[04时17分 ~ 07时15分]"
         },
         {
+          "title": "日媒炒作“台湾有事，美军放弃撤离冲绳”",
+          "url": "https://news.ifeng.com/c/8pT82xvZEL8",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时17分 ~ 09时18分]"
+        },
+        {
+          "title": "美网友承认美国斩杀线是事实",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E7%BD%91%E5%8F%8B%E6%89%BF%E8%AE%A4%E7%BE%8E%E5%9B%BD%E6%96%A9%E6%9D%80%E7%BA%BF%E6%98%AF%E4%BA%8B%E5%AE%9E&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时17分 ~ 09时18分]"
+        },
+        {
           "title": "特朗普见泽连斯基前先与普京通话",
           "url": "https://flash.jin10.com/detail/20251229041258772800",
           "source": "金十数据",
@@ -436,6 +482,72 @@
           "time_info": "[05时14分 ~ 06时15分]"
         },
         {
+          "title": "特朗普称俄乌“接近达成协议”",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%BF%84%E4%B9%8C%E2%80%9C%E6%8E%A5%E8%BF%91%E8%BE%BE%E6%88%90%E5%8D%8F%E8%AE%AE%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时17分 ~ 09时18分]"
+        },
+        {
+          "title": "特朗普称美军对委内瑞拉一目标实施秘密打击",
+          "url": "https://news.ifeng.com/c/8pTKjz1vjXV",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时17分 ~ 09时18分]"
+        },
+        {
+          "title": "特朗普再次就泰柬停火邀功说了啥",
+          "url": "https://www.toutiao.com/trending/7589048685074320939/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时17分 ~ 09时18分]"
+        },
+        {
+          "title": "学者：美国需清楚中方反制释放的信号",
+          "url": "https://www.toutiao.com/trending/7589043583027216434/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时17分 ~ 09时18分]"
+        },
+        {
+          "title": "美国将在特朗普任期内重返月球",
+          "url": "https://www.douyin.com/hot/2350218",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时17分 ~ 09时18分]"
+        },
+        {
+          "title": "学者：“斩杀线”揭开美国低容错残酷",
+          "url": "https://www.toutiao.com/trending/7588465380675616774/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时17分 ~ 09时18分]"
+        },
+        {
           "title": "唐宁街发言人：英国首相斯塔默今晚与美国总统特朗普、乌克兰总统泽连斯基以及欧洲领导人进行了通话。讨论重点是为乌克兰和平所做的努力，各国领导人称赞美国总统特朗普迄今取得的进展。",
           "url": "https://flash.jin10.com/detail/20251229060208978800",
           "source": "金十数据",
@@ -453,7 +565,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -475,7 +587,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -508,7 +620,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -530,7 +642,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -541,7 +653,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -568,6 +680,17 @@
           "time_info": "06时15分"
         },
         {
+          "title": "美国白宫：特朗普将于美东时间周一下午1点（北京时间周二凌晨2点）在海湖庄园会见以色列总理内塔尼亚胡。",
+          "url": "https://flash.jin10.com/detail/20251229085722741800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
           "title": "美国总统特朗普：认为我们正越来越接近达成俄乌协议，与泽连斯基举行了精彩的会晤；已与欧洲领导人通话，进行了非常棒的交流。",
           "url": "https://flash.jin10.com/detail/20251229055418733800",
           "source": "金十数据",
@@ -585,9 +708,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "美国总统特朗普和内塔尼亚胡将于美国东部时间周一下午1点会面。",
+          "url": "https://wallstreetcn.com/livenews/3027760",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         },
         {
           "title": "欧盟委员会主席冯德莱恩：和平计划取得了良好进展，欧洲已准备好继续与乌克兰和美国合作，以巩固这些进展。",
@@ -596,7 +730,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -618,7 +752,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -629,7 +763,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -640,7 +774,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -651,7 +785,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -662,7 +796,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -673,9 +807,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "美国国务卿卢比奥将于美东时间周一上午10点与以色列总理内塔尼亚胡会面。",
+          "url": "https://wallstreetcn.com/livenews/3027748",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         },
         {
           "title": "美国总统特朗普：今天与泽连斯基和普京讨论了扎波罗热核电站问题，普京正与乌克兰合作，争取开放扎波罗热核电站，热核电站可以很快开放，目前状况良好。",
@@ -684,7 +829,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -695,7 +840,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -706,7 +851,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -717,37 +862,50 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "法国总统马克龙：今晚，我与其他欧洲领导人一同参与了与泽连斯基总统、特朗普总统的交流。随后我又与泽连斯基进行了交谈。 我们在安全保障方面正取得进展，这些保障将是构建公正持久和平的核心要素。",
+          "url": "https://wallstreetcn.com/livenews/3027744",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         }
       ]
     },
     {
       "keyword_group": "# --- 第一组：中国宏观 (去掉了必须词，只过滤娱乐) --- 中国 央视 外交部 国防部 解放军 人民日报 新华社",
-      "match_count": 16,
+      "match_count": 33,
       "titles": [
         {
           "title": "中国援柬埔寨物资运抵金边",
           "url": "https://www.douyin.com/hot/2350186",
           "source": "抖音",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时18分 ~ 07时15分]"
+          "appearance_count": 13,
+          "time_info": "[00时18分 ~ 09时18分]"
         },
         {
           "title": "周末要闻汇总：官方明确明年继续“国补”，中国ETF迈入6万亿时刻",
           "url": "https://www.cls.cn/detail/2242083",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时18分 ~ 07时15分]"
+          "appearance_count": 13,
+          "time_info": "[00时18分 ~ 09时18分]"
         },
         {
           "title": "王毅会见柬埔寨副首相：希望加大对在柬中国公民保护",
@@ -768,11 +926,12 @@
             10,
             5,
             4,
-            3
+            3,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时18分 ~ 07时15分]"
+          "appearance_count": 13,
+          "time_info": "[00时18分 ~ 09时18分]"
         },
         {
           "title": "美国媒体关注到中国网友对「斩杀线」的讨论，称美国人生存线可能继续上移，为什么会这样？有哪些因素影响？",
@@ -783,8 +942,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时18分 ~ 07时15分]"
+          "appearance_count": 13,
+          "time_info": "[00时18分 ~ 09时18分]"
         },
         {
           "title": "2026年央视春晚分会场官宣",
@@ -795,11 +954,12 @@
             15,
             9,
             16,
-            12
+            12,
+            21
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时18分 ~ 07时15分]"
+          "appearance_count": 13,
+          "time_info": "[00时18分 ~ 09时18分]"
         },
         {
           "title": "担任中国足协纪律与道德委员会首位主任的徐家力是谁？",
@@ -807,11 +967,12 @@
           "source": "澎湃新闻",
           "ranks": [
             10,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时18分 ~ 07时15分]"
+          "appearance_count": 13,
+          "time_info": "[00时18分 ~ 09时18分]"
         },
         {
           "title": "中国足球协会设立纪律与道德委员会，徐家力担任委员会主任",
@@ -819,11 +980,12 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时18分 ~ 07时15分]"
+          "appearance_count": 13,
+          "time_info": "[00时18分 ~ 09时18分]"
         },
         {
           "title": "中国AES100发动机配装全球首款6吨级倾转旋翼机成功首飞",
@@ -871,13 +1033,191 @@
           "time_info": "[00时19分 ~ 06时15分]"
         },
         {
+          "title": "解放军演习离台岛越来越近",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E6%94%BE%E5%86%9B%E6%BC%94%E4%B9%A0%E7%A6%BB%E5%8F%B0%E5%B2%9B%E8%B6%8A%E6%9D%A5%E8%B6%8A%E8%BF%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时17分 ~ 09时18分]"
+        },
+        {
+          "title": "围岛链条越勒越紧 解放军演习区公布",
+          "url": "https://www.toutiao.com/trending/7589055319653990406/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时17分 ~ 09时18分]"
+        },
+        {
+          "title": "解放军为何此时开展对台演习",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E6%94%BE%E5%86%9B%E4%B8%BA%E4%BD%95%E6%AD%A4%E6%97%B6%E5%BC%80%E5%B1%95%E5%AF%B9%E5%8F%B0%E6%BC%94%E4%B9%A0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时17分 ~ 09时18分]"
+        },
+        {
+          "title": "灵心巧手完成年内第5轮融资，红杉中国、CCV参投",
+          "url": "https://wallstreetcn.com/livenews/3027774",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "邵永灵：中国六代机提速",
+          "url": "https://www.douyin.com/hot/2350124",
+          "source": "抖音",
+          "ranks": [
+            28,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时15分 ~ 09时18分]"
+        },
+        {
+          "title": "中国女足公布新一期集训名单，米利西奇仍担任主教练",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32269890",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时15分 ~ 09时18分]"
+        },
+        {
+          "title": "解放军为何此时开展对台演习",
+          "url": "https://www.toutiao.com/trending/7589077437590572594/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时17分 ~ 09时18分]"
+        },
+        {
+          "title": "媒体：国际社会一致认可中国斡旋柬泰",
+          "url": "https://www.toutiao.com/trending/7588072414128275497/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时17分 ~ 09时18分]"
+        },
+        {
+          "title": "为什么中国高中鲜少有文科综合（政史地）和语文类学科竞赛？",
+          "url": "https://www.zhihu.com/question/1940699488911099294",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时17分 ~ 09时18分]"
+        },
+        {
+          "title": "“得中国市场者得天下”，2025年这十部好莱坞电影亏惨了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32264910",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时17分 ~ 09时18分]"
+        },
+        {
+          "title": "解放军台岛周边演习对比",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%A7%A3%E6%94%BE%E5%86%9B%E5%8F%B0%E5%B2%9B%E5%91%A8%E8%BE%B9%E6%BC%94%E4%B9%A0%E5%AF%B9%E6%AF%94%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时17分 ~ 09时18分]"
+        },
+        {
+          "title": "解放军为何此时开展对台演习",
+          "url": "https://www.douyin.com/hot/2350484",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时17分 ~ 09时18分]"
+        },
+        {
+          "title": "解放军为何此时开展对台演习",
+          "url": "https://www.baidu.com/s?wd=%E8%A7%A3%E6%94%BE%E5%86%9B%E4%B8%BA%E4%BD%95%E6%AD%A4%E6%97%B6%E5%BC%80%E5%B1%95%E5%AF%B9%E5%8F%B0%E6%BC%94%E4%B9%A0",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时17分 ~ 09时18分]"
+        },
+        {
+          "title": "未来十天有三股冷空气影响中国",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%AA%E6%9D%A5%E5%8D%81%E5%A4%A9%E6%9C%89%E4%B8%89%E8%82%A1%E5%86%B7%E7%A9%BA%E6%B0%94%E5%BD%B1%E5%93%8D%E4%B8%AD%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时17分 ~ 09时18分]"
+        },
+        {
+          "title": "解放军舰机多向抵近台岛邻近海空域",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%A7%A3%E6%94%BE%E5%86%9B%E8%88%B0%E6%9C%BA%E5%A4%9A%E5%90%91%E6%8A%B5%E8%BF%91%E5%8F%B0%E5%B2%9B%E9%82%BB%E8%BF%91%E6%B5%B7%E7%A9%BA%E5%9F%9F%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时17分 ~ 09时18分]"
+        },
+        {
+          "title": "富时中国A50指数期货盘初涨0.09%，上一个交易日夜盘收涨0.06%。",
+          "url": "https://wallstreetcn.com/livenews/3027766",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
           "title": "本重要事件与数据预告：中国官方制造业PMI、美联储会议纪要、元旦假期将至",
           "url": "https://flash.jin10.com/detail/20251229062825932800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -888,20 +1228,42 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
         {
-          "title": "中国女足公布新一期集训名单，米利西奇仍担任主教练",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32269890",
-          "source": "澎湃新闻",
+          "title": "欢迎进入链接网页右侧下载本周财经数据与事件精美周历壁纸：今日中国贸促会召开12月例行新闻发布会，介绍组织中国企业家代表团访美成果等。",
+          "url": "https://flash.jin10.com/detail/20251229083413633800",
+          "source": "金十数据",
           "ranks": [
-            20
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时15分"
+          "time_info": "09时18分"
+        },
+        {
+          "title": "中国外汇交易中心（CFETS）：12月26日人民币汇率指数按周跌0.24至97.64。",
+          "url": "https://wallstreetcn.com/livenews/3027756",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "中国央行将出台《关于进一步加强数字人民币管理服务体系和相关金融基础设施建设的行动方案》",
+          "url": "https://wallstreetcn.com/livenews/3027745",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         },
         {
           "title": "中国援柬埔寨物资运抵金边",
@@ -910,18 +1272,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时15分"
-        },
-        {
-          "title": "邵永灵：中国六代机提速",
-          "url": "https://www.douyin.com/hot/2350124",
-          "source": "抖音",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         }
@@ -929,7 +1280,7 @@
     },
     {
       "keyword_group": "# --- 第六组：俄乌局势 --- 俄乌 俄罗斯 乌克兰 普京 泽连斯基 北约",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "普京穿军装视察指挥所，与泽连斯基隔空互指对方“不想要和平”",
@@ -937,11 +1288,12 @@
           "source": "澎湃新闻",
           "ranks": [
             7,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时18分 ~ 07时15分]"
+          "appearance_count": 13,
+          "time_info": "[00时18分 ~ 09时18分]"
         },
         {
           "title": "普京：若乌方不愿和平解决问题，俄将以军事手段解决",
@@ -982,6 +1334,18 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时18分 ~ 07时15分]"
+        },
+        {
+          "title": "泽连斯基：美乌已就安全保障“达成一致”",
+          "url": "https://news.ifeng.com/c/8pTFEnlLeth",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时15分 ~ 09时18分]"
         },
         {
           "title": "克里姆林宫：俄美总统均认为以公投为借口暂时停火只会延长俄乌冲突",
@@ -1028,6 +1392,28 @@
           "time_info": "[00时19分 ~ 06时15分]"
         },
         {
+          "title": "俄乌在顿巴斯激烈攻防，明年1月或爆发重大战役(图)",
+          "url": "https://news.ifeng.com/c/8pTJUEBDMzz",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时17分 ~ 09时18分]"
+        },
+        {
+          "title": "拉夫罗夫：欧盟是乌克兰和平的主要障碍",
+          "url": "https://news.ifeng.com/c/8pTJd96xw3n",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时17分 ~ 09时18分]"
+        },
+        {
           "title": "俄罗斯发射“一箭52星”",
           "url": "https://flash.jin10.com/detail/20251228215137562800",
           "source": "金十数据",
@@ -1039,17 +1425,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时19分 ~ 05时14分]"
-        },
-        {
-          "title": "泽连斯基：美乌已就安全保障“达成一致”",
-          "url": "https://news.ifeng.com/c/8pTFEnlLeth",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时15分"
         },
         {
           "title": "乌克兰总统泽连斯基：和平相关的决定取决于基辅的合作伙伴。",
@@ -1131,12 +1506,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
+        },
+        {
+          "title": "法国总统马克龙：我们在乌克兰安全保证方面取得进展，而这些安全保证将是建立公正而持久和平的核心。将于一月初在巴黎召集“意愿联盟”各国，敲定各国的具体贡献。",
+          "url": "https://flash.jin10.com/detail/20251229080910768800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         }
       ]
     },
     {
       "keyword_group": "# --- 第二组：中国经济与A股 (保留宽泛的行情词) --- A股 上证 深证 恒生 人民币 汇率 经济 GDP",
-      "match_count": 8,
+      "match_count": 13,
       "titles": [
         {
           "title": "拟易主特种机器人龙头的胜通能源月内股价涨超210% 12月披露并购重组进展的A股名单一览",
@@ -1146,8 +1532,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时18分 ~ 07时15分]"
+          "appearance_count": 13,
+          "time_info": "[00时18分 ~ 09时18分]"
         },
         {
           "title": "2025年A股上市公司分红2.64万亿 分红超百亿个股名单一览",
@@ -1157,8 +1543,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时18分 ~ 07时15分]"
+          "appearance_count": 13,
+          "time_info": "[00时18分 ~ 09时18分]"
         },
         {
           "title": "智能驾驶细分龙头月内涨超95% 梳理产业链激光雷达等环节市占率居前A股名单",
@@ -1168,8 +1554,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时18分 ~ 07时15分]"
+          "appearance_count": 13,
+          "time_info": "[00时18分 ~ 09时18分]"
         },
         {
           "title": "年内近40家上市公司分红超百亿 股息率居前A股名单一览",
@@ -1183,13 +1569,35 @@
           "time_info": "[00时18分 ~ 07时15分]"
         },
         {
+          "title": "金十数据整理：A股盘前市场要闻速递（2025-12-29）",
+          "url": "https://flash.jin10.com/detail/20251229090907492800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "人民币兑美元中间价报7.0331，上调27点；上一交易日中间价7.0358，上一交易日官方收盘价7.0085，上日夜盘报收7.0063。",
+          "url": "https://wallstreetcn.com/livenews/3027779",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
           "title": "多家A股公司打响年末“保壳大战”",
           "url": "https://wallstreetcn.com/livenews/3027711",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -1203,6 +1611,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时18分 ~ 00时19分]"
+        },
+        {
+          "title": "深圳“十五五”规划建议：推动第六代移动通信、生物制造、具身智能等成为新的经济增长点",
+          "url": "https://wallstreetcn.com/livenews/3027765",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         },
         {
           "title": "多因素支撑人民币汇率走强 双向波动仍将是常态",
@@ -1222,76 +1641,37 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# --- 第四组：美股与科技 (去掉了具体的“财报”限制) --- 美股 纳指 道琼斯 标普 特斯拉 英伟达 苹果 微软 OpenAI",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "英伟达800伏电压“革命”：全球数据中心面临史上最大规模基础设施改造",
-          "url": "https://wallstreetcn.com/articles/3762212",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时18分 ~ 07时15分]"
         },
         {
-          "title": "特斯拉回应女子30多万买到老款车",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%9030%E5%A4%9A%E4%B8%87%E4%B9%B0%E5%88%B0%E8%80%81%E6%AC%BE%E8%BD%A6",
-          "source": "百度热搜",
+          "title": "中证报：多因素支撑人民币汇率走强，双向波动仍将是常态",
+          "url": "https://wallstreetcn.com/livenews/3027741",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20,
-            13,
-            9,
-            18,
-            6,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时18分 ~ 07时15分]"
-        },
-        {
-          "title": "苹果手机真的可以用上六年吗？",
-          "url": "https://www.zhihu.com/question/1970032679488579040",
-          "source": "知乎",
-          "ranks": [
-            20,
-            19,
-            14,
-            10,
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时13分 ~ 07时15分]"
-        },
-        {
-          "title": "美股股指期货周一基本平开。",
-          "url": "https://flash.jin10.com/detail/20251229070023196800",
-          "source": "金十数据",
-          "ranks": [
-            4
+            28
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时15分"
+          "time_info": "09时18分"
+        },
+        {
+          "title": "日本央行12月会议意见摘要：一位委员表示，日元疲软和长期利率上升在一定程度上可能是由于政策利率相较于通胀率过低所致。 一位委员表示，及时加息将抑制未来的通胀压力和债券收益率上升。 即使政策利率上调至0.75%，但日本的实际利率仍将深度为负。 一位委员表示，尽管政策利率将维持深度负值水平，但日本央行必须密切监测加息对经济和市场的影响。 一位委员表示，日本央行必须稳步提高利率以免落后于形势。 一位委员表示，日本央行在调整货币政策力度时应密切关注经济、物价和金融状况，而不是预设具体的加息节奏。 一位委员表示，日本实质政策利率全球最低，因此从外汇市场对通胀的影响来看，加息是合适的。 一位委员表示，将实际利率维持在偏离均衡水准的水平可能会导致资源分配扭曲，并对可持续增长产生影响。",
+          "url": "https://wallstreetcn.com/livenews/3027740",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         }
       ]
     },
     {
       "keyword_group": "# --- 第五组：日本动态 (关键修改：去掉了外交限制) --- 日本 岸田文雄 自卫队 靖国神社 核污水",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "真人扮熊猫关笼,日本为吸客拼了",
@@ -1302,8 +1682,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时18分 ~ 07时15分]"
+          "appearance_count": 13,
+          "time_info": "[00时18分 ~ 09时18分]"
         },
         {
           "title": "俄罗斯外长拉夫罗夫：俄罗斯敦促日本认真考虑其军事化进程。",
@@ -1331,6 +1711,102 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时18分 ~ 05时14分]"
+        },
+        {
+          "title": "日本知名巨头川崎重工承认造假，涉及数百台船舶和潜水艇，如何评价？暴露了哪些问题？",
+          "url": "https://www.zhihu.com/question/1988580073356354187",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时17分 ~ 09时18分]"
+        },
+        {
+          "title": "日本央行会议意见摘要暗示将进一步加息",
+          "url": "https://flash.jin10.com/detail/20251229084126567800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "日本央行会议意见摘要：一位委员表示称日本实质政策利率全球最低，因此从外汇市场对通胀的影响来看，加息是合适的。",
+          "url": "https://flash.jin10.com/detail/20251229081015848800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# --- 第四组：美股与科技 (去掉了具体的“财报”限制) --- 美股 纳指 道琼斯 标普 特斯拉 英伟达 苹果 微软 OpenAI",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "英伟达800伏电压“革命”：全球数据中心面临史上最大规模基础设施改造",
+          "url": "https://wallstreetcn.com/articles/3762212",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时18分 ~ 09时18分]"
+        },
+        {
+          "title": "特斯拉回应女子30多万买到老款车",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%9030%E5%A4%9A%E4%B8%87%E4%B9%B0%E5%88%B0%E8%80%81%E6%AC%BE%E8%BD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            13,
+            9,
+            18,
+            6,
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时18分 ~ 09时18分]"
+        },
+        {
+          "title": "苹果手机真的可以用上六年吗？",
+          "url": "https://www.zhihu.com/question/1970032679488579040",
+          "source": "知乎",
+          "ranks": [
+            20,
+            19,
+            14,
+            10,
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时13分 ~ 07时15分]"
+        },
+        {
+          "title": "美股股指期货周一基本平开。",
+          "url": "https://flash.jin10.com/detail/20251229070023196800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时15分"
         }
       ]
     }
