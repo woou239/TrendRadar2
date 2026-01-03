@@ -1,11 +1,528 @@
 {
-  "generated_at": "2026-01-03T07:15:31.634743+08:00",
-  "total_titles_processed": 499,
+  "generated_at": "2026-01-03T09:09:48.473152+08:00",
+  "total_titles_processed": 591,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "# --- 第一组：中国宏观 (去掉了必须词，只过滤娱乐) --- 中国 央视 外交部 国防部 解放军 人民日报 新华社",
+      "match_count": 41,
+      "titles": [
+        {
+          "title": "2026年中国航天任务“日程排满” 这些大事值得期待",
+          "url": "https://www.cls.cn/detail/2246177",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 09时09分]"
+        },
+        {
+          "title": "美企CEO提前甩锅：中国不捣乱，美国就能过得好",
+          "url": "https://news.ifeng.com/c/8paTeZ7HfzO",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 09时09分]"
+        },
+        {
+          "title": "国防部发言人就境外炒作“正义使命-2025”演习答记者问",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32302310",
+          "source": "澎湃新闻",
+          "ranks": [
+            2,
+            3,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 09时09分]"
+        },
+        {
+          "title": "在英国痛了7周到中国四天就治好了",
+          "url": "https://s.weibo.com/weibo?q=%E5%9C%A8%E8%8B%B1%E5%9B%BD%E7%97%9B%E4%BA%867%E5%91%A8%E5%88%B0%E4%B8%AD%E5%9B%BD%E5%9B%9B%E5%A4%A9%E5%B0%B1%E6%B2%BB%E5%A5%BD%E4%BA%86&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            7,
+            9,
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 09时09分]"
+        },
+        {
+          "title": "天宫与神州同框上演中国式浪漫",
+          "url": "https://www.toutiao.com/trending/7590112437576404499/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            10,
+            28,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 07时15分]"
+        },
+        {
+          "title": "赵少康：解放军围台军演美日都跑了",
+          "url": "https://www.toutiao.com/trending/7589967534201339954/",
+          "source": "今日头条",
+          "ranks": [
+            11,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 07时15分]"
+        },
+        {
+          "title": "新华社评论员：续写中国奇迹新篇章",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32301901",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            12,
+            14,
+            15,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 07时15分]"
+        },
+        {
+          "title": "一名中国女子在悉尼被巨浪卷入海中丧生",
+          "url": "https://news.ifeng.com/c/8pa5pnppiMf",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 09时09分]"
+        },
+        {
+          "title": "如何看待美媒炒作中国海上威胁",
+          "url": "https://www.toutiao.com/trending/7590373955366862857/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 07时15分]"
+        },
+        {
+          "title": "乌克兰总统泽连斯基正式任命布达诺夫（Budanov）为总统办公室主任，同时任命伊瓦先科（Ivashchenko）为国防部情报总局局长。",
+          "url": "https://flash.jin10.com/detail/20260103020953004800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            5,
+            8,
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时22分 ~ 09时09分]"
+        },
+        {
+          "title": "中国地震台网正式测定：01月03日02时29分在新疆阿克苏地区沙雅县发生3.9级地震，震源深度28千米。",
+          "url": "https://flash.jin10.com/detail/20260103023648682800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            5,
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时11分 ~ 09时09分]"
+        },
+        {
+          "title": "土耳其对华免签生效 首批中国旅客便捷入境",
+          "url": "https://flash.jin10.com/detail/20260103014916686800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            7,
+            10,
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时22分 ~ 09时09分]"
+        },
+        {
+          "title": "新年第一天，中国仗义执言很火大",
+          "url": "https://news.ifeng.com/c/8pZwfQHXmTL",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 01时14分]"
+        },
+        {
+          "title": "俄罗斯国防部驳斥了基辅方面关于1月2日哈尔科夫遭到袭击的说法，称这些报道与事实不符。",
+          "url": "https://flash.jin10.com/detail/20260103011540379800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            14,
+            17,
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时22分 ~ 09时09分]"
+        },
+        {
+          "title": "伊朗外交部强烈谴责美国总统特朗普和其他美国官员对伊朗内政的干涉主义言论。",
+          "url": "https://flash.jin10.com/detail/20260103035911381800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时13分 ~ 09时09分]"
+        },
+        {
+          "title": "韩总统重返青瓦台后首次采访给了央视",
+          "url": "https://www.toutiao.com/trending/7590296285220388907/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
+        },
+        {
+          "title": "访华前夕，李在明谈台湾问题：韩国始终尊重一个中国",
+          "url": "https://news.ifeng.com/c/8paxjnjic63",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
+        },
+        {
+          "title": "中国吸引外资韧性不减",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%90%B8%E5%BC%95%E5%A4%96%E8%B5%84%E9%9F%A7%E6%80%A7%E4%B8%8D%E5%87%8F%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时19分"
+        },
+        {
+          "title": "中国出生人口会回升吗",
+          "url": "https://www.toutiao.com/trending/7590915381884096043/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
+        },
+        {
+          "title": "土耳其对华免签生效，首批中国旅客便捷入境",
+          "url": "https://wallstreetcn.com/livenews/3029908",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            8,
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时22分 ~ 05时13分]"
+        },
+        {
+          "title": "中国奇谭2开播",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%A5%87%E8%B0%AD2%E5%BC%80%E6%92%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29,
+            28,
+            23,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时22分 ~ 09时09分]"
+        },
+        {
+          "title": "明晟公司MSCI发展中国家股票指数涨1.7%，连续第六个交易日走高，创2021年2月份以来收盘新高。 科技板块涨2.7%，壁仞科技香港IPO首日上涨，宣布AI芯片部门秘密递交香港IPO申请的百度也上涨。 MSCI拉美股票指数涨0.5%。 新兴市场货币涨跌各异。",
+          "url": "https://wallstreetcn.com/livenews/3029953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时15分 ~ 09时09分]"
+        },
+        {
+          "title": "对冲基金龙虎榜：桥水中国2025年排名第三超过德邵，Melqart拔得头筹",
+          "url": "https://wallstreetcn.com/livenews/3029916",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            13,
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时17分 ~ 07时15分]"
+        },
+        {
+          "title": "伊朗外交部谴责美国干涉内政，警告将果断回应任何侵略",
+          "url": "https://wallstreetcn.com/livenews/3029926",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            16,
+            23,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时13分 ~ 09时09分]"
+        },
+        {
+          "title": "泽连斯基宣布调整乌国防部运作，提名新防长人选",
+          "url": "https://wallstreetcn.com/livenews/3029925",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            17,
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时13分 ~ 09时09分]"
+        },
+        {
+          "title": "中国品牌电动车在挪威乘用车市场份额持续增加",
+          "url": "https://wallstreetcn.com/livenews/3029876",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 02时22分]"
+        },
+        {
+          "title": "中国电影持续“圈粉”海外",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%BD%B1%E6%8C%81%E7%BB%AD%E2%80%9C%E5%9C%88%E7%B2%89%E2%80%9D%E6%B5%B7%E5%A4%96",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时17分 ~ 05时13分]"
+        },
+        {
+          "title": "揭秘央视跨年晚会“含晋量”",
+          "url": "https://www.toutiao.com/trending/7590001195437408265/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 06时16分]"
+        },
+        {
+          "title": "国防部回应美日澳等对演习说三道四",
+          "url": "https://www.toutiao.com/trending/7590684066111000091/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时12分 ~ 05时13分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨4.38%，报7859.65点，本周累计上涨2.23%。 热门中概股里，百度初步收涨15%，小马智行涨11.1%，文远知行涨8.2%，网易涨7.2%，阿里巴巴涨6.2%，新东方、小米、京东、美团、拼多多、理想、百胜中国至多涨5.3%。 ETF中，中概互联网指数ETF（KWEB）收涨4.64%，中国科技指数ETF（CQQQ）收涨4.48%，德银嘉实沪深300指数ETF（ASHR）收涨1.43%，XtrackersHarvest中证50（ASHS）收涨1.12%。",
+          "url": "https://wallstreetcn.com/livenews/3029931",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时16分 ~ 07时15分]"
+        },
+        {
+          "title": "李在明：韩国始终尊重一个中国",
+          "url": "https://wallstreetcn.com/livenews/3029869",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 01时14分]"
+        },
+        {
+          "title": "纳斯达克中国金龙指数涨幅扩大至4%。",
+          "url": "https://wallstreetcn.com/livenews/3029862",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 01时14分]"
+        },
+        {
+          "title": "李在明：韩国从未偏离一个中国原则",
+          "url": "https://www.toutiao.com/trending/7590758125903282212/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
+        },
+        {
+          "title": "中国金龙指数收盘涨超4% 百度涨15%",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%87%91%E9%BE%99%E6%8C%87%E6%95%B0%E6%94%B6%E7%9B%98%E6%B6%A8%E8%B6%854%25+%E7%99%BE%E5%BA%A6%E6%B6%A815%25",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
+        },
+        {
+          "title": "美西方见不得一个统一强大的中国",
+          "url": "https://www.toutiao.com/trending/7590767979873255474/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
+        },
+        {
+          "title": "李在明称中国很多领域赶超韩国",
+          "url": "https://www.toutiao.com/trending/7589999692316147753/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
+        },
+        {
+          "title": "李在明：中国很多领域赶超韩国",
+          "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E5%9C%A8%E6%98%8E%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%BE%88%E5%A4%9A%E9%A2%86%E5%9F%9F%E8%B5%B6%E8%B6%85%E9%9F%A9%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
+        },
+        {
+          "title": "李在明说中国很多领域赶超韩国",
+          "url": "https://www.douyin.com/hot/2355679",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
+        },
+        {
+          "title": "美国防部称2035年中国航母将达9艘",
+          "url": "https://www.toutiao.com/trending/7590314162594070538/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时15分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基提名第一副总理费奥多罗夫为新任国防部长，原国防部长什梅加尔将担任另一个政府职位。",
+          "url": "https://flash.jin10.com/detail/20260103040132051800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
+        },
+        {
+          "title": "保持制造业合理比重：中国的战略选择与实践路径",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32268822",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
+        }
+      ]
+    },
+    {
       "keyword_group": "# --- 第三组：美国宏观与军事 --- 美国 白宫 五角大楼 美军 美联储 布林肯 拜登 特朗普",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "美国“星链”将降低约4400颗卫星轨道高度",
@@ -13,19 +530,6 @@
           "source": "凤凰网",
           "ranks": [
             3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 07时15分]"
-        },
-        {
-          "title": "即将揭晓！三位美联储主席竞逐者，谁能笑到最后？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32292469",
-          "source": "澎湃新闻",
-          "ranks": [
-            4,
-            5,
-            8
           ],
           "is_new": false,
           "appearance_count": 10,
@@ -44,14 +548,16 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时14分 ~ 07时15分]"
+          "appearance_count": 10,
+          "time_info": "[01时14分 ~ 09时09分]"
         },
         {
-          "title": "特朗普手上出现淤青，称是服用阿司匹林造成的，是真的吗？为什么服用阿司匹林能造成淤青？",
-          "url": "https://www.zhihu.com/question/1990382764189508847",
-          "source": "知乎",
+          "title": "即将揭晓！三位美联储主席竞逐者，谁能笑到最后？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32292469",
+          "source": "澎湃新闻",
           "ranks": [
+            4,
+            5,
             8
           ],
           "is_new": false,
@@ -68,25 +574,24 @@
             17,
             14,
             11,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 07时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 09时09分]"
         },
         {
-          "title": "特朗普发文猛烈抨击乔治·克鲁尼",
-          "url": "https://www.toutiao.com/trending/7590436761429049350/",
-          "source": "今日头条",
+          "title": "特朗普手上出现淤青，称是服用阿司匹林造成的，是真的吗？为什么服用阿司匹林能造成淤青？",
+          "url": "https://www.zhihu.com/question/1990382764189508847",
+          "source": "知乎",
           "ranks": [
-            13,
-            16,
-            25,
-            17
+            8,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 07时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 09时09分]"
         },
         {
           "title": "俄称确认乌无人机攻击普京官邸，已将证据转交美国",
@@ -98,6 +603,20 @@
             15,
             17,
             18
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 09时09分]"
+        },
+        {
+          "title": "特朗普发文猛烈抨击乔治·克鲁尼",
+          "url": "https://www.toutiao.com/trending/7590436761429049350/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            16,
+            25,
+            17
           ],
           "is_new": false,
           "appearance_count": 10,
@@ -129,8 +648,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 07时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 09时09分]"
         },
         {
           "title": "特朗普称美国已做好准备",
@@ -141,11 +660,26 @@
             28,
             26,
             15,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 07时15分]"
+          "appearance_count": 9,
+          "time_info": "[00时19分 ~ 09时09分]"
+        },
+        {
+          "title": "美联储在固定利率逆回购操作中总计接纳了7个对手方的56.67亿美元。",
+          "url": "https://flash.jin10.com/detail/20260103021651716800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            7,
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时11分 ~ 09时09分]"
         },
         {
           "title": "美国联邦调查局：已成功挫败一起疑似受极端组织“伊斯兰国”煽动、计划于北卡罗来纳州实施的新年前夜袭击图谋。",
@@ -163,6 +697,21 @@
           "time_info": "[01时14分 ~ 07时15分]"
         },
         {
+          "title": "美国卫生与公众服务部及缉毒局宣布，远程医疗处方管控药物的灵活性政策将延长至2026年。",
+          "url": "https://flash.jin10.com/detail/20260103012850406800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            11,
+            14,
+            17,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时22分 ~ 09时09分]"
+        },
+        {
           "title": "周五（1月2日），美联储隔夜逆回购协议（RRP）使用规模为56.67亿美元（交易对手7家），上个交易日报1059.93亿美元。",
           "url": "https://wallstreetcn.com/livenews/3029910",
           "source": "华尔街见闻-快讯",
@@ -178,42 +727,18 @@
           "time_info": "[02时22分 ~ 06时16分]"
         },
         {
-          "title": "美联储在固定利率逆回购操作中总计接纳了7个对手方的56.67亿美元。",
-          "url": "https://flash.jin10.com/detail/20260103021651716800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时11分 ~ 07时15分]"
-        },
-        {
-          "title": "美国卫生与公众服务部及缉毒局宣布，远程医疗处方管控药物的灵活性政策将延长至2026年。",
-          "url": "https://flash.jin10.com/detail/20260103012850406800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            11,
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时22分 ~ 07时15分]"
-        },
-        {
-          "title": "沃旭能源Orsted AS与Equinor ASA起诉美国总特朗普政府阻挠它们在美国多个海上风电项目建设的决定。",
-          "url": "https://wallstreetcn.com/livenews/3029951",
+          "title": "Empire Offshore Wind LLC.起诉美国总统特朗普的内政部，指控后者阻挠其纽约周边海域风电场的行政命令非法、威胁到项目进展。",
+          "url": "https://wallstreetcn.com/livenews/3029929",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            12,
+            19,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时15分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时13分 ~ 09时09分]"
         },
         {
           "title": "特朗普推迟加征关税后，美国家具股上涨Wayfair股价涨5.3%，RH跃升7%，Williams-Sonoma上涨2.6%。",
@@ -230,17 +755,16 @@
           "time_info": "[00时19分 ~ 03时11分]"
         },
         {
-          "title": "Empire Offshore Wind LLC.起诉美国总统特朗普的内政部，指控后者阻挠其纽约周边海域风电场的行政命令非法、威胁到项目进展。",
-          "url": "https://wallstreetcn.com/livenews/3029929",
+          "title": "沃旭能源Orsted AS与Equinor ASA起诉美国总特朗普政府阻挠它们在美国多个海上风电项目建设的决定。",
+          "url": "https://wallstreetcn.com/livenews/3029951",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            12,
-            19
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时13分 ~ 07时15分]"
+          "appearance_count": 2,
+          "time_info": "[07时15分 ~ 09时09分]"
         },
         {
           "title": "美联储12月31日当周贴现窗贷款余额96.6亿美元，之前一周98.7亿美元。",
@@ -248,11 +772,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            9
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时16分 ~ 07时15分]"
+          "appearance_count": 3,
+          "time_info": "[06时16分 ~ 09时09分]"
         },
         {
           "title": "美联储：美国上周银行存款18.619万亿美元，之前一周18.542万亿美元。",
@@ -260,11 +785,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            11
+            11,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时16分 ~ 07时15分]"
+          "appearance_count": 3,
+          "time_info": "[06时16分 ~ 09时09分]"
         },
         {
           "title": "特朗普宣称本土劳工就业市场一片繁荣，数据却无从佐证",
@@ -390,6 +916,28 @@
           "time_info": "[06时15分 ~ 06时16分]"
         },
         {
+          "title": "媒体：美国正面临一个更严峻的现实",
+          "url": "https://www.toutiao.com/trending/7590006055220936723/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
+        },
+        {
+          "title": "马杜罗称与特朗普只进行过一次通话",
+          "url": "https://www.toutiao.com/trending/7590714585226723369/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
+        },
+        {
           "title": "美国12月标普全球制造业PMI终值 51.8，预期51.8，前值51.8。",
           "url": "https://flash.jin10.com/detail/20260102224502125800",
           "source": "金十数据",
@@ -414,392 +962,8 @@
       ]
     },
     {
-      "keyword_group": "# --- 第一组：中国宏观 (去掉了必须词，只过滤娱乐) --- 中国 央视 外交部 国防部 解放军 人民日报 新华社",
-      "match_count": 30,
-      "titles": [
-        {
-          "title": "2026年中国航天任务“日程排满” 这些大事值得期待",
-          "url": "https://www.cls.cn/detail/2246177",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 07时15分]"
-        },
-        {
-          "title": "美企CEO提前甩锅：中国不捣乱，美国就能过得好",
-          "url": "https://news.ifeng.com/c/8paTeZ7HfzO",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 07时15分]"
-        },
-        {
-          "title": "国防部发言人就境外炒作“正义使命-2025”演习答记者问",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32302310",
-          "source": "澎湃新闻",
-          "ranks": [
-            2,
-            3,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 07时15分]"
-        },
-        {
-          "title": "在英国痛了7周到中国四天就治好了",
-          "url": "https://s.weibo.com/weibo?q=%E5%9C%A8%E8%8B%B1%E5%9B%BD%E7%97%9B%E4%BA%867%E5%91%A8%E5%88%B0%E4%B8%AD%E5%9B%BD%E5%9B%9B%E5%A4%A9%E5%B0%B1%E6%B2%BB%E5%A5%BD%E4%BA%86&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8,
-            7,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 07时15分]"
-        },
-        {
-          "title": "天宫与神州同框上演中国式浪漫",
-          "url": "https://www.toutiao.com/trending/7590112437576404499/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            10,
-            28,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 07时15分]"
-        },
-        {
-          "title": "赵少康：解放军围台军演美日都跑了",
-          "url": "https://www.toutiao.com/trending/7589967534201339954/",
-          "source": "今日头条",
-          "ranks": [
-            11,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 07时15分]"
-        },
-        {
-          "title": "新华社评论员：续写中国奇迹新篇章",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32301901",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            12,
-            14,
-            15,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 07时15分]"
-        },
-        {
-          "title": "一名中国女子在悉尼被巨浪卷入海中丧生",
-          "url": "https://news.ifeng.com/c/8pa5pnppiMf",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 07时15分]"
-        },
-        {
-          "title": "如何看待美媒炒作中国海上威胁",
-          "url": "https://www.toutiao.com/trending/7590373955366862857/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 07时15分]"
-        },
-        {
-          "title": "乌克兰总统泽连斯基正式任命布达诺夫（Budanov）为总统办公室主任，同时任命伊瓦先科（Ivashchenko）为国防部情报总局局长。",
-          "url": "https://flash.jin10.com/detail/20260103020953004800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            5,
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时22分 ~ 07时15分]"
-        },
-        {
-          "title": "中国地震台网正式测定：01月03日02时29分在新疆阿克苏地区沙雅县发生3.9级地震，震源深度28千米。",
-          "url": "https://flash.jin10.com/detail/20260103023648682800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时11分 ~ 07时15分]"
-        },
-        {
-          "title": "伊朗外交部强烈谴责美国总统特朗普和其他美国官员对伊朗内政的干涉主义言论。",
-          "url": "https://flash.jin10.com/detail/20260103035911381800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时13分 ~ 07时15分]"
-        },
-        {
-          "title": "土耳其对华免签生效 首批中国旅客便捷入境",
-          "url": "https://flash.jin10.com/detail/20260103014916686800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            7,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时22分 ~ 07时15分]"
-        },
-        {
-          "title": "新年第一天，中国仗义执言很火大",
-          "url": "https://news.ifeng.com/c/8pZwfQHXmTL",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时14分]"
-        },
-        {
-          "title": "明晟公司MSCI发展中国家股票指数涨1.7%，连续第六个交易日走高，创2021年2月份以来收盘新高。 科技板块涨2.7%，壁仞科技香港IPO首日上涨，宣布AI芯片部门秘密递交香港IPO申请的百度也上涨。 MSCI拉美股票指数涨0.5%。 新兴市场货币涨跌各异。",
-          "url": "https://wallstreetcn.com/livenews/3029953",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时15分"
-        },
-        {
-          "title": "俄罗斯国防部驳斥了基辅方面关于1月2日哈尔科夫遭到袭击的说法，称这些报道与事实不符。",
-          "url": "https://flash.jin10.com/detail/20260103011540379800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            14,
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时22分 ~ 07时15分]"
-        },
-        {
-          "title": "中国吸引外资韧性不减",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%90%B8%E5%BC%95%E5%A4%96%E8%B5%84%E9%9F%A7%E6%80%A7%E4%B8%8D%E5%87%8F%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
-        },
-        {
-          "title": "土耳其对华免签生效，首批中国旅客便捷入境",
-          "url": "https://wallstreetcn.com/livenews/3029908",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            8,
-            15,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时22分 ~ 05时13分]"
-        },
-        {
-          "title": "对冲基金龙虎榜：桥水中国2025年排名第三超过德邵，Melqart拔得头筹",
-          "url": "https://wallstreetcn.com/livenews/3029916",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            13,
-            23,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时17分 ~ 07时15分]"
-        },
-        {
-          "title": "中国奇谭2开播",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%A5%87%E8%B0%AD2%E5%BC%80%E6%92%AD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29,
-            28,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时22分 ~ 06时16分]"
-        },
-        {
-          "title": "伊朗外交部谴责美国干涉内政，警告将果断回应任何侵略",
-          "url": "https://wallstreetcn.com/livenews/3029926",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            16,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时13分 ~ 07时15分]"
-        },
-        {
-          "title": "泽连斯基宣布调整乌国防部运作，提名新防长人选",
-          "url": "https://wallstreetcn.com/livenews/3029925",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            17,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时13分 ~ 07时15分]"
-        },
-        {
-          "title": "中国品牌电动车在挪威乘用车市场份额持续增加",
-          "url": "https://wallstreetcn.com/livenews/3029876",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            15,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 02时22分]"
-        },
-        {
-          "title": "中国电影持续“圈粉”海外",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%BD%B1%E6%8C%81%E7%BB%AD%E2%80%9C%E5%9C%88%E7%B2%89%E2%80%9D%E6%B5%B7%E5%A4%96",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时17分 ~ 05时13分]"
-        },
-        {
-          "title": "揭秘央视跨年晚会“含晋量”",
-          "url": "https://www.toutiao.com/trending/7590001195437408265/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 06时16分]"
-        },
-        {
-          "title": "国防部回应美日澳等对演习说三道四",
-          "url": "https://www.toutiao.com/trending/7590684066111000091/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时12分 ~ 05时13分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收涨4.38%，报7859.65点，本周累计上涨2.23%。 热门中概股里，百度初步收涨15%，小马智行涨11.1%，文远知行涨8.2%，网易涨7.2%，阿里巴巴涨6.2%，新东方、小米、京东、美团、拼多多、理想、百胜中国至多涨5.3%。 ETF中，中概互联网指数ETF（KWEB）收涨4.64%，中国科技指数ETF（CQQQ）收涨4.48%，德银嘉实沪深300指数ETF（ASHR）收涨1.43%，XtrackersHarvest中证50（ASHS）收涨1.12%。",
-          "url": "https://wallstreetcn.com/livenews/3029931",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时16分 ~ 07时15分]"
-        },
-        {
-          "title": "李在明：韩国始终尊重一个中国",
-          "url": "https://wallstreetcn.com/livenews/3029869",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时14分]"
-        },
-        {
-          "title": "纳斯达克中国金龙指数涨幅扩大至4%。",
-          "url": "https://wallstreetcn.com/livenews/3029862",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时14分]"
-        },
-        {
-          "title": "美国防部称2035年中国航母将达9艘",
-          "url": "https://www.toutiao.com/trending/7590314162594070538/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时15分"
-        }
-      ]
-    },
-    {
       "keyword_group": "# --- 第四组：美股与科技 (去掉了具体的“财报”限制) --- 美股 纳指 道琼斯 标普 特斯拉 英伟达 苹果 微软 OpenAI",
-      "match_count": 27,
+      "match_count": 32,
       "titles": [
         {
           "title": "2026欧亚股市开门红，美股早盘涨势消退，中概大涨，百度早盘涨超10%，白银领衔贵金属反弹",
@@ -813,20 +977,21 @@
           "time_info": "[01时14分 ~ 07时15分]"
         },
         {
-          "title": "美股中概股大涨 百度涨超10%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%AD%E6%A6%82%E8%82%A1%E5%A4%A7%E6%B6%A8+%E7%99%BE%E5%BA%A6%E6%B6%A8%E8%B6%8510%25",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 07时15分]"
-        },
-        {
           "title": "OpenAI、Space X和Anthropic，三大“超级IPO”或齐聚今年，单笔募资额预计超过2025年200家IPO总和",
           "url": "https://wallstreetcn.com/articles/3762451",
           "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 09时09分]"
+        },
+        {
+          "title": "美股中概股大涨 百度涨超10%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%AD%E6%A6%82%E8%82%A1%E5%A4%A7%E6%B6%A8+%E7%99%BE%E5%BA%A6%E6%B6%A8%E8%B6%8510%25",
+          "source": "百度热搜",
           "ranks": [
             7
           ],
@@ -839,11 +1004,12 @@
           "url": "https://wallstreetcn.com/articles/3762439",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 07时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 09时09分]"
         },
         {
           "title": "美股三大期指集体走强 科技、贵金属板块开局强劲 | 今夜看点",
@@ -857,8 +1023,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 07时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 09时09分]"
         },
         {
           "title": "报道：OpenAI首款“AI硬件”是“智能笔”或“音频设备”，由鸿海独家代工，预计今年或明年推出",
@@ -869,8 +1035,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 07时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 09时09分]"
         },
         {
           "title": "高盛对冲基金负责人：2025美股“非常好”，2026市场将更加“狂野”",
@@ -878,11 +1044,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时22分 ~ 07时15分]"
+          "appearance_count": 9,
+          "time_info": "[02时22分 ~ 09时09分]"
         },
         {
           "title": "意大利交通部：2025年12月特斯拉(TSLA.O)新车注册量同比增长85.22%，而全年新车注册量较2024年下降17.91%。",
@@ -900,6 +1067,36 @@
           "time_info": "[01时14分 ~ 07时15分]"
         },
         {
+          "title": "金十图示：2026年01月02日（周五）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260103013328832800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            8,
+            11,
+            14,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时22分 ~ 09时09分]"
+        },
+        {
+          "title": "金十图示：2026年01月02日（周五）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260103013319071800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            9,
+            12,
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时22分 ~ 09时09分]"
+        },
+        {
           "title": "相关文件显示，巴西反垄断机构CADE对微软(MSFT.O)展开调查。",
           "url": "https://flash.jin10.com/detail/20260103004035197800",
           "source": "金十数据",
@@ -915,32 +1112,19 @@
           "time_info": "[01时14分 ~ 07时15分]"
         },
         {
-          "title": "金十图示：2026年01月02日（周五）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260103013328832800",
+          "title": "特斯拉(TSLA.O)股价走势逆转，现跌1.7%。",
+          "url": "https://flash.jin10.com/detail/20260103012329296800",
           "source": "金十数据",
           "ranks": [
-            4,
             8,
-            11,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时22分 ~ 07时15分]"
-        },
-        {
-          "title": "金十图示：2026年01月02日（周五）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260103013319071800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            9,
             12,
-            15
+            15,
+            18,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时22分 ~ 07时15分]"
+          "appearance_count": 7,
+          "time_info": "[02时22分 ~ 09时09分]"
         },
         {
           "title": "2026欧亚股市开门红，美股早盘涨势消减，中概大涨，百度早盘涨超10%，白银领衔贵金属反弹",
@@ -954,41 +1138,55 @@
           "time_info": "00时19分"
         },
         {
-          "title": "特斯拉(TSLA.O)股价走势逆转，现跌1.7%。",
-          "url": "https://flash.jin10.com/detail/20260103012329296800",
-          "source": "金十数据",
+          "title": "（美股）费城金银指数收涨0.09%，报342.59点，本周累计下跌5.68%。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.15%，报2439.25点，本周累跌5.17%。 （美股）原材料指数涨2.09%，报230.86点，本周累跌0.71%。 （美股）金属与矿业指数涨3.97%，报223.87点，本周累涨0.67%。",
+          "url": "https://wallstreetcn.com/livenews/3029945",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            12,
-            15,
-            18
+            1,
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时22分 ~ 07时15分]"
+          "appearance_count": 3,
+          "time_info": "[06时16分 ~ 09时09分]"
         },
         {
           "title": "周五（1月2日）纽约尾盘，标普500股指期货最终涨0.13%，道指期货涨0.55%，纳斯达克100股指期货跌0.24%。 罗素2000股指期涨货0.89%。",
           "url": "https://wallstreetcn.com/livenews/3029949",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时15分"
-        },
-        {
-          "title": "（美股）费城金银指数收涨0.09%，报342.59点，本周累计下跌5.68%。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.15%，报2439.25点，本周累跌5.17%。 （美股）原材料指数涨2.09%，报230.86点，本周累跌0.71%。 （美股）金属与矿业指数涨3.97%，报223.87点，本周累涨0.67%。",
-          "url": "https://wallstreetcn.com/livenews/3029945",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            7
+            4,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时16分 ~ 07时15分]"
+          "time_info": "[07时15分 ~ 09时09分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜特斯拉收跌2.6%，连跌七天",
+          "url": "https://wallstreetcn.com/livenews/3029937",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时16分 ~ 09时09分]"
+        },
+        {
+          "title": "周五（1月2日），彭博电动汽车价格回报指数涨1.09%，报3481.40点，本周累计上涨0.01%，整体呈现出平坦的V形走势。 成分股中，普拉格动力公司涨约13.9%，小马智行涨10.6%，MP材料涨9%表现第三，“特斯拉劲敌”Rivian则跌1.7%，特斯拉跌2.6%，智利化学矿业公司（SQM）跌2.6%。",
+          "url": "https://wallstreetcn.com/livenews/3029936",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时16分 ~ 09时09分]"
         },
         {
           "title": "标普和道指转跌，Salesforce跌超4%，迪士尼、微软、亚马逊等跌超1%",
@@ -1004,18 +1202,6 @@
           "time_info": "[00时19分 ~ 02时22分]"
         },
         {
-          "title": "美股七巨头收盘播报｜特斯拉收跌2.6%，连跌七天",
-          "url": "https://wallstreetcn.com/livenews/3029937",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时16分 ~ 07时15分]"
-        },
-        {
           "title": "美股高开低走，道指、标普500指数相继转跌。",
           "url": "https://flash.jin10.com/detail/20260102232633557800",
           "source": "金十数据",
@@ -1026,18 +1212,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时19分 ~ 01时14分]"
-        },
-        {
-          "title": "周五（1月2日），彭博电动汽车价格回报指数涨1.09%，报3481.40点，本周累计上涨0.01%，整体呈现出平坦的V形走势。 成分股中，普拉格动力公司涨约13.9%，小马智行涨10.6%，MP材料涨9%表现第三，“特斯拉劲敌”Rivian则跌1.7%，特斯拉跌2.6%，智利化学矿业公司（SQM）跌2.6%。",
-          "url": "https://wallstreetcn.com/livenews/3029936",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时16分 ~ 07时15分]"
         },
         {
           "title": "标普500指数收涨12.97点，涨幅0.19%，报6858.47点，本周累计下跌1.03%。 道琼斯工业平均指数收涨319.10点，涨幅0.66%，报48382.39点，本周累跌0.67%。 纳斯达克综合指数（纳指）收跌6.362点，跌幅0.03%，报23235.629点，本周累跌1.52%。 纳斯达克100指数收跌43.679点，跌幅0.17%，报25206.168点。本周累跌1.71%。",
@@ -1099,6 +1273,61 @@
           "time_info": "[00时19分 ~ 01时14分]"
         },
         {
+          "title": "金十图示：2026年01月02日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260103083241410800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
+        },
+        {
+          "title": "金十图示：2026年01月02日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260103083228341800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一，中概股指大涨4%",
+          "url": "https://flash.jin10.com/detail/20260103083148259800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
+        },
+        {
+          "title": "半导体概念股美股新年首日普遍收涨",
+          "url": "https://wallstreetcn.com/livenews/3029957",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
+        },
+        {
+          "title": "标普收涨不到0.2%，小盘股指涨1%，半导体指数涨4%",
+          "url": "https://wallstreetcn.com/livenews/3029933",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
+        },
+        {
           "title": "美股AI芯片股走高，英特尔(INTC.O)涨超5%，AMD(AMD.O)涨4.4%，台积电(TSM.N)涨3.8%，博通(AVGO.O)、英伟达(NVDA.O)涨近3%。",
           "url": "https://flash.jin10.com/detail/20260102223809652800",
           "source": "金十数据",
@@ -1135,7 +1364,7 @@
     },
     {
       "keyword_group": "# --- 第二组：中国经济与A股 (保留宽泛的行情词) --- A股 上证 深证 恒生 人民币 汇率 经济 GDP",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "2026港股开门红，恒科收涨4%，壁仞科技一度涨近120%，百度大涨9%，人民币继续走强",
@@ -1145,8 +1374,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 07时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 09时09分]"
         },
         {
           "title": "日媒：日本三大经济团体推迟访华",
@@ -1190,15 +1419,15 @@
           "time_info": "[01时14分 ~ 07时15分]"
         },
         {
-          "title": "周五（1月2日）纽约尾盘（周六北京时间05:59），离岸人民币（CNH）兑美元报6.9703元，较周四纽约尾盘涨54点，日内整体交投于6.9811-6.9664元区间，本周累涨大约340点、涨幅0.49%。",
-          "url": "https://wallstreetcn.com/livenews/3029950",
-          "source": "华尔街见闻-快讯",
+          "title": "2026欧股开门红，美股反弹艰难，芯片股力撑但特斯拉拖累，百度大涨15%，人民币两年多新高",
+          "url": "https://wallstreetcn.com/articles/3762449",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时15分"
+          "time_info": "09时09分"
         },
         {
           "title": "Strategas Securities高级ETF策略师Todd Sohn：投资者对美国经济增长和人工智能（AI）持仓过重，他们正在寻找那些估值可能更低、或者在上一轮周期中表现不突出的领域。 新兴市场正好符合这一需求。",
@@ -1229,16 +1458,40 @@
           "time_info": "[04时17分 ~ 07时15分]"
         },
         {
+          "title": "周五（1月2日）纽约尾盘（周六北京时间05:59），离岸人民币（CNH）兑美元报6.9703元，较周四纽约尾盘涨54点，日内整体交投于6.9811-6.9664元区间，本周累涨大约340点、涨幅0.49%。",
+          "url": "https://wallstreetcn.com/livenews/3029950",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时15分 ~ 09时09分]"
+        },
+        {
           "title": "“A+H”股热潮延续！12月累计27家A股上市公司筹划赴港上市，CPO龙头天孚通信在列",
           "url": "https://www.cls.cn/detail/2246407",
           "source": "财联社热门",
           "ranks": [
             13,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时15分 ~ 07时15分]"
+          "appearance_count": 4,
+          "time_info": "[06时15分 ~ 09时09分]"
+        },
+        {
+          "title": "伊朗骚乱的经济真相",
+          "url": "https://www.toutiao.com/trending/7590910383985004068/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
         }
       ]
     },
@@ -1328,7 +1581,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         }
@@ -1343,11 +1596,12 @@
           "url": "https://news.ifeng.com/c/8paTeZ7Hg3X",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 07时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 09时09分]"
         },
         {
           "title": "男子在日本皇居前突然怪叫脱衣服，被当场逮捕",
@@ -1357,8 +1611,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 07时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 09时09分]"
         },
         {
           "title": "《学习时报》刊文：警惕日本军国主义在文体领域的渗透",
@@ -1371,8 +1625,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 07时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 09时09分]"
         },
         {
           "title": "日本重金投高铁,遭越南变卦坑惨",
@@ -1382,8 +1636,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 07时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 09时09分]"
         },
         {
           "title": "日本为何对李在明访华如此敏感",
