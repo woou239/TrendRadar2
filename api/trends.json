@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T14:26:32.706764+08:00",
-  "total_titles_processed": 1243,
+  "generated_at": "2026-01-13T15:22:01.913941+08:00",
+  "total_titles_processed": 1340,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- 第三组：美国宏观与军事 --- 美国 白宫 五角大楼 美军 美联储 布林肯 拜登 特朗普",
-      "match_count": 205,
+      "match_count": 206,
       "titles": [
         {
           "title": "特朗普威胁古巴，委内瑞拉发声",
@@ -18,6 +18,18 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时22分 ~ 07时14分]"
+        },
+        {
+          "title": "特朗普：对伊朗的贸易伙伴征收25%关税",
+          "url": "https://news.ifeng.com/c/8prxSzII5sJ",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时13分 ~ 15时22分]"
         },
         {
           "title": "特朗普称中俄只能在美方控制下购买委原油，中方回应",
@@ -67,16 +79,26 @@
           "time_info": "[00时22分 ~ 07时14分]"
         },
         {
-          "title": "特朗普：对伊朗的贸易伙伴征收25%关税",
-          "url": "https://news.ifeng.com/c/8prxSzII5sJ",
+          "title": "伊朗局势突然反转，特朗普又心生一计",
+          "url": "https://news.ifeng.com/c/8psBaLzCORr",
           "source": "凤凰网",
           "ranks": [
-            1,
-            3
+            2
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[07时13分 ~ 14时26分]"
+          "time_info": "[09时11分 ~ 15时22分]"
+        },
+        {
+          "title": "特朗普：最高法若作出对美不利裁决，我们就完蛋了",
+          "url": "https://news.ifeng.com/c/8prryx4FgQx",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时24分 ~ 15时22分]"
         },
         {
           "title": "鲍威尔被诉，共和党关键议员翻脸：我就投反对票，特朗普别想提名新联储主席！",
@@ -88,19 +110,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时22分 ~ 14时26分]"
-        },
-        {
-          "title": "伊朗局势突然反转，特朗普又心生一计",
-          "url": "https://news.ifeng.com/c/8psBaLzCORr",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时11分 ~ 14时26分]"
+          "appearance_count": 19,
+          "time_info": "[00时22分 ~ 15时22分]"
         },
         {
           "title": "从“架空美联储”到“起诉鲍威尔”--“输不起中选”的特朗普决定“接管美联储”",
@@ -128,28 +139,6 @@
           "time_info": "[00时22分 ~ 07时14分]"
         },
         {
-          "title": "特朗普：最高法若作出对美不利裁决，我们就完蛋了",
-          "url": "https://news.ifeng.com/c/8prryx4FgQx",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时24分 ~ 14时26分]"
-        },
-        {
-          "title": "美军称突袭委内瑞拉时使用「特殊专长」，让全城大规模断电发动突袭，这种「电力战」是如何发动的？",
-          "url": "https://www.zhihu.com/question/1993684150012634273",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时14分]"
-        },
-        {
           "title": "美国向高糖发出挑战",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%90%91%E9%AB%98%E7%B3%96%E5%8F%91%E5%87%BA%E6%8C%91%E6%88%98",
           "source": "bilibili 热搜",
@@ -161,11 +150,23 @@
             18,
             24,
             30,
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时22分 ~ 14时26分]"
+          "appearance_count": 18,
+          "time_info": "[00时22分 ~ 15时22分]"
+        },
+        {
+          "title": "美军称突袭委内瑞拉时使用「特殊专长」，让全城大规模断电发动突袭，这种「电力战」是如何发动的？",
+          "url": "https://www.zhihu.com/question/1993684150012634273",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时22分 ~ 07时14分]"
         },
         {
           "title": "伊朗已有超百名安全人员在骚乱中丧生，美国将讨论干涉方案，骚乱的根本原因是何？美国或将从哪些方面干涉？",
@@ -199,11 +200,12 @@
             21,
             23,
             26,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时22分 ~ 14时26分]"
+          "appearance_count": 19,
+          "time_info": "[00时22分 ~ 15时22分]"
         },
         {
           "title": "2026版美国膳食指南解读",
@@ -213,11 +215,38 @@
             5,
             3,
             23,
-            10
+            10,
+            29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时11分 ~ 14时26分]"
+          "appearance_count": 8,
+          "time_info": "[09时11分 ~ 15时22分]"
+        },
+        {
+          "title": "美国国务院要求美国公民立即离开伊朗",
+          "url": "https://www.cls.cn/detail/2255607",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时11分 ~ 15时22分]"
+        },
+        {
+          "title": "特朗普：对伊朗贸易伙伴征收25%关税，油价短线走高",
+          "url": "https://wallstreetcn.com/articles/3763124",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时11分 ~ 15时22分]"
         },
         {
           "title": "美联储主席鲍威尔被刑事调查，具体情况如何？他会提前结束任期吗？",
@@ -244,29 +273,95 @@
           "time_info": "[01时20分 ~ 06时15分]"
         },
         {
-          "title": "美国国务院要求美国公民立即离开伊朗",
-          "url": "https://www.cls.cn/detail/2255607",
-          "source": "财联社热门",
+          "title": "北约秘书长帮腔特朗普：中俄恐将越来越活跃",
+          "url": "https://news.ifeng.com/c/8psHSxQTXOP",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            6,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时24分 ~ 15时22分]"
+        },
+        {
+          "title": "“美联储通讯社”：鲍威尔上周五接到传票，思考整个周末后，美联储主席决定“公开对抗特朗普”",
+          "url": "https://wallstreetcn.com/articles/3763132",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时24分 ~ 15时22分]"
+        },
+        {
+          "title": "美国、法国开始从伊朗撤离人员，伊朗当前的局势到底有多严峻？是否是军事行动的前兆？",
+          "url": "https://www.zhihu.com/question/1994338886751625788",
+          "source": "知乎",
+          "ranks": [
+            16,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时24分 ~ 15时22分]"
+        },
+        {
+          "title": "是否对伊朗采取军事打击？白宫回应",
+          "url": "https://www.toutiao.com/trending/7594674664643759657/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            9,
+            23,
             5
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[09时11分 ~ 14时26分]"
+          "time_info": "[12时36分 ~ 15时22分]"
         },
         {
-          "title": "特朗普：对伊朗贸易伙伴征收25%关税，油价短线走高",
-          "url": "https://wallstreetcn.com/articles/3763124",
+          "title": "调查鲍威尔引内讧？FHFA局长被指幕后推手，贝森特警告“制造混乱”，白宫称特朗普未指示行动",
+          "url": "https://wallstreetcn.com/articles/3763119",
           "source": "华尔街见闻",
           "ranks": [
             8,
-            6
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时11分 ~ 14时26分]"
+          "appearance_count": 7,
+          "time_info": "[11时24分 ~ 15时22分]"
+        },
+        {
+          "title": "特朗普：对伊朗贸易伙伴征收25%关税",
+          "url": "https://www.cls.cn/detail/2255560",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时24分 ~ 15时22分]"
+        },
+        {
+          "title": "美国国务院要求美国公民立即离开伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32373300",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时24分 ~ 15时22分]"
         },
         {
           "title": "美国至1月12日3年期国债竞拍-得标利率 3.609%，前值3.61%。",
@@ -324,6 +419,18 @@
           "time_info": "05时16分"
         },
         {
+          "title": "特朗普：对伊朗贸易伙伴征收25%关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32372812",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时36分 ~ 15时22分]"
+        },
+        {
           "title": "美国至1月12日3年期国债竞拍-投标倍数 2.65，前值2.64。",
           "url": "https://flash.jin10.com/detail/20260113020220430800",
           "source": "金十数据",
@@ -352,20 +459,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
-        },
-        {
-          "title": "北约秘书长帮腔特朗普：中俄恐将越来越活跃",
-          "url": "https://news.ifeng.com/c/8psHSxQTXOP",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时24分 ~ 14时26分]"
         },
         {
           "title": "美国至1月12日10年期国债竞拍-投标倍数 2.55，前值2.55。",
@@ -385,7 +481,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
         },
@@ -423,31 +519,6 @@
           "time_info": "07时14分"
         },
         {
-          "title": "美国、法国开始从伊朗撤离人员，伊朗当前的局势到底有多严峻？是否是军事行动的前兆？",
-          "url": "https://www.zhihu.com/question/1994338886751625788",
-          "source": "知乎",
-          "ranks": [
-            16,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时24分 ~ 14时26分]"
-        },
-        {
-          "title": "“美联储通讯社”：鲍威尔上周五接到传票，思考整个周末后，美联储主席决定“公开对抗特朗普”",
-          "url": "https://wallstreetcn.com/articles/3763132",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时24分 ~ 14时26分]"
-        },
-        {
           "title": "美国至1月12日10年期国债竞拍-得标利率 4.173%，前值4.18%。",
           "url": "https://flash.jin10.com/detail/20260113020204567800",
           "source": "金十数据",
@@ -468,44 +539,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
-        },
-        {
-          "title": "调查鲍威尔引内讧？FHFA局长被指幕后推手，贝森特警告“制造混乱”，白宫称特朗普未指示行动",
-          "url": "https://wallstreetcn.com/articles/3763119",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时24分 ~ 14时26分]"
-        },
-        {
-          "title": "美国国务院要求美国公民立即离开伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32373300",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时24分 ~ 14时26分]"
-        },
-        {
-          "title": "特朗普：对伊朗贸易伙伴征收25%关税",
-          "url": "https://www.cls.cn/detail/2255560",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时24分 ~ 14时26分]"
         },
         {
           "title": "美国内政部长Burgum：低油价为填充战略石油储备（SPR）提供了契机。",
@@ -702,19 +735,6 @@
           "time_info": "[02时25分 ~ 03时18分]"
         },
         {
-          "title": "是否对伊朗采取军事打击？白宫回应",
-          "url": "https://www.toutiao.com/trending/7594674664643759657/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            9,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时36分 ~ 14时26分]"
-        },
-        {
           "title": "贝森特警告：美联储调查引发市场震荡 或令鲍威尔拒绝交权",
           "url": "https://flash.jin10.com/detail/20260113025019748800",
           "source": "金十数据",
@@ -761,18 +781,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时15分 ~ 07时14分]"
-        },
-        {
-          "title": "特朗普：对伊朗贸易伙伴征收25%关税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32372812",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时36分 ~ 14时26分]"
         },
         {
           "title": "美国国家运输安全委员会将于1月27日举行听证会，以确定美国航空客机与陆军直升机致命相撞事故的可能原因。",
@@ -1259,9 +1267,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
+        },
+        {
+          "title": "罗素投资：劳动力与地产市场制约 美国通胀上行空间有限",
+          "url": "https://flash.jin10.com/detail/20260113143829992800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
         },
         {
           "title": "美国参议员Murkowski：如果司法部认为有必要基于项目成本超支对鲍威尔主席展开调查，那么国会就有必要对司法部展开调查。",
@@ -1820,7 +1839,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
         },
@@ -2356,7 +2375,7 @@
     },
     {
       "keyword_group": "# --- 第一组：中国宏观 (去掉了必须词，只过滤娱乐) --- 中国 央视 外交部 国防部 解放军 人民日报 新华社",
-      "match_count": 54,
+      "match_count": 62,
       "titles": [
         {
           "title": "超6成中国人下一辆车预算30万元以上",
@@ -2381,20 +2400,6 @@
           "time_info": "[00时22分 ~ 14时26分]"
         },
         {
-          "title": "中国乒协拟聘秦志戬为国乒总教练、肖战为副总教练",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32367862",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时22分 ~ 14时26分]"
-        },
-        {
           "title": "【早报】深夜大涨！中国资产爆发、金银齐创新高；商业航天概念股密集回应相关业务情况",
           "url": "https://www.cls.cn/detail/2255559",
           "source": "财联社热门",
@@ -2402,8 +2407,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时11分 ~ 14时26分]"
+          "appearance_count": 8,
+          "time_info": "[09时11分 ~ 15时22分]"
         },
         {
           "title": "人民日报钟才文：深刻把握“五个必须” 推动“十五五”良好开局",
@@ -2414,8 +2419,33 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时11分 ~ 14时26分]"
+          "appearance_count": 8,
+          "time_info": "[09时11分 ~ 15时22分]"
+        },
+        {
+          "title": "美国为“夺岛”拉中俄挡枪，外交部：美谋私利别拿他国当借口",
+          "url": "https://news.ifeng.com/c/8ps76smonk7",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时11分 ~ 15时22分]"
+        },
+        {
+          "title": "中国乒协拟聘秦志戬为国乒总教练、肖战为副总教练",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32367862",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时22分 ~ 15时22分]"
         },
         {
           "title": "王毅出于安全原因调整原定访问索马里行程？外交部回应",
@@ -2441,6 +2471,22 @@
           "time_info": "[00时22分 ~ 07时14分]"
         },
         {
+          "title": "外交部回应暂停对日稀土出口许可审查",
+          "url": "https://www.toutiao.com/trending/7593650251601313833/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            2,
+            4,
+            6,
+            14,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时11分 ~ 15时22分]"
+        },
+        {
           "title": "中国乒协拟聘秦志戬为国乒总教练、肖战为副总教练，如何看待这一配置？他们能为国乒带来哪些具体变化？",
           "url": "https://www.zhihu.com/question/1994086495095580488",
           "source": "知乎",
@@ -2451,17 +2497,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时22分 ~ 07时14分]"
-        },
-        {
-          "title": "美国为“夺岛”拉中俄挡枪，外交部：美谋私利别拿他国当借口",
-          "url": "https://news.ifeng.com/c/8ps76smonk7",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时11分 ~ 14时26分]"
         },
         {
           "title": "万字解析中国AI产业",
@@ -2478,8 +2513,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[05时15分 ~ 14时26分]"
+          "appearance_count": 13,
+          "time_info": "[05时15分 ~ 15时22分]"
         },
         {
           "title": "对中国免签的国家有哪些，这些国家值得去吗？",
@@ -2532,26 +2567,38 @@
             20,
             22,
             25,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时22分 ~ 14时26分]"
+          "appearance_count": 19,
+          "time_info": "[00时22分 ~ 15时22分]"
         },
         {
-          "title": "外交部回应暂停对日稀土出口许可审查",
-          "url": "https://www.toutiao.com/trending/7593650251601313833/",
+          "title": "美报告承认中国电子战和导弹压过美军",
+          "url": "https://www.toutiao.com/trending/7593651842932932671/",
           "source": "今日头条",
           "ranks": [
-            1,
-            2,
             4,
-            6,
-            14
+            26,
+            30,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时11分 ~ 14时26分]"
+          "appearance_count": 8,
+          "time_info": "[09时11分 ~ 15时22分]"
+        },
+        {
+          "title": "涉中国电动汽车关税，欧盟出台新方案",
+          "url": "https://news.ifeng.com/c/8ps7ee57XE0",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时11分 ~ 15时22分]"
         },
         {
           "title": "马斯克最新访谈：瓦特是未来货币，电力优势将令中国AI算力一骑绝尘",
@@ -2567,17 +2614,32 @@
           "time_info": "[04时19分 ~ 09时11分]"
         },
         {
-          "title": "美报告承认中国电子战和导弹压过美军",
-          "url": "https://www.toutiao.com/trending/7593651842932932671/",
-          "source": "今日头条",
+          "title": "特朗普称接管格陵兰岛是为防中俄觊觎，外交部：谋私利别拿他国当借口",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32367387",
+          "source": "澎湃新闻",
           "ranks": [
-            4,
-            26,
-            30
+            19,
+            16,
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时11分 ~ 14时26分]"
+          "appearance_count": 8,
+          "time_info": "[09时11分 ~ 15时22分]"
+        },
+        {
+          "title": "中国一口气申报20万颗卫星，意味着什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32369186",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时24分 ~ 15时22分]"
         },
         {
           "title": "中国一口气申报20万颗卫星意味着什么",
@@ -2592,30 +2654,63 @@
           "time_info": "[09时11分 ~ 11时24分]"
         },
         {
-          "title": "涉中国电动汽车关税，欧盟出台新方案",
-          "url": "https://news.ifeng.com/c/8ps7ee57XE0",
+          "title": "郑丽文喊话：我们是台湾人也是中国人，这两个身份从不抵触",
+          "url": "https://news.ifeng.com/c/8psTQkcc1G4",
           "source": "凤凰网",
           "ranks": [
-            6,
-            7
+            9
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[09时11分 ~ 14时26分]"
+          "time_info": "[12时36分 ~ 15时22分]"
         },
         {
-          "title": "特朗普称接管格陵兰岛是为防中俄觊觎，外交部：谋私利别拿他国当借口",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32367387",
-          "source": "澎湃新闻",
+          "title": "如何看待 2026 CSRankings 人工智能学科排行榜南京大学位列全球第一，前十名被中国高校霸榜？",
+          "url": "https://www.zhihu.com/question/1991915523580135211",
+          "source": "知乎",
           "ranks": [
-            19,
-            16,
-            15,
-            14
+            10,
+            9,
+            11,
+            8
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[09时11分 ~ 14时26分]"
+          "time_info": "[12时36分 ~ 15时22分]"
+        },
+        {
+          "title": "白宫表示正考虑针对伊朗的军事选项，外交部回应：反对在国际关系中使用或威胁使用武力，希望各方多做有利于中东和平稳定的事。（央视新闻）",
+          "url": "https://wallstreetcn.com/livenews/3035906",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
+        },
+        {
+          "title": "李在明将与高市早苗会谈 外交部：这是韩日间的双边交往",
+          "url": "https://wallstreetcn.com/livenews/3035904",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
+        },
+        {
+          "title": "释放哪些信号？“钟才文”接力“钟才平”在人民日报撰文 李锦、朱克力解读",
+          "url": "https://www.cls.cn/detail/2255907",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时26分 ~ 15时22分]"
         },
         {
           "title": "富时中国A50指数期货开涨近0.5%。",
@@ -2629,18 +2724,15 @@
           "time_info": "09时11分"
         },
         {
-          "title": "中国一口气申报20万颗卫星，意味着什么？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32369186",
-          "source": "澎湃新闻",
+          "title": "外交部：会采取一切必要措施保护在伊朗中国公民安全",
+          "url": "https://wallstreetcn.com/livenews/3035903",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11,
-            8,
-            6,
-            7
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时24分 ~ 14时26分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
         },
         {
           "title": "金十图示：2026年01月13日（周二）中国科技互联网公司市值排名TOP 50一览",
@@ -2654,17 +2746,6 @@
           "time_info": "11时24分"
         },
         {
-          "title": "郑丽文喊话：我们是台湾人也是中国人，这两个身份从不抵触",
-          "url": "https://news.ifeng.com/c/8psTQkcc1G4",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时36分 ~ 14时26分]"
-        },
-        {
           "title": "韩媒：中国足球黄金一代很可怕",
           "url": "https://www.toutiao.com/trending/7593691455186288667/",
           "source": "今日头条",
@@ -2676,19 +2757,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时20分 ~ 05时16分]"
-        },
-        {
-          "title": "如何看待 2026 CSRankings 人工智能学科排行榜南京大学位列全球第一，前十名被中国高校霸榜？",
-          "url": "https://www.zhihu.com/question/1991915523580135211",
-          "source": "知乎",
-          "ranks": [
-            10,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时36分 ~ 14时26分]"
         },
         {
           "title": "中国亚轨道飞行器首飞成功有何意义",
@@ -2727,6 +2795,50 @@
           "time_info": "[05时16分 ~ 06时15分]"
         },
         {
+          "title": "明查｜印度人膜拜能对抗中国的自制核弹头？实为印度教湿婆林伽运输画面",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32368230",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 15时22分]"
+        },
+        {
+          "title": "中国 U23 男足，能在本届亚洲杯小组赛中出线吗？",
+          "url": "https://www.zhihu.com/question/1993954478601286875",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 15时22分]"
+        },
+        {
+          "title": "谁是“中国版SpaceX”",
+          "url": "https://www.toutiao.com/trending/7594671087569341958/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 15时22分]"
+        },
+        {
+          "title": "英伟达开始抄中国的“作业”",
+          "url": "https://www.toutiao.com/trending/7594674600747732486/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 15时22分]"
+        },
+        {
           "title": "富时中国A50指数期货盘初涨0.43%，上一个交易日夜盘收涨0.53%。",
           "url": "https://wallstreetcn.com/livenews/3035673",
           "source": "华尔街见闻-快讯",
@@ -2738,6 +2850,17 @@
           "time_info": "09时11分"
         },
         {
+          "title": "外交部回应美国对与伊朗有商业往来的国家加征25%关税：中方将坚定维护自身正当合法权益",
+          "url": "https://wallstreetcn.com/livenews/3035899",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
+        },
+        {
           "title": "中国一口气申报20万颗卫星意味什么",
           "url": "https://www.toutiao.com/trending/7593709514948509732/",
           "source": "今日头条",
@@ -2747,17 +2870,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
-        },
-        {
-          "title": "释放哪些信号？“钟才文”接力“钟才平”在人民日报撰文 李锦、朱克力解读",
-          "url": "https://www.cls.cn/detail/2255907",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时26分"
         },
         {
           "title": "中国银行间市场质押式回购周一成交89,386亿元，四日内第三次创新高。",
@@ -2810,7 +2922,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
         },
@@ -3004,8 +3116,568 @@
       ]
     },
     {
+      "keyword_group": "# --- 第二组：中国经济与A股 (保留宽泛的行情词) --- A股 上证 深证 恒生 人民币 汇率 经济 GDP",
+      "match_count": 48,
+      "titles": [
+        {
+          "title": "A股成交额突破3.47万亿元，刷新A股单日成交额纪录",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32366797",
+          "source": "澎湃新闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 09时11分]"
+        },
+        {
+          "title": "A股成交额再创新高！沪指豪取17连阳，AI应用、商业航天大爆发，港股智谱狂飙30%，沪银涨超14%",
+          "url": "https://wallstreetcn.com/articles/3763068",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时22分 ~ 15时22分]"
+        },
+        {
+          "title": "十大券商看后市｜A股跨年行情或继续演绎，板块轮动概率上升",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32365239",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时22分 ~ 07时14分]"
+        },
+        {
+          "title": "开年A股风格分化：沪指跑输个股均值，超级大盘超八成收跌，中小盘股扛旗领跑",
+          "url": "https://www.cls.cn/detail/2255101",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时22分 ~ 07时14分]"
+        },
+        {
+          "title": "李大霄解读A股成交额创历史",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BBA%E8%82%A1%E6%88%90%E4%BA%A4%E9%A2%9D%E5%88%9B%E5%8E%86%E5%8F%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            12,
+            13,
+            18,
+            7,
+            9,
+            30,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时22分 ~ 11时24分]"
+        },
+        {
+          "title": "A股16连阳，港股为何不涨？",
+          "url": "https://wallstreetcn.com/articles/3763061",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时22分 ~ 07时14分]"
+        },
+        {
+          "title": "A股涨疯了一天创2项纪录",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E6%B6%A8%E7%96%AF%E4%BA%86%E4%B8%80%E5%A4%A9%E5%88%9B2%E9%A1%B9%E7%BA%AA%E5%BD%95%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            17,
+            19,
+            29,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时22分 ~ 07时14分]"
+        },
+        {
+          "title": "人民币汇率创近32个月新高",
+          "url": "https://www.douyin.com/hot/2365877",
+          "source": "抖音",
+          "ranks": [
+            9,
+            14,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时11分 ~ 15时22分]"
+        },
+        {
+          "title": "美股走V新高，谷歌破4万亿，中概大涨，人民币创2023年5月来最高，金银大涨创新高",
+          "url": "https://wallstreetcn.com/articles/3763053",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时13分 ~ 07时14分]"
+        },
+        {
+          "title": "美联储威廉姆斯：美国2026年经济增长率可能在2.5%至2.75%之间。",
+          "url": "https://flash.jin10.com/detail/20260113070259299800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
+          "title": "日本12月经济观察家前景指数 50.5，预期50.2，前值50.3。",
+          "url": "https://flash.jin10.com/detail/20260113130031236800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时22分"
+        },
+        {
+          "title": "日本12月经济观察家现况指数 48.6，预期48.7，前值48.7。",
+          "url": "https://flash.jin10.com/detail/20260113130010691800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时22分"
+        },
+        {
+          "title": "日本经济财政大臣城内实：外汇汇率由多种因素决定，长期利率也由市场上的各种因素决定，不能说财政政策单独决定市场走势。",
+          "url": "https://flash.jin10.com/detail/20260113135056591800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时26分"
+        },
+        {
+          "title": "A股市场两融交易额再度超过4000亿元",
+          "url": "https://wallstreetcn.com/livenews/3035775",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时24分 ~ 13时22分]"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9733元，较上周五夜盘收盘涨52点。成交量436.23亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3035530",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时18分 ~ 04时19分]"
+        },
+        {
+          "title": "恒生指数主连夜盘收涨1.49%，报26994点。 恒生科技指数主连夜盘收涨2.42%，报6005点。",
+          "url": "https://wallstreetcn.com/livenews/3035529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时18分 ~ 04时19分]"
+        },
+        {
+          "title": "A股午盘：沪深两市成交额超2.4万亿",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%8D%88%E7%9B%98%EF%BC%9A%E6%B2%AA%E6%B7%B1%E4%B8%A4%E5%B8%82%E6%88%90%E4%BA%A4%E9%A2%9D%E8%B6%852.4%E4%B8%87%E4%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时36分 ~ 13时22分]"
+        },
+        {
+          "title": "本轮A股上涨的主要原因是什么",
+          "url": "https://www.toutiao.com/trending/7594424718573178418/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时36分 ~ 13时22分]"
+        },
+        {
+          "title": "A股成交额再创历史新高，创业板跌超2%，商业航天集体回调，新“易中天”继续拉升，恒科指跌0.3，医药生物反弹，碳酸锂涨7%",
+          "url": "https://wallstreetcn.com/articles/3763139",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 15时22分]"
+        },
+        {
+          "title": "上证指数早盘收报4163.84点，跌0.03%。 深证成指早盘收报14321.80点，跌0.31%。 创业板指早盘收报3360.23点，跌0.83%。 沪深300早盘收报4790.55点，涨0.01%。 科创50早盘收报1485.01点，跌1.77%。 中证500早盘收报8227.18点，跌0.27%。 中证1000早盘收报8297.84点，跌0.71%。",
+          "url": "https://wallstreetcn.com/livenews/3035787",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时36分 ~ 13时22分]"
+        },
+        {
+          "title": "日本12月经济观察家现况指数 48.6，预期 48.7，前值 48.7。",
+          "url": "https://wallstreetcn.com/livenews/3035813",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 14时26分]"
+        },
+        {
+          "title": "日本12月经济观察家前景指数 50.5，预期 50.2，前值 50.3。",
+          "url": "https://wallstreetcn.com/livenews/3035812",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 14时26分]"
+        },
+        {
+          "title": "A股收评：商业航天概念股集体退潮",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E8%AF%84%EF%BC%9A%E5%95%86%E4%B8%9A%E8%88%AA%E5%A4%A9%E6%A6%82%E5%BF%B5%E8%82%A1%E9%9B%86%E4%BD%93%E9%80%80%E6%BD%AE",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 15时22分]"
+        },
+        {
+          "title": "发改委：将牵头制定循环经济发展“十五五”规划",
+          "url": "https://wallstreetcn.com/livenews/3035748",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时24分 ~ 12时36分]"
+        },
+        {
+          "title": "日本经济财政大臣城内实：我们需要仔细考量包括工资增长可持续性在内的各种因素，以确保日本不会重回通货紧缩。",
+          "url": "https://flash.jin10.com/detail/20260113135038427800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时26分"
+        },
+        {
+          "title": "印尼首席经济部长：印尼正为2026年开斋节假期制定经济刺激措施，其中包括机票折扣。",
+          "url": "https://flash.jin10.com/detail/20260113123950422800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时22分"
+        },
+        {
+          "title": "日本经济财政大臣城内实：目前日本经济尚未达到可以宣布摆脱通缩状态的程度。",
+          "url": "https://flash.jin10.com/detail/20260113134902719800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时26分"
+        },
+        {
+          "title": "美联储威廉姆斯：2026年经济前景“相当有利”。货币政策如今更接近中性立场。",
+          "url": "https://flash.jin10.com/detail/20260113070149234800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
+          "title": "日本经济财政大臣城内实：目前日本经济尚未达到可以宣布摆脱通缩状态的程度。 我们需要仔细观察包括工资增长可持续性等各种因素，以确保日本不会再次陷入通缩。",
+          "url": "https://wallstreetcn.com/livenews/3035848",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时26分"
+        },
+        {
+          "title": "美联储威廉姆斯：目前的经济形势相当不错。",
+          "url": "https://flash.jin10.com/detail/20260113085617500800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时11分"
+        },
+        {
+          "title": "日本经济财政大臣城内实：日本首相高市早苗政府的负责任、积极的政策兼顾了财政纪律，绝不意味着肆意支出。",
+          "url": "https://flash.jin10.com/detail/20260113134143446800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时26分"
+        },
+        {
+          "title": "美国纽约联储主席威廉姆斯：美联储没有面临改变利率的强大压力。 美联储的独立性带来了巨大好处。 在央行独立性之争中市场相对平静，反映出对结果的不确定性。 预计下一任美联储主席将理解这一职位的重要性。 所有进入美联储的人都明白这份工作的重要性。 目前的经济形势相当不错。",
+          "url": "https://wallstreetcn.com/livenews/3035670",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时11分"
+        },
+        {
+          "title": "【江苏：到2030年，新一代智能终端、智能体等应用普及率90%以上】江苏省政府发布关于印发江苏省“人工智能+”行动方案的通知，到2027年，率先实现人工智能广泛深度融合，新一代智能终端、智能体等应用普及率70%以上，产业规模快速增长。到2030年，新一代智能终端、智能体等应用普及率90%以上，形成一批国内领先的大模型，打造一批规模化商业化应用场景，人工智能产业规模超万亿元，智能经济成为全省经济发展的重要增长极。到2035年，建成国内领先的“人工智能+”创新策源地、产业新高地和融合应用先导区，全面步入智能经济和智能社会发展新阶段。",
+          "url": "https://wallstreetcn.com/livenews/3035887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
+        },
+        {
+          "title": "A股收盘：创业板指跌近2%，全市场成交近3.7万亿",
+          "url": "https://wallstreetcn.com/livenews/3035886",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
+        },
+        {
+          "title": "上证指数收报4138.76点，跌0.64%。 深证成指收报14169.40点，跌1.37%。 创业板指收报3321.89点，跌1.96%。 沪深300收报4761.03点，跌0.60%。 科创50收报1469.57点，跌2.80%。 中证500收报8143.28点，跌1.28%。 中证1000收报8203.13点，跌1.84%。",
+          "url": "https://wallstreetcn.com/livenews/3035884",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
+        },
+        {
+          "title": "路透调查显示，俄罗斯经济将在2026年增长1.1%。",
+          "url": "https://flash.jin10.com/detail/20260112235210846800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        },
+        {
+          "title": "四川兴蜀启航低空经济股权基金登记成立，出资额17亿",
+          "url": "https://wallstreetcn.com/livenews/3035838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时26分"
+        },
+        {
+          "title": "日本经济财政大臣城内实：需争取在议会中尽早通过2026年财政预算案。",
+          "url": "https://flash.jin10.com/detail/20260113131640750800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时26分"
+        },
+        {
+          "title": "A股三市成交额再创历史新高",
+          "url": "https://wallstreetcn.com/livenews/3035880",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
+        },
+        {
+          "title": "周一（1月12日）纽约尾盘（周二北京时间05:59），离岸人民币（CNH）兑美元报6.9680元，较上周五纽约尾盘涨80点，日内整体交投于6.9775-6.9628元区间。",
+          "url": "https://wallstreetcn.com/livenews/3035596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
+          "title": "日本经济团体联合会筒井义信：日元的疲软程度有些过度。 日本股市的上涨反映了全球趋势。",
+          "url": "https://wallstreetcn.com/livenews/3035877",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
+        },
+        {
+          "title": "汇丰银行预计越南2026年GDP增速将放缓至6.7%。",
+          "url": "https://flash.jin10.com/detail/20260113101739645800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时24分"
+        },
+        {
+          "title": "A股商业航天概念局部回暖，陕西华达、巨力索具、电科芯片涨停，中科星图、信科移动、佳缘科技、国博电子、天银机电涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3035769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时36分"
+        },
+        {
+          "title": "路透调查：所有34位经济学家表示，韩国央行将于1月15日将基准利率维持在2.50%。韩国央行基准利率预计将维持在2.50%至2026年（11月调查为2.25%）。",
+          "url": "https://flash.jin10.com/detail/20260113083816650800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时11分"
+        },
+        {
+          "title": "A股开盘：三大指数集体高开",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9A%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时24分"
+        },
+        {
+          "title": "民政部：联合有关部门研究制定促进银发经济高质量发展的支持措施",
+          "url": "https://wallstreetcn.com/livenews/3035738",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时24分"
+        },
+        {
+          "title": "欧洲央行管委维勒鲁瓦：若预算赤字仍高于GDP的5%，法国可能陷入市场危险区。",
+          "url": "https://flash.jin10.com/detail/20260113012612041800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时25分"
+        },
+        {
+          "title": "A股此轮大牛市十年一遇",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E6%AD%A4%E8%BD%AE%E5%A4%A7%E7%89%9B%E5%B8%82%E5%8D%81%E5%B9%B4%E4%B8%80%E9%81%87%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时11分"
+        }
+      ]
+    },
+    {
       "keyword_group": "# --- 第四组：美股与科技 (去掉了具体的“财报”限制) --- 美股 纳指 道琼斯 标普 特斯拉 英伟达 苹果 微软 OpenAI",
-      "match_count": 42,
+      "match_count": 45,
       "titles": [
         {
           "title": "伊朗局势微妙、鲍威尔被诉，美股债汇三杀，黄金突破4620美元，现货白银涨超6%，铜逼近新高，油价回调",
@@ -3026,8 +3698,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时11分 ~ 14时26分]"
+          "appearance_count": 8,
+          "time_info": "[09时11分 ~ 15时22分]"
         },
         {
           "title": "鲍威尔遭调查冲击市场 美股期指集体走低 黄金大涨 | 今夜看点",
@@ -3056,6 +3728,31 @@
           "time_info": "[07时13分 ~ 14时26分]"
         },
         {
+          "title": "苹果选中Gemini，谷歌登上“4万亿”",
+          "url": "https://wallstreetcn.com/articles/3763115",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时11分 ~ 15时22分]"
+        },
+        {
+          "title": "苹果联姻谷歌意味着什么",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E8%81%94%E5%A7%BB%E8%B0%B7%E6%AD%8C%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 15时22分]"
+        },
+        {
           "title": "英伟达与礼来共投10亿美元 建设AI药物研发实验室",
           "url": "https://www.cls.cn/detail/2255501",
           "source": "财联社热门",
@@ -3069,17 +3766,15 @@
           "time_info": "[09时11分 ~ 13时22分]"
         },
         {
-          "title": "苹果选中Gemini，谷歌登上“4万亿”",
-          "url": "https://wallstreetcn.com/articles/3763115",
-          "source": "华尔街见闻",
+          "title": "苹果接入Gemini模型想做啥",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E6%8E%A5%E5%85%A5Gemini%E6%A8%A1%E5%9E%8B%E6%83%B3%E5%81%9A%E5%95%A5",
+          "source": "bilibili 热搜",
           "ranks": [
-            10,
-            7,
-            8
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时11分 ~ 14时26分]"
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 15时22分]"
         },
         {
           "title": "苏新皓苹果不是无聊的水果",
@@ -3179,6 +3874,18 @@
           "time_info": "[00时22分 ~ 01时20分]"
         },
         {
+          "title": "加码“AI+医疗”！OpenAI又有大动作：收购医疗保健初创公司Torch",
+          "url": "https://www.cls.cn/detail/2255695",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时26分 ~ 15时22分]"
+        },
+        {
           "title": "美股七巨头收盘播报｜谷歌涨1%，收盘市值达到4万亿美元，Meta跌1.7%",
           "url": "https://wallstreetcn.com/livenews/3035583",
           "source": "华尔街见闻-快讯",
@@ -3201,6 +3908,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时16分 ~ 06时15分]"
+        },
+        {
+          "title": "英伟达和礼来成立AI药物实验室 AI驱动医疗产业形成新增长极",
+          "url": "https://www.cls.cn/detail/2255569",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 15时22分]"
         },
         {
           "title": "美股收盘：百度涨超6%",
@@ -3256,17 +3974,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
-        },
-        {
-          "title": "加码“AI+医疗”！OpenAI又有大动作：收购医疗保健初创公司Torch",
-          "url": "https://www.cls.cn/detail/2255695",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时26分"
         },
         {
           "title": "英伟达回应路透1月8日关于H200芯片的报道称：我们不要求预付款，绝不会要求客户为未收到的产品付款。",
@@ -3491,490 +4198,8 @@
       ]
     },
     {
-      "keyword_group": "# --- 第二组：中国经济与A股 (保留宽泛的行情词) --- A股 上证 深证 恒生 人民币 汇率 经济 GDP",
-      "match_count": 41,
-      "titles": [
-        {
-          "title": "A股成交额突破3.47万亿元，刷新A股单日成交额纪录",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32366797",
-          "source": "澎湃新闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时22分 ~ 09时11分]"
-        },
-        {
-          "title": "A股成交额再创新高！沪指豪取17连阳，AI应用、商业航天大爆发，港股智谱狂飙30%，沪银涨超14%",
-          "url": "https://wallstreetcn.com/articles/3763068",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时22分 ~ 14时26分]"
-        },
-        {
-          "title": "十大券商看后市｜A股跨年行情或继续演绎，板块轮动概率上升",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32365239",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时14分]"
-        },
-        {
-          "title": "开年A股风格分化：沪指跑输个股均值，超级大盘超八成收跌，中小盘股扛旗领跑",
-          "url": "https://www.cls.cn/detail/2255101",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时14分]"
-        },
-        {
-          "title": "李大霄解读A股成交额创历史",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BBA%E8%82%A1%E6%88%90%E4%BA%A4%E9%A2%9D%E5%88%9B%E5%8E%86%E5%8F%B2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            12,
-            13,
-            18,
-            7,
-            9,
-            30,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时22分 ~ 11时24分]"
-        },
-        {
-          "title": "A股16连阳，港股为何不涨？",
-          "url": "https://wallstreetcn.com/articles/3763061",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时14分]"
-        },
-        {
-          "title": "A股涨疯了一天创2项纪录",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E6%B6%A8%E7%96%AF%E4%BA%86%E4%B8%80%E5%A4%A9%E5%88%9B2%E9%A1%B9%E7%BA%AA%E5%BD%95%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10,
-            17,
-            19,
-            29,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时14分]"
-        },
-        {
-          "title": "美股走V新高，谷歌破4万亿，中概大涨，人民币创2023年5月来最高，金银大涨创新高",
-          "url": "https://wallstreetcn.com/articles/3763053",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时13分 ~ 07时14分]"
-        },
-        {
-          "title": "人民币汇率创近32个月新高",
-          "url": "https://www.douyin.com/hot/2365877",
-          "source": "抖音",
-          "ranks": [
-            9,
-            14,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时11分 ~ 14时26分]"
-        },
-        {
-          "title": "美联储威廉姆斯：美国2026年经济增长率可能在2.5%至2.75%之间。",
-          "url": "https://flash.jin10.com/detail/20260113070259299800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时14分"
-        },
-        {
-          "title": "日本12月经济观察家前景指数 50.5，预期50.2，前值50.3。",
-          "url": "https://flash.jin10.com/detail/20260113130031236800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时22分"
-        },
-        {
-          "title": "日本12月经济观察家现况指数 48.6，预期48.7，前值48.7。",
-          "url": "https://flash.jin10.com/detail/20260113130010691800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时22分"
-        },
-        {
-          "title": "日本经济财政大臣城内实：外汇汇率由多种因素决定，长期利率也由市场上的各种因素决定，不能说财政政策单独决定市场走势。",
-          "url": "https://flash.jin10.com/detail/20260113135056591800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时26分"
-        },
-        {
-          "title": "A股市场两融交易额再度超过4000亿元",
-          "url": "https://wallstreetcn.com/livenews/3035775",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            15,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时24分 ~ 13时22分]"
-        },
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9733元，较上周五夜盘收盘涨52点。成交量436.23亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3035530",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时18分 ~ 04时19分]"
-        },
-        {
-          "title": "恒生指数主连夜盘收涨1.49%，报26994点。 恒生科技指数主连夜盘收涨2.42%，报6005点。",
-          "url": "https://wallstreetcn.com/livenews/3035529",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时18分 ~ 04时19分]"
-        },
-        {
-          "title": "A股午盘：沪深两市成交额超2.4万亿",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%8D%88%E7%9B%98%EF%BC%9A%E6%B2%AA%E6%B7%B1%E4%B8%A4%E5%B8%82%E6%88%90%E4%BA%A4%E9%A2%9D%E8%B6%852.4%E4%B8%87%E4%BA%BF",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时36分 ~ 13时22分]"
-        },
-        {
-          "title": "本轮A股上涨的主要原因是什么",
-          "url": "https://www.toutiao.com/trending/7594424718573178418/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时36分 ~ 13时22分]"
-        },
-        {
-          "title": "上证指数早盘收报4163.84点，跌0.03%。 深证成指早盘收报14321.80点，跌0.31%。 创业板指早盘收报3360.23点，跌0.83%。 沪深300早盘收报4790.55点，涨0.01%。 科创50早盘收报1485.01点，跌1.77%。 中证500早盘收报8227.18点，跌0.27%。 中证1000早盘收报8297.84点，跌0.71%。",
-          "url": "https://wallstreetcn.com/livenews/3035787",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 13时22分]"
-        },
-        {
-          "title": "日本12月经济观察家现况指数 48.6，预期 48.7，前值 48.7。",
-          "url": "https://wallstreetcn.com/livenews/3035813",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时22分 ~ 14时26分]"
-        },
-        {
-          "title": "日本12月经济观察家前景指数 50.5，预期 50.2，前值 50.3。",
-          "url": "https://wallstreetcn.com/livenews/3035812",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时22分 ~ 14时26分]"
-        },
-        {
-          "title": "发改委：将牵头制定循环经济发展“十五五”规划",
-          "url": "https://wallstreetcn.com/livenews/3035748",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时24分 ~ 12时36分]"
-        },
-        {
-          "title": "日本经济财政大臣城内实：我们需要仔细考量包括工资增长可持续性在内的各种因素，以确保日本不会重回通货紧缩。",
-          "url": "https://flash.jin10.com/detail/20260113135038427800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时26分"
-        },
-        {
-          "title": "印尼首席经济部长：印尼正为2026年开斋节假期制定经济刺激措施，其中包括机票折扣。",
-          "url": "https://flash.jin10.com/detail/20260113123950422800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时22分"
-        },
-        {
-          "title": "日本经济财政大臣城内实：目前日本经济尚未达到可以宣布摆脱通缩状态的程度。",
-          "url": "https://flash.jin10.com/detail/20260113134902719800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时26分"
-        },
-        {
-          "title": "美联储威廉姆斯：2026年经济前景“相当有利”。货币政策如今更接近中性立场。",
-          "url": "https://flash.jin10.com/detail/20260113070149234800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时14分"
-        },
-        {
-          "title": "日本经济财政大臣城内实：目前日本经济尚未达到可以宣布摆脱通缩状态的程度。 我们需要仔细观察包括工资增长可持续性等各种因素，以确保日本不会再次陷入通缩。",
-          "url": "https://wallstreetcn.com/livenews/3035848",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时26分"
-        },
-        {
-          "title": "美联储威廉姆斯：目前的经济形势相当不错。",
-          "url": "https://flash.jin10.com/detail/20260113085617500800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时11分"
-        },
-        {
-          "title": "日本经济财政大臣城内实：日本首相高市早苗政府的负责任、积极的政策兼顾了财政纪律，绝不意味着肆意支出。",
-          "url": "https://flash.jin10.com/detail/20260113134143446800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时26分"
-        },
-        {
-          "title": "美国纽约联储主席威廉姆斯：美联储没有面临改变利率的强大压力。 美联储的独立性带来了巨大好处。 在央行独立性之争中市场相对平静，反映出对结果的不确定性。 预计下一任美联储主席将理解这一职位的重要性。 所有进入美联储的人都明白这份工作的重要性。 目前的经济形势相当不错。",
-          "url": "https://wallstreetcn.com/livenews/3035670",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时11分"
-        },
-        {
-          "title": "路透调查显示，俄罗斯经济将在2026年增长1.1%。",
-          "url": "https://flash.jin10.com/detail/20260112235210846800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        },
-        {
-          "title": "四川兴蜀启航低空经济股权基金登记成立，出资额17亿",
-          "url": "https://wallstreetcn.com/livenews/3035838",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时26分"
-        },
-        {
-          "title": "日本经济财政大臣城内实：需争取在议会中尽早通过2026年财政预算案。",
-          "url": "https://flash.jin10.com/detail/20260113131640750800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时26分"
-        },
-        {
-          "title": "周一（1月12日）纽约尾盘（周二北京时间05:59），离岸人民币（CNH）兑美元报6.9680元，较上周五纽约尾盘涨80点，日内整体交投于6.9775-6.9628元区间。",
-          "url": "https://wallstreetcn.com/livenews/3035596",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时14分"
-        },
-        {
-          "title": "汇丰银行预计越南2026年GDP增速将放缓至6.7%。",
-          "url": "https://flash.jin10.com/detail/20260113101739645800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时24分"
-        },
-        {
-          "title": "A股商业航天概念局部回暖，陕西华达、巨力索具、电科芯片涨停，中科星图、信科移动、佳缘科技、国博电子、天银机电涨超10%。",
-          "url": "https://wallstreetcn.com/livenews/3035769",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时36分"
-        },
-        {
-          "title": "路透调查：所有34位经济学家表示，韩国央行将于1月15日将基准利率维持在2.50%。韩国央行基准利率预计将维持在2.50%至2026年（11月调查为2.25%）。",
-          "url": "https://flash.jin10.com/detail/20260113083816650800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时11分"
-        },
-        {
-          "title": "A股开盘：三大指数集体高开",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9A%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时24分"
-        },
-        {
-          "title": "民政部：联合有关部门研究制定促进银发经济高质量发展的支持措施",
-          "url": "https://wallstreetcn.com/livenews/3035738",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时24分"
-        },
-        {
-          "title": "欧洲央行管委维勒鲁瓦：若预算赤字仍高于GDP的5%，法国可能陷入市场危险区。",
-          "url": "https://flash.jin10.com/detail/20260113012612041800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时25分"
-        },
-        {
-          "title": "A股此轮大牛市十年一遇",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E6%AD%A4%E8%BD%AE%E5%A4%A7%E7%89%9B%E5%B8%82%E5%8D%81%E5%B9%B4%E4%B8%80%E9%81%87%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时11分"
-        }
-      ]
-    },
-    {
       "keyword_group": "# --- 第五组：日本动态 (关键修改：去掉了外交限制) --- 日本 岸田文雄 自卫队 靖国神社 核污水",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "为摆脱对华稀土依赖，日本派船出海探查海底稀土",
@@ -4018,6 +4243,20 @@
           "time_info": "[00时22分 ~ 11时24分]"
         },
         {
+          "title": "日本餐厅墙壁内藏尸 店铺正常经营",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%A4%90%E5%8E%85%E5%A2%99%E5%A3%81%E5%86%85%E8%97%8F%E5%B0%B8+%E5%BA%97%E9%93%BA%E6%AD%A3%E5%B8%B8%E7%BB%8F%E8%90%A5",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            26,
+            25,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时36分 ~ 15时22分]"
+        },
+        {
           "title": "据日经新闻：三井物产将推出日本首批飞机及船舶数字证券。",
           "url": "https://flash.jin10.com/detail/20260113005631248800",
           "source": "金十数据",
@@ -4027,17 +4266,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
-        },
-        {
-          "title": "日本10年期国债收益率上行7BP至2.16%。",
-          "url": "https://wallstreetcn.com/livenews/3035856",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时26分"
         },
         {
           "title": "据日本共同社：日本首相高市早苗表示，她打算在定于1月23日开始的议会会议伊始解散众议院。",
@@ -4076,17 +4304,16 @@
           "time_info": "[12时36分 ~ 13时22分]"
         },
         {
-          "title": "日本餐厅墙壁内藏尸 店铺正常经营",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%A4%90%E5%8E%85%E5%A2%99%E5%A3%81%E5%86%85%E8%97%8F%E5%B0%B8+%E5%BA%97%E9%93%BA%E6%AD%A3%E5%B8%B8%E7%BB%8F%E8%90%A5",
-          "source": "百度热搜",
+          "title": "日本10年期国债收益率上行7BP至2.16%。",
+          "url": "https://wallstreetcn.com/livenews/3035856",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            27,
-            26,
-            25
+            3,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时36分 ~ 14时26分]"
+          "appearance_count": 2,
+          "time_info": "[14时26分 ~ 15时22分]"
         },
         {
           "title": "日本急寻稀土替代难在哪儿",
@@ -4153,7 +4380,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
         },
@@ -4175,7 +4402,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
         },
@@ -4200,6 +4427,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
+        },
+        {
+          "title": "10年期日本国债收益率继续走高，上涨7个基点至2.160%。",
+          "url": "https://flash.jin10.com/detail/20260113140548693800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
         },
         {
           "title": "日经225指数早盘收涨3.1%，日本东证指数收涨2.3%。",
@@ -4260,7 +4498,7 @@
     },
     {
       "keyword_group": "# --- 第六组：俄乌局势 --- 俄乌 俄罗斯 乌克兰 普京 泽连斯基 北约",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "俄罗斯再次发动大规模导弹袭击",
@@ -4268,11 +4506,12 @@
           "source": "今日头条",
           "ranks": [
             1,
-            6
+            6,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时36分 ~ 14时26分]"
+          "appearance_count": 6,
+          "time_info": "[12时36分 ~ 15时22分]"
         },
         {
           "title": "乌克兰电力公司UKRENERGO表示，俄罗斯昨夜发动袭击后，基辅已实施停电。",
@@ -4281,7 +4520,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
         },
@@ -4310,6 +4549,17 @@
           "time_info": "[12时36分 ~ 13时22分]"
         },
         {
+          "title": "捍卫格陵兰 欧盟北约还能做些啥",
+          "url": "https://www.toutiao.com/trending/7594632768190840874/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 15时22分]"
+        },
+        {
           "title": "市场消息：伊朗向俄罗斯运送了价值27亿美元的导弹。",
           "url": "https://flash.jin10.com/detail/20260113004457906800",
           "source": "金十数据",
@@ -4330,6 +4580,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        },
+        {
+          "title": "乌克兰能源公司DTEK：俄罗斯的袭击严重损坏了火力发电厂的设备。",
+          "url": "https://flash.jin10.com/detail/20260113143453370800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
         },
         {
           "title": "北约提前向土耳其请求提供空中警戒战机。",
