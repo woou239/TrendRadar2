@@ -1,22 +1,34 @@
 {
-  "generated_at": "2026-01-20T01:20:23.655032+08:00",
-  "total_titles_processed": 400,
+  "generated_at": "2026-01-20T02:24:55.124739+08:00",
+  "total_titles_processed": 447,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- 第三组：美国宏观与军事 --- 美国 白宫 五角大楼 美军 美联储 布林肯 拜登 特朗普",
-      "match_count": 36,
+      "match_count": 50,
       "titles": [
         {
           "title": "特朗普致信挪威首相：我不再有义务只考虑和平",
           "url": "https://news.ifeng.com/c/8q2mrUjZSWs",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时24分]"
+        },
+        {
+          "title": "开年最惨！美国软件股崩了，因为Claude Code太火了",
+          "url": "https://wallstreetcn.com/articles/3763553",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时24分]"
         },
         {
           "title": "欧洲8国集体回应特朗普关税威胁",
@@ -30,15 +42,15 @@
           "time_info": "[00时22分 ~ 01时20分]"
         },
         {
-          "title": "开年最惨！美国软件股崩了，因为Claude Code太火了",
-          "url": "https://wallstreetcn.com/articles/3763553",
-          "source": "华尔街见闻",
+          "title": "国际奥委会拒绝禁止美国参加冬奥会，并称「我们不能直接介入政治事务」，如何看待此事？",
+          "url": "https://www.zhihu.com/question/1996590090156209188",
+          "source": "知乎",
           "ranks": [
-            4
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时20分]"
+          "time_info": "[01时20分 ~ 02时24分]"
         },
         {
           "title": "克罗地亚总统乱抖包袱：特朗普还不如占领斯瓦尔巴群岛",
@@ -52,26 +64,60 @@
           "time_info": "[00时22分 ~ 01时20分]"
         },
         {
-          "title": "鲍威尔将出席最高法院针对美联储理事Cook的听证会",
-          "url": "https://wallstreetcn.com/livenews/3039874",
+          "title": "瑞典财政大臣：美国“夺岛”关税胁迫荒谬至极，欧洲必须强硬反击",
+          "url": "https://wallstreetcn.com/livenews/3039890",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时20分"
+          "time_info": "02时24分"
         },
         {
-          "title": "国际奥委会拒绝禁止美国参加冬奥会，并称「我们不能直接介入政治事务」，如何看待此事？",
-          "url": "https://www.zhihu.com/question/1996590090156209188",
-          "source": "知乎",
+          "title": "会武力夺岛？特朗普：无可奉告",
+          "url": "https://news.ifeng.com/c/8q3HDvDloum",
+          "source": "凤凰网",
           "ranks": [
-            3
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时20分"
+          "time_info": "02时24分"
+        },
+        {
+          "title": "芬兰总统斯图布：我不认为美国会从军事上控制格陵兰岛。",
+          "url": "https://flash.jin10.com/detail/20260120014744524800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时24分"
+        },
+        {
+          "title": "特朗普“私信”震惊欧洲：“因未获诺贝尔和平奖，我不再只考虑“和平”，美国必须完全控制格陵兰”",
+          "url": "https://wallstreetcn.com/articles/3763623",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时24分]"
+        },
+        {
+          "title": "反制特朗普，马克龙冲最猛，默茨想拉住他",
+          "url": "https://news.ifeng.com/c/8q3GKEPO18N",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时24分"
         },
         {
           "title": "特朗普为何强夺格陵兰岛？贝森特：因为欧洲“软弱”",
@@ -79,11 +125,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时24分]"
         },
         {
           "title": "美国财长贝森特：如果欧盟因格林兰问题而实施关税，那将是“不明智的”。",
@@ -98,16 +145,16 @@
           "time_info": "[00时22分 ~ 01时20分]"
         },
         {
-          "title": "特朗普“私信”震惊欧洲：“因未获诺贝尔和平奖，我不再只考虑“和平”，美国必须完全控制格陵兰”",
-          "url": "https://wallstreetcn.com/articles/3763623",
-          "source": "华尔街见闻",
+          "title": "鲍威尔将出席最高法院针对美联储理事Cook的听证会",
+          "url": "https://wallstreetcn.com/livenews/3039874",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            5
+            3,
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时20分]"
+          "time_info": "[01时20分 ~ 02时24分]"
         },
         {
           "title": "普京被邀请加入特朗普“和平委员会”",
@@ -117,8 +164,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时24分]"
         },
         {
           "title": "反击特朗普“关税战”！欧洲酝酿“资本战”，德银：八万亿美国资产或成“杀手锏”",
@@ -128,8 +175,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时24分]"
         },
         {
           "title": "圆脸评美国对欧洲8国加税",
@@ -139,19 +186,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时20分]"
-        },
-        {
-          "title": "丹麦爆发万人抗议，“让美国走开”红帽被抢空",
-          "url": "https://news.ifeng.com/c/8q2w79Xekro",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时24分]"
         },
         {
           "title": "美国近7成流浪汉曾是中产",
@@ -159,7 +195,54 @@
           "source": "微博",
           "ranks": [
             8,
-            10
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时24分]"
+        },
+        {
+          "title": "北约秘书长与美国总统通话，讨论格陵兰岛问题",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32413494",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时24分]"
+        },
+        {
+          "title": "美国主播力挺牢A",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E4%B8%BB%E6%92%AD%E5%8A%9B%E6%8C%BA%E7%89%A2A&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时24分]"
+        },
+        {
+          "title": "美财长：欧洲太软弱，格陵兰岛只有属于美国才对大家都好",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32414255",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时24分]"
+        },
+        {
+          "title": "丹麦爆发万人抗议，“让美国走开”红帽被抢空",
+          "url": "https://news.ifeng.com/c/8q2w79Xekro",
+          "source": "凤凰网",
+          "ranks": [
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -177,38 +260,82 @@
           "time_info": "[00时22分 ~ 01时20分]"
         },
         {
-          "title": "北约秘书长与美国总统通话，讨论格陵兰岛问题",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32413494",
-          "source": "澎湃新闻",
+          "title": "发帖吐槽白宫发言人竟引来特工",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%91%E5%B8%96%E5%90%90%E6%A7%BD%E7%99%BD%E5%AE%AB%E5%8F%91%E8%A8%80%E4%BA%BA%E7%AB%9F%E5%BC%95%E6%9D%A5%E7%89%B9%E5%B7%A5",
+          "source": "百度热搜",
           "ranks": [
-            17
+            15,
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时20分]"
+          "time_info": "[00时22分 ~ 02时24分]"
         },
         {
-          "title": "美国主播力挺牢A",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E4%B8%BB%E6%92%AD%E5%8A%9B%E6%8C%BA%E7%89%A2A&t=31&band_rank=19&Refer=top",
-          "source": "微博",
+          "title": "联合国秘书长：美国正肆无忌惮行事",
+          "url": "https://www.toutiao.com/trending/7596157489122820102/",
+          "source": "今日头条",
           "ranks": [
-            19,
-            20
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时20分]"
+          "time_info": "[01时20分 ~ 02时24分]"
         },
         {
-          "title": "美财长：欧洲太软弱，格陵兰岛只有属于美国才对大家都好",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32414255",
-          "source": "澎湃新闻",
+          "title": "芬兰总统斯图布：在我看来，芬兰与美国的双边关系比以往任何时候都更加牢固。",
+          "url": "https://flash.jin10.com/detail/20260120013853074800",
+          "source": "金十数据",
           "ranks": [
-            20
+            8
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时20分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时24分"
+        },
+        {
+          "title": "芬兰总统斯图布：欧盟拥有多种工具，可促使美国撤回关税威胁。",
+          "url": "https://flash.jin10.com/detail/20260120013747740800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时24分"
+        },
+        {
+          "title": "欧盟将召开特别峰会应对特朗普“夺岛”关税",
+          "url": "https://wallstreetcn.com/livenews/3039882",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时24分"
+        },
+        {
+          "title": "马克龙据悉将拒绝特朗普“和平委员会”的邀请",
+          "url": "https://flash.jin10.com/detail/20260120013738284800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时24分"
+        },
+        {
+          "title": "芬兰总统：欧盟在格陵兰问题上有工具让特朗普就范",
+          "url": "https://wallstreetcn.com/livenews/3039881",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时24分"
         },
         {
           "title": "美媒爆料：特朗普私下“密集谈论”加拿大",
@@ -222,15 +349,15 @@
           "time_info": "00时22分"
         },
         {
-          "title": "发帖吐槽白宫发言人竟引来特工",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%91%E5%B8%96%E5%90%90%E6%A7%BD%E7%99%BD%E5%AE%AB%E5%8F%91%E8%A8%80%E4%BA%BA%E7%AB%9F%E5%BC%95%E6%9D%A5%E7%89%B9%E5%B7%A5",
-          "source": "百度热搜",
+          "title": "报道：法国总统将拒绝特朗普“和平委员会”的加入邀请",
+          "url": "https://wallstreetcn.com/livenews/3039877",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时22分"
+          "time_info": "02时24分"
         },
         {
           "title": "美国总统特朗普：（当被问及在未能达成格陵兰岛协议的情况下，是否会落实对欧洲国家加征关税的计划时）我会的，百分之百！",
@@ -242,6 +369,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "美联储独立性面临挑战 鲍威尔据悉将出庭力挺库克",
+          "url": "https://flash.jin10.com/detail/20260120012132718800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时24分"
+        },
+        {
+          "title": "据美联社：美联储主席鲍威尔将出席最高法院关于美联储理事库克的听证会。",
+          "url": "https://flash.jin10.com/detail/20260120011503570800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时24分"
         },
         {
           "title": "法国计划周三召集G7会议，讨论美国关税威胁",
@@ -316,7 +465,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
         },
@@ -338,7 +487,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
         },
@@ -382,20 +531,31 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
         },
         {
-          "title": "联合国秘书长：美国正肆无忌惮行事",
-          "url": "https://www.toutiao.com/trending/7596157489122820102/",
+          "title": "特朗普打关税牌吞格陵兰能得逞吗",
+          "url": "https://www.toutiao.com/trending/7597071517846867510/",
           "source": "今日头条",
           "ranks": [
-            25
+            27
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时20分"
+          "time_info": "02时24分"
+        },
+        {
+          "title": "特朗普关税威胁冲击欧洲市场 ，",
+          "url": "https://wallstreetcn.com/livenews/3039862",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时24分"
         },
         {
           "title": "提醒：美国纽约证券交易所因“马丁路德金纪念日”而休市。",
@@ -423,19 +583,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时20分]"
-        },
-        {
-          "title": "一图读懂2025年中国经济成绩单",
-          "url": "https://www.toutiao.com/trending/7596886976813649418/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时24分]"
         },
         {
           "title": "2025年中国GDP达1401879亿元，比上年增长5%",
@@ -445,8 +594,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时24分]"
         },
         {
           "title": "突破140万亿元关口！2025年中国GDP同比增长5%，四季度GDP增长4.5%",
@@ -456,8 +605,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时24分]"
         },
         {
           "title": "人民日报再评西贝关店事件：危机面前，坦诚是最好的公关",
@@ -467,8 +616,53 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时24分]"
+        },
+        {
+          "title": "去年中国经济贡献了世界30%的增长",
+          "url": "https://www.douyin.com/hot/2373482",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时24分]"
+        },
+        {
+          "title": "一图读懂2025年中国经济成绩单",
+          "url": "https://www.toutiao.com/trending/7596886976813649418/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时24分]"
+        },
+        {
+          "title": "顾军被查 曾是中国首批反应堆操纵员",
+          "url": "https://www.baidu.com/s?wd=%E9%A1%BE%E5%86%9B%E8%A2%AB%E6%9F%A5+%E6%9B%BE%E6%98%AF%E4%B8%AD%E5%9B%BD%E9%A6%96%E6%89%B9%E5%8F%8D%E5%BA%94%E5%A0%86%E6%93%8D%E7%BA%B5%E5%91%98",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时24分]"
+        },
+        {
+          "title": "中国GDP跨越140万亿元关口",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BDGDP%E8%B7%A8%E8%B6%8A140%E4%B8%87%E4%BA%BF%E5%85%83%E5%85%B3%E5%8F%A3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时24分]"
         },
         {
           "title": "中国GDP跨越140万亿元关口",
@@ -482,37 +676,29 @@
           "time_info": "[00时22分 ~ 01时20分]"
         },
         {
-          "title": "去年中国经济贡献了世界30%的增长",
-          "url": "https://www.douyin.com/hot/2373482",
-          "source": "抖音",
+          "title": "首超140万亿！去年中国GDP增速5%",
+          "url": "https://www.toutiao.com/trending/7596049706971794998/",
+          "source": "今日头条",
           "ranks": [
-            3
+            5,
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时20分]"
+          "time_info": "[01时20分 ~ 02时24分]"
         },
         {
-          "title": "顾军被查 曾是中国首批反应堆操纵员",
-          "url": "https://www.baidu.com/s?wd=%E9%A1%BE%E5%86%9B%E8%A2%AB%E6%9F%A5+%E6%9B%BE%E6%98%AF%E4%B8%AD%E5%9B%BD%E9%A6%96%E6%89%B9%E5%8F%8D%E5%BA%94%E5%A0%86%E6%93%8D%E7%BA%B5%E5%91%98",
-          "source": "百度热搜",
+          "title": "人民日报评美国斩杀线",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E7%BE%8E%E5%9B%BD%E6%96%A9%E6%9D%80%E7%BA%BF%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
           "ranks": [
+            2,
+            8,
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时20分]"
-        },
-        {
-          "title": "中国GDP跨越140万亿元关口",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BDGDP%E8%B7%A8%E8%B6%8A140%E4%B8%87%E4%BA%BF%E5%85%83%E5%85%B3%E5%8F%A3",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时24分]"
         },
         {
           "title": "丹麦外交部长：不能靠威胁来获得对格陵兰岛的所有权。",
@@ -537,29 +723,6 @@
           "time_info": "00时22分"
         },
         {
-          "title": "首超140万亿！去年中国GDP增速5%",
-          "url": "https://www.toutiao.com/trending/7596049706971794998/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "人民日报评美国斩杀线",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E7%BE%8E%E5%9B%BD%E6%96%A9%E6%9D%80%E7%BA%BF%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时20分]"
-        },
-        {
           "title": "丹麦外交部长：将对关税威胁作出回应的是欧洲，而不是丹麦。",
           "url": "https://flash.jin10.com/detail/20260120000722387800",
           "source": "金十数据",
@@ -580,8 +743,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时24分]"
         },
         {
           "title": "人民日报评美国“斩杀线”",
@@ -589,11 +752,25 @@
           "source": "百度热搜",
           "ranks": [
             8,
-            25
+            25,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时24分]"
+        },
+        {
+          "title": "日本政府统计数据：去年12月赴日中国游客同比下降40%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32415962",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时24分]"
         },
         {
           "title": "人民日报再评西贝关店事件：危机面前，坦诚是最好的公关",
@@ -603,20 +780,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时20分]"
-        },
-        {
-          "title": "日本政府统计数据：去年12月赴日中国游客同比下降40%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32415962",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时24分]"
         },
         {
           "title": "2025 年中国手机市场数据出炉，华为全年第一，苹果第二，vivo 、小米及 OPPO 分列三四五，如何解读？",
@@ -626,8 +791,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时24分]"
         },
         {
           "title": "人民日报国纪平：“今天的中国，明天的世界”缘何出现",
@@ -637,19 +802,67 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时24分]"
         },
         {
           "title": "去年中国经济增长5% 哪些领域在发力",
           "url": "https://www.toutiao.com/trending/7597065297106832902/",
           "source": "今日头条",
           "ranks": [
-            28
+            28,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时24分]"
+        },
+        {
+          "title": "丹麦国防部长：北约秘书长吕特似乎非常清楚丹麦和格陵兰岛所面临的挑战。",
+          "url": "https://flash.jin10.com/detail/20260120004559301800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时20分]"
+          "time_info": "[01时20分 ~ 02时24分]"
+        },
+        {
+          "title": "西贝回应人民日报评论",
+          "url": "https://www.cls.cn/detail/2262754",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 02时24分]"
+        },
+        {
+          "title": "丹麦国防部长：已讨论在格陵兰岛和北极地区开展北约任务的事宜。",
+          "url": "https://flash.jin10.com/detail/20260120004154799800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 02时24分]"
+        },
+        {
+          "title": "四个字概括2025年中国经济表现",
+          "url": "https://www.douyin.com/hot/2372720",
+          "source": "抖音",
+          "ranks": [
+            25,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 02时24分]"
         },
         {
           "title": "丹麦外交部长：对我们所获得的所有支持感到高兴。",
@@ -661,17 +874,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
-        },
-        {
-          "title": "丹麦国防部长：北约秘书长吕特似乎非常清楚丹麦和格陵兰岛所面临的挑战。",
-          "url": "https://flash.jin10.com/detail/20260120004559301800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时20分"
         },
         {
           "title": "世界经济论坛公布“AI应用之星” 近半案例来自中国",
@@ -696,35 +898,13 @@
           "time_info": "00时22分"
         },
         {
-          "title": "西贝回应人民日报评论",
-          "url": "https://www.cls.cn/detail/2262754",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "丹麦国防部长：已讨论在格陵兰岛和北极地区开展北约任务的事宜。",
-          "url": "https://flash.jin10.com/detail/20260120004154799800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
           "title": "丹麦国防部长：我们与北约秘书长吕特举行了良好的会晤。",
           "url": "https://flash.jin10.com/detail/20260120003922470800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
         },
@@ -735,18 +915,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "四个字概括2025年中国经济表现",
-          "url": "https://www.douyin.com/hot/2372720",
-          "source": "抖音",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
         },
@@ -768,7 +937,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
         }
@@ -776,7 +945,7 @@
     },
     {
       "keyword_group": "# --- 第二组：中国经济与A股 (保留宽泛的行情词) --- A股 上证 深证 恒生 人民币 汇率 经济 GDP",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "2025年国民经济运行情况",
@@ -786,8 +955,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时24分]"
+        },
+        {
+          "title": "荷兰国际集团（ING）驻布鲁塞尔的首席投资策略师Vincent Juvyns：若仅从加征关税本身看，经济层面尚可承受。 但西方世界可能出现的分裂，其后果之严重超出我的预估范围。",
+          "url": "https://wallstreetcn.com/livenews/3039888",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时24分"
         },
         {
           "title": "2025年GDP增长5%",
@@ -795,11 +975,12 @@
           "source": "抖音",
           "ranks": [
             1,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时24分]"
         },
         {
           "title": "2025年GDP增长5%",
@@ -807,11 +988,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             19,
-            16
+            16,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时24分]"
         },
         {
           "title": "稳中向好!25年GDP涨5个点",
@@ -821,30 +1003,43 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时24分]"
         },
         {
           "title": "法国总理Lecornu：将利用宪法工具来批准预算案。 将在2026年预算问题上遵守赤字与GDP比率为5%的目标。",
           "url": "https://wallstreetcn.com/livenews/3039865",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 02时24分]"
         },
         {
           "title": "法国总理：将坚守2026年赤字占GDP 5%的目标。",
           "url": "https://flash.jin10.com/detail/20260120004433819800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 02时24分]"
+        },
+        {
+          "title": "世界经济论坛呼唤“对话的精神”",
+          "url": "https://wallstreetcn.com/livenews/3039884",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时20分"
+          "time_info": "02时24分"
         },
         {
           "title": "IMF总裁称格陵兰争端可能抑制经济增长，最佳方案是找到达成协议的途径",
@@ -853,7 +1048,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
         }
@@ -861,8 +1056,19 @@
     },
     {
       "keyword_group": "# --- 第六组：俄乌局势 --- 俄乌 俄罗斯 乌克兰 普京 泽连斯基 北约",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "荷兰德国都撤了，北约还有“大动作”？",
+          "url": "https://news.ifeng.com/c/8q3EXeaeY7R",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时24分"
+        },
         {
           "title": "乌克兰总统泽连斯基宣布新任空军副司令，将负责监督短程防空系统。",
           "url": "https://flash.jin10.com/detail/20260120000200549800",
@@ -879,11 +1085,23 @@
           "url": "https://flash.jin10.com/detail/20260120010417665800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 02时24分]"
+        },
+        {
+          "title": "北约秘书长吕特：北约将继续与丹麦和格陵兰岛在安全和能力投资方面携手合作。",
+          "url": "https://flash.jin10.com/detail/20260120012528008800",
+          "source": "金十数据",
+          "ranks": [
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时20分"
+          "time_info": "02时24分"
         },
         {
           "title": "俄新社：俄罗斯方面表示，扎波罗热核电站已通过一条线路恢复供电。",
@@ -892,7 +1110,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
         },
@@ -903,7 +1121,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
         },
@@ -925,7 +1143,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
         }
@@ -933,7 +1151,7 @@
     },
     {
       "keyword_group": "# --- 第五组：日本动态 (关键修改：去掉了外交限制) --- 日本 岸田文雄 自卫队 靖国神社 核污水",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "日本迎半世纪来首次零熊猫",
@@ -942,9 +1160,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 02时24分]"
         },
         {
           "title": "如何看待日本 20 年期国债收益率升至 3.165% 创历史新高？将对全球金融市场产生哪些「蝴蝶效应」？",
@@ -954,8 +1172,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时24分]"
         },
         {
           "title": "日本首相高市早苗宣布将于23日解散众议院",
@@ -967,6 +1185,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "日本新政党“中道改革联合”发布政纲，坚持“无核三原则”",
+          "url": "https://news.ifeng.com/c/8q3GTsfHQAP",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时24分"
         },
         {
           "title": "国际观察｜日本开年密集外交，搞了哪些小动作",
@@ -986,7 +1215,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
         }
@@ -1004,8 +1233,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时24分]"
         },
         {
           "title": "牢A最新力作!“糖霜苹果”太吓人",
@@ -1015,8 +1244,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时24分]"
         },
         {
           "title": "糖霜苹果",
@@ -1027,8 +1256,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时24分]"
         },
         {
           "title": "OpenAI政策主管Lehane在达沃斯接受采访时说，该公司计划2026年发布第一款设备。（Axios）",
