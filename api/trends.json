@@ -1,33 +1,69 @@
 {
-  "generated_at": "2026-01-28T00:23:53.246307+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-28T01:24:33.984544+08:00",
+  "total_titles_processed": 406,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- 第三组：美国宏观与军事 --- 美国 白宫 五角大楼 美军 美联储 布林肯 拜登 特朗普",
-      "match_count": 19,
+      "match_count": 30,
       "titles": [
-        {
-          "title": "美国农业部（USDA）更新政策，加速联邦石油与天然气（土地/水域）的租赁（审批）。",
-          "url": "https://wallstreetcn.com/livenews/3044878",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
         {
           "title": "美国冬季风暴已致至少 30 人死亡，超 100 万户断电，此次寒潮是如何形成的？情况为何如此严重?",
           "url": "https://www.zhihu.com/question/1998544560092123896",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时24分]"
+        },
+        {
+          "title": "美国总统特朗普：（谈美联储）希望利率下降。",
+          "url": "https://flash.jin10.com/detail/20260128010825738800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时23分"
+          "time_info": "01时24分"
+        },
+        {
+          "title": "美国总统特朗普：与叙利亚总统进行了精彩对话。",
+          "url": "https://flash.jin10.com/detail/20260128010748956800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
+          "title": "美国农业部（USDA）更新政策，加速联邦石油与天然气（土地/水域）的租赁（审批）。",
+          "url": "https://wallstreetcn.com/livenews/3044878",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时24分]"
+        },
+        {
+          "title": "美国暴雪流浪者何去何从",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%9A%B4%E9%9B%AA%E6%B5%81%E6%B5%AA%E8%80%85%E4%BD%95%E5%8E%BB%E4%BD%95%E4%BB%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时24分]"
         },
         {
           "title": "美媒：特朗普一周内两次妥协",
@@ -37,41 +73,32 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "特朗普政府将入股美国稀土公司，涉资16亿美元，持股将多达16%",
-          "url": "https://wallstreetcn.com/articles/3764157",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时24分]"
         },
         {
           "title": "中方在联合国安理会驳斥美国代表关于南海问题的错误言论",
           "url": "https://m.thepaper.cn/newsDetail_forward_32469591",
           "source": "澎湃新闻",
           "ranks": [
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时24分]"
         },
         {
           "title": "中方回应加拿大出售白鲸给美国",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%87%BA%E5%94%AE%E7%99%BD%E9%B2%B8%E7%BB%99%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时24分]"
         },
         {
           "title": "释新闻｜三周两次射杀合法公民，美国ICE执法人员会被起诉吗？",
@@ -81,8 +108,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时24分]"
         },
         {
           "title": "美国防战略报告“零次”提台湾，释放了什么信号？",
@@ -90,6 +117,17 @@
           "source": "凤凰网",
           "ranks": [
             10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时24分]"
+        },
+        {
+          "title": "特朗普政府将入股美国稀土公司，涉资16亿美元，持股将多达16%",
+          "url": "https://wallstreetcn.com/articles/3764157",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -107,15 +145,26 @@
           "time_info": "00时23分"
         },
         {
-          "title": "美国暴雪流浪者何去何从",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%9A%B4%E9%9B%AA%E6%B5%81%E6%B5%AA%E8%80%85%E4%BD%95%E5%8E%BB%E4%BD%95%E4%BB%8E",
-          "source": "bilibili 热搜",
+          "title": "LVMH集团（路易威登母公司）四季度营收227.2亿欧元，分析师预期225.9亿欧元。 四季度时装与皮草有机销售下降3%，分析师预期下降2.94%。 四季度葡萄酒/香槟与烈酒（Spirits）销售下滑9%，分析师预期下降1.13%。 四季度有机销售增长1%，分析师预期下降0.42%。 四季度美国有机销售增长1%，分析师预期增长0.82%。 四季度亚洲（不含日本）有机销售增长1%，分析师预期下滑2.1%。 四季度持续经营利润177.6亿欧元，分析师预期171.5亿欧元。 全年派息每股13欧元，分析师预期12.42欧元。 LVMH集团ADE涨2.4%。",
+          "url": "https://wallstreetcn.com/livenews/3044897",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时23分"
+          "time_info": "01时24分"
+        },
+        {
+          "title": "美国中情局被曝计划在委内瑞拉建立“长期存在”",
+          "url": "https://wallstreetcn.com/livenews/3044892",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时24分"
         },
         {
           "title": "美国参议院少数党领袖舒默：纽约市价值 172 亿美元的隧道项目因特朗普政府在去年十月暂停拨款而面临风险。",
@@ -129,6 +178,17 @@
           "time_info": "00时23分"
         },
         {
+          "title": "美国至1月27日6周国债竞拍-得标利率配置百分比 10.26%，前值92.66%。",
+          "url": "https://flash.jin10.com/detail/20260128003427637800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
           "title": "美国天然气期货延续跌势，价格下跌15%，因产量正缓慢回升，且风暴最严重阶段已转向东北地区，美国中部地区的天然气需求正在下降。",
           "url": "https://flash.jin10.com/detail/20260127232346666800",
           "source": "金十数据",
@@ -138,6 +198,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "美国至1月27日6周国债竞拍-投标倍数 2.64，前值2.42。",
+          "url": "https://flash.jin10.com/detail/20260128003318656800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
+          "title": "美国财政部拍卖六周期国债，得标利率3.635%，投标倍数2.64。",
+          "url": "https://wallstreetcn.com/livenews/3044890",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
+          "title": "美国至1月27日6周国债竞拍-得标利率 3.635%，前值3.63%。",
+          "url": "https://flash.jin10.com/detail/20260128003313861800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时24分"
         },
         {
           "title": "美国两年期国债收益率走低，最新数据显示，美国1月谘商会消费者信心指数降低至84.5，创2014年5月以来新低。 美元指数跌0.70%，报96.37点，为2025年9月以来最低。",
@@ -206,6 +299,17 @@
           "time_info": "00时23分"
         },
         {
+          "title": "美国芝加哥商业交易所（CME）在金属期货及期权交易方面创下新纪录。",
+          "url": "https://wallstreetcn.com/livenews/3044881",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
           "title": "美国1月谘商会消费者信心指数 84.5，预期 90.6，前值 89.1。",
           "url": "https://wallstreetcn.com/livenews/3044852",
           "source": "华尔街见闻-快讯",
@@ -215,12 +319,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "护照绑头 美国网红分享“保命技巧”",
+          "url": "https://www.baidu.com/s?wd=%E6%8A%A4%E7%85%A7%E7%BB%91%E5%A4%B4+%E7%BE%8E%E5%9B%BD%E7%BD%91%E7%BA%A2%E5%88%86%E4%BA%AB%E2%80%9C%E4%BF%9D%E5%91%BD%E6%8A%80%E5%B7%A7%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
+          "title": "Pilot Travel Centers（伯克希尔哈撒韦附属公司）与马斯克旗下特斯拉公司达成合作伙伴关系协议。 特斯拉将帮助Pilot在美国加利福尼亚、弗吉尼亚、内华达、新墨西哥、以及得克萨斯等州打造重型电动半拖车充电网络。",
+          "url": "https://wallstreetcn.com/livenews/3044876",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时24分"
         }
       ]
     },
     {
       "keyword_group": "# --- 第一组：中国宏观 (去掉了必须词，只过滤娱乐) --- 中国 央视 外交部 国防部 解放军 人民日报 新华社",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "外交部回应高市早苗涉台最新言论",
@@ -230,8 +356,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时24分]"
         },
         {
           "title": "米兰冬奥会中国体育代表团成立",
@@ -241,8 +367,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时24分]"
         },
         {
           "title": "人民日报钟声：必须遏制日本推进“新型军国主义”",
@@ -252,8 +378,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时24分]"
         },
         {
           "title": "2026逐梦中国",
@@ -263,8 +389,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时24分]"
         },
         {
           "title": "董军同俄罗斯国防部长视频通话",
@@ -274,8 +400,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时24分]"
         },
         {
           "title": "外交部回应高市早苗涉台最新言论：日方没有任何资格对中国台湾置喙",
@@ -285,8 +411,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时24分]"
+        },
+        {
+          "title": "日方没有任何资格对中国台湾置喙",
+          "url": "https://www.toutiao.com/trending/7599206798981873714/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时24分]"
         },
         {
           "title": "中方是否正采取措施让美国释放马杜罗夫妇？外交部回应",
@@ -296,91 +434,119 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "外交部回应高市早苗涉台言论",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%B6%89%E5%8F%B0%E8%A8%80%E8%AE%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "中国情侣在巴厘岛患上“脏水病”",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%83%85%E4%BE%A3%E5%9C%A8%E5%B7%B4%E5%8E%98%E5%B2%9B%E6%82%A3%E4%B8%8A%E2%80%9C%E8%84%8F%E6%B0%B4%E7%97%85%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时24分]"
         },
         {
           "title": "中国汽车出口第一目的国易主",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E5%87%BA%E5%8F%A3%E7%AC%AC%E4%B8%80%E7%9B%AE%E7%9A%84%E5%9B%BD%E6%98%93%E4%B8%BB",
           "source": "百度热搜",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时24分]"
+        },
+        {
+          "title": "外交部回应高市早苗涉台言论",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%B6%89%E5%8F%B0%E8%A8%80%E8%AE%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时24分]"
+        },
+        {
+          "title": "中国情侣在巴厘岛患上“脏水病”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%83%85%E4%BE%A3%E5%9C%A8%E5%B7%B4%E5%8E%98%E5%B2%9B%E6%82%A3%E4%B8%8A%E2%80%9C%E8%84%8F%E6%B0%B4%E7%97%85%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时24分]"
         },
         {
           "title": "如何看待中国人吃掉了 9 成智利车厘子？为什么智利车厘子这么受中国人青睐？",
           "url": "https://www.zhihu.com/question/1998046734279018312",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时24分]"
         },
         {
           "title": "董军同俄国防部长视频通话",
           "url": "https://search.bilibili.com/all?keyword=%E8%91%A3%E5%86%9B%E5%90%8C%E4%BF%84%E5%9B%BD%E9%98%B2%E9%83%A8%E9%95%BF%E8%A7%86%E9%A2%91%E9%80%9A%E8%AF%9D",
           "source": "bilibili 热搜",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "日方没有任何资格对中国台湾置喙",
-          "url": "https://www.toutiao.com/trending/7599206798981873714/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时24分]"
         },
         {
           "title": "外交部回应“日本没有大熊猫了”",
           "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E2%80%9C%E6%97%A5%E6%9C%AC%E6%B2%A1%E6%9C%89%E5%A4%A7%E7%86%8A%E7%8C%AB%E4%BA%86%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
-            24
+            24,
+            21
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时24分]"
+        },
+        {
+          "title": "米兰冬奥会中国体育代表团成立",
+          "url": "https://www.douyin.com/hot/2380652",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时23分"
+          "time_info": "01时24分"
+        },
+        {
+          "title": "外交部回应加拿大出售白鲸给美国",
+          "url": "https://www.toutiao.com/trending/7599947141838700550/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
+          "title": "外交部提醒春节避免前往日本",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E6%8F%90%E9%86%92%E6%98%A5%E8%8A%82%E9%81%BF%E5%85%8D%E5%89%8D%E5%BE%80%E6%97%A5%E6%9C%AC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时24分"
         }
       ]
     },
     {
       "keyword_group": "# --- 第四组：美股与科技 (去掉了具体的“财报”限制) --- 美股 纳指 道琼斯 标普 特斯拉 英伟达 苹果 微软 OpenAI",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "耐用品数据提振美股，白银现08年来最强盘中涨势、黄金首破5000大关，美天然气涨近30%",
@@ -390,8 +556,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时24分]"
         },
         {
           "title": "美股部分中概股走势强劲",
@@ -434,8 +600,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时24分]"
+        },
+        {
+          "title": "“最大客户”都让步了！韩媒称三星、海力士一季度向苹果供DRAM价格较上季度翻倍",
+          "url": "https://wallstreetcn.com/articles/3764243",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时24分]"
         },
         {
           "title": "康宁公司（GLW，苹果公司供应商）涨幅扩大至18%，创2004年以来盘中新高。 该公司与Meta达成关于数据中心的光缆供应协议。",
@@ -449,93 +627,43 @@
           "time_info": "00时23分"
         },
         {
-          "title": "“最大客户”都让步了！韩媒称三星、海力士一季度向苹果供DRAM价格较上季度翻倍",
-          "url": "https://wallstreetcn.com/articles/3764243",
-          "source": "华尔街见闻",
+          "title": "纳斯达克100指数涨1%，成分股拉姆研究涨6.8%，希捷科技涨6%，西部数据涨5.2%，应用材料涨4.9%，美光科技涨4.5%，英特尔涨3.8%，阿斯麦ADR涨3.3%，Adobe目前跌3.3%，特许通讯跌4.1%，Roper Technologies Inc.跌11.8%。 标普涨超0.5%，道指跌322点跌幅0.64%。",
+          "url": "https://wallstreetcn.com/livenews/3044886",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# --- 第五组：日本动态 (关键修改：去掉了外交限制) --- 日本 岸田文雄 自卫队 靖国神社 核污水",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "“高市下台！”高市早苗选举拉票演讲第一站，遭日本民众抗议(图)",
-          "url": "https://news.ifeng.com/c/8qFyqvPQsmw",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "time_info": "01时24分"
         },
         {
-          "title": "日本政府要求渔民避开钓鱼岛",
-          "url": "https://news.ifeng.com/c/8qFvc1m8X70",
-          "source": "凤凰网",
+          "title": "标普500指数盘中创下历史新高，涨幅0.5%。",
+          "url": "https://flash.jin10.com/detail/20260128001605313800",
+          "source": "金十数据",
           "ranks": [
-            3
+            26
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时23分"
+          "time_info": "01时24分"
         },
         {
-          "title": "第1现场｜“晓晓”“蕾蕾”启程回家，日本大熊猫归零",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32471946",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "外交敲警钟:春节慎去日本蹦跶",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349781&amp;topic_name=%E5%A4%96%E4%BA%A4%E6%95%B2%E8%AD%A6%E9%92%9F%3A%E6%98%A5%E8%8A%82%E6%85%8E%E5%8E%BB%E6%97%A5%E6%9C%AC%E8%B9%A6%E8%B7%B6",
-          "source": "贴吧",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "日本一女性在同一家公司上班近70年",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%80%E5%A5%B3%E6%80%A7%E5%9C%A8%E5%90%8C%E4%B8%80%E5%AE%B6%E5%85%AC%E5%8F%B8%E4%B8%8A%E7%8F%AD%E8%BF%9170%E5%B9%B4%23&t=31&band_rank=13&Refer=top",
+          "title": "苹果煮水竟有这么多妙用",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E7%85%AE%E6%B0%B4%E7%AB%9F%E6%9C%89%E8%BF%99%E4%B9%88%E5%A4%9A%E5%A6%99%E7%94%A8%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
           "ranks": [
-            13
+            30
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "日本首相又放厥词",
-          "url": "https://www.douyin.com/hot/2381099",
-          "source": "抖音",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "time_info": "01时24分"
         }
       ]
     },
     {
       "keyword_group": "# --- 第二组：中国经济与A股 (保留宽泛的行情词) --- A股 上证 深证 恒生 人民币 汇率 经济 GDP",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
         {
           "title": "三家A股公司实控人熊海涛被留置 旗下东材科技改制往事曾遭举报",
@@ -545,19 +673,53 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时24分]"
         },
         {
           "title": "万亿GDP地市辖区来了",
           "url": "https://www.douyin.com/hot/2380759",
           "source": "抖音",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时24分]"
+        },
+        {
+          "title": "广东GDP出炉,37连冠稳坐榜1",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349719&amp;topic_name=%E5%B9%BF%E4%B8%9CGDP%E5%87%BA%E7%82%89%2C37%E8%BF%9E%E5%86%A0%E7%A8%B3%E5%9D%90%E6%A6%9C1",
+          "source": "贴吧",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时24分]"
+        },
+        {
+          "title": "A股午后拉升，三大股指集体收涨，算力产业链爆发，恒指涨超1%，紫金黄金涨超11%，沪银逆势涨7%",
+          "url": "https://wallstreetcn.com/articles/3764225",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时23分"
+          "time_info": "01时24分"
+        },
+        {
+          "title": "路威酩轩（LVMH）：地缘政治和宏观经济环境仍不确定。",
+          "url": "https://flash.jin10.com/detail/20260128005245508800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时24分"
         },
         {
           "title": "世界大型企业联合会首席经济学家Dana Peterson表示，美国消费者在此次调查的自由填写回答中经常提到油价和食品杂货价格。 她还称，提及政治、劳动力市场和医疗保险的次数也上升。",
@@ -571,6 +733,17 @@
           "time_info": "00时23分"
         },
         {
+          "title": "2025年广东GDP增长3.9%",
+          "url": "https://www.douyin.com/hot/2380634",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
           "title": "美国消费者信心跌至2014年以来低点，对经济与就业更趋悲观",
           "url": "https://wallstreetcn.com/livenews/3044872",
           "source": "华尔街见闻-快讯",
@@ -582,15 +755,111 @@
           "time_info": "00时23分"
         },
         {
-          "title": "广东GDP出炉,37连冠稳坐榜1",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349719&amp;topic_name=%E5%B9%BF%E4%B8%9CGDP%E5%87%BA%E7%82%89%2C37%E8%BF%9E%E5%86%A0%E7%A8%B3%E5%9D%90%E6%A6%9C1",
+          "title": "波音(BA.N)首席执行官：特朗普政府理解商业航空航天产业对美国经济的重要性。",
+          "url": "https://flash.jin10.com/detail/20260128002342619800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# --- 第五组：日本动态 (关键修改：去掉了外交限制) --- 日本 岸田文雄 自卫队 靖国神社 核污水",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "“高市下台！”高市早苗选举拉票演讲第一站，遭日本民众抗议(图)",
+          "url": "https://news.ifeng.com/c/8qFyqvPQsmw",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时24分]"
+        },
+        {
+          "title": "日本政府要求渔民避开钓鱼岛",
+          "url": "https://news.ifeng.com/c/8qFvc1m8X70",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时24分]"
+        },
+        {
+          "title": "第1现场｜“晓晓”“蕾蕾”启程回家，日本大熊猫归零",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32471946",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时24分]"
+        },
+        {
+          "title": "外交敲警钟:春节慎去日本蹦跶",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349781&amp;topic_name=%E5%A4%96%E4%BA%A4%E6%95%B2%E8%AD%A6%E9%92%9F%3A%E6%98%A5%E8%8A%82%E6%85%8E%E5%8E%BB%E6%97%A5%E6%9C%AC%E8%B9%A6%E8%B7%B6",
           "source": "贴吧",
           "ranks": [
-            27
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时24分]"
+        },
+        {
+          "title": "日本一女性在同一家公司上班近70年",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%80%E5%A5%B3%E6%80%A7%E5%9C%A8%E5%90%8C%E4%B8%80%E5%AE%B6%E5%85%AC%E5%8F%B8%E4%B8%8A%E7%8F%AD%E8%BF%9170%E5%B9%B4%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时24分]"
+        },
+        {
+          "title": "野村：日本央行3月加息仍然属于“尾部风险情景”，尽管4月加息的可能性更大。",
+          "url": "https://wallstreetcn.com/livenews/3044884",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
+          "title": "日本首相又放厥词",
+          "url": "https://www.douyin.com/hot/2381099",
+          "source": "抖音",
+          "ranks": [
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "野村：预计日本国债收益率曲线最近的扭曲趋平走势可能会持续。 虽然美元/日元走低减轻了日本央行立即政策正常化的压力，但正如以往经验所示，市场在政府干预后对日本央行采取鹰派行动的预期可能会增强。",
+          "url": "https://wallstreetcn.com/livenews/3044883",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时24分"
         }
       ]
     },
@@ -606,8 +875,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时24分]"
         },
         {
           "title": "北约秘书长吕特唱衰欧洲防务自主：请继续做梦吧",
@@ -617,8 +886,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时24分]"
         },
         {
           "title": "乌克兰副总理：俄罗斯无人机袭击损坏了位于东部哈尔科夫地区的客运列车。",
