@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T00:37:25.409145+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-30T01:33:52.364303+08:00",
+  "total_titles_processed": 405,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- 第三组：美国宏观与军事 --- 美国 白宫 五角大楼 美军 美联储 布林肯 拜登 特朗普",
-      "match_count": 25,
+      "match_count": 67,
       "titles": [
         {
           "title": "特朗普升级对伊施压，美股指齐跌，微软重挫11%，黄金跳水逼近5320，布油重回70美元",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时33分]"
         },
         {
           "title": "美联储决议无新意，希捷飙升引领存储板块大涨，黄金涨破5400，纽银涨10%，油价四个月新高",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时33分]"
         },
         {
           "title": "要做主权国家还是美国跟班？英国选择重启中英“黄金时代”",
@@ -37,8 +37,30 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时33分]"
+        },
+        {
+          "title": "美国总统特朗普讲话期间，现货黄金走高，回升至5330美元/盎司上方。",
+          "url": "https://flash.jin10.com/detail/20260130011936072800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时37分"
+          "time_info": "01时33分"
+        },
+        {
+          "title": "美国总统特朗普：与礼来制药老板对话。",
+          "url": "https://wallstreetcn.com/livenews/3046628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时33分"
         },
         {
           "title": "美国贸易代表格里尔：签署美国-萨尔瓦多互惠贸易协议。",
@@ -52,15 +74,15 @@
           "time_info": "00时37分"
         },
         {
-          "title": "墨西哥总统辛鲍姆：我们（墨西哥方面/墨方和美国总统特朗普）的目标是，尽快与加拿大总理卡尼通电话。",
-          "url": "https://wallstreetcn.com/livenews/3046594",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普：利率应该低2到3个百分点",
+          "url": "https://flash.jin10.com/detail/20260130011817239800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时37分"
+          "time_info": "01时33分"
         },
         {
           "title": "美军再向中东增派军舰",
@@ -74,15 +96,72 @@
           "time_info": "00时37分"
         },
         {
+          "title": "最终计票结果显示，支出法案未能获得足够票数在美国参议院获得通过，赞成票46票，反对票54票。",
+          "url": "https://flash.jin10.com/detail/20260130011735534800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时33分"
+        },
+        {
+          "title": "美国总统特朗普：下周将宣布美联储主席人选。",
+          "url": "https://flash.jin10.com/detail/20260130011653273800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时33分"
+        },
+        {
+          "title": "美国总统特朗普：下周将宣布美联储主席人选。",
+          "url": "https://wallstreetcn.com/livenews/3046625",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时33分"
+        },
+        {
+          "title": "美国总统特朗普：关税本可能会更高，我们已经非常客气了。",
+          "url": "https://flash.jin10.com/detail/20260130011559284800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时33分"
+        },
+        {
+          "title": "墨西哥总统辛鲍姆：我们（墨西哥方面/墨方和美国总统特朗普）的目标是，尽快与加拿大总理卡尼通电话。",
+          "url": "https://wallstreetcn.com/livenews/3046594",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时33分]"
+        },
+        {
           "title": "谁会是下任美联储主席",
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%81%E4%BC%9A%E6%98%AF%E4%B8%8B%E4%BB%BB%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD",
           "source": "bilibili 热搜",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时33分]"
         },
         {
           "title": "打击伊朗的机会窗口未到，特朗普在等什么？",
@@ -92,8 +171,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时33分]"
         },
         {
           "title": "美联储如期暂停降息，暗示不急行动，但联储主席人选沃勒支持再降25基点",
@@ -103,8 +182,140 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时33分]"
+        },
+        {
+          "title": "美国明州ICE接到新指令：不要接触！",
+          "url": "https://news.ifeng.com/c/8qJLmLEKap6",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时33分]"
+        },
+        {
+          "title": "释新闻｜特朗普连续第三天施压伊朗再提核计划，美国要开打了吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32488307",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时33分]"
+        },
+        {
+          "title": "猩猩入主白宫,一月神番太扯淡",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349887&amp;topic_name=%E7%8C%A9%E7%8C%A9%E5%85%A5%E4%B8%BB%E7%99%BD%E5%AE%AB%2C%E4%B8%80%E6%9C%88%E7%A5%9E%E7%95%AA%E5%A4%AA%E6%89%AF%E6%B7%A1",
+          "source": "贴吧",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时33分]"
+        },
+        {
+          "title": "美联储暂停降息对黄金有何影响",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%81%94%E5%82%A8%E6%9A%82%E5%81%9C%E9%99%8D%E6%81%AF%E5%AF%B9%E9%BB%84%E9%87%91%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时33分]"
+        },
+        {
+          "title": "美国财长贝森特：2026年将是供给侧繁荣的一年。",
+          "url": "https://flash.jin10.com/detail/20260130011457045800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时37分"
+          "time_info": "01时33分"
+        },
+        {
+          "title": "美国财长贝森特：100人已经签字申请“特朗普账户”（Trump Accounts）。",
+          "url": "https://wallstreetcn.com/livenews/3046620",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时33分"
+        },
+        {
+          "title": "美国航空计划恢复每日飞往委内瑞拉的航班。",
+          "url": "https://flash.jin10.com/detail/20260130011358154800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时33分"
+        },
+        {
+          "title": "特朗普称美方计划重新开放委内瑞拉领空",
+          "url": "https://wallstreetcn.com/livenews/3046619",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时33分"
+        },
+        {
+          "title": "枪杀美国公民的执法人员被停职",
+          "url": "https://www.douyin.com/hot/2382964",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时33分"
+        },
+        {
+          "title": "特朗普称美方计划重新开放委内瑞拉领空",
+          "url": "https://flash.jin10.com/detail/20260130011129338800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时33分"
+        },
+        {
+          "title": "美国联邦政府再次面临部分“停摆”",
+          "url": "https://wallstreetcn.com/livenews/3046618",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时33分"
+        },
+        {
+          "title": "特朗普：普京同意停火一周",
+          "url": "https://flash.jin10.com/detail/20260130011030336800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时33分"
         },
         {
           "title": "美国电网运营商PJM：预计（通往各大发电站的）天然气管道输送网络到下周都几乎没有什么（运力）灵活性。",
@@ -118,15 +329,26 @@
           "time_info": "00时37分"
         },
         {
-          "title": "美国明州ICE接到新指令：不要接触！",
-          "url": "https://news.ifeng.com/c/8qJLmLEKap6",
-          "source": "凤凰网",
+          "title": "美国总统特朗普：（谈中东）哈马斯似乎即将解除武装。",
+          "url": "https://flash.jin10.com/detail/20260130010707619800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时37分"
+          "time_info": "01时33分"
+        },
+        {
+          "title": "房地美：美国上周30年期按揭贷款/抵押贷款利率6.10%，脱离最近三年来最低位，前值6.09%。",
+          "url": "https://wallstreetcn.com/livenews/3046616",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时33分"
         },
         {
           "title": "据Punchbowl记者Andrew Desiderio：美国参议院共和党领袖图恩表示，他认为上午11:30（北京时间凌晨0:30）的程序性投票将如期进行。图恩补充说，他已经和众议院议长约翰逊谈过如何让这项法案在众议院获得通过。",
@@ -140,26 +362,92 @@
           "time_info": "00时37分"
         },
         {
-          "title": "释新闻｜特朗普连续第三天施压伊朗再提核计划，美国要开打了吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32488307",
-          "source": "澎湃新闻",
+          "title": "美国总统特朗普：（谈中东）哈马斯是促成人质获释的重要因素。",
+          "url": "https://flash.jin10.com/detail/20260130010650342800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时33分"
+        },
+        {
+          "title": "美国参议院投票，无法通过政府融资立法草案，对众议院支持的权宜性融资草案的投票仍在继续。 目前，（国会山与白宫）仍然在讨论政府融资草案。",
+          "url": "https://wallstreetcn.com/livenews/3046615",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时33分"
+        },
+        {
+          "title": "美国联邦政府再次面临部分“停摆”",
+          "url": "https://flash.jin10.com/detail/20260130010115769800",
+          "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时37分"
+          "time_info": "01时33分"
         },
         {
-          "title": "猩猩入主白宫,一月神番太扯淡",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349887&amp;topic_name=%E7%8C%A9%E7%8C%A9%E5%85%A5%E4%B8%BB%E7%99%BD%E5%AE%AB%2C%E4%B8%80%E6%9C%88%E7%A5%9E%E7%95%AA%E5%A4%AA%E6%89%AF%E6%B7%A1",
-          "source": "贴吧",
+          "title": "美国总统特朗普：通用汽车、福特汽车的表现是它们从未有过的。",
+          "url": "https://wallstreetcn.com/livenews/3046612",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时33分"
+        },
+        {
+          "title": "房利美：1月29日当周，美国30年期固定利率抵押贷款平均利率为6.10%，高于前一周的6.09%。",
+          "url": "https://flash.jin10.com/detail/20260130010017510800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时33分"
+        },
+        {
+          "title": "美国总统特朗普：美国目前的钢铁产量超过日本。",
+          "url": "https://flash.jin10.com/detail/20260130005635808800",
+          "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时37分"
+          "time_info": "01时33分"
+        },
+        {
+          "title": "标普500指数维持下跌1%的状态，道指跌0.2%，纳指跌1.8%，半导体指数跌1.5%。 1月29日临近纽约中午，美国总统特朗普赞扬股市上涨。",
+          "url": "https://wallstreetcn.com/livenews/3046610",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时33分"
+        },
+        {
+          "title": "美国总统特朗普：福特和通用汽车的表现比以往任何时候都好。",
+          "url": "https://flash.jin10.com/detail/20260130005557703800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时33分"
         },
         {
           "title": "美国商务部长卢特尼克将接管部门内一个分支，正为了多个项目从银行业、私募行业招人。（Semafor）",
@@ -173,6 +461,28 @@
           "time_info": "00时37分"
         },
         {
+          "title": "美国总统特朗普赞扬股市上涨。",
+          "url": "https://wallstreetcn.com/livenews/3046609",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时33分"
+        },
+        {
+          "title": "分析：政府面临停摆风险，特朗普改变其策略",
+          "url": "https://flash.jin10.com/detail/20260130005504932800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时33分"
+        },
+        {
           "title": "美国能源信息署（EIA）：美国上周EIA天然气库存下降2420亿立方英尺，周环比降幅7.90%，至2.82万亿立方英尺。",
           "url": "https://wallstreetcn.com/livenews/3046574",
           "source": "华尔街见闻-快讯",
@@ -182,6 +492,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
+        },
+        {
+          "title": "美国总统特朗普：希望我们不会（在1月30日）发生政府停摆。 （白宫）正努力避免政府关门。 （国会山的）民主党也不希望政府关门。",
+          "url": "https://wallstreetcn.com/livenews/3046608",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时33分"
+        },
+        {
+          "title": "美国总统特朗普：希望我们不会出现政府停摆，民主党人也不希望政府停摆。",
+          "url": "https://flash.jin10.com/detail/20260130005043827800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时33分"
         },
         {
           "title": "美国1月23日当周EIA天然气库存变动 -2420亿立方英尺，预期 -2380亿立方英尺，前值 -1200亿立方英尺。",
@@ -195,6 +527,17 @@
           "time_info": "00时37分"
         },
         {
+          "title": "分析：特朗普不希望政府停摆重演",
+          "url": "https://flash.jin10.com/detail/20260130005016712800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时33分"
+        },
+        {
           "title": "美国参议院多数党领袖约翰·图恩（John Thune）：与政府关门相关的磋商“在正确的方向上”推进。（Politico）",
           "url": "https://wallstreetcn.com/livenews/3046572",
           "source": "华尔街见闻-快讯",
@@ -204,6 +547,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
+        },
+        {
+          "title": "美国总统特朗普：石油公司将为美国和委内瑞拉带来财富。 今天将开放委内瑞拉所有商业空域。",
+          "url": "https://wallstreetcn.com/livenews/3046606",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时33分"
+        },
+        {
+          "title": "美国总统特朗普称赞股市上涨。",
+          "url": "https://flash.jin10.com/detail/20260130004846125800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时33分"
         },
         {
           "title": "据福克斯新闻记者Chad Pergram：白宫正与参议院民主党人和共和党人合作，以就法案中有关国土安全部的部分达成妥协。但即使参议院将国土安全部法案从六项支出法案中分离出来，并批准其他五项法案，政府仍然会停摆。",
@@ -217,22 +582,44 @@
           "time_info": "00时37分"
         },
         {
+          "title": "美国总统特朗普：石油公司将为美国和委内瑞拉创造财富。",
+          "url": "https://flash.jin10.com/detail/20260130004707987800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时33分"
+        },
+        {
+          "title": "美国财政部拍卖四周期国债，得标利率3.630%，投标倍数2.86。 拍卖八周期国债，得标利率3.635%，投标倍数2.87。",
+          "url": "https://wallstreetcn.com/livenews/3046601",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时33分"
+        },
+        {
+          "title": "特朗普：将采取两党合作的方式避免政府停摆",
+          "url": "https://flash.jin10.com/detail/20260130004643218800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时33分"
+        },
+        {
           "title": "墨西哥总统辛鲍姆：我们不能将加拿大排除在三边协议（美国墨西哥加拿大贸易协议/USMCA）之外。 今天，与美国总统特朗普通电话。 墨西哥设法维持三边协议。 特朗普邀请我前往美国，但我们还没有同意哪一天实现。 我们认为，（美墨边境）安全工作的进展不错。 此次通话是“热情的”。 我们讨论关税和非关税壁垒。 墨美贸易和双边关系正在推进。 并没有与特朗普讨论（墨西哥供应柴油给）古巴的问题。",
           "url": "https://wallstreetcn.com/livenews/3046578",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
-        },
-        {
-          "title": "美联储暂停降息对黄金有何影响",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%81%94%E5%82%A8%E6%9A%82%E5%81%9C%E9%99%8D%E6%81%AF%E5%AF%B9%E9%BB%84%E9%87%91%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -250,6 +637,28 @@
           "time_info": "00时37分"
         },
         {
+          "title": "美国总统特朗普：已告知委内瑞拉总统，我们将开放委内瑞拉上空的空域，美国很快就能前往访问了。",
+          "url": "https://flash.jin10.com/detail/20260130004620646800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时33分"
+        },
+        {
+          "title": "美国总统特朗普：（谈委内瑞拉）已让大型石油公司前往勘察地点。",
+          "url": "https://flash.jin10.com/detail/20260130004406228800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时33分"
+        },
+        {
           "title": "美国参议院共和党领袖：距离达成避免政府停摆的协议更近一步",
           "url": "https://flash.jin10.com/detail/20260129235114427800",
           "source": "金十数据",
@@ -259,6 +668,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
+        },
+        {
+          "title": "金十数据1月30日讯，美国总统特朗普正召开其第二任期第十次内阁会议。",
+          "url": "https://flash.jin10.com/detail/20260130004330980800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时33分"
+        },
+        {
+          "title": "美国总统特朗普：将在美国和墨西哥安排我和墨西哥总统辛鲍姆的会谈。",
+          "url": "https://wallstreetcn.com/livenews/3046597",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时33分"
+        },
+        {
+          "title": "特朗普最新回应美军机南海坠毁，“有可能是燃油出了问题”",
+          "url": "https://wallstreetcn.com/livenews/3046596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时33分"
         },
         {
           "title": "据Punchbowl：美国众议院共和党领导层似乎不太可能在本周末召集众议院复会。出席率肯定会很低。虽然他们尚未做出最终决定，但众议院计划于周一复会。",
@@ -272,6 +714,17 @@
           "time_info": "00时37分"
         },
         {
+          "title": "美国至1月29日4周国债竞拍-投标倍数 2.86，前值2.86。",
+          "url": "https://flash.jin10.com/detail/20260130003204528800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时33分"
+        },
+        {
           "title": "美国11月批发销售环比 1.3%，预期 -0.1%，前值 -0.4%。",
           "url": "https://wallstreetcn.com/livenews/3046562",
           "source": "华尔街见闻-快讯",
@@ -281,12 +734,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
+        },
+        {
+          "title": "美国政府停摆风险迫近，特朗普与民主党人接近达成协议",
+          "url": "https://wallstreetcn.com/livenews/3046623",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时33分"
         }
       ]
     },
     {
       "keyword_group": "# --- 第一组：中国宏观 (去掉了必须词，只过滤娱乐) --- 中国 央视 外交部 国防部 解放军 人民日报 新华社",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "国防部说的“You wish”是什么意思",
@@ -296,8 +760,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时33分]"
         },
         {
           "title": "让中国这么干？英首相不接茬",
@@ -307,19 +771,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时33分]"
         },
         {
-          "title": "2026 年一月，中国连续接待韩国、爱尔兰、加拿大、英国等外国元首，全球外交局势发生了哪些变化？",
-          "url": "https://www.zhihu.com/question/1999857203272783816",
-          "source": "知乎",
+          "title": "热气腾腾中国年",
+          "url": "https://www.douyin.com/hot/2383071",
+          "source": "抖音",
           "ranks": [
-            2
+            5,
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时33分]"
         },
         {
           "title": "中国新能源汽车持续领跑全球",
@@ -329,19 +794,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
-        },
-        {
-          "title": "国防部：已向菲方提出严正交涉",
-          "url": "https://www.toutiao.com/trending/7600036406102655039/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时33分]"
         },
         {
           "title": "国防部：所谓“击沉”中国军舰动画纯属自嗨",
@@ -351,19 +805,44 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时33分]"
         },
         {
-          "title": "热气腾腾中国年",
-          "url": "https://www.douyin.com/hot/2383071",
-          "source": "抖音",
+          "title": "国防部：已向菲方提出严正交涉",
+          "url": "https://www.toutiao.com/trending/7600036406102655039/",
+          "source": "今日头条",
           "ranks": [
+            4,
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时33分]"
+        },
+        {
+          "title": "2026 年一月，中国连续接待韩国、爱尔兰、加拿大、英国等外国元首，全球外交局势发生了哪些变化？",
+          "url": "https://www.zhihu.com/question/1999857203272783816",
+          "source": "知乎",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时33分]"
+        },
+        {
+          "title": "国防部回应“击沉中国军舰”动画",
+          "url": "https://www.douyin.com/hot/2383131",
+          "source": "抖音",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时33分]"
         },
         {
           "title": "中国金币集团发布风险提示",
@@ -373,8 +852,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时33分]"
         },
         {
           "title": "菲海警发言人抹黑中国，外交部回应",
@@ -384,8 +863,100 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时33分]"
+        },
+        {
+          "title": "贺娇龙事迹写入新疆维吾尔自治区政府工作报告，人民日报刊文纪念",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32487431",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时33分]"
+        },
+        {
+          "title": "中国奇谭2探寻传闻的大鸟",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%A5%87%E8%B0%AD2%E6%8E%A2%E5%AF%BB%E4%BC%A0%E9%97%BB%E7%9A%84%E5%A4%A7%E9%B8%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时33分]"
+        },
+        {
+          "title": "国防部回应日本可能“强登钓鱼岛”",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%98%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E5%8F%AF%E8%83%BD%E2%80%9C%E5%BC%BA%E7%99%BB%E9%92%93%E9%B1%BC%E5%B2%9B%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时33分]"
+        },
+        {
+          "title": "俄罗斯贝加尔湖冰面翻车致中国游客 1 死 4 伤，目前情况如何？为什么会这么严重？",
+          "url": "https://www.zhihu.com/question/1999919764089303301",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时33分]"
+        },
+        {
+          "title": "反腐扫黑案基本落幕，中国足球从此轻装上阵",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32489218",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时33分]"
+        },
+        {
+          "title": "国防部：已向菲方提出严正交涉",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%98%B2%E9%83%A8%EF%BC%9A%E5%B7%B2%E5%90%91%E8%8F%B2%E6%96%B9%E6%8F%90%E5%87%BA%E4%B8%A5%E6%AD%A3%E4%BA%A4%E6%B6%89",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时33分]"
+        },
+        {
+          "title": "国防部：所谓“击沉”中国军舰动画纯属自嗨",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32489856",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时33分]"
+        },
+        {
+          "title": "国防部：菲海警有关发言人手段卑劣",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%98%B2%E9%83%A8%EF%BC%9A%E8%8F%B2%E6%B5%B7%E8%AD%A6%E6%9C%89%E5%85%B3%E5%8F%91%E8%A8%80%E4%BA%BA%E6%89%8B%E6%AE%B5%E5%8D%91%E5%8A%A3",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时33分]"
         },
         {
           "title": "纳斯达克金龙中国指数跌超1%，彭博数据显示，美股盘初一度涨约2%。",
@@ -399,59 +970,15 @@
           "time_info": "00时37分"
         },
         {
-          "title": "贺娇龙事迹写入新疆维吾尔自治区政府工作报告，人民日报刊文纪念",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32487431",
-          "source": "澎湃新闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
-        },
-        {
-          "title": "中国奇谭2探寻传闻的大鸟",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%A5%87%E8%B0%AD2%E6%8E%A2%E5%AF%BB%E4%BC%A0%E9%97%BB%E7%9A%84%E5%A4%A7%E9%B8%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
-        },
-        {
-          "title": "国防部回应“击沉中国军舰”动画",
-          "url": "https://www.douyin.com/hot/2383131",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
-        },
-        {
-          "title": "俄罗斯贝加尔湖冰面翻车致中国游客 1 死 4 伤，目前情况如何？为什么会这么严重？",
-          "url": "https://www.zhihu.com/question/1999919764089303301",
-          "source": "知乎",
+          "title": "国际首次实现！中国团队新成果，或将人造卫星寿命延长到30年",
+          "url": "https://www.cls.cn/detail/2274616",
+          "source": "财联社热门",
           "ranks": [
             13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时37分"
-        },
-        {
-          "title": "反腐扫黑案基本落幕，中国足球从此轻装上阵",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32489218",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
+          "time_info": "01时33分"
         },
         {
           "title": "欧盟外交部长卡拉斯：欧盟第20轮俄罗斯制裁方案的工作仍在继续。",
@@ -465,37 +992,15 @@
           "time_info": "00时37分"
         },
         {
-          "title": "国防部：已向菲方提出严正交涉",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%98%B2%E9%83%A8%EF%BC%9A%E5%B7%B2%E5%90%91%E8%8F%B2%E6%96%B9%E6%8F%90%E5%87%BA%E4%B8%A5%E6%AD%A3%E4%BA%A4%E6%B6%89",
-          "source": "百度热搜",
+          "title": "如何理解《中国奇谭 2》第六集《大鸟》的独特美学风格？",
+          "url": "https://www.zhihu.com/question/1999086453804786886",
+          "source": "知乎",
           "ranks": [
-            17
+            15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时37分"
-        },
-        {
-          "title": "国防部回应日本可能“强登钓鱼岛”",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%98%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E5%8F%AF%E8%83%BD%E2%80%9C%E5%BC%BA%E7%99%BB%E9%92%93%E9%B1%BC%E5%B2%9B%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
-        },
-        {
-          "title": "国防部：所谓“击沉”中国军舰动画纯属自嗨",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32489856",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
+          "time_info": "01时33分"
         },
         {
           "title": "伊朗外交部长：欧洲将伊朗革命卫队列为“恐怖组织”是重大战略失误。",
@@ -509,21 +1014,21 @@
           "time_info": "00时37分"
         },
         {
-          "title": "国防部：菲海警有关发言人手段卑劣",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%98%B2%E9%83%A8%EF%BC%9A%E8%8F%B2%E6%B5%B7%E8%AD%A6%E6%9C%89%E5%85%B3%E5%8F%91%E8%A8%80%E4%BA%BA%E6%89%8B%E6%AE%B5%E5%8D%91%E5%8A%A3",
+          "title": "国防部回应福建舰通过台湾海峡北上",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%98%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E7%A6%8F%E5%BB%BA%E8%88%B0%E9%80%9A%E8%BF%87%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1%E5%8C%97%E4%B8%8A",
           "source": "百度热搜",
           "ranks": [
             28
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时37分"
+          "time_info": "01时33分"
         }
       ]
     },
     {
       "keyword_group": "# --- 第四组：美股与科技 (去掉了具体的“财报”限制) --- 美股 纳指 道琼斯 标普 特斯拉 英伟达 苹果 微软 OpenAI",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
@@ -533,30 +1038,43 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时33分]"
+        },
+        {
+          "title": "欧洲军工股几乎全线收跌。 德国上市的WisdomTree Europe Defence UCITS ETF（EUDF.GY）收跌1.58%。微软让投资者担忧AI、带动市场加速下挫之际，该ETF在北京时间23:00之前开始加速下跌。 英国伦敦上市、对军工股“照收不误”的Future of Defence UCITS ETF（NATO.LN）收跌2.05%。",
+          "url": "https://wallstreetcn.com/livenews/3046626",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时37分"
+          "time_info": "01时33分"
         },
         {
           "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
           "url": "https://wallstreetcn.com/articles/3764408",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时33分]"
         },
         {
           "title": "美股期指小幅走高 金银铜等集体大涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2274635",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时33分]"
         },
         {
           "title": "“若GPU管够，增速早超40%！”微软电话会回应市场担忧：我们缺产能，不缺订单",
@@ -566,8 +1084,19 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时33分]"
+        },
+        {
+          "title": "加密货币市场在美股开盘前后加速下跌",
+          "url": "https://wallstreetcn.com/livenews/3046613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时37分"
+          "time_info": "01时33分"
         },
         {
           "title": "标普跌超1%，纳指跌超2%，微软重挫超11%",
@@ -603,6 +1132,17 @@
           "time_info": "00时37分"
         },
         {
+          "title": "特斯拉(TSLA.O)：我们会继续为Model S和X项目提供支持，只要人们还拥有这些车辆。",
+          "url": "https://flash.jin10.com/detail/20260130003639373800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时33分"
+        },
+        {
           "title": "纳斯达克100指数跌幅扩大至1.1%，成分股Atlassian跌11.5%，微软跌11%，Workday跌9.5%，财捷跌7%，Strategy跌超5%。 Diamond Energy目前涨3.8%表现第四，康卡斯特、霍尼韦尔涨超4%，Meta涨7.8%。",
           "url": "https://wallstreetcn.com/livenews/3046563",
           "source": "华尔街见闻-快讯",
@@ -627,8 +1167,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时33分]"
         },
         {
           "title": "高市早苗与“统一教”相关团体有资金往来？日本政府回应",
@@ -638,19 +1178,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时33分]"
         },
         {
           "title": "熊猫在日本真的很火吗？",
           "url": "https://www.zhihu.com/question/336697154",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时33分]"
         },
         {
           "title": "东大发飙!日本熊猫库存清零",
@@ -660,8 +1201,36 @@
             23
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时33分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# --- 第二组：中国经济与A股 (保留宽泛的行情词) --- A股 上证 深证 恒生 人民币 汇率 经济 GDP",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "【每日收评】上证50涨超1.5%，资源类周期股延续强势，白酒、地产板块迎暴力反弹",
+          "url": "https://www.cls.cn/detail/2274164",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时33分]"
+        },
+        {
+          "title": "日媒：大熊猫失落症或冲击当地经济",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E5%AA%92%EF%BC%9A%E5%A4%A7%E7%86%8A%E7%8C%AB%E5%A4%B1%E8%90%BD%E7%97%87%E6%88%96%E5%86%B2%E5%87%BB%E5%BD%93%E5%9C%B0%E7%BB%8F%E6%B5%8E",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时37分"
+          "time_info": "01时33分"
         }
       ]
     },
@@ -670,17 +1239,6 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "俄总统新闻秘书：泽连斯基未回应是否前往莫斯科会晤普京",
-          "url": "https://wallstreetcn.com/livenews/3046586",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
-        },
-        {
           "title": "普京表示正密切关注伊朗问题相关进展",
           "url": "https://www.toutiao.com/trending/7600644867940974598/",
           "source": "今日头条",
@@ -688,21 +1246,15 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# --- 第二组：中国经济与A股 (保留宽泛的行情词) --- A股 上证 深证 恒生 人民币 汇率 经济 GDP",
-      "match_count": 1,
-      "titles": [
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时33分]"
+        },
         {
-          "title": "【每日收评】上证50涨超1.5%，资源类周期股延续强势，白酒、地产板块迎暴力反弹",
-          "url": "https://www.cls.cn/detail/2274164",
-          "source": "财联社热门",
+          "title": "俄总统新闻秘书：泽连斯基未回应是否前往莫斯科会晤普京",
+          "url": "https://wallstreetcn.com/livenews/3046586",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
