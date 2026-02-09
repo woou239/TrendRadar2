@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-09T07:26:11.619857+08:00",
-  "total_titles_processed": 477,
+  "generated_at": "2026-02-09T09:45:41.612717+08:00",
+  "total_titles_processed": 640,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- 第五组：日本动态 (关键修改：去掉了外交限制) --- 日本 岸田文雄 自卫队 靖国神社 核污水",
-      "match_count": 33,
+      "match_count": 45,
       "titles": [
         {
           "title": "专访｜“众院选举结果可能改变日本国家形态，进入相当危险阶段”",
@@ -27,20 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 07时26分]"
-        },
-        {
-          "title": "日本执政联盟将获众议院过半议席",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E6%89%A7%E6%94%BF%E8%81%94%E7%9B%9F%E5%B0%86%E8%8E%B7%E4%BC%97%E8%AE%AE%E9%99%A2%E8%BF%87%E5%8D%8A%E8%AE%AE%E5%B8%AD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 07时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 09时45分]"
         },
         {
           "title": "创纪录暴雪下，日本将往哪里去？",
@@ -54,6 +42,19 @@
           "time_info": "[00时23分 ~ 07时26分]"
         },
         {
+          "title": "日本执政联盟将获众议院过半议席",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E6%89%A7%E6%94%BF%E8%81%94%E7%9B%9F%E5%B0%86%E8%8E%B7%E4%BC%97%E8%AE%AE%E9%99%A2%E8%BF%87%E5%8D%8A%E8%AE%AE%E5%B8%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 09时45分]"
+        },
+        {
           "title": "任天堂首次承认 Switch2 日本以外销量不及预期，可能的原因有哪些？",
           "url": "https://www.zhihu.com/question/2002526333016773459",
           "source": "知乎",
@@ -62,11 +63,12 @@
             11,
             8,
             6,
-            9
+            9,
+            17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 07时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 09时45分]"
         },
         {
           "title": "警惕日本军国主义在文体领域渗透",
@@ -146,6 +148,28 @@
           "time_info": "[00时24分 ~ 05时21分]"
         },
         {
+          "title": "两年期日本国债收益率升至1.3%，创1996年以来新高。",
+          "url": "https://flash.jin10.com/detail/20260209093825237800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "日本30年期国债收益率下行0.5个基点，至3.545%，抹去早前升幅。",
+          "url": "https://wallstreetcn.com/livenews/3051981",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
           "title": "日本财务大臣片山皋月：如有必要，将于周一与市场沟通。 金融市场对日本国债有信心。",
           "url": "https://wallstreetcn.com/livenews/3051831",
           "source": "华尔街见闻-快讯",
@@ -182,6 +206,17 @@
           "time_info": "[00时24分 ~ 05时21分]"
         },
         {
+          "title": "高市赌赢了，日本更危险了",
+          "url": "https://news.ifeng.com/c/8qaycfDg2d4",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
           "title": "日本众议院选举结果公布",
           "url": "https://wallstreetcn.com/livenews/3051852",
           "source": "华尔街见闻-快讯",
@@ -199,7 +234,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -210,7 +245,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -308,11 +343,12 @@
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%BC%97%E8%AE%AE%E9%99%A2%E9%80%89%E4%B8%BE%E7%BB%93%E6%9E%9C%E5%85%AC%E5%B8%83",
           "source": "百度热搜",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时25分 ~ 07时26分]"
+          "appearance_count": 3,
+          "time_info": "[07时25分 ~ 09时45分]"
         },
         {
           "title": "日本执政联盟获得过半数议席",
@@ -322,8 +358,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时25分 ~ 07时26分]"
+          "appearance_count": 3,
+          "time_info": "[07时25分 ~ 09时45分]"
+        },
+        {
+          "title": "出口民调：日本执政联盟将获得众议院过半数议席",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32563225",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时28分 ~ 09时45分]"
         },
         {
           "title": "冬奥会裁判是怎么选的，为什么日本选手参加男子大跳台决赛，打分的还能有日本裁判，这不会不公平吗？",
@@ -337,15 +384,70 @@
           "time_info": "[00时23分 ~ 00时24分]"
         },
         {
-          "title": "出口民调：日本执政联盟将获得众议院过半数议席",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32563225",
+          "title": "两年期日本国债收益率上升2.5个基点，至1.300%。",
+          "url": "https://flash.jin10.com/detail/20260209093043951800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "日本律师团体向高等法院提起诉讼 要求判定众议院选举无效",
+          "url": "https://flash.jin10.com/detail/20260209092829285800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "日本众议院选举结果",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%BC%97%E8%AE%AE%E9%99%A2%E9%80%89%E4%B8%BE%E7%BB%93%E6%9E%9C%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "日本众议院选举结果公布：由自民党和日本维新会组成的执政联盟获过半数议席",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32564947",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            10
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时28分 ~ 03时21分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "日本众议院选举结果公布，执政联盟获得过半数议席，会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2003926420188000507",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "日本众议院选举结果公布：执政联盟获得过半数议席",
+          "url": "https://www.cls.cn/detail/2284063",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
         },
         {
           "title": "瑞穗：日本众议院选举结果揭晓后，日元看跌",
@@ -381,6 +483,28 @@
           "time_info": "06时21分"
         },
         {
+          "title": "日本五年期国债收益率上升3个基点，至1.715%。",
+          "url": "https://flash.jin10.com/detail/20260209090120641800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "日本两年期国债收益率上升1.5个基点，至1.29%。",
+          "url": "https://flash.jin10.com/detail/20260209090051906800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
           "title": "日本首相高市早苗：目前不考虑对现任内阁阵容进行重大调整。",
           "url": "https://flash.jin10.com/detail/20260208214128447800",
           "source": "金十数据",
@@ -401,12 +525,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        },
+        {
+          "title": "日本10年期国债收益率上行4.5个基点至2.275%。",
+          "url": "https://wallstreetcn.com/livenews/3051939",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
         }
       ]
     },
     {
       "keyword_group": "# --- 第一组：中国宏观 (去掉了必须词，只过滤娱乐) --- 中国 央视 外交部 国防部 解放军 人民日报 新华社",
-      "match_count": 22,
+      "match_count": 40,
       "titles": [
         {
           "title": "中国军网点名张本智和",
@@ -417,8 +552,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 07时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 09时45分]"
         },
         {
           "title": "下周重磅日程：美非农CPI齐发，中国通胀，AI、机器人春节大战",
@@ -426,18 +561,6 @@
           "source": "华尔街见闻",
           "ranks": [
             2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 07时26分]"
-        },
-        {
-          "title": "一款AI工具“血洗”全球软件股 中国SaaS何去何从？",
-          "url": "https://www.cls.cn/detail/2283350",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6
           ],
           "is_new": false,
           "appearance_count": 10,
@@ -452,7 +575,20 @@
             8,
             7,
             4,
-            3
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 09时45分]"
+        },
+        {
+          "title": "一款AI工具“血洗”全球软件股 中国SaaS何去何从？",
+          "url": "https://www.cls.cn/detail/2283350",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6
           ],
           "is_new": false,
           "appearance_count": 10,
@@ -502,11 +638,12 @@
           "source": "百度热搜",
           "ranks": [
             13,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 07时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 09时45分]"
         },
         {
           "title": "解放军报刊文谈反腐大片披露蒋超良案：为官莫喝“迷魂汤”",
@@ -561,6 +698,40 @@
           "time_info": "[00时23分 ~ 07时26分]"
         },
         {
+          "title": "中国军网点名宝可梦、张本智和",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%86%9B%E7%BD%91%E7%82%B9%E5%90%8D%E5%AE%9D%E5%8F%AF%E6%A2%A6%E3%80%81%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "本周重磅日程：美非农CPI齐发，中国通胀，AI、机器人春节大战",
+          "url": "https://wallstreetcn.com/articles/3765243",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "外交部就巴基斯坦爆炸事件答问：强烈谴责，反对一切形式的恐怖主义",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32562042",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 09时45分]"
+        },
+        {
           "title": "泰国南部也拉府发生爆炸并伴随枪击，造成1名选举安保人员受伤。 (新华社)",
           "url": "https://wallstreetcn.com/livenews/3051822",
           "source": "华尔街见闻-快讯",
@@ -587,15 +758,48 @@
           "time_info": "[00时23分 ~ 07时26分]"
         },
         {
+          "title": "谷爱凌携手队友冲击中国首金",
+          "url": "https://www.douyin.com/hot/2394303",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "中国黄金调整回购规则， 非交易日暂停办理，为什么此时调整？会带来什么影响？",
+          "url": "https://www.zhihu.com/question/2003551207906571434",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
           "title": "人民日报金轩：以新质生产力为高质量发展注入澎湃动力",
           "url": "https://wallstreetcn.com/livenews/3051894",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
+        },
+        {
+          "title": "谷爱凌冲击中国军团首金",
+          "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E7%88%B1%E5%87%8C%E5%86%B2%E5%87%BB%E4%B8%AD%E5%9B%BD%E5%86%9B%E5%9B%A2%E9%A6%96%E9%87%91",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
         },
         {
           "title": "人民日报：10余年，西湖会所整治成效持续显现",
@@ -604,18 +808,6 @@
           "ranks": [
             18,
             17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 03时21分]"
-        },
-        {
-          "title": "外交部就巴基斯坦爆炸事件答问：强烈谴责，反对一切形式的恐怖主义",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32562042",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -673,6 +865,116 @@
           "time_info": "[04时20分 ~ 06时21分]"
         },
         {
+          "title": "日本耍赖，拒还中国“头号流失国宝”(图)",
+          "url": "https://news.ifeng.com/c/8qaoq4HucSU",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "被打疼！这个挑衅中国的国家想认错了",
+          "url": "https://news.ifeng.com/c/8qaGllt40Mc",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "中国央行公开市场今日净投放380亿元",
+          "url": "https://wallstreetcn.com/livenews/3051965",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "中国已有哪些重大考古发现?",
+          "url": "https://www.zhihu.com/question/22524047",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "中国央行公开市场操作当日实现净投放380亿元",
+          "url": "https://flash.jin10.com/detail/20260209092319611800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "赛场屹线丨胜利之夜！中国队包揽乒乓球亚洲杯男女单冠军",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32561569",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "中国人寿等在上海成立汇智长三角私募基金，出资额50.5亿元",
+          "url": "https://wallstreetcn.com/livenews/3051954",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "富时中国A50指数期货盘初涨1.07%，上一个交易日夜盘收涨1.03%。",
+          "url": "https://wallstreetcn.com/livenews/3051950",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "老外来中国过年的订单爆了",
+          "url": "https://www.baidu.com/s?wd=%E8%80%81%E5%A4%96%E6%9D%A5%E4%B8%AD%E5%9B%BD%E8%BF%87%E5%B9%B4%E7%9A%84%E8%AE%A2%E5%8D%95%E7%88%86%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "谷爱凌今日冲击中国首金",
+          "url": "https://www.toutiao.com/trending/7604636231879642651/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
           "title": "刘瀚彬创中国速滑5000米冬奥最好成绩",
           "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E7%80%9A%E5%BD%AC%E5%88%9B%E4%B8%AD%E5%9B%BD%E9%80%9F%E6%BB%915000%E7%B1%B3%E5%86%AC%E5%A5%A5%E6%9C%80%E5%A5%BD%E6%88%90%E7%BB%A9%23&t=31&band_rank=25&Refer=top",
           "source": "微博",
@@ -682,12 +984,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
+        },
+        {
+          "title": "摩根士丹利上调中国三大航空公司A股评级至超配",
+          "url": "https://wallstreetcn.com/livenews/3051944",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "中国外汇交易中心（CFETS）：2月6日人民币汇率指数按周涨1.35至98.34。",
+          "url": "https://wallstreetcn.com/livenews/3051942",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "本周中国央行公开市场将有4055亿元逆回购到期",
+          "url": "https://wallstreetcn.com/livenews/3051940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
         }
       ]
     },
     {
       "keyword_group": "# --- 第二组：中国经济与A股 (保留宽泛的行情词) --- A股 上证 深证 恒生 人民币 汇率 经济 GDP",
-      "match_count": 22,
+      "match_count": 31,
       "titles": [
         {
           "title": "太空光伏概念龙头三连板 P型HJT/钙钛矿叠层技术路线A股名单及相关业务一览",
@@ -705,11 +1040,25 @@
           "url": "https://wallstreetcn.com/articles/3765246",
           "source": "华尔街见闻",
           "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 09时45分]"
+        },
+        {
+          "title": "年内迄今19家A股上市公司公告终止并购重组 热门商业航天概念股赫然在列",
+          "url": "https://www.cls.cn/detail/2283734",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7,
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 07时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 09时45分]"
         },
         {
           "title": "一夜之间4家A股公司被立案或处罚",
@@ -720,18 +1069,6 @@
             6,
             22,
             23
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 07时26分]"
-        },
-        {
-          "title": "年内迄今19家A股上市公司公告终止并购重组 热门商业航天概念股赫然在列",
-          "url": "https://www.cls.cn/detail/2283734",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7
           ],
           "is_new": false,
           "appearance_count": 10,
@@ -754,11 +1091,12 @@
           "url": "https://www.cls.cn/detail/2283877",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 07时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 09时45分]"
         },
         {
           "title": "日本财务大臣片山皋月：不会对汇率水平发表评论。 正与美国就汇率保持密切联系。 保持日元兑美元汇率稳定是财务主管的责任。 无需担心日本进入滞胀。",
@@ -785,13 +1123,35 @@
           "time_info": "[00时24分 ~ 05时21分]"
         },
         {
+          "title": "A股光伏板块开盘强势，金晶科技一字涨停，聚和材料涨超10%，协鑫集成、连城数控、奥特维、钧达股份、晶科能源跟涨，据报道，特斯拉正评估美国多个选址，计划扩大太阳能电池制造业务，目标在未来三年内实现每年100吉瓦的太阳能制造能力。",
+          "url": "https://wallstreetcn.com/livenews/3051977",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "A股CPO等算力硬件股延续强势，天孚通信大涨近10%，股价再创历史新高，天通股份、智立方、太辰光、杰普特等多股高开。",
+          "url": "https://wallstreetcn.com/livenews/3051975",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
           "title": "机构：A股市场存在显著的春节“日历效应”，持股过节或是更优选择",
           "url": "https://wallstreetcn.com/livenews/3051893",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -909,7 +1269,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -920,9 +1280,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
+        },
+        {
+          "title": "A股三大指数集体高开，创业板指涨近2%",
+          "url": "https://wallstreetcn.com/livenews/3051967",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
         },
         {
           "title": "美国将在11月举行中期选举，在财长贝森特看来，道指的新高就是该国经济正处在上升周期、将惠及普通民众的明证。 谈到美联储的政策时贝森特表示，他预计央行对缩减资产负债表的任何努力都会采取谨慎的态度。",
@@ -936,33 +1307,88 @@
           "time_info": "05时21分"
         },
         {
+          "title": "恒指高开1.6%，恒生科技指数涨1.9%",
+          "url": "https://wallstreetcn.com/livenews/3051964",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "本周机构最为关注的A股行业板块一览",
+          "url": "https://www.cls.cn/detail/2283996",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
           "title": "近190亿元“春节红包”来袭，34家A股公司节前排队派息",
           "url": "https://wallstreetcn.com/livenews/3051885",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
+        },
+        {
+          "title": "人民币兑美元中间价报6.9523，上调67点；上一交易日中间价6.9590，上一交易日官方收盘价6.9401，上日夜盘报收6.9354。",
+          "url": "https://wallstreetcn.com/livenews/3051959",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "乘势而上｜专访史晋川：要让民营经济的发展，从政策红利转到法治红利",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32307826",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "金十数据整理：A股盘前市场要闻速递（2026-02-09）",
+          "url": "https://flash.jin10.com/detail/20260209090234712800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "文件显示，欧元区财长将于2月16日讨论如何通过发行欧元计价稳定币及增加欧盟共同债务，来提升欧元的全球地位并强化欧洲经济安全。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3051949",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
         }
       ]
     },
     {
       "keyword_group": "# --- 第三组：美国宏观与军事 --- 美国 白宫 五角大楼 美军 美联储 布林肯 拜登 特朗普",
-      "match_count": 22,
+      "match_count": 26,
       "titles": [
-        {
-          "title": "本周美国市场大波动背后：对冲基金\"做空一切\"、周四软件股开始有买盘、周五\"残酷逼空\"",
-          "url": "https://wallstreetcn.com/articles/3765247",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 07时26分]"
-        },
         {
           "title": "欧盟各国如何应对美国威胁",
           "url": "https://search.bilibili.com/all?keyword=%E6%AC%A7%E7%9B%9F%E5%90%84%E5%9B%BD%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B9%E7%BE%8E%E5%9B%BD%E5%A8%81%E8%83%81",
@@ -976,8 +1402,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 07时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 09时45分]"
         },
         {
           "title": "诺奖奖章让了，马屁拍了，她还是被白宫骂",
@@ -992,6 +1418,31 @@
           "time_info": "[00时23分 ~ 07时26分]"
         },
         {
+          "title": "本周美国市场大波动背后：对冲基金\"做空一切\"、周四软件股开始有买盘、周五\"残酷逼空\"",
+          "url": "https://wallstreetcn.com/articles/3765247",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 09时45分]"
+        },
+        {
+          "title": "马斯克再发警告：若没有AI和机器人，美国1000%会走向破产",
+          "url": "https://www.cls.cn/detail/2283869",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 09时45分]"
+        },
+        {
           "title": "手眼通天！爱泼斯坦曾帮罗斯柴尔德家族“搞定”美国司法部交易，获利2500万美元",
           "url": "https://wallstreetcn.com/articles/3765249",
           "source": "华尔街见闻",
@@ -1000,26 +1451,14 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 07时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 09时45分]"
         },
         {
           "title": "丹麦官员：与美国就格陵兰岛谈判未达预期",
           "url": "https://news.ifeng.com/c/8qZwX6OZr02",
           "source": "凤凰网",
           "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 07时26分]"
-        },
-        {
-          "title": "马斯克再发警告：若没有AI和机器人，美国1000%会走向破产",
-          "url": "https://www.cls.cn/detail/2283869",
-          "source": "财联社热门",
-          "ranks": [
-            8,
             7
           ],
           "is_new": false,
@@ -1219,9 +1658,53 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
+        },
+        {
+          "title": "美国天然气期货跌超6%，现报3.21美元/百万英热单位。",
+          "url": "https://wallstreetcn.com/livenews/3051960",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "美国FBI诱捕爱泼斯坦管家视频曝光",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BDFBI%E8%AF%B1%E6%8D%95%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E7%AE%A1%E5%AE%B6%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "美国传奇选手冬奥比赛中摔倒重伤",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%BC%A0%E5%A5%87%E9%80%89%E6%89%8B%E5%86%AC%E5%A5%A5%E6%AF%94%E8%B5%9B%E4%B8%AD%E6%91%94%E5%80%92%E9%87%8D%E4%BC%A4",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "美联储戴利指出劳动力市场存在脆弱性，仍有降息空间",
+          "url": "https://wallstreetcn.com/livenews/3051948",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
         },
         {
           "title": "谈到美联储的政策时，美国财长贝森特表示，他预计央行对缩减资产负债表的任何努力都会采取谨慎的态度。",
@@ -1238,7 +1721,7 @@
     },
     {
       "keyword_group": "# --- 第六组：俄乌局势 --- 俄乌 俄罗斯 乌克兰 普京 泽连斯基 北约",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "市场消息：乌克兰首都基辅响起多次爆炸声。",
@@ -1255,6 +1738,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时24分 ~ 07时26分]"
+        },
+        {
+          "title": "袭击俄军中将的嫌疑人在迪拜被拘捕，俄方称其受乌克兰指派",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32562805",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[04时20分 ~ 09时45分]"
         },
         {
           "title": "俄官员：泽连斯基亲自策划针对俄军中将的袭击",
@@ -1304,21 +1800,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
-        },
-        {
-          "title": "袭击俄军中将的嫌疑人在迪拜被拘捕，俄方称其受乌克兰指派",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32562805",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时20分 ~ 07时26分]"
         },
         {
           "title": "普京与卢卡申科通电话 讨论国际问题和地区局势发展",
@@ -1332,6 +1816,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时21分 ~ 07时26分]"
+        },
+        {
+          "title": "袭击俄军中将的一嫌疑人有俄乌双国籍",
+          "url": "https://www.toutiao.com/trending/7603725247372132394/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
         },
         {
           "title": "袭击俄军中将的一嫌疑人有俄乌双重国籍",
@@ -1348,7 +1843,7 @@
     },
     {
       "keyword_group": "# --- 第四组：美股与科技 (去掉了具体的“财报”限制) --- 美股 纳指 道琼斯 标普 特斯拉 英伟达 苹果 微软 OpenAI",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "高盛交易员警告：美股抛售尚未结束",
@@ -1390,6 +1885,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时24分 ~ 05时21分]"
+        },
+        {
+          "title": "特斯拉续航剩72公里 高速上突然断电",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E7%BB%AD%E8%88%AA%E5%89%A972%E5%85%AC%E9%87%8C+%E9%AB%98%E9%80%9F%E4%B8%8A%E7%AA%81%E7%84%B6%E6%96%AD%E7%94%B5",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
         },
         {
           "title": "马斯克：特斯拉电动半挂卡车今年将开始大规模量产。",
