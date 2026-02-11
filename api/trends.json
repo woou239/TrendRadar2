@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T01:01:20.711003+08:00",
-  "total_titles_processed": 372,
+  "generated_at": "2026-02-12T02:09:51.878100+08:00",
+  "total_titles_processed": 453,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- 第三组：美国宏观与军事 --- 美国 白宫 五角大楼 美军 美联储 布林肯 拜登 特朗普",
-      "match_count": 39,
+      "match_count": 57,
       "titles": [
         {
           "title": "美国1月非农新增就业13万人，创去年4月以来最大增幅，失业率降至4.3%，25年3月非农下修86.2万！",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 01时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 02时09分]"
         },
         {
           "title": "今夜，美国非农或现“百万级”下修",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 01时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 02时09分]"
         },
         {
           "title": "特朗普：伊朗希望达成协议，不然太蠢了",
@@ -38,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 01时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 02时09分]"
         },
         {
           "title": "美国至2月11日4个月国债竞拍-得标利率配置百分比 84.52%，前值12.58%。",
@@ -48,9 +48,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
+        },
+        {
+          "title": "Meta Platforms(META.O)：“Dear Algo”现已在美国、新西兰、澳大利亚和英国上线。",
+          "url": "https://flash.jin10.com/detail/20260212020320696800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时09分"
         },
         {
           "title": "美国财政部拍卖四个月期国债，得标利率3.595%，投标倍数3.38。",
@@ -59,9 +70,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
+        },
+        {
+          "title": "Meta跌幅扩大至2%，刷新日低。 该公司“Dear Algo”已经在美国、新西兰、澳大利亚、英国上线。",
+          "url": "https://wallstreetcn.com/livenews/3053908",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时09分"
         },
         {
           "title": "特朗普发帖后 CNN都看不下去了",
@@ -81,9 +103,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
+        },
+        {
+          "title": "美国财政部拍卖420亿美元10年期国债，得标利率4.177（1月12日为4.173%），投标倍数2.39（前次为2.55）。",
+          "url": "https://wallstreetcn.com/livenews/3053907",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时09分"
         },
         {
           "title": "美国至2月11日4个月国债竞拍-得标利率 3.595%，前值3.60%。",
@@ -92,9 +125,53 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
+        },
+        {
+          "title": "美国至2月11日10年期国债竞拍-投标倍数 2.39，前值2.55。",
+          "url": "https://flash.jin10.com/detail/20260212020205370801",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时09分"
+        },
+        {
+          "title": "美国至2月11日10年期国债竞拍-得标利率 4.177%，前值4.17%。",
+          "url": "https://flash.jin10.com/detail/20260212020205369800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时09分"
+        },
+        {
+          "title": "Meta Platforms将在美国印第安纳州数据中心投资超过100亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3053904",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时09分"
+        },
+        {
+          "title": "美国至2月11日10年期国债竞拍-得标利率配置百分比 6.2%，前值93.91%。",
+          "url": "https://flash.jin10.com/detail/20260212020205370800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时09分"
         },
         {
           "title": "花旗：认为美联储降息将从5月开始，此前预期为3月。",
@@ -107,6 +184,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时07分 ~ 01时01分]"
+        },
+        {
+          "title": "特朗普称「若美伊谈判失败，或向中东再派一支航母打击群」，美伊会走向冲突吗？",
+          "url": "https://www.zhihu.com/question/2004862099634016476",
+          "source": "知乎",
+          "ranks": [
+            17,
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 02时09分]"
         },
         {
           "title": "美联储Schmid：美联储主席鲍威尔是一个有原则的人。 我并不担心美联储主席提名人凯文·沃什。",
@@ -205,18 +295,6 @@
           "time_info": "[00时07分 ~ 01时01分]"
         },
         {
-          "title": "特朗普称「若美伊谈判失败，或向中东再派一支航母打击群」，美伊会走向冲突吗？",
-          "url": "https://www.zhihu.com/question/2004862099634016476",
-          "source": "知乎",
-          "ranks": [
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 01时01分]"
-        },
-        {
           "title": "美国2月6日当周EIA精炼厂设备利用率变化 -1.1%，预期 -0.5%，前值 -0.4%。",
           "url": "https://wallstreetcn.com/livenews/3053846",
           "source": "华尔街见闻-快讯",
@@ -277,15 +355,48 @@
           "time_info": "[00时07分 ~ 01时01分]"
         },
         {
+          "title": "乌克兰总统泽连斯基：欧洲和美国应与俄罗斯在联合谈判轨道上合作。",
+          "url": "https://flash.jin10.com/detail/20260212020143369800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时09分"
+        },
+        {
           "title": "伊朗最高领袖顾问：正与美国磋商下一轮谈判时间",
           "url": "https://wallstreetcn.com/livenews/3053866",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：美国并未威胁要撤回安全保证。",
+          "url": "https://flash.jin10.com/detail/20260212015704606800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时09分"
+        },
+        {
+          "title": "油价日内涨超2%，报道：特朗普私下考虑退出《美墨加协定》",
+          "url": "https://wallstreetcn.com/articles/3765521",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时09分"
         },
         {
           "title": "伊朗议会安全委员会主席：相信美国已经避免了对伊朗采取军事行动。",
@@ -294,7 +405,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
         },
@@ -305,9 +416,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
+        },
+        {
+          "title": "德债收益率在美国非农日冲高回落，长端德债收益率跌超3个基点",
+          "url": "https://wallstreetcn.com/livenews/3053896",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时09分"
         },
         {
           "title": "美联储施密德：当鲍威尔不再担任美联储主席时，我会想念他；他是一位坚定且有原则的美国人。",
@@ -327,9 +449,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
+        },
+        {
+          "title": "美国财政部长贝森特：非农就业人口超过预期。",
+          "url": "https://wallstreetcn.com/livenews/3053895",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时09分"
         },
         {
           "title": "据华盛顿邮报：特朗普政府从洛杉矶、芝加哥和波特兰撤回国民警卫队。",
@@ -338,9 +471,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
+        },
+        {
+          "title": "美国至2月11日10年期国债竞拍-得标利率、投标倍数将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20260212015000000800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时09分"
         },
         {
           "title": "美国软件公司股价下跌，Adobe(ADBE.O)下跌2.6%，CrowdStrike(CRWD.O)下跌0.9%。",
@@ -349,7 +493,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
         },
@@ -360,7 +504,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
         },
@@ -371,7 +515,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
         },
@@ -387,6 +531,17 @@
           "time_info": "00时07分"
         },
         {
+          "title": "美国财长贝森特：非农就业数据超过预期。",
+          "url": "https://flash.jin10.com/detail/20260212012455051800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时09分"
+        },
+        {
           "title": "美联储施密德：就业增长的平衡点可能约为每月增加4万至5万人。",
           "url": "https://flash.jin10.com/detail/20260211234705506800",
           "source": "金十数据",
@@ -398,6 +553,17 @@
           "time_info": "00时07分"
         },
         {
+          "title": "数字货币市场走低，美国非农就业报告给小币种带来一波尖锐的冲高回落行情",
+          "url": "https://wallstreetcn.com/livenews/3053882",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时09分"
+        },
+        {
           "title": "提醒：北京时间23:30，美国能源信息署（EIA）将发布政府版原油库存周报。",
           "url": "https://wallstreetcn.com/livenews/3053840",
           "source": "华尔街见闻-快讯",
@@ -407,6 +573,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时07分"
+        },
+        {
+          "title": "两位安全消息人士称，美国领导的打击“伊斯兰国”联盟部队已从叙利亚的阿尔坦夫基地撤往约旦。",
+          "url": "https://flash.jin10.com/detail/20260212011136086800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时09分"
         },
         {
           "title": "美国能源部长Wright：在委内瑞拉的日程是会见该国领导人，构建（两国之间的）关系。",
@@ -431,6 +608,17 @@
           "time_info": "00时07分"
         },
         {
+          "title": "道明证券：将美联储降息预期从3月推迟至6月 仍预计年内三次降息",
+          "url": "https://flash.jin10.com/detail/20260212010755880800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时09分"
+        },
+        {
           "title": "美联储Schmid：人工智能（AI）与近期生产力提升之间的关联还不明朗。",
           "url": "https://wallstreetcn.com/livenews/3053835",
           "source": "华尔街见闻-快讯",
@@ -451,12 +639,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时07分"
+        },
+        {
+          "title": "报道：美国芝商所考虑推出稀土期货",
+          "url": "https://wallstreetcn.com/livenews/3053876",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时09分"
         }
       ]
     },
     {
       "keyword_group": "# --- 第一组：中国宏观 (去掉了必须词，只过滤娱乐) --- 中国 央视 外交部 国防部 解放军 人民日报 新华社",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美国无端指责中国开展核爆炸试验，外交部驳斥",
@@ -466,8 +665,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 01时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 02时09分]"
         },
         {
           "title": "澳警方指控2名中国公民，中方回应",
@@ -477,20 +676,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 01时01分]"
-        },
-        {
-          "title": "中国女特警实力碾压美国男队",
-          "url": "https://www.toutiao.com/trending/7605420621232623131/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 01时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 02时09分]"
         },
         {
           "title": "中国1月CPI同比涨幅回落至0.2%，PPI同比降幅收窄至1.4%",
@@ -500,8 +687,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 01时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 02时09分]"
         },
         {
           "title": "美国指责中国开展核爆炸试验，外交部驳斥",
@@ -512,8 +699,21 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 01时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 02时09分]"
+        },
+        {
+          "title": "中国女特警实力碾压美国男队",
+          "url": "https://www.toutiao.com/trending/7605420621232623131/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            20,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 02时09分]"
         },
         {
           "title": "春节见？DeepSeek下一代模型：“高性价比”创新架构，助力中国突破“算力芯片和内存”瓶颈",
@@ -523,8 +723,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 01时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 02时09分]"
         },
         {
           "title": "玉渊谭天：中国可对法国葡萄酒发起双反调查",
@@ -535,8 +735,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 01时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 02时09分]"
         },
         {
           "title": "中国载人登月新突破",
@@ -544,11 +744,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             21,
-            15
+            15,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 01时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 02时09分]"
         },
         {
           "title": "梦舟成了!中国载人登月有戏",
@@ -556,11 +757,12 @@
           "source": "贴吧",
           "ranks": [
             16,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 01时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 02时09分]"
         },
         {
           "title": "外交部：日本军国主义强征“慰安妇”铁证如山不容否认",
@@ -571,8 +773,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 01时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 02时09分]"
         },
         {
           "title": "中国女子特警队实力碾压美国男队",
@@ -580,11 +782,23 @@
           "source": "百度热搜",
           "ranks": [
             20,
-            23
+            23,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 01时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 02时09分]"
+        },
+        {
+          "title": "涉及中国产品 印企急催：赶紧审批",
+          "url": "https://www.baidu.com/s?wd=%E6%B6%89%E5%8F%8A%E4%B8%AD%E5%9B%BD%E4%BA%A7%E5%93%81+%E5%8D%B0%E4%BC%81%E6%80%A5%E5%82%AC%EF%BC%9A%E8%B5%B6%E7%B4%A7%E5%AE%A1%E6%89%B9",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时09分"
         },
         {
           "title": "多国政要向中国人民致以新春祝福",
@@ -604,7 +818,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
         },
@@ -623,7 +837,7 @@
     },
     {
       "keyword_group": "# --- 第二组：中国经济与A股 (保留宽泛的行情词) --- A股 上证 深证 恒生 人民币 汇率 经济 GDP",
-      "match_count": 6,
+      "match_count": 10,
       "titles": [
         {
           "title": "非农前夜，降息预期难振风险偏好，标普转跌，人民币又创近三年新高，商品震荡横盘",
@@ -633,8 +847,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 01时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 02时09分]"
         },
         {
           "title": "经济日报谈预制菜：只要明明白白把选择权交给消费者，就能吃个安心",
@@ -642,11 +856,12 @@
           "source": "澎湃新闻",
           "ranks": [
             7,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 01时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 02时09分]"
         },
         {
           "title": "美联储施密德：国会和行政部门可能想刺激经济，但美联储需要在就业和通胀之间保持平衡。",
@@ -695,113 +910,56 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时07分 ~ 01时01分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# --- 第四组：美股与科技 (去掉了具体的“财报”限制) --- 美股 纳指 道琼斯 标普 特斯拉 英伟达 苹果 微软 OpenAI",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美股遍寻“下一个AI受害者”，周一保险经纪崩了、周二财富管理崩了，嘉信理财盘中跌超9%",
-          "url": "https://wallstreetcn.com/articles/3765438",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 01时01分]"
         },
         {
-          "title": "非农就业意外强劲，美股指集体高开，标普500创新高，美元指数短线走高，美债承压，黄金涨幅收窄",
-          "url": "https://wallstreetcn.com/articles/3765486",
-          "source": "华尔街见闻",
+          "title": "持股还是持币过年？多家公募：春节后A股上涨概率较高，已有资金抢跑布局",
+          "url": "https://www.cls.cn/detail/2287337",
+          "source": "财联社热门",
           "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 01时01分]"
-        },
-        {
-          "title": "84 岁吉姆·罗杰斯清空美股，坚定持有金银铜称要留给后代，预言下次危机是其一生中最惨烈危机，如何解读？",
-          "url": "https://www.zhihu.com/question/2004662806780338439",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 01时01分]"
-        },
-        {
-          "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
-          "url": "https://wallstreetcn.com/articles/3765455",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 01时01分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# --- 第五组：日本动态 (关键修改：去掉了外交限制) --- 日本 岸田文雄 自卫队 靖国神社 核污水",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "据日经新闻：日本计划最早于今年夏季开始测试反干扰技术，并力争在2028财年之前研发出相关设备。",
-          "url": "https://flash.jin10.com/detail/20260212003139866800",
-          "source": "金十数据",
-          "ranks": [
-            4
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时01分"
+          "time_info": "02时09分"
         },
         {
-          "title": "据日经新闻：日本计划在2033年左右实现抗干扰设备的商业化。",
-          "url": "https://flash.jin10.com/detail/20260212003129410800",
+          "title": "经济学家：美国就业强劲对能源需求构成利好",
+          "url": "https://flash.jin10.com/detail/20260212014056458800",
           "source": "金十数据",
           "ranks": [
-            5
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时01分"
+          "time_info": "02时09分"
         },
         {
-          "title": "野田佳彦惨败辞职后，日本在野党将选新党代表",
-          "url": "https://news.ifeng.com/c/8qfETZ4tnOT",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 01时01分]"
-        },
-        {
-          "title": "据日经新闻：日本将补贴用于保护卫星信号的抗干扰技术。",
-          "url": "https://flash.jin10.com/detail/20260212003115909800",
+          "title": "美国财长贝森特：特朗普总统促进经济增长的议程正在为美国工人带来好处。得益于特朗普总统的税收协议、贸易协议和和平协议，美国经济持续繁荣发展——而且最好的还在后头。",
+          "url": "https://flash.jin10.com/detail/20260212012609836800",
           "source": "金十数据",
           "ranks": [
-            6
+            22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时01分"
+          "time_info": "02时09分"
+        },
+        {
+          "title": "依视路陆逊梯卡（EssilorLuxottica）四季度营收76亿欧元，分析师预期71.5亿欧元。 四季度剔除汇率因素后营收增长18.4%，分析师预期增长11.5%。 全年营收284.9亿欧元，分析师预期280.9亿欧元。 全年剔除汇率因素的营收增长11.2%，分析师预期增长9.19%。 全年销售超过700万套人工智能眼镜（AI glasses）。 预计营收将在未来五年稳步增长。 依视路陆逊梯卡ADR涨幅扩大至8.6%。",
+          "url": "https://wallstreetcn.com/livenews/3053884",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时09分"
         }
       ]
     },
     {
       "keyword_group": "# --- 第六组：俄乌局势 --- 俄乌 俄罗斯 乌克兰 普京 泽连斯基 北约",
-      "match_count": 4,
+      "match_count": 8,
       "titles": [
         {
           "title": "俄罗斯2月9日当周CPI周环比上升0.13%，2026年迄今累计上升2.24%。",
@@ -833,11 +991,12 @@
           "source": "贴吧",
           "ranks": [
             6,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 01时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 02时09分]"
         },
         {
           "title": "俄乌战局新情况：俄军接近夺取乌3个战略要地，乌允许60岁以上人员服役",
@@ -848,8 +1007,186 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 02时09分]"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：不会同意在俄罗斯和白俄罗斯举行和平谈判。",
+          "url": "https://flash.jin10.com/detail/20260212015719445800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时09分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：如果实现停火，就可以举行选举。",
+          "url": "https://flash.jin10.com/detail/20260212015639967800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时09分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：俄罗斯迄今尚未准备好达成能源停火协议，俄方也未就能源停火作出回应。",
+          "url": "https://flash.jin10.com/detail/20260212015632166800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时09分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基驳斥英国《金融时报》关于在2月24日宣布乌克兰选举计划的报道。",
+          "url": "https://flash.jin10.com/detail/20260212015556236800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# --- 第四组：美股与科技 (去掉了具体的“财报”限制) --- 美股 纳指 道琼斯 标普 特斯拉 英伟达 苹果 微软 OpenAI",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "美股遍寻“下一个AI受害者”，周一保险经纪崩了、周二财富管理崩了，嘉信理财盘中跌超9%",
+          "url": "https://wallstreetcn.com/articles/3765438",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 02时09分]"
+        },
+        {
+          "title": "84 岁吉姆·罗杰斯清空美股，坚定持有金银铜称要留给后代，预言下次危机是其一生中最惨烈危机，如何解读？",
+          "url": "https://www.zhihu.com/question/2004662806780338439",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 02时09分]"
+        },
+        {
+          "title": "非农就业意外强劲，美股指集体高开，标普500创新高，美元指数短线走高，美债承压，黄金涨幅收窄",
+          "url": "https://wallstreetcn.com/articles/3765486",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时07分 ~ 01时01分]"
+        },
+        {
+          "title": "强劲非农打击降息预期，软件股抛售潮拖累美股指，美债承压，黄金涨幅收窄",
+          "url": "https://wallstreetcn.com/articles/3765486",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时09分"
+        },
+        {
+          "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3765455",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 02时09分]"
+        },
+        {
+          "title": "金十图示：2026年02月11日（周三）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260212013127382800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时09分"
+        },
+        {
+          "title": "金十图示：2026年02月11日（周三）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260212013019120800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# --- 第五组：日本动态 (关键修改：去掉了外交限制) --- 日本 岸田文雄 自卫队 靖国神社 核污水",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "据日经新闻：日本计划最早于今年夏季开始测试反干扰技术，并力争在2028财年之前研发出相关设备。",
+          "url": "https://flash.jin10.com/detail/20260212003139866800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时01分"
+        },
+        {
+          "title": "据日经新闻：日本计划在2033年左右实现抗干扰设备的商业化。",
+          "url": "https://flash.jin10.com/detail/20260212003129410800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时01分"
+        },
+        {
+          "title": "野田佳彦惨败辞职后，日本在野党将选新党代表",
+          "url": "https://news.ifeng.com/c/8qfETZ4tnOT",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 02时09分]"
+        },
+        {
+          "title": "据日经新闻：日本将补贴用于保护卫星信号的抗干扰技术。",
+          "url": "https://flash.jin10.com/detail/20260212003115909800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时01分"
         }
       ]
     }
