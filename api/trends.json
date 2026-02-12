@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T01:54:51.328519+08:00",
-  "total_titles_processed": 400,
+  "generated_at": "2026-02-13T02:56:02.312386+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- 第三组：美国宏观与军事 --- 美国 白宫 五角大楼 美军 美联储 布林肯 拜登 特朗普",
-      "match_count": 45,
+      "match_count": 57,
       "titles": [
         {
           "title": "中方回应特朗普或将4月访华",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 01时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时52分 ~ 02时56分]"
         },
         {
           "title": "美国涉爱泼斯坦案听证会吵成一团，美司法部长与国会议员对喷 5 小时，庭审中透露了哪些关键信息？",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 01时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时52分 ~ 02时56分]"
         },
         {
           "title": "已购买美国出售的委石油？中方回应",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 01时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时52分 ~ 02时56分]"
         },
         {
           "title": "美媒：两艘美军舰艇在南美洲附近海域相撞",
@@ -48,8 +48,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 01时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时52分 ~ 02时56分]"
+        },
+        {
+          "title": "美国总统特朗普：环保署废除了美国气候监管的基础，此举将消除1.3 万亿美元的监管成本。",
+          "url": "https://flash.jin10.com/detail/20260213024705661800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
         },
         {
           "title": "美国CPI前夕，美股指盘中转跌，盘中纳指跌超1%、思科跌超10%",
@@ -69,9 +80,31 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
+        },
+        {
+          "title": "美国总统特朗普将于下周宣布加沙重建计划。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3054682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
+        },
+        {
+          "title": "美银：沃什财政部-美联储“新协议”主张难以影响债市",
+          "url": "https://flash.jin10.com/detail/20260213024247622800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
         },
         {
           "title": "UP揭秘美国医疗体系",
@@ -85,6 +118,17 @@
           "time_info": "00时52分"
         },
         {
+          "title": "市场消息：特朗普领导下的美国环境保护署采取行动，推翻了前总统拜登此前制定的汽车尾气排放规定，这些规定原本旨在推动电动汽车产量提升。",
+          "url": "https://flash.jin10.com/detail/20260213023947090800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
+        },
+        {
           "title": "派拉蒙天舞（Paramount SkyDance）高管Ellison上周会见了美国总统特朗普。（CNN）",
           "url": "https://wallstreetcn.com/livenews/3054631",
           "source": "华尔街见闻-快讯",
@@ -96,17 +140,6 @@
           "time_info": "00时52分"
         },
         {
-          "title": "美国司法部反垄断事务主管Abigail Slater离职，此前总统特朗普的白宫要求其辞职、否则将把她免职。",
-          "url": "https://wallstreetcn.com/livenews/3054656",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时54分"
-        },
-        {
           "title": "据CNBC：与关税相关的美国海关担保资金缺口在2025年将达到创纪录的35亿美元。",
           "url": "https://flash.jin10.com/detail/20260213003635236800",
           "source": "金十数据",
@@ -116,6 +149,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时52分"
+        },
+        {
+          "title": "华尔街怎么看1月非农就业？首次降息延至7月，“新美联储通讯社”预计降息暂停期更久",
+          "url": "https://wallstreetcn.com/articles/3765533",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时52分 ~ 02时56分]"
         },
         {
           "title": "美国参议院多数党领袖约翰·图恩（John Thune）：预计参议院将对“众议院已经批准的‘拒绝特朗普对加拿大加征关税’”进行表决。",
@@ -130,6 +174,29 @@
           "time_info": "[00时52分 ~ 01时54分]"
         },
         {
+          "title": "让美国造船业再次伟大？美媒：韩国人自己都不想干",
+          "url": "https://news.ifeng.com/c/8qgj9QlzvWC",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时52分 ~ 02时56分]"
+        },
+        {
+          "title": "美国司法部反垄断事务主管Abigail Slater离职，此前总统特朗普的白宫要求其辞职、否则将把她免职。",
+          "url": "https://wallstreetcn.com/livenews/3054656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时54分 ~ 02时56分]"
+        },
+        {
           "title": "美国财政部拍卖四周期国债，得标利率3.630%，投标倍数2.78。 拍卖八周期国债，得标利率3.630%，投标倍数2.88。",
           "url": "https://wallstreetcn.com/livenews/3054630",
           "source": "华尔街见闻-快讯",
@@ -142,61 +209,17 @@
           "time_info": "[00时52分 ~ 01时54分]"
         },
         {
-          "title": "华尔街怎么看1月非农就业？首次降息延至7月，“新美联储通讯社”预计降息暂停期更久",
-          "url": "https://wallstreetcn.com/articles/3765533",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 01时54分]"
-        },
-        {
-          "title": "让美国造船业再次伟大？美媒：韩国人自己都不想干",
-          "url": "https://news.ifeng.com/c/8qgj9QlzvWC",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 01时54分]"
-        },
-        {
           "title": "两艘美国海军舰艇发生碰撞",
           "url": "https://www.douyin.com/hot/2398558",
           "source": "抖音",
           "ranks": [
             10,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 01时54分]"
-        },
-        {
-          "title": "两艘美国海军舰船相撞致2伤",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E8%89%98%E7%BE%8E%E5%9B%BD%E6%B5%B7%E5%86%9B%E8%88%B0%E8%88%B9%E7%9B%B8%E6%92%9E%E8%87%B42%E4%BC%A4",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 01时54分]"
-        },
-        {
-          "title": "岚目镜观｜从执政美国到选举美国：2026中期选举与“两个美国”的另一面相",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32584344",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 01时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时52分 ~ 02时56分]"
         },
         {
           "title": "美国外交官唱《大东北我的家乡》拜年",
@@ -204,11 +227,96 @@
           "source": "百度热搜",
           "ranks": [
             24,
-            22
+            22,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时52分 ~ 02时56分]"
+        },
+        {
+          "title": "两艘美国海军舰船相撞致2伤",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E8%89%98%E7%BE%8E%E5%9B%BD%E6%B5%B7%E5%86%9B%E8%88%B0%E8%88%B9%E7%9B%B8%E6%92%9E%E8%87%B42%E4%BC%A4",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            17,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时52分 ~ 02时56分]"
+        },
+        {
+          "title": "岚目镜观｜从执政美国到选举美国：2026中期选举与“两个美国”的另一面相",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32584344",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时52分 ~ 02时56分]"
+        },
+        {
+          "title": "中方回应“特朗普将于4月初访华”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E4%BA%8E4%E6%9C%88%E5%88%9D%E8%AE%BF%E5%8D%8E%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时54分 ~ 02时56分]"
+        },
+        {
+          "title": "美国众议院共和党针对加州养老基金发起ESG调查。",
+          "url": "https://wallstreetcn.com/livenews/3054654",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时52分 ~ 01时54分]"
+          "time_info": "[01时54分 ~ 02时56分]"
+        },
+        {
+          "title": "C.H. Robinson跌幅扩大至24%，创美国IPO以来最差盘中表现。",
+          "url": "https://wallstreetcn.com/livenews/3054653",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时54分 ~ 02时56分]"
+        },
+        {
+          "title": "提醒：美国能源部长与委内瑞拉代总统在一个石油设施讲话。",
+          "url": "https://wallstreetcn.com/livenews/3054647",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时54分 ~ 02时56分]"
+        },
+        {
+          "title": "中方回应特朗普或将4月访华",
+          "url": "https://www.douyin.com/hot/2398243",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时55分 ~ 02时56分]"
         },
         {
           "title": "美国参议院共和党领袖图恩预计参议院将对众议院提出的终止对加拿大征收关税的法案进行投票。",
@@ -222,17 +330,6 @@
           "time_info": "00时52分"
         },
         {
-          "title": "美国众议院共和党针对加州养老基金发起ESG调查。",
-          "url": "https://wallstreetcn.com/livenews/3054654",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时54分"
-        },
-        {
           "title": "据CNN：派拉蒙公司的埃里森上周会见了特朗普。埃里森与特朗普进行了两次内容广泛的谈话。",
           "url": "https://flash.jin10.com/detail/20260213003542856800",
           "source": "金十数据",
@@ -244,15 +341,26 @@
           "time_info": "00时52分"
         },
         {
-          "title": "C.H. Robinson跌幅扩大至24%，创美国IPO以来最差盘中表现。",
-          "url": "https://wallstreetcn.com/livenews/3054653",
+          "title": "周四（2月12日），美联储隔夜逆回购协议（RRP）使用规模为28.44亿美元（交易对手10家），上个交易日报10.48亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3054672",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时54分"
+          "time_info": "02时56分"
+        },
+        {
+          "title": "美国官员：预计将有来自至少20个国家的代表团出席此次会议，其中包括多位国家元首。",
+          "url": "https://flash.jin10.com/detail/20260213023337806800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
         },
         {
           "title": "美国至2月12日4周国债竞拍-投标倍数 2.78，前值2.85。",
@@ -272,9 +380,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
+        },
+        {
+          "title": "美国官员：特朗普将宣布，数个国家已承诺派遣数千名士兵加入维稳部队。",
+          "url": "https://flash.jin10.com/detail/20260213023327754800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
         },
         {
           "title": "美国至2月12日4周国债竞拍-得标利率配置百分比 29.74%，前值30.35%。",
@@ -288,6 +407,17 @@
           "time_info": "00时52分"
         },
         {
+          "title": "美国官员：特朗普将在和平委员会会议上就加沙国际维稳部队提供最新情况。",
+          "url": "https://flash.jin10.com/detail/20260213023307683800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
+        },
+        {
           "title": "美国至2月12日4周国债竞拍-得标利率 3.63%，前值3.630%。",
           "url": "https://flash.jin10.com/detail/20260213003204492800",
           "source": "金十数据",
@@ -297,6 +427,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时52分"
+        },
+        {
+          "title": "美国官员：美国总统特朗普将于下周在首次和平委员会会议上宣布一项针对加沙的数十亿美元资助计划。",
+          "url": "https://flash.jin10.com/detail/20260213023254034800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
         },
         {
           "title": "美国总统特朗普：与委内瑞拉代总统罗德里格斯沟通得不错。",
@@ -310,15 +451,15 @@
           "time_info": "00时52分"
         },
         {
-          "title": "提醒：美国能源部长与委内瑞拉代总统在一个石油设施讲话。",
-          "url": "https://wallstreetcn.com/livenews/3054647",
+          "title": "美国财政部发行250亿美元30年期国债，得标利率4.750%（1月13日为4.825%），投标倍数2.66（前次为2.42）。",
+          "url": "https://wallstreetcn.com/livenews/3054666",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时54分"
+          "time_info": "02时56分"
         },
         {
           "title": "房地美：美国上周30年期按揭贷款/抵押贷款利率6.09%，前值6.10%。",
@@ -327,7 +468,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
         },
@@ -360,7 +501,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
         },
@@ -371,7 +512,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
         },
@@ -393,7 +534,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
         },
@@ -420,17 +561,6 @@
           "time_info": "00时52分"
         },
         {
-          "title": "中方回应“特朗普将于4月初访华”",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E4%BA%8E4%E6%9C%88%E5%88%9D%E8%AE%BF%E5%8D%8E%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时54分"
-        },
-        {
           "title": "软银旗下日本支付应用PayPay正式提交美国IPO申请",
           "url": "https://wallstreetcn.com/livenews/3054608",
           "source": "华尔街见闻-快讯",
@@ -440,6 +570,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时52分"
+        },
+        {
+          "title": "临时拨款到期，美国土安全部将于13日晚停摆",
+          "url": "https://wallstreetcn.com/livenews/3054667",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
         },
         {
           "title": "美媒：特朗普政府秘密向伊朗输送星链终端",
@@ -470,7 +611,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
         },
@@ -492,7 +633,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
         },
@@ -511,7 +652,7 @@
     },
     {
       "keyword_group": "# --- 第一组：中国宏观 (去掉了必须词，只过滤娱乐) --- 中国 央视 外交部 国防部 解放军 人民日报 新华社",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "美国总统特朗普预计将于4月初访问中国？外交部：双方就此保持着沟通",
@@ -521,8 +662,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 01时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时52分 ~ 02时56分]"
         },
         {
           "title": "特朗普将于4月初访华？外交部回应",
@@ -532,8 +673,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 01时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时52分 ~ 02时56分]"
         },
         {
           "title": "中国已购买美出售的委石油？中方回应",
@@ -544,8 +685,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 01时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时52分 ~ 02时56分]"
         },
         {
           "title": "马上评丨为什么说Seedance 2.0来自中国值得庆幸",
@@ -555,8 +696,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 01时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时52分 ~ 02时56分]"
         },
         {
           "title": "春节前，中国工厂忙赶工，“仿佛特朗普关税不存在”",
@@ -566,19 +707,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 01时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时52分 ~ 02时56分]"
         },
         {
           "title": "春节机票预订暴涨 400%，大量外国游客涌入中国过年，是什么吸引了他们？",
           "url": "https://www.zhihu.com/question/2003049327480836197",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 01时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时52分 ~ 02时56分]"
         },
         {
           "title": "德国国防部长：FCAS战斗机项目尚未失败，即便失败，也不会是法德合作的终结。",
@@ -587,9 +729,22 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
+        },
+        {
+          "title": "中国奇谭2刑天上线",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%A5%87%E8%B0%AD2%E5%88%91%E5%A4%A9%E4%B8%8A%E7%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时52分 ~ 02时56分]"
         },
         {
           "title": "中国大模型“春节档”打响！等待消费级AI出“爆款”",
@@ -600,31 +755,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 01时54分]"
-        },
-        {
-          "title": "中国奇谭2刑天上线",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%A5%87%E8%B0%AD2%E5%88%91%E5%A4%A9%E4%B8%8A%E7%BA%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 01时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时52分 ~ 02时56分]"
         },
         {
           "title": "“中国金王”陈景河交棒后，“矿茅”紫金矿业开启新一轮扩张周期",
           "url": "https://m.thepaper.cn/newsDetail_forward_32585692",
           "source": "澎湃新闻",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 01时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时52分 ~ 02时56分]"
         },
         {
           "title": "为什么美国人说中国人是精灵族",
@@ -632,11 +776,12 @@
           "source": "抖音",
           "ranks": [
             12,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 01时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时52分 ~ 02时56分]"
         },
         {
           "title": "中国AI视频双雄并起",
@@ -644,11 +789,12 @@
           "source": "今日头条",
           "ranks": [
             14,
-            19
+            19,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 01时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时52分 ~ 02时56分]"
         },
         {
           "title": "厂商讨好中国玩家,白皮急哭",
@@ -659,8 +805,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 01时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时52分 ~ 02时56分]"
         },
         {
           "title": "2026春节：中国AI的“两弹一星”时刻",
@@ -670,8 +816,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 01时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时52分 ~ 02时56分]"
         },
         {
           "title": "立陶宛释放信号 转向与中国恢复关系",
@@ -679,11 +825,34 @@
           "source": "百度热搜",
           "ranks": [
             30,
-            24
+            24,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时52分 ~ 02时56分]"
+        },
+        {
+          "title": "中国雪橇队米兰冬奥书写新历史",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%9B%AA%E6%A9%87%E9%98%9F%E7%B1%B3%E5%85%B0%E5%86%AC%E5%A5%A5%E4%B9%A6%E5%86%99%E6%96%B0%E5%8E%86%E5%8F%B2%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时52分 ~ 01时54分]"
+          "time_info": "[02时55分 ~ 02时56分]"
+        },
+        {
+          "title": "为什么美国人叫中国人“精灵族”",
+          "url": "https://www.toutiao.com/trending/7605856092606038052/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时55分 ~ 02时56分]"
         },
         {
           "title": "德国国防部长：若其他国家捐赠总计30枚拦截导弹，德国将额外提供5枚。",
@@ -692,7 +861,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
         },
@@ -703,7 +872,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
         },
@@ -714,7 +883,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
         },
@@ -744,7 +913,7 @@
     },
     {
       "keyword_group": "# --- 第四组：美股与科技 (去掉了具体的“财报”限制) --- 美股 纳指 道琼斯 标普 特斯拉 英伟达 苹果 微软 OpenAI",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "强劲非农打击降息预期，AI担忧拖累美股指，美债承压，金银涨，原油冲高回落",
@@ -754,8 +923,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 01时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时52分 ~ 02时56分]"
         },
         {
           "title": "CPI前夕美股高开低走，盘中标普纳指跌超1%、思科跌超10%，白银跳水超7%",
@@ -764,9 +933,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时54分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时54分 ~ 02时56分]"
         },
         {
           "title": "OpenAI CEO Sam Altman：今天晚些时候将为Codex Pro会员推出一项特别功能。",
@@ -788,8 +957,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 01时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时52分 ~ 02时56分]"
         },
         {
           "title": "33岁男子开特斯拉跑货拉拉",
@@ -802,6 +971,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时52分 ~ 01时54分]"
+        },
+        {
+          "title": "苹果股价跌超5%。",
+          "url": "https://wallstreetcn.com/livenews/3054674",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
         },
         {
           "title": "OpenAI CEO Sam Altman：今天晚些时候将为Codex Pro会员推出一项特别功能。",
@@ -821,7 +1001,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
         },
@@ -837,13 +1017,24 @@
           "time_info": "00时52分"
         },
         {
+          "title": "OpenAI发布第一款采用Cerebras芯片的模型。",
+          "url": "https://wallstreetcn.com/livenews/3054665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
+        },
+        {
           "title": "金十图示：2026年02月12日（周四）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260213013021476800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
         },
@@ -876,7 +1067,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
         },
@@ -909,9 +1100,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
+        },
+        {
+          "title": "苹果(AAPL.O)股价跌幅扩大至逾5%。",
+          "url": "https://flash.jin10.com/detail/20260213021804108800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
         }
       ]
     },
@@ -927,8 +1129,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 01时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时52分 ~ 02时56分]"
         },
         {
           "title": "六旬老头上战场,乌克兰没人了",
@@ -939,8 +1141,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 01时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时52分 ~ 02时56分]"
         },
         {
           "title": "乌克兰基辅因弹道导弹威胁发布警报。",
@@ -949,7 +1151,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
         },
@@ -960,7 +1162,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
         },
@@ -982,7 +1184,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
         },
@@ -993,7 +1195,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
         }
@@ -1001,8 +1203,19 @@
     },
     {
       "keyword_group": "# --- 第二组：中国经济与A股 (保留宽泛的行情词) --- A股 上证 深证 恒生 人民币 汇率 经济 GDP",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "上期所原油期货2604合约夜盘收跌5.14%，报456.30元人民币/桶。 沪金夜盘收跌2.42%，沪银收跌8.35%。",
+          "url": "https://wallstreetcn.com/livenews/3054676",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
+        },
         {
           "title": "动态调整！职业教育将重点增设低空经济、人工智能等领域新专业",
           "url": "https://m.thepaper.cn/newsDetail_forward_32590657",
@@ -1011,8 +1224,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 01时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时52分 ~ 02时56分]"
         },
         {
           "title": "创业板涨超1%，算力硬件股全线大涨，恒科指跌超1%，智谱狂飙近30%、MINIMAX-WP暴涨15%，人民币升破6.9关口",
@@ -1022,19 +1235,32 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 01时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时52分 ~ 02时56分]"
         },
         {
           "title": "在岸、离岸人民币对美元汇率升破6.9，再创33个月新高",
           "url": "https://m.thepaper.cn/newsDetail_forward_32590716",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 01时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时52分 ~ 02时56分]"
+        },
+        {
+          "title": "男子云闪付显示欠款 1000 万亿，相当于恒大负债 417 倍，远超全球 GDP，银行 App 却没显示，怎么回事？",
+          "url": "https://www.zhihu.com/question/2003815760456348215",
+          "source": "知乎",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时52分 ~ 02时56分]"
         },
         {
           "title": "A股4000点上方持续震荡，今年春节假期持股还是持币？",
@@ -1044,19 +1270,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 01时54分]"
-        },
-        {
-          "title": "男子云闪付显示欠款 1000 万亿，相当于恒大负债 417 倍，远超全球 GDP，银行 App 却没显示，怎么回事？",
-          "url": "https://www.zhihu.com/question/2003815760456348215",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 01时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时52分 ~ 02时56分]"
         }
       ]
     }
