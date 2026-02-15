@@ -1,1373 +1,44 @@
 {
-  "generated_at": "2026-02-15T23:20:55.677003+08:00",
-  "total_titles_processed": 1330,
+  "generated_at": "2026-02-16T00:22:43.634666+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "# --- 第一组：中国宏观 (去掉了必须词，只过滤娱乐) --- 中国 央视 外交部 国防部 解放军 人民日报 新华社",
-      "match_count": 103,
+      "keyword_group": "# --- 第三组：美国宏观与军事 --- 美国 白宫 五角大楼 美军 美联储 布林肯 拜登 特朗普",
+      "match_count": 20,
       "titles": [
         {
-          "title": "王毅：特朗普非常尊重中方，但还有人想打压中国",
-          "url": "https://news.ifeng.com/c/8qkKQCMOmTT",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时22分 ~ 15时35分]"
-        },
-        {
-          "title": "王毅：中国人不接受高市涉台错误言论",
-          "url": "https://www.toutiao.com/trending/7606179250748080147/",
-          "source": "今日头条",
+          "title": "财报后，美国四大云厂市值蒸发1万亿美元，市场甚至寻求对冲“大厂风险”",
+          "url": "https://wallstreetcn.com/articles/3765749",
+          "source": "华尔街见闻",
           "ranks": [
             2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时19分]"
-        },
-        {
-          "title": "鲁比奥：不与中国对话，是失职",
-          "url": "https://news.ifeng.com/c/8ql2UcTgBPH",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时16分 ~ 17时26分]"
-        },
-        {
-          "title": "法国外交部长巴罗：俄罗斯著名反对派政治家阿列克谢·纳瓦尔尼被致命神经毒剂毒害，表明俄罗斯总统普京已准备好再次对自己的人民使用化学武器，以维持其对权力的掌控。",
-          "url": "https://flash.jin10.com/detail/20260214215745572800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 07时19分]"
-        },
-        {
-          "title": "Seedance一骑绝尘背后：中国AI春节前为何“杀疯了”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32608237",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            10,
-            7,
-            4,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时45分 ~ 23时20分]"
-        },
-        {
-          "title": "钓鱼岛、黄岩岛、仁爱礁已充满中国年味",
-          "url": "https://www.baidu.com/s?wd=%E9%92%93%E9%B1%BC%E5%B2%9B%E3%80%81%E9%BB%84%E5%B2%A9%E5%B2%9B%E3%80%81%E4%BB%81%E7%88%B1%E7%A4%81%E5%B7%B2%E5%85%85%E6%BB%A1%E4%B8%AD%E5%9B%BD%E5%B9%B4%E5%91%B3",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时22分 ~ 09时46分]"
-        },
-        {
-          "title": "倒打一耙！小泉进次郎没提中国，但句句不离中国",
-          "url": "https://news.ifeng.com/c/8qlZx0e7lBs",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时21分 ~ 23时20分]"
-        },
-        {
-          "title": "财晓得丨Seedance爆火背后：4分钟读懂中国AI的突围逻辑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32601198",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            8,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[06时17分 ~ 19时19分]"
-        },
-        {
-          "title": "中国冰壶女队8:7战胜意大利队",
-          "url": "https://www.douyin.com/hot/2401008",
-          "source": "抖音",
-          "ranks": [
-            16,
-            4,
-            2,
-            13,
-            17,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时22分 ~ 09时46分]"
-        },
-        {
-          "title": "钓鱼岛黄岩岛仁爱礁充满中国年味",
-          "url": "https://www.toutiao.com/trending/7606677425590173723/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            9,
-            8,
-            14,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时19分]"
-        },
-        {
-          "title": "如何看待中国摩托车商会「致函湖南人大常委会」：「建议优化摩托车高速通行政策」？",
-          "url": "https://www.zhihu.com/question/2004480106098361290",
-          "source": "知乎",
-          "ranks": [
-            18,
-            13,
-            9,
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时22分 ~ 07时19分]"
-        },
-        {
-          "title": "笑翻了，“洋女婿”如此解锁中国年｜新春短剧上线",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32609677",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时26分 ~ 23时20分]"
-        },
-        {
-          "title": "2026温暖中国年",
-          "url": "https://www.douyin.com/hot/2400437",
-          "source": "抖音",
-          "ranks": [
-            8,
-            11,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时19分]"
-        },
-        {
-          "title": "民主党人跳出来指责：绥靖！特朗普上赶着为中国效力",
-          "url": "https://news.ifeng.com/c/8ql7NDkYK2B",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时16分 ~ 19时19分]"
-        },
-        {
-          "title": "中国游客在韩入住10米超长大床房",
-          "url": "https://www.toutiao.com/trending/7606600944188424246/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            8,
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时19分]"
-        },
-        {
-          "title": "王菲或将六登央视春晚",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E8%8F%B2%E6%88%96%E5%B0%86%E5%85%AD%E7%99%BB%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时19分]"
-        },
-        {
-          "title": "央视马年春晚完成五次彩排",
-          "url": "https://www.douyin.com/hot/2401357",
-          "source": "抖音",
-          "ranks": [
-            14,
-            13,
-            25,
-            27,
-            20,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时16分 ~ 23时20分]"
-        },
-        {
-          "title": "40余年春晚赞助商变化，见证中国经济社会发展变迁",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32566200",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            18,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时22分 ~ 12时17分]"
-        },
-        {
-          "title": "女子冰壶中国队战胜东道主意大利队",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%86%B0%E5%A3%B6%E4%B8%AD%E5%9B%BD%E9%98%9F%E6%88%98%E8%83%9C%E4%B8%9C%E9%81%93%E4%B8%BB%E6%84%8F%E5%A4%A7%E5%88%A9%E9%98%9F",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时19分]"
-        },
-        {
-          "title": "图说｜百年《良友》：一本画报，何以成为一部中国视觉近代史",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32600613",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 12时17分]"
-        },
-        {
-          "title": "息事宁人?日本释放中国船长",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350668&amp;topic_name=%E6%81%AF%E4%BA%8B%E5%AE%81%E4%BA%BA%3F%E6%97%A5%E6%9C%AC%E9%87%8A%E6%94%BE%E4%B8%AD%E5%9B%BD%E8%88%B9%E9%95%BF",
-          "source": "贴吧",
-          "ranks": [
-            21,
-            25,
-            26,
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时22分 ~ 19时19分]"
-        },
-        {
-          "title": "太猖狂!日本扣押中国渔船",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350665&amp;topic_name=%E5%A4%AA%E7%8C%96%E7%8B%82%21%E6%97%A5%E6%9C%AC%E6%89%A3%E6%8A%BC%E4%B8%AD%E5%9B%BD%E6%B8%94%E8%88%B9",
-          "source": "贴吧",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时19分]"
-        },
-        {
-          "title": "王毅：高市错误言论直接挑战中国主权，14亿中国人都不能接受",
-          "url": "https://news.ifeng.com/c/8qkAnHj7rb3",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时43分 ~ 17时26分]"
-        },
-        {
-          "title": "裁判无视中国队员举手示意",
-          "url": "https://www.baidu.com/s?wd=%E8%A3%81%E5%88%A4%E6%97%A0%E8%A7%86%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%91%98%E4%B8%BE%E6%89%8B%E7%A4%BA%E6%84%8F",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            21,
-            20,
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时16分 ~ 17时26分]"
-        },
-        {
-          "title": "【《求是》杂志发表习近平总书记重要文章《当前经济工作的重点任务》】文章强调，2026年经济工作头绪多，要抓住关键、纲举目张。坚持内需主导，建设强大国内市场。统筹促消费和扩投资，用好我国超大规模市场优势。深入实施提振消费专项行动，制定实施城乡居民增收计划，扩大优质商品和服务供给，优化“两新”政策实施，清理消费领域不合理限制措施，释放文旅等服务消费潜力。着眼惠民生增后劲，推动投资止跌回稳，适当增加中央预算内投资规模，优化实施“两重”项目，优化地方政府专项债券用途管理，继续发挥新型政策性金融工具作用，高质量推进城市更新，有效激发民间投资活力。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3055599",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            4,
-            6,
-            13,
-            18,
-            23,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时35分 ~ 22时22分]"
-        },
-        {
-          "title": "菲律宾总统：欢迎中国的决定",
-          "url": "https://www.baidu.com/s?wd=%E8%8F%B2%E5%BE%8B%E5%AE%BE%E6%80%BB%E7%BB%9F%EF%BC%9A%E6%AC%A2%E8%BF%8E%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%86%B3%E5%AE%9A",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            12,
-            7,
-            8,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时26分 ~ 23时20分]"
-        },
-        {
-          "title": "王毅：特朗普尊重中方 有人想打压中国",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%8A%E9%87%8D%E4%B8%AD%E6%96%B9+%E6%9C%89%E4%BA%BA%E6%83%B3%E6%89%93%E5%8E%8B%E4%B8%AD%E5%9B%BD",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            14,
-            8,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时16分 ~ 16时27分]"
-        },
-        {
-          "title": "中领馆：中国公民近期避免赴日",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E9%A2%86%E9%A6%86%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E8%BF%91%E6%9C%9F%E9%81%BF%E5%85%8D%E8%B5%B4%E6%97%A5",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            4,
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时26分 ~ 22时22分]"
-        },
-        {
-          "title": "比亚迪、吉利或竞购墨西哥工厂，乘联分会崔东树：墨西哥为2025年中国汽车第一大出口国",
-          "url": "https://wallstreetcn.com/livenews/3055543",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时22分 ~ 09时46分]"
-        },
-        {
-          "title": "媒体：越来越多中国游客取消赴日行程",
-          "url": "https://www.toutiao.com/trending/7606105660119892031/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            19,
-            28,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时26分 ~ 07时19分]"
-        },
-        {
-          "title": "中国将对加拿大、英国实施免签政策",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%B0%86%E5%AF%B9%E5%8A%A0%E6%8B%BF%E5%A4%A7%E3%80%81%E8%8B%B1%E5%9B%BD%E5%AE%9E%E6%96%BD%E5%85%8D%E7%AD%BE%E6%94%BF%E7%AD%96",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时18分 ~ 23时20分]"
-        },
-        {
-          "title": "法国外交部长巴罗：关于更广泛的七国集团协议，裁决尚未出炉，但预期仍相当乐观。",
-          "url": "https://flash.jin10.com/detail/20260214204819975800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 07时19分]"
-        },
-        {
-          "title": "王毅：高市错误言论直接挑战中国主权",
-          "url": "https://news.ifeng.com/c/8qkAnHj7rb3",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时21分 ~ 19时19分]"
-        },
-        {
-          "title": "中国铁路饮食变迁史",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E9%93%81%E8%B7%AF%E9%A5%AE%E9%A3%9F%E5%8F%98%E8%BF%81%E5%8F%B2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            12,
-            13,
-            29,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时18分 ~ 23时20分]"
-        },
-        {
-          "title": "法国外交部长巴罗：一些七国集团成员国已表示愿意推进禁止为俄罗斯石油提供海运服务的禁令。",
-          "url": "https://flash.jin10.com/detail/20260214204751269800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 07时19分]"
-        },
-        {
-          "title": "中领馆提醒中国公民避免前往日本",
-          "url": "https://www.toutiao.com/trending/7606918530118336555/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            14,
-            29,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时52分 ~ 18时21分]"
-        },
-        {
-          "title": "中国成热门，外媒又对比上了",
-          "url": "https://news.ifeng.com/c/8qlKDzutmud",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时43分 ~ 19时19分]"
-        },
-        {
-          "title": "法国外交部发言人：俄罗斯尚未做好和平与谈判的准备。",
-          "url": "https://flash.jin10.com/detail/20260214195118039800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 07时19分]"
-        },
-        {
-          "title": "法国外交部发言人：我们不排除未来与俄罗斯接触的可能性。",
-          "url": "https://flash.jin10.com/detail/20260214195114249800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 07时19分]"
-        },
-        {
-          "title": "1月份中国铁路货运量持续增长",
-          "url": "https://wallstreetcn.com/livenews/3055532",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 07时19分]"
-        },
-        {
-          "title": "法国外交部发言人：我们正在与美国协调，寻求加强欧洲主权。",
-          "url": "https://flash.jin10.com/detail/20260214195103840800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 07时19分]"
-        },
-        {
-          "title": "中国首套重型燃机柔性励磁系统投运",
-          "url": "https://wallstreetcn.com/livenews/3055531",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 07时19分]"
-        },
-        {
-          "title": "法国外交部发言人：我们正在敦促俄罗斯认真参与与乌克兰的谈判。",
-          "url": "https://flash.jin10.com/detail/20260214195055482800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 07时19分]"
-        },
-        {
-          "title": "中国地震台网正式测定：02月15日14时19分在四川阿坝州汶川县（北纬30.87度，东经103.32度）发生3.1级地震，震源深度10千米。",
-          "url": "https://flash.jin10.com/detail/20260215142518887800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            9,
-            16,
-            20,
-            23,
-            26,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时43分 ~ 20时37分]"
-        },
-        {
-          "title": "迪丽热巴马年央视春晚",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E9%A9%AC%E5%B9%B4%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4,
-            7,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时26分 ~ 19时19分]"
-        },
-        {
-          "title": "美国防部称在印度洋拦截一艘油轮",
-          "url": "https://wallstreetcn.com/livenews/3055623",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时37分 ~ 23时20分]"
-        },
-        {
-          "title": "先“动手”的菲律宾喊中国“冷静”",
-          "url": "https://www.toutiao.com/trending/7605847078376013843/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            30,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时19分 ~ 07时19分]"
-        },
-        {
-          "title": "春启新程｜把非遗做成中国潮品，“上海定制”圈粉老外",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32615649",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时18分 ~ 23时20分]"
-        },
-        {
-          "title": "再次提醒中国公民避免赴日",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%86%8D%E6%AC%A1%E6%8F%90%E9%86%92%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E9%81%BF%E5%85%8D%E8%B5%B4%E6%97%A5%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5,
-            4,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时26分 ~ 19时19分]"
-        },
-        {
-          "title": "冬奥奖牌榜：中国0金2银2铜第19",
-          "url": "https://www.toutiao.com/trending/7606329011249152042/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            1,
-            7,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时26分 ~ 20时37分]"
-        },
-        {
-          "title": "央视官宣王菲春晚新歌",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E5%AE%98%E5%AE%A3%E7%8E%8B%E8%8F%B2%E6%98%A5%E6%99%9A%E6%96%B0%E6%AD%8C%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时45分 ~ 12时17分]"
-        },
-        {
-          "title": "惊天逆转！中国冰壶女队8比7击败意大利",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32610597",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            12,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时43分 ~ 18时21分]"
-        },
-        {
-          "title": "美国国防部：连夜登上（超大型原油运输船）“维罗妮卡三号”，该船从加勒比海被一路追踪至印度洋，其试图违抗检疫指令。",
-          "url": "https://flash.jin10.com/detail/20260215194716674800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时37分"
-        },
-        {
-          "title": "当中国马遇见西方马",
-          "url": "https://search.bilibili.com/all?keyword=%E5%BD%93%E4%B8%AD%E5%9B%BD%E9%A9%AC%E9%81%87%E8%A7%81%E8%A5%BF%E6%96%B9%E9%A9%AC",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26,
-            5,
-            22,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时52分 ~ 17时26分]"
-        },
-        {
-          "title": "外交部：自2月17日起 对加拿大、英国持普通护照人员实施免签政策",
-          "url": "https://wallstreetcn.com/livenews/3055613",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            10,
-            14,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时19分 ~ 23时20分]"
-        },
-        {
-          "title": "中国队无缘女子3000米接力决赛",
-          "url": "https://www.douyin.com/hot/2401252",
-          "source": "抖音",
-          "ranks": [
-            11,
-            18,
-            30,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时45分 ~ 15时35分]"
-        },
-        {
-          "title": "鲁比奥：不与中国对话是失职",
-          "url": "https://www.toutiao.com/trending/7606223519931813417/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            12,
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时43分 ~ 18时21分]"
-        },
-        {
-          "title": "牛弹琴：乌克兰感谢中国了",
-          "url": "https://www.toutiao.com/trending/7606535697100443179/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            24,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时26分 ~ 06时18分]"
-        },
-        {
-          "title": "鲁比奥：不与中国对话是失职",
-          "url": "https://www.douyin.com/hot/2401658",
-          "source": "抖音",
-          "ranks": [
-            11,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时21分 ~ 19时19分]"
-        },
-        {
-          "title": "中国政府非洲事务特别代表刘显法会见非盟委员会主席优素福和非洲多国外长",
-          "url": "https://flash.jin10.com/detail/20260215125405808800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            15,
-            23,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时53分 ~ 16时27分]"
-        },
-        {
-          "title": "裁判无视中国队员举手示意",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%A3%81%E5%88%A4%E6%97%A0%E8%A7%86%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%91%98%E4%B8%BE%E6%89%8B%E7%A4%BA%E6%84%8F%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22,
-            10,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时45分 ~ 14时43分]"
-        },
-        {
-          "title": "武大靖给中国短道速滑队打8分",
-          "url": "https://www.baidu.com/s?wd=%E6%AD%A6%E5%A4%A7%E9%9D%96%E7%BB%99%E4%B8%AD%E5%9B%BD%E7%9F%AD%E9%81%93%E9%80%9F%E6%BB%91%E9%98%9F%E6%89%938%E5%88%86",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            15,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时20分 ~ 06时18分]"
-        },
-        {
-          "title": "2026慕安会｜王毅：特朗普非常尊重中方，但还有人想打压中国",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32610423",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时18分 ~ 21时42分]"
-        },
-        {
-          "title": "河南春晚陈丽君歌曲获人民日报点赞",
-          "url": "https://www.toutiao.com/trending/7606346764890685449/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            13,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时43分 ~ 16时27分]"
-        },
-        {
-          "title": "一中国公民在新加坡赌博跳楼身亡",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%9C%A8%E6%96%B0%E5%8A%A0%E5%9D%A1%E8%B5%8C%E5%8D%9A%E8%B7%B3%E6%A5%BC%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时45分 ~ 12时17分]"
-        },
-        {
-          "title": "央视和庐州老交年更系列上新",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E5%92%8C%E5%BA%90%E5%B7%9E%E8%80%81%E4%BA%A4%E5%B9%B4%E6%9B%B4%E7%B3%BB%E5%88%97%E4%B8%8A%E6%96%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时35分 ~ 17时26分]"
-        },
-        {
-          "title": "大V：中国推动欧洲战略觉醒",
-          "url": "https://www.toutiao.com/trending/7606984614124457515/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时26分 ~ 19时19分]"
-        },
-        {
-          "title": "学者：俄罗斯经济将越发依赖中国",
-          "url": "https://www.toutiao.com/trending/7607055970400734756/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时41分 ~ 22时22分]"
-        },
-        {
-          "title": "中国对加拿大英国免签",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%AF%B9%E5%8A%A0%E6%8B%BF%E5%A4%A7%E8%8B%B1%E5%9B%BD%E5%85%8D%E7%AD%BE%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时18分 ~ 20时37分]"
-        },
-        {
-          "title": "樊振东身穿中国红队服",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E8%BA%AB%E7%A9%BF%E4%B8%AD%E5%9B%BD%E7%BA%A2%E9%98%9F%E6%9C%8D%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时41分 ~ 22时22分]"
-        },
-        {
-          "title": "大阪发生持刀伤人事件致1死2伤，中领馆提醒中国公民近期避免前往日本",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32615393",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时18分 ~ 20时37分]"
-        },
-        {
-          "title": "中国“洗船”机器人挺进马六甲海峡",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E2%80%9C%E6%B4%97%E8%88%B9%E2%80%9D%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%8C%BA%E8%BF%9B%E9%A9%AC%E5%85%AD%E7%94%B2%E6%B5%B7%E5%B3%A1",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时26分]"
-        },
-        {
-          "title": "如何看待中国摩托车商会致函湖南人大常委会「建议优化摩托车高速通行政策」？",
-          "url": "https://www.zhihu.com/question/2004480106098361290",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时45分 ~ 09时46分]"
-        },
-        {
-          "title": "美国为何盯上中国外汇储备",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%B8%BA%E4%BD%95%E7%9B%AF%E4%B8%8A%E4%B8%AD%E5%9B%BD%E5%A4%96%E6%B1%87%E5%82%A8%E5%A4%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时45分 ~ 09时46分]"
-        },
-        {
-          "title": "央视春晚彩排碰到了易烊千玺",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%E5%BD%A9%E6%8E%92%E7%A2%B0%E5%88%B0%E4%BA%86%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时45分 ~ 09时46分]"
-        },
-        {
-          "title": "中国驻大阪总领馆提醒领区中国公民加强安全防范",
-          "url": "https://flash.jin10.com/detail/20260215105128028800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时17分 ~ 13时53分]"
-        },
-        {
-          "title": "中国银行业进入强监管时代了吗",
-          "url": "https://www.toutiao.com/trending/7607048106210758194/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时41分 ~ 21时42分]"
-        },
-        {
-          "title": "30多岁中国籍女子从韩机场前高架桥坠亡",
-          "url": "https://news.ifeng.com/c/8qlHUWRlu4W",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时52分 ~ 13时53分]"
-        },
-        {
-          "title": "Anthropic：我们尚未就将“Claude”模型用于与国防部的具体操作事宜进行过讨论。",
-          "url": "https://flash.jin10.com/detail/20260215103819376800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时17分 ~ 13时53分]"
-        },
-        {
-          "title": "在中国传统文化里，「马」到底被赋予了哪些神奇的「人设」和深层象征？",
-          "url": "https://www.zhihu.com/question/2002735698143376401",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时16分 ~ 12时17分]"
-        },
-        {
-          "title": "研究员：中国或将成真正“电力国家”",
-          "url": "https://www.toutiao.com/trending/7606876534200077867/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时16分 ~ 12时17分]"
-        },
-        {
-          "title": "王一博2026年央视总台春晚",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A2026%E5%B9%B4%E5%A4%AE%E8%A7%86%E6%80%BB%E5%8F%B0%E6%98%A5%E6%99%9A%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时45分 ~ 09时46分]"
-        },
-        {
-          "title": "据AXIOS网站：美国国防部威胁要切断与Anthropic的合作。",
-          "url": "https://flash.jin10.com/detail/20260215101721943800",
-          "source": "金十数据",
-          "ranks": [
-            18,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时17分 ~ 13时53分]"
-        },
-        {
-          "title": "任子威：中国队战术安排还是太保守",
-          "url": "https://www.toutiao.com/trending/7606514200966316068/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时45分 ~ 09时46分]"
-        },
-        {
-          "title": "中国队无缘女子3000米接力决赛",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E6%97%A0%E7%BC%98%E5%A5%B3%E5%AD%903000%E7%B1%B3%E6%8E%A5%E5%8A%9B%E5%86%B3%E8%B5%9B%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时18分 ~ 07时19分]"
-        },
-        {
-          "title": "火了千年的春联才是中国人的新年顶流",
-          "url": "https://www.toutiao.com/trending/7606870938340098084/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时18分 ~ 19时19分]"
-        },
-        {
-          "title": "中国冰壶女队逆转绝杀东道主意大利",
-          "url": "https://www.toutiao.com/trending/7605777966660095524/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时22分]"
-        },
-        {
-          "title": "博主：095核潜艇补齐中国海军短板",
-          "url": "https://www.toutiao.com/trending/7606868002122534442/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时52分 ~ 13时53分]"
-        },
-        {
-          "title": "“精神中国人”发起人回应走红",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%B2%BE%E7%A5%9E%E4%B8%AD%E5%9B%BD%E4%BA%BA%E2%80%9D%E5%8F%91%E8%B5%B7%E4%BA%BA%E5%9B%9E%E5%BA%94%E8%B5%B0%E7%BA%A2",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时45分 ~ 09时46分]"
-        },
-        {
-          "title": "中国如何破局西方“司法掠夺”新套路",
-          "url": "https://www.toutiao.com/trending/7606968715774545454/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时26分 ~ 16时27分]"
-        },
-        {
-          "title": "中国2银2铜暂列冬奥奖牌榜第18",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD2%E9%93%B62%E9%93%9C%E6%9A%82%E5%88%97%E5%86%AC%E5%A5%A5%E5%A5%96%E7%89%8C%E6%A6%9C%E7%AC%AC18&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时26分 ~ 03时20分]"
-        },
-        {
-          "title": "外交部发布单方面免签政策答疑",
-          "url": "https://www.toutiao.com/trending/7606547823220817926/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时20分"
-        },
-        {
-          "title": "金十整理：下周重要事件与数据预告——美联储会议纪要携PCE数据登场，中国与多地市场因春节假期休市、美股周一因美国总统日休市一日",
-          "url": "https://flash.jin10.com/detail/20260215215525567800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时20分"
-        },
-        {
-          "title": "中国AI改变电影制作让老外惊叹",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BDAI%E6%94%B9%E5%8F%98%E7%94%B5%E5%BD%B1%E5%88%B6%E4%BD%9C%E8%AE%A9%E8%80%81%E5%A4%96%E6%83%8A%E5%8F%B9%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时35分"
-        },
-        {
-          "title": "中国驻巴基斯坦大使馆提醒：中国公民强化安全意识，谨慎来巴",
-          "url": "https://www.cls.cn/detail/2290494",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时35分"
-        },
-        {
-          "title": "中国驻巴基斯坦大使馆提醒中国公民强化安全意识 谨慎来巴",
-          "url": "https://flash.jin10.com/detail/20260215083230254800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时46分"
-        },
-        {
-          "title": "中国冰壶女队vs美国",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%86%B0%E5%A3%B6%E5%A5%B3%E9%98%9Fvs%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时20分"
-        },
-        {
-          "title": "伊能静央视春晚备播上班路透",
-          "url": "https://www.toutiao.com/trending/7606652248433639467/",
-          "source": "今日头条",
-          "ranks": [
-            20
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
         },
         {
-          "title": "中国籍女子从韩机场前高架桥坠亡",
-          "url": "https://www.toutiao.com/trending/7606715228084273188/",
-          "source": "今日头条",
+          "title": "春节周重磅前瞻：美联储最爱通胀指标，DeepSeek V4或发布",
+          "url": "https://wallstreetcn.com/articles/3765742",
+          "source": "华尔街见闻",
           "ranks": [
-            21
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时26分"
+          "time_info": "00时22分"
         },
         {
-          "title": "中国银行协助沙特发行百亿美元主权债",
-          "url": "https://flash.jin10.com/detail/20260215100850959800",
+          "title": "美国国务卿鲁比奥：叙利亚局势朝着正确的方向发展。",
+          "url": "https://flash.jin10.com/detail/20260215224347159800",
           "source": "金十数据",
           "ranks": [
-            22
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时17分"
-        },
-        {
-          "title": "30多岁中国女子在韩机场高架桥坠亡",
-          "url": "https://s.weibo.com/weibo?q=%2330%E5%A4%9A%E5%B2%81%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E5%9C%A8%E9%9F%A9%E6%9C%BA%E5%9C%BA%E9%AB%98%E6%9E%B6%E6%A1%A5%E5%9D%A0%E4%BA%A1%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时26分"
-        },
-        {
-          "title": "卷尺哥火到央视 背后没有“大领导”",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%B7%E5%B0%BA%E5%93%A5%E7%81%AB%E5%88%B0%E5%A4%AE%E8%A7%86+%E8%83%8C%E5%90%8E%E6%B2%A1%E6%9C%89%E2%80%9C%E5%A4%A7%E9%A2%86%E5%AF%BC%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时20分"
-        },
-        {
-          "title": "央视还原深圳“卷尺哥”成名之路",
-          "url": "https://www.toutiao.com/trending/7606991467920261162/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# --- 第三组：美国宏观与军事 --- 美国 白宫 五角大楼 美军 美联储 布林肯 拜登 特朗普",
-      "match_count": 68,
-      "titles": [
-        {
-          "title": "王毅会见美国国务卿鲁比奥",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32607676",
-          "source": "澎湃新闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时19分]"
-        },
-        {
-          "title": "美国是欧洲的孩子？学者：鲁比奥只是希望欧方沉浸在这套叙事里",
-          "url": "https://news.ifeng.com/c/8qkgAuQCAav",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时45分 ~ 17时26分]"
-        },
-        {
-          "title": "泽连斯基：美国总问乌方可以做哪些让步，却从不问俄方",
-          "url": "https://news.ifeng.com/c/8qkIfQFfmCj",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[04时19分 ~ 09时46分]"
-        },
-        {
-          "title": "美国考虑降低钢铝关税？这对金属意味着什么",
-          "url": "https://wallstreetcn.com/articles/3765738",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            5,
-            4,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[02时26分 ~ 18时21分]"
-        },
-        {
-          "title": "财报后，美国四大云厂市值蒸发1万亿美元，市场甚至寻求对冲“大厂风险”",
-          "url": "https://wallstreetcn.com/articles/3765749",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[13时52分 ~ 23时20分]"
-        },
-        {
-          "title": "美国被曝对委内瑞拉军事行动中使用人工智能模型",
-          "url": "https://www.cls.cn/detail/2290485",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            4,
-            3,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时45分 ~ 23时20分]"
+          "time_info": "00时22分"
         },
         {
           "title": "民主党轮番安抚欧洲：再忍忍，特朗普3年后就会离开",
@@ -1377,460 +48,30 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时21分 ~ 23时20分]"
-        },
-        {
-          "title": "欧盟委员会主席冯德莱恩：与美国参议院Lindsey Graham等人的会谈情况不错。",
-          "url": "https://wallstreetcn.com/livenews/3055565",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            13,
-            20,
-            23,
-            24,
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时22分 ~ 16时27分]"
+          "appearance_count": 1,
+          "time_info": "00时22分"
         },
         {
           "title": "泽连斯基慕安会演讲：美国总让乌克兰让步，“有点”感受到特朗普的压力",
           "url": "https://m.thepaper.cn/newsDetail_forward_32614935",
           "source": "澎湃新闻",
           "ranks": [
-            11,
-            8,
-            9,
-            7,
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时26分 ~ 23时20分]"
-        },
-        {
-          "title": "美军官骗走阿富汗女婴，法院判了！",
-          "url": "https://news.ifeng.com/c/8qk2cznsMAk",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时22分 ~ 09时46分]"
-        },
-        {
-          "title": "美军被曝正做准备：一旦特朗普下令攻击伊朗 行动或持续数周！",
-          "url": "https://www.cls.cn/detail/2290201",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时22分 ~ 12时17分]"
-        },
-        {
-          "title": "鲁比奥称美国“永远是欧洲之子”，斯塔默：欧美关系要顺应形势",
-          "url": "https://wallstreetcn.com/livenews/3055555",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            19,
-            26,
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时22分 ~ 14时43分]"
-        },
-        {
-          "title": "美国2月13日当周高收益公司债销售160亿美元，之前一周供应56.9亿美元；发行人9家。 2月份迄今，垃圾债累计供应217亿美元，1月同期174亿美元。 2026年迄今，高收益债券累计发行591亿美元，上年同期发行457亿美元。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3055548",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            23,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 12时17分]"
-        },
-        {
-          "title": "美国选手马里宁自由滑重大失误",
-          "url": "https://www.toutiao.com/trending/7605955804092743721/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            18,
-            20,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时19分]"
-        },
-        {
-          "title": "美国2月13日当周投资级债券市场销售403亿美元债券，周环比下滑35%（之前一周616亿美元）；发行人19家，之前一周22笔。 其中，谷歌母公司Alphabet inc.出售200亿美元，迪士尼供应40亿美元第二大。 2月份迄今，高评级债券供应1020亿美元，1月份同期供应1233亿美元。 2026年迄今，累计发行3299亿美元，2025年同期为2681亿美元。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3055546",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时22分 ~ 09时46分]"
-        },
-        {
-          "title": "美国要花383亿美元建拘留中心",
-          "url": "https://wallstreetcn.com/livenews/3055545",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时22分 ~ 09时46分]"
-        },
-        {
-          "title": "春节周重磅前瞻：美联储最爱通胀指标，DeepSeek V4或发布",
-          "url": "https://wallstreetcn.com/articles/3765742",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时18分 ~ 23时20分]"
+          "appearance_count": 1,
+          "time_info": "00时22分"
         },
         {
           "title": "美国被曝对委内瑞拉军事行动中使用人工智能模型",
-          "url": "https://wallstreetcn.com/livenews/3055576",
-          "source": "华尔街见闻-快讯",
+          "url": "https://www.cls.cn/detail/2290485",
+          "source": "财联社热门",
           "ranks": [
-            5,
-            12,
-            15,
-            16,
-            19,
-            21,
-            23,
-            30
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时46分 ~ 18时21分]"
-        },
-        {
-          "title": "鲁比奥：美国不希望盟友变软弱",
-          "url": "https://news.ifeng.com/c/8qk7rgCde5e",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 03时20分]"
-        },
-        {
-          "title": "北约秘书长吕特：北约与美国在乌克兰和平谈判问题上立场一致。",
-          "url": "https://flash.jin10.com/detail/20260214203748980800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 07时19分]"
-        },
-        {
-          "title": "美国国务院：美国国务卿鲁比奥对叙利亚政府承诺与美国和全球联盟充分合作表示欢迎。",
-          "url": "https://flash.jin10.com/detail/20260214203733946800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 07时19分]"
-        },
-        {
-          "title": "美国国务院：美国国务卿鲁比奥强调在叙利亚东北部落实永久停火与整合协议的重要性。",
-          "url": "https://flash.jin10.com/detail/20260214202724226800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 07时19分]"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：希望美国继续参与谈判，也希望欧洲能更多地参与。",
-          "url": "https://flash.jin10.com/detail/20260214201021867800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 07时19分]"
-        },
-        {
-          "title": "美国军方：使用由固定翼飞机、旋翼机和无人机投送的精确弹药，打击了伊斯兰国的基础设施和武器储存设施。",
-          "url": "https://flash.jin10.com/detail/20260214200450739800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 07时19分]"
-        },
-        {
-          "title": "美国军方：2月3日至12日，在叙利亚对30多个“伊斯兰国”目标发动了10次空袭。",
-          "url": "https://flash.jin10.com/detail/20260214200314368800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 07时19分]"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：（被问及美国总统特朗普关于乌克兰的最新评论时）“有点”感受到压力。",
-          "url": "https://flash.jin10.com/detail/20260214195624100800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 07时19分]"
-        },
-        {
-          "title": "美国州长：特朗普只是个过客，加州是稳定可靠的伙伴",
-          "url": "https://wallstreetcn.com/livenews/3055534",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 07时19分]"
-        },
-        {
-          "title": "意大利总理梅洛妮：意大利可能会按观察员身份加入（美国总统特朗普所谓的）和平委员会。",
-          "url": "https://wallstreetcn.com/livenews/3055527",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 07时19分]"
-        },
-        {
-          "title": "桑切斯称美国重金发展核武是个错误",
-          "url": "https://flash.jin10.com/detail/20260215151427934800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            8,
-            11,
-            14,
-            18,
-            24,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时27分 ~ 22时22分]"
-        },
-        {
-          "title": "泽连斯基：美国老是要乌克兰让步",
-          "url": "https://wallstreetcn.com/livenews/3055572",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            16,
-            19,
-            20,
-            23,
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时46分 ~ 17时26分]"
-        },
-        {
-          "title": "被特朗普恶搞成猿猴 奥巴马首次回应",
-          "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E7%89%B9%E6%9C%97%E6%99%AE%E6%81%B6%E6%90%9E%E6%88%90%E7%8C%BF%E7%8C%B4+%E5%A5%A5%E5%B7%B4%E9%A9%AC%E9%A6%96%E6%AC%A1%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            24,
-            19,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时35分 ~ 19时19分]"
-        },
-        {
-          "title": "市场消息：美国国务卿鲁比奥与日本外务大臣茂木敏充于周六会晤，重申其致力于加强双边关系的承诺。",
-          "url": "https://flash.jin10.com/detail/20260215141859404800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            10,
-            17,
-            21,
-            24,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时43分 ~ 19时19分]"
-        },
-        {
-          "title": "英媒：若美国愿意解除制裁 伊朗将考虑就核谈判做出妥协",
-          "url": "https://flash.jin10.com/detail/20260215141325136800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            12,
-            19,
-            23,
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时43分 ~ 19时19分]"
-        },
-        {
-          "title": "据BBC：如果美国愿意讨论解除制裁的问题，伊朗已准备好考虑做出妥协，以与美国达成核协议。",
-          "url": "https://flash.jin10.com/detail/20260215140753081800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            13,
-            20,
-            24,
-            27,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时43分 ~ 19时19分]"
-        },
-        {
-          "title": "伊朗副外长谈新一轮伊美谈判：“球在美国那边”",
-          "url": "https://wallstreetcn.com/livenews/3055618",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            6,
-            10,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时19分 ~ 23时20分]"
-        },
-        {
-          "title": "分析师：特朗普政府中期选举的成败可能取决于选民是否切实感受到日常生活有所改善",
-          "url": "https://flash.jin10.com/detail/20260215212555860800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            2,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时42分 ~ 23时20分]"
-        },
-        {
-          "title": "美国国务卿鲁比奥：美国已注意到各国评估俄罗斯著名反对派政治家阿列克谢·纳瓦尔尼遭毒害的报告。美国并不质疑这一评估，也没有任何理由对其提出质疑。",
-          "url": "https://flash.jin10.com/detail/20260215211147771800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            3,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时42分 ~ 23时20分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-15）",
-          "url": "https://flash.jin10.com/detail/20260215183847434800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            6,
-            12,
-            13,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时19分 ~ 23时20分]"
-        },
-        {
-          "title": "美国国务卿鲁比奥：相信美国总统特朗普的助手威特科夫和特朗普女婿库什纳“此刻”正前往伊朗，举行有关伊朗的重要会议。",
-          "url": "https://flash.jin10.com/detail/20260215211009575800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            4,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时42分 ~ 23时20分]"
-        },
-        {
-          "title": "斯洛伐克总理：希望在来年与美国西屋电气公司签署协议，牵头建设新的核电站。",
-          "url": "https://flash.jin10.com/detail/20260215205546768800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            5,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时42分 ~ 23时20分]"
-        },
-        {
-          "title": "美国国务卿鲁比奥：叙利亚局势朝着正确的方向发展。",
-          "url": "https://flash.jin10.com/detail/20260215224347159800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时20分"
+          "time_info": "00时22分"
         },
         {
           "title": "加州州长：从未想到美国竟成“全球最不稳定之源”",
@@ -1840,8 +81,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时37分 ~ 23时20分]"
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：（谈及伊朗时表示）我们在和激进的什叶派神职人员打交道、在和那些基于纯粹神学做出地缘政治决策的人打交道。没有人能和伊朗成功达成协议，但我们会尝试。",
+          "url": "https://flash.jin10.com/detail/20260215221126386800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
         },
         {
           "title": "侯汉廷痛批民进党当局，甘当美国“提款机”",
@@ -1851,1166 +103,534 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时37分 ~ 23时20分]"
-        },
-        {
-          "title": "被特朗普恶搞成猿猴 奥巴马首次回应",
-          "url": "https://flash.jin10.com/detail/20260215135912358800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            15,
-            22,
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时43分 ~ 18时21分]"
-        },
-        {
-          "title": "特朗普：北约看在我的份上付了5%国防支出",
-          "url": "https://news.ifeng.com/c/8qk233NwWlu",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 03时20分]"
-        },
-        {
-          "title": "美国国务卿鲁比奥：（对欧洲表示）我们不希望你们依赖我们。我们并不是在要求你们成为美国的附庸。",
-          "url": "https://flash.jin10.com/detail/20260215212825269800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时22分 ~ 23时20分]"
-        },
-        {
-          "title": "加州州长回应特朗普为其起外号：快80岁的人干8岁的事",
-          "url": "https://news.ifeng.com/c/8qjoPYjzxHm",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 03时20分]"
-        },
-        {
-          "title": "格陵兰岛被强行“示爱” 白宫情人节贺卡引争议",
-          "url": "https://flash.jin10.com/detail/20260215113006007800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            15,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时17分 ~ 14时43分]"
-        },
-        {
-          "title": "美军被曝在委内瑞拉军事行动中使用AI模型，开发公司回应质疑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32615186",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时41分 ~ 23时20分]"
-        },
-        {
-          "title": "曝特朗普发涉种族主义视频被批后发怒",
-          "url": "https://www.toutiao.com/trending/7606051537617649691/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            18,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时43分 ~ 16时27分]"
-        },
-        {
-          "title": "美国战争部：昨夜，美军对（超大型原油运输船）“维罗妮卡三号”实施了登临检查、海上拦截和登船行动。该船从加勒比海被一路追踪至印度洋，其试图违抗检疫指令。",
-          "url": "https://flash.jin10.com/detail/20260215194716674800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            8,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时42分 ~ 23时20分]"
-        },
-        {
-          "title": "原料短缺 美国巧克力零售价格持续上涨",
-          "url": "https://flash.jin10.com/detail/20260215121705344800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            19,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时53分 ~ 15时35分]"
-        },
-        {
-          "title": "被特朗普恶搞成猿猴 奥巴马首次回应",
-          "url": "https://www.toutiao.com/trending/7606703474663063593/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时26分 ~ 18时21分]"
-        },
-        {
-          "title": "被特朗普恶搞成猿猴，奥巴马首次回应：廉耻心荡然无存",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32616271",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时22分 ~ 23时20分]"
-        },
-        {
-          "title": "美媒：五角大楼威胁要切断与Anthropic的AI合作",
-          "url": "https://flash.jin10.com/detail/20260215103523505800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时17分 ~ 13时53分]"
-        },
-        {
-          "title": "美国的“再通胀”之路",
-          "url": "https://www.toutiao.com/trending/7606779860618317375/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时45分 ~ 09时46分]"
-        },
-        {
-          "title": "欧洲官员批评美国务卿演讲",
-          "url": "https://www.toutiao.com/trending/7606296838584582163/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时26分 ~ 18时21分]"
-        },
-        {
-          "title": "日本有人想拉美国下水 能得逞吗",
-          "url": "https://www.toutiao.com/trending/7606132183580917823/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时16分 ~ 12时17分]"
-        },
-        {
-          "title": "白宫情人节贺卡强行“示爱”格陵兰岛",
-          "url": "https://www.baidu.com/s?wd=%E7%99%BD%E5%AE%AB%E6%83%85%E4%BA%BA%E8%8A%82%E8%B4%BA%E5%8D%A1%E5%BC%BA%E8%A1%8C%E2%80%9C%E7%A4%BA%E7%88%B1%E2%80%9D%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时16分 ~ 12时17分]"
-        },
-        {
-          "title": "美国国务卿鲁比奥：（谈及伊朗时表示）我们在和激进的什叶派神职人员打交道、在和那些基于纯粹神学做出地缘政治决策的人打交道。没有人能和伊朗成功达成协议，但我们会尝试。",
-          "url": "https://flash.jin10.com/detail/20260215221126386800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时20分"
+          "time_info": "00时22分"
         },
         {
           "title": "加拿大石油为何被美国“吃定70年”",
           "url": "https://www.toutiao.com/trending/7607091523754135082/",
           "source": "今日头条",
           "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时20分"
-        },
-        {
-          "title": "奥巴马回应被特朗普恶搞成猴",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%A5%E5%B7%B4%E9%A9%AC%E5%9B%9E%E5%BA%94%E8%A2%AB%E7%89%B9%E6%9C%97%E6%99%AE%E6%81%B6%E6%90%9E%E6%88%90%E7%8C%B4%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时26分"
+          "time_info": "00时22分"
         },
         {
-          "title": "外媒：特朗普与内塔尼亚胡同意加大对伊朗的施压",
-          "url": "https://flash.jin10.com/detail/20260215082816543800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时46分"
-        },
-        {
-          "title": "美国AI大牛盛赞杨丽萍千问节目",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BDAI%E5%A4%A7%E7%89%9B%E7%9B%9B%E8%B5%9E%E6%9D%A8%E4%B8%BD%E8%90%8D%E5%8D%83%E9%97%AE%E8%8A%82%E7%9B%AE%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时37分"
-        },
-        {
-          "title": "据Politico：美国司法部就爱泼斯坦案卷的删节内容致函议员。",
-          "url": "https://flash.jin10.com/detail/20260215082019096800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时46分"
-        },
-        {
-          "title": "美国被曝对委内瑞拉军事行动中使用人工智能模型",
-          "url": "https://flash.jin10.com/detail/20260215081137673800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时46分"
-        },
-        {
-          "title": "美军方称对叙境内30多个极端组织目标发动打击",
-          "url": "https://flash.jin10.com/detail/20260215081039507800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时46分"
-        },
-        {
-          "title": "泽连斯基：美国老是要乌克兰让步",
-          "url": "https://flash.jin10.com/detail/20260215080904480800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# --- 第六组：俄乌局势 --- 俄乌 俄罗斯 乌克兰 普京 泽连斯基 北约",
-      "match_count": 25,
-      "titles": [
-        {
-          "title": "新一轮美伊谈判和美俄乌会谈17日在瑞士日内瓦举行",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32608325",
+          "title": "美军被曝在委内瑞拉军事行动中使用AI模型，开发公司回应质疑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32615186",
           "source": "澎湃新闻",
           "ranks": [
-            3,
-            4,
-            5,
-            7
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时19分]"
+          "appearance_count": 1,
+          "time_info": "00时22分"
         },
         {
-          "title": "北约秘书长吕特：如果俄罗斯现在发动攻击，北约将在与俄罗斯的每一场战斗中获胜，必须确保这种情况在未来数年内依然如此。",
-          "url": "https://flash.jin10.com/detail/20260214210831742800",
+          "title": "美国国务卿鲁比奥：（对欧洲表示）我们不希望你们依赖我们。我们并不是在要求你们成为美国的附庸。",
+          "url": "https://flash.jin10.com/detail/20260215212825269800",
           "source": "金十数据",
           "ranks": [
-            3
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 07时19分]"
+          "appearance_count": 1,
+          "time_info": "00时22分"
         },
         {
-          "title": "英瑞法德荷联合声明：我们和我们的伙伴将动用我们掌握的一切政策工具，继续追究俄罗斯的责任。",
-          "url": "https://flash.jin10.com/detail/20260214210820346800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 07时19分]"
-        },
-        {
-          "title": "英瑞法德荷联合声明：我们进一步对俄罗斯并未销毁其全部化学武器表示关切。",
-          "url": "https://flash.jin10.com/detail/20260214210810838800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 07时19分]"
-        },
-        {
-          "title": "英瑞法德荷联合声明：坚信俄罗斯著名反对派政治家阿列克谢·纳瓦尔尼被一种致命毒素毒害。",
-          "url": "https://flash.jin10.com/detail/20260214210746020800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 07时19分]"
-        },
-        {
-          "title": "北约秘书长吕特：北约如此强大，“俄罗斯不会试图发动攻击”。",
-          "url": "https://flash.jin10.com/detail/20260214210619488800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 07时19分]"
-        },
-        {
-          "title": "欧盟外交与安全政策高级代表卡拉斯：感觉欧盟国家尚未准备好向乌克兰给出加入欧盟的具体日期。",
-          "url": "https://flash.jin10.com/detail/20260215170530114800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            5,
-            8,
-            12,
-            18,
-            19,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时26分 ~ 23时20分]"
-        },
-        {
-          "title": "北约秘书长吕特：俄罗斯的石油收入下降了三分之一，正迅速消耗其主权财富基金。",
-          "url": "https://flash.jin10.com/detail/20260214204000683800",
+          "title": "分析师：特朗普政府中期选举的成败可能取决于选民是否切实感受到日常生活有所改善",
+          "url": "https://flash.jin10.com/detail/20260215212555860800",
           "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 07时19分]"
+          "appearance_count": 1,
+          "time_info": "00时22分"
         },
         {
-          "title": "北约秘书长吕特：俄罗斯在乌克兰遭受“疯狂的损失”，两个月内已达6.5万人。",
-          "url": "https://flash.jin10.com/detail/20260214203741489800",
+          "title": "被特朗普恶搞成猿猴，奥巴马首次回应：廉耻心荡然无存",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32616271",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：美国已注意到各国评估俄罗斯著名反对派政治家阿列克谢·纳瓦尔尼遭毒害的报告。美国并不质疑这一评估，也没有任何理由对其提出质疑。",
+          "url": "https://flash.jin10.com/detail/20260215211147771800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：相信美国总统特朗普的助手威特科夫和特朗普女婿库什纳“此刻”正前往伊朗，举行有关伊朗的重要会议。",
+          "url": "https://flash.jin10.com/detail/20260215211009575800",
           "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 07时19分]"
+          "appearance_count": 1,
+          "time_info": "00时22分"
         },
         {
-          "title": "乌克兰被禁赛选手上诉到国际体育仲裁法庭，要求恢复参赛资格，多国表示支持，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2005669611631244378",
-          "source": "知乎",
+          "title": "斯洛伐克总理：希望在来年与美国西屋电气公司签署协议，牵头建设新的核电站。",
+          "url": "https://flash.jin10.com/detail/20260215205546768800",
+          "source": "金十数据",
           "ranks": [
-            15,
-            18
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时16分 ~ 16时27分]"
+          "appearance_count": 1,
+          "time_info": "00时22分"
         },
         {
-          "title": "乌克兰总统泽连斯基：对乌克兰来说，确定加入欧盟的日期至关重要，否则俄罗斯总统普京将在战后竭尽全力阻止这一进程。",
-          "url": "https://flash.jin10.com/detail/20260214201138905800",
+          "title": "伊朗副外长谈新一轮伊美谈判：“球在美国那边”",
+          "url": "https://wallstreetcn.com/livenews/3055618",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        },
+        {
+          "title": "美国战争部：昨夜，美军对（超大型原油运输船）“维罗妮卡三号”实施了登临检查、海上拦截和登船行动。该船从加勒比海被一路追踪至印度洋，其试图违抗检疫指令。",
+          "url": "https://flash.jin10.com/detail/20260215194716674800",
           "source": "金十数据",
           "ranks": [
             17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 07时19分]"
+          "appearance_count": 1,
+          "time_info": "00时22分"
         },
         {
-          "title": "乌克兰总统泽连斯基：给我们两个月的停火，我们就会举行选举。",
-          "url": "https://flash.jin10.com/detail/20260214195642392800",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-15）",
+          "url": "https://flash.jin10.com/detail/20260215183847434800",
           "source": "金十数据",
           "ranks": [
-            21
+            22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 07时19分]"
-        },
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# --- 第一组：中国宏观 (去掉了必须词，只过滤娱乐) --- 中国 央视 外交部 国防部 解放军 人民日报 新华社",
+      "match_count": 16,
+      "titles": [
         {
-          "title": "乌克兰总统泽连斯基：乌克兰希望听到俄罗斯做出一些妥协。",
-          "url": "https://flash.jin10.com/detail/20260214195629805800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 07时19分]"
-        },
-        {
-          "title": "俄副外长：俄愿与美方等讨论向乌克兰引入外部管理机制",
-          "url": "https://flash.jin10.com/detail/20260215165939680800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            6,
-            9,
-            13,
-            19,
-            20,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时26分 ~ 23时20分]"
-        },
-        {
-          "title": "俄罗斯方面表示，其部队已占领乌克兰扎波罗热地区的茨维特科韦村。",
-          "url": "https://flash.jin10.com/detail/20260215170733519800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            6,
-            10,
-            16,
-            17,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时21分 ~ 23时20分]"
-        },
-        {
-          "title": "俄副外长：俄愿与美方等讨论向乌克兰引入外部管理机制",
-          "url": "https://wallstreetcn.com/livenews/3055608",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            10,
-            15,
-            19,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时21分 ~ 23时20分]"
-        },
-        {
-          "title": "金十数据整理：俄乌冲突最新24小时局势跟踪（2月15日）",
-          "url": "https://flash.jin10.com/detail/20260215091202821800",
-          "source": "金十数据",
+          "title": "联合国秘书长呼吁发达国家效仿中国",
+          "url": "https://www.toutiao.com/trending/7607082012410642438/",
+          "source": "今日头条",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时46分"
+          "time_info": "00时22分"
         },
         {
-          "title": "当地官员表示，2月14日至15日夜间，乌克兰无人机在俄罗斯南部克拉斯诺达尔州的多个地区进行了袭击，目标包括一处油库。",
-          "url": "https://flash.jin10.com/detail/20260215131323015800",
-          "source": "金十数据",
+          "title": "Seedance一骑绝尘背后：中国AI春节前为何“杀疯了”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32608237",
+          "source": "澎湃新闻",
           "ranks": [
-            1,
-            13,
-            21,
-            28
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时53分 ~ 16时27分]"
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        },
+        {
+          "title": "中国冰壶女队vs美国",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%86%B0%E5%A3%B6%E5%A5%B3%E9%98%9Fvs%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        },
+        {
+          "title": "中国铁路饮食变迁史",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E9%93%81%E8%B7%AF%E9%A5%AE%E9%A3%9F%E5%8F%98%E8%BF%81%E5%8F%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        },
+        {
+          "title": "笑翻了，“洋女婿”如此解锁中国年｜新春短剧上线",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32609677",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        },
+        {
+          "title": "倒打一耙！小泉进次郎没提中国，但句句不离中国",
+          "url": "https://news.ifeng.com/c/8qlZx0e7lBs",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        },
+        {
+          "title": "中国冰壶女队5比6美国",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%86%B0%E5%A3%B6%E5%A5%B3%E9%98%9F5%E6%AF%946%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        },
+        {
+          "title": "金十整理：下周重要事件与数据预告——美联储会议纪要携PCE数据登场，中国与多地市场因春节假期休市、美股周一因美国总统日休市一日",
+          "url": "https://flash.jin10.com/detail/20260215215525567800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        },
+        {
+          "title": "美国防部称在印度洋拦截一艘油轮",
+          "url": "https://wallstreetcn.com/livenews/3055623",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        },
+        {
+          "title": "央视马年春晚完成五次彩排",
+          "url": "https://www.douyin.com/hot/2401357",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        },
+        {
+          "title": "中国将对加拿大、英国实施免签政策",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%B0%86%E5%AF%B9%E5%8A%A0%E6%8B%BF%E5%A4%A7%E3%80%81%E8%8B%B1%E5%9B%BD%E5%AE%9E%E6%96%BD%E5%85%8D%E7%AD%BE%E6%94%BF%E7%AD%96",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        },
+        {
+          "title": "外交部：自2月17日起 对加拿大、英国持普通护照人员实施免签政策",
+          "url": "https://wallstreetcn.com/livenews/3055613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        },
+        {
+          "title": "春启新程｜把非遗做成中国潮品，“上海定制”圈粉老外",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32615649",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        },
+        {
+          "title": "中领馆：中国公民近期避免赴日",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E9%A2%86%E9%A6%86%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E8%BF%91%E6%9C%9F%E9%81%BF%E5%85%8D%E8%B5%B4%E6%97%A5",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        },
+        {
+          "title": "卷尺哥火到央视 背后没有“大领导”",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%B7%E5%B0%BA%E5%93%A5%E7%81%AB%E5%88%B0%E5%A4%AE%E8%A7%86+%E8%83%8C%E5%90%8E%E6%B2%A1%E6%9C%89%E2%80%9C%E5%A4%A7%E9%A2%86%E5%AF%BC%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        },
+        {
+          "title": "外交部发布单方面免签政策答疑",
+          "url": "https://www.toutiao.com/trending/7606547823220817926/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# --- 第六组：俄乌局势 --- 俄乌 俄罗斯 乌克兰 普京 泽连斯基 北约",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "泽连斯基参加慕安会能否获得援助",
+          "url": "https://www.toutiao.com/trending/7606948213433860150/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
         },
         {
           "title": "涉嫌腐败 乌克兰前司法部长加卢先科试图离境时被捕",
           "url": "https://flash.jin10.com/detail/20260215191138310800",
           "source": "金十数据",
           "ranks": [
-            3,
-            9,
-            10,
-            18
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时37分 ~ 23时20分]"
+          "appearance_count": 1,
+          "time_info": "00时22分"
         },
         {
           "title": "乌克兰军方：袭击了位于俄罗斯克拉斯诺达尔地区的塔曼石油码头。",
           "url": "https://flash.jin10.com/detail/20260215190206504800",
           "source": "金十数据",
           "ranks": [
-            4,
-            10,
-            11,
-            19
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时37分 ~ 23时20分]"
-        },
-        {
-          "title": "当地州长表示，俄罗斯克拉斯诺达尔地区塔曼港遭无人机袭击。塔曼港的油品储罐、仓库和码头遭无人机袭击受损。",
-          "url": "https://flash.jin10.com/detail/20260215133203262800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            19,
-            26,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时43分 ~ 17时26分]"
-        },
-        {
-          "title": "普京最新民调公布",
-          "url": "https://www.toutiao.com/trending/7606545985951137819/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 04时19分]"
-        },
-        {
-          "title": "乌克兰无人机袭击卢甘斯克致19人受伤",
-          "url": "https://flash.jin10.com/detail/20260215103854455800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时17分 ~ 13时53分]"
-        },
-        {
-          "title": "泽连斯基参加慕安会能否获得援助",
-          "url": "https://www.toutiao.com/trending/7606948213433860150/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时20分"
+          "time_info": "00时22分"
         },
         {
-          "title": "泽连斯基：体面结束冲突对乌克兰至关重要 安全保障应先于停火协议",
-          "url": "https://flash.jin10.com/detail/20260215081400448800",
-          "source": "金十数据",
+          "title": "俄副外长：俄愿与美方等讨论向乌克兰引入外部管理机制",
+          "url": "https://wallstreetcn.com/livenews/3055608",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时46分"
+          "time_info": "00时22分"
+        },
+        {
+          "title": "俄罗斯方面表示，其部队已占领乌克兰扎波罗热地区的茨维特科韦村。",
+          "url": "https://flash.jin10.com/detail/20260215170733519800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        },
+        {
+          "title": "欧盟外交与安全政策高级代表卡拉斯：感觉欧盟国家尚未准备好向乌克兰给出加入欧盟的具体日期。",
+          "url": "https://flash.jin10.com/detail/20260215170530114800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        },
+        {
+          "title": "俄副外长：俄愿与美方等讨论向乌克兰引入外部管理机制",
+          "url": "https://flash.jin10.com/detail/20260215165939680800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
         }
       ]
     },
     {
       "keyword_group": "# --- 第五组：日本动态 (关键修改：去掉了外交限制) --- 日本 岸田文雄 自卫队 靖国神社 核污水",
-      "match_count": 23,
+      "match_count": 6,
       "titles": [
         {
-          "title": "王毅：日本若要再赌一次，只会输得更惨",
-          "url": "https://news.ifeng.com/c/8qkAXaA7HZu",
-          "source": "凤凰网",
+          "title": "王毅警告日本 现场爆发热烈掌声",
+          "url": "https://www.toutiao.com/trending/7605877620357762596/",
+          "source": "今日头条",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时22分 ~ 13时53分]"
+          "appearance_count": 1,
+          "time_info": "00时22分"
         },
         {
           "title": "鲁比奥会见日本外相，协调两国首脑会谈",
           "url": "https://news.ifeng.com/c/8qkpGZduu6P",
           "source": "凤凰网",
           "ranks": [
-            1,
-            3,
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时26分 ~ 23时20分]"
+          "appearance_count": 1,
+          "time_info": "00时22分"
         },
         {
-          "title": "日本市场近期发生了什么？",
-          "url": "https://wallstreetcn.com/articles/3765744",
-          "source": "华尔街见闻",
+          "title": "背滕王阁序被免票日本男子发声",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%83%8C%E6%BB%95%E7%8E%8B%E9%98%81%E5%BA%8F%E8%A2%AB%E5%85%8D%E7%A5%A8%E6%97%A5%E6%9C%AC%E7%94%B7%E5%AD%90%E5%8F%91%E5%A3%B0%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
           "ranks": [
-            7,
-            6,
-            5,
-            4,
-            3
+            4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时16分 ~ 20时37分]"
-        },
-        {
-          "title": "2026慕安会｜王毅在德国严正警告日本，150秒脱稿答问值得反复观看",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32612179",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            8,
-            6,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时52分 ~ 22时22分]"
-        },
-        {
-          "title": "王毅拿德国与日本作对比",
-          "url": "https://www.toutiao.com/trending/7605590688838811698/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            4,
-            7,
-            8,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时19分]"
-        },
-        {
-          "title": "火力全开!王毅警告日本",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350718&amp;topic_name=%E7%81%AB%E5%8A%9B%E5%85%A8%E5%BC%80%21%E7%8E%8B%E6%AF%85%E8%AD%A6%E5%91%8A%E6%97%A5%E6%9C%AC",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            9,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时45分 ~ 23时20分]"
-        },
-        {
-          "title": "王毅警告日本 现场爆发热烈掌声",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E8%AD%A6%E5%91%8A%E6%97%A5%E6%9C%AC+%E7%8E%B0%E5%9C%BA%E7%88%86%E5%8F%91%E7%83%AD%E7%83%88%E6%8E%8C%E5%A3%B0",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            17,
-            15,
-            14,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时45分 ~ 18时21分]"
-        },
-        {
-          "title": "王毅警告日本 现场爆发热烈掌声",
-          "url": "https://www.toutiao.com/trending/7605877620357762596/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            6,
-            7,
-            12,
-            14,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时45分 ~ 23时20分]"
+          "appearance_count": 1,
+          "time_info": "00时22分"
         },
         {
           "title": "日本游客为免票背了1个月《滕王阁序》",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%B8%B8%E5%AE%A2%E4%B8%BA%E5%85%8D%E7%A5%A8%E8%83%8C%E4%BA%861%E4%B8%AA%E6%9C%88%E3%80%8A%E6%BB%95%E7%8E%8B%E9%98%81%E5%BA%8F%E3%80%8B",
           "source": "百度热搜",
           "ranks": [
-            26,
-            15,
-            13,
-            16
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时18分 ~ 23时20分]"
+          "appearance_count": 1,
+          "time_info": "00时22分"
         },
         {
-          "title": "日本男子全文背滕王阁序免票进景区",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%94%B7%E5%AD%90%E5%85%A8%E6%96%87%E8%83%8C%E6%BB%95%E7%8E%8B%E9%98%81%E5%BA%8F%E5%85%8D%E7%A5%A8%E8%BF%9B%E6%99%AF%E5%8C%BA%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
+          "title": "火力全开!王毅警告日本",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350718&amp;topic_name=%E7%81%AB%E5%8A%9B%E5%85%A8%E5%BC%80%21%E7%8E%8B%E6%AF%85%E8%AD%A6%E5%91%8A%E6%97%A5%E6%9C%AC",
+          "source": "贴吧",
           "ranks": [
-            13,
-            9,
-            29
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时41分 ~ 23时20分]"
-        },
-        {
-          "title": "李沅禧购物视频被日本网友炎上",
-          "url": "https://s.weibo.com/weibo?q=%E6%9D%8E%E6%B2%85%E7%A6%A7%E8%B4%AD%E7%89%A9%E8%A7%86%E9%A2%91%E8%A2%AB%E6%97%A5%E6%9C%AC%E7%BD%91%E5%8F%8B%E7%82%8E%E4%B8%8A&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29,
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时35分 ~ 17时26分]"
-        },
-        {
-          "title": "日本大阪持刀伤人事件致1死",
-          "url": "https://www.douyin.com/hot/2401256",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时26分 ~ 16时27分]"
-        },
-        {
-          "title": "王毅警告日本现场爆发热烈掌声",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%AF%85%E8%AD%A6%E5%91%8A%E6%97%A5%E6%9C%AC%E7%8E%B0%E5%9C%BA%E7%88%86%E5%8F%91%E7%83%AD%E7%83%88%E6%8E%8C%E5%A3%B0%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时45分 ~ 09时46分]"
-        },
-        {
-          "title": "日本大阪持刀伤人事件致1人死亡 1名嫌疑人被控制",
-          "url": "https://flash.jin10.com/detail/20260215103539847800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时17分 ~ 13时53分]"
-        },
-        {
-          "title": "日本政府已开始讨论修订“防卫装备转移三原则”",
-          "url": "https://flash.jin10.com/detail/20260215102723696800",
-          "source": "金十数据",
-          "ranks": [
-            16,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时17分 ~ 13时53分]"
-        },
-        {
-          "title": "Seedance2.0爆火日本官员急了",
-          "url": "https://s.weibo.com/weibo?q=%23Seedance2.0%E7%88%86%E7%81%AB%E6%97%A5%E6%9C%AC%E5%AE%98%E5%91%98%E6%80%A5%E4%BA%86%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时45分 ~ 09时46分]"
-        },
-        {
-          "title": "日本大阪闹市区砍人致多人死伤",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A4%A7%E9%98%AA%E9%97%B9%E5%B8%82%E5%8C%BA%E7%A0%8D%E4%BA%BA%E8%87%B4%E5%A4%9A%E4%BA%BA%E6%AD%BB%E4%BC%A4",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时52分 ~ 13时53分]"
-        },
-        {
-          "title": "日本大阪府多人被刺伤 行凶者仍在逃",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%9A%E4%BA%BA%E8%A2%AB%E5%88%BA%E4%BC%A4+%E8%A1%8C%E5%87%B6%E8%80%85%E4%BB%8D%E5%9C%A8%E9%80%83",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时16分 ~ 12时17分]"
+          "appearance_count": 1,
+          "time_info": "00时22分"
         },
         {
           "title": "学者：全世界不答应日本招魂军国主义",
           "url": "https://www.toutiao.com/trending/7606608497891393577/",
           "source": "今日头条",
           "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时20分"
-        },
-        {
-          "title": "日本大阪府多人被刺伤 行凶者仍在逃",
-          "url": "https://flash.jin10.com/detail/20260215081519009800",
-          "source": "金十数据",
-          "ranks": [
-            22
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时46分"
-        },
-        {
-          "title": "日本游客为免票背了1个月滕王阁序",
-          "url": "https://www.toutiao.com/trending/7607008817620189227/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时20分"
-        },
-        {
-          "title": "背滕王阁序被免票日本男子发声",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%83%8C%E6%BB%95%E7%8E%8B%E9%98%81%E5%BA%8F%E8%A2%AB%E5%85%8D%E7%A5%A8%E6%97%A5%E6%9C%AC%E7%94%B7%E5%AD%90%E5%8F%91%E5%A3%B0%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时20分"
-        },
-        {
-          "title": "媒体：日本开历史倒车必将撞南墙",
-          "url": "https://www.toutiao.com/trending/7606922832173580324/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时37分"
+          "time_info": "00时22分"
         }
       ]
     },
     {
       "keyword_group": "# --- 第二组：中国经济与A股 (保留宽泛的行情词) --- A股 上证 深证 恒生 人民币 汇率 经济 GDP",
-      "match_count": 15,
+      "match_count": 5,
       "titles": [
         {
-          "title": "本周披露并购重组进展的A股名单一览 1200亿算力概念股在列",
-          "url": "https://www.cls.cn/detail/2289993",
-          "source": "财联社热门",
+          "title": "“新美联储通讯社”：美国经济或已实现软着陆，但宣布胜利为时过早",
+          "url": "https://wallstreetcn.com/livenews/3055632",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时19分]"
-        },
-        {
-          "title": "A股蛇年十大牛股盘点：上纬新材以超25倍涨幅夺魁 商业航天龙头赫然在列",
-          "url": "https://www.cls.cn/detail/2290257",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时22分 ~ 19时19分]"
-        },
-        {
-          "title": "美国务卿：古巴的唯一出路是开放经济",
-          "url": "https://flash.jin10.com/detail/20260214212442292800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 07时19分]"
+          "appearance_count": 1,
+          "time_info": "00时22分"
         },
         {
           "title": "《求是》杂志发表习近平总书记重要文章《当前经济工作的重点任务》",
           "url": "https://wallstreetcn.com/articles/3765758",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            7,
-            5,
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时26分 ~ 23时20分]"
+          "appearance_count": 1,
+          "time_info": "00时22分"
         },
         {
           "title": "习近平：当前经济工作的重点任务",
           "url": "https://www.cls.cn/detail/2290573",
           "source": "财联社热门",
           "ranks": [
-            12,
-            9,
-            6,
-            4,
-            3
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时26分 ~ 23时20分]"
-        },
-        {
-          "title": "17 岁韩国小将崔佳恩冬奥夺冠，可积分兑换终身养老金，约合人民币 4773 元 / 月，如何看待此事？",
-          "url": "https://www.zhihu.com/question/2005911900773381751",
-          "source": "知乎",
-          "ranks": [
-            11,
-            5,
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时21分 ~ 23时20分]"
-        },
-        {
-          "title": "陈茂波：将积极拼经济、谋发展，同时开拓新市场、发展新兴产业",
-          "url": "https://wallstreetcn.com/livenews/3055591",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            4,
-            7,
-            9,
-            11,
-            18,
-            23,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时53分 ~ 20时37分]"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：乌克兰已准备好讨论自由经济区，这或许会带来妥协。",
-          "url": "https://flash.jin10.com/detail/20260214195636552800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 07时19分]"
-        },
-        {
-          "title": "全球经济2026六个结构性变化",
-          "url": "https://www.toutiao.com/trending/7606893816921984555/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时16分 ~ 12时17分]"
-        },
-        {
-          "title": "日本探测船采集含稀土淤泥返回，将推进经济性评估",
-          "url": "https://news.ifeng.com/c/8qlJB59vIp4",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时52分 ~ 17时26分]"
-        },
-        {
-          "title": "《求是》杂志发表习近平总书记重要文章《当前经济工作的重点任务》。",
-          "url": "https://flash.jin10.com/detail/20260215150235065800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            11,
-            15,
-            18,
-            21,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时35分 ~ 20时37分]"
-        },
-        {
-          "title": "“新美联储通讯社”：美国经济或已实现软着陆，但现在宣布胜利为时过早",
-          "url": "https://wallstreetcn.com/livenews/3055632",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时20分"
+          "time_info": "00时22分"
         },
         {
           "title": "美联储传声筒：美国经济或已实现软着陆，但无人愿轻言胜利",
           "url": "https://flash.jin10.com/detail/20260215223002947800",
           "source": "金十数据",
           "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时20分"
-        },
-        {
-          "title": "陈茂波：将积极拼经济、谋发展，同时开拓新市场、发展新兴产业",
-          "url": "https://flash.jin10.com/detail/20260215115626307800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            23
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时53分 ~ 14时43分]"
+          "appearance_count": 1,
+          "time_info": "00时22分"
         },
         {
-          "title": "美国 1 月 CPI 同比回落至 2.4%，核心 CPI 新低，请问这是「里根经济学」配方见效了么，对市场有何影响？",
-          "url": "https://www.zhihu.com/question/2005928072436794238",
+          "title": "17 岁韩国小将崔佳恩冬奥夺冠，可积分兑换终身养老金，约合人民币 4773 元 / 月，如何看待此事？",
+          "url": "https://www.zhihu.com/question/2005911900773381751",
           "source": "知乎",
           "ranks": [
-            16
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时16分 ~ 12时17分]"
+          "appearance_count": 1,
+          "time_info": "00时22分"
         }
       ]
     },
     {
       "keyword_group": "# --- 第四组：美股与科技 (去掉了具体的“财报”限制) --- 美股 纳指 道琼斯 标普 特斯拉 英伟达 苹果 微软 OpenAI",
-      "match_count": 10,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "CPI温和但科技股疲软，美股指冲高回落，亚马逊九连跌，美债转涨，黄金重上5000关口",
-          "url": "https://wallstreetcn.com/articles/3765664",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时19分]"
-        },
-        {
-          "title": "特斯拉副总裁宣布离职，此前吴宇怀等多名骨干先后离开，如何评价特斯拉这轮「离职潮」？会带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2005195369848463617",
-          "source": "知乎",
-          "ranks": [
-            7,
-            8,
-            5,
-            9,
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时19分]"
-        },
-        {
-          "title": "美股轮动之际：黄仁勋跌出全球十大富翁之列 沃尔玛三兄妹进入排行",
-          "url": "https://www.cls.cn/detail/2290296",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            9,
-            10,
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时22分 ~ 22时22分]"
-        },
         {
           "title": "慕安会上，鲁比奥给了欧洲一个“糖霜苹果”",
           "url": "https://news.ifeng.com/c/8qlYbX6CLCk",
@@ -3019,82 +639,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时37分 ~ 23时20分]"
-        },
-        {
-          "title": "提醒：谷歌母公司Alphabet的首席执行官（CEO）桑达尔·皮查伊（Sundar Pichai）和OpenAI的CEOSam Altman将参加下周举办的“2026印度AI影响力峰会”。",
-          "url": "https://wallstreetcn.com/livenews/3055539",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 07时19分]"
-        },
-        {
-          "title": "因“不可预见的情况”，英伟达CEO黄仁勋取消下周的印度AI峰会行程",
-          "url": "https://wallstreetcn.com/livenews/3055529",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 07时19分]"
-        },
-        {
-          "title": "马斯克：就我所能想象的未来而言，特斯拉(TSLA.O)将拥有规模最大的自动驾驶汽车车队。",
-          "url": "https://flash.jin10.com/detail/20260215144532247800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            13,
-            17,
-            20,
-            23,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时35分 ~ 20时37分]"
-        },
-        {
-          "title": "马斯克：特斯拉FSD将停止一次性付费服务，转为订阅制",
-          "url": "https://flash.jin10.com/detail/20260215112402089800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            17,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时17分 ~ 14时43分]"
+          "appearance_count": 1,
+          "time_info": "00时22分"
         },
         {
           "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
           "url": "https://wallstreetcn.com/articles/3765755",
           "source": "华尔街见闻",
           "ranks": [
-            10,
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时41分 ~ 23时20分]"
-        },
-        {
-          "title": "OpenClaw之父爆猛料：Meta和OpenAI跪着抢人，小扎亲自求收购",
-          "url": "https://wallstreetcn.com/articles/3765726",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时45分 ~ 09时46分]"
+          "appearance_count": 1,
+          "time_info": "00时22分"
         }
       ]
     }
