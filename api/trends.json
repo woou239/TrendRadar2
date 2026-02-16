@@ -1,8 +1,619 @@
 {
-  "generated_at": "2026-02-16T16:40:46.292810+08:00",
-  "total_titles_processed": 1033,
+  "generated_at": "2026-02-16T17:46:51.324448+08:00",
+  "total_titles_processed": 1098,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "# --- 第一组：中国宏观 (去掉了必须词，只过滤娱乐) --- 中国 央视 外交部 国防部 解放军 人民日报 新华社",
+      "match_count": 49,
+      "titles": [
+        {
+          "title": "Seedance一骑绝尘背后：中国AI春节前为何“杀疯了”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32608237",
+          "source": "澎湃新闻",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时22分 ~ 07时21分]"
+        },
+        {
+          "title": "倒打一耙！小泉进次郎没提中国，但句句不离中国",
+          "url": "https://news.ifeng.com/c/8qlZx0e7lBs",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时22分 ~ 07时21分]"
+        },
+        {
+          "title": "联合国秘书长呼吁发达国家效仿中国",
+          "url": "https://www.toutiao.com/trending/7607082012410642438/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时22分 ~ 14时03分]"
+        },
+        {
+          "title": "笑翻了，“洋女婿”如此解锁中国年｜新春短剧上线",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32609677",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            5,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时22分 ~ 12时20分]"
+        },
+        {
+          "title": "中国铁路饮食变迁史",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E9%93%81%E8%B7%AF%E9%A5%AE%E9%A3%9F%E5%8F%98%E8%BF%81%E5%8F%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            7,
+            18,
+            28,
+            1,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时22分 ~ 12时20分]"
+        },
+        {
+          "title": "春启新程｜把非遗做成中国潮品，“上海定制”圈粉老外",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32615649",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            18,
+            16,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时22分 ~ 14时03分]"
+        },
+        {
+          "title": "卷尺哥火到央视 背后没有“大领导”",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%B7%E5%B0%BA%E5%93%A5%E7%81%AB%E5%88%B0%E5%A4%AE%E8%A7%86+%E8%83%8C%E5%90%8E%E6%B2%A1%E6%9C%89%E2%80%9C%E5%A4%A7%E9%A2%86%E5%AF%BC%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            24,
+            18,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 09时30分]"
+        },
+        {
+          "title": "美国防部称在印度洋拦截一艘油轮",
+          "url": "https://wallstreetcn.com/livenews/3055623",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 09时30分]"
+        },
+        {
+          "title": "中国冰壶女队5比6美国",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%86%B0%E5%A3%B6%E5%A5%B3%E9%98%9F5%E6%AF%946%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            20,
+            28,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时22分 ~ 07时21分]"
+        },
+        {
+          "title": "央视官宣春晚节目单",
+          "url": "https://www.toutiao.com/trending/7607339524166782470/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时50分 ~ 17时46分]"
+        },
+        {
+          "title": "央视春晚节目单来了！",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%E8%8A%82%E7%9B%AE%E5%8D%95%E6%9D%A5%E4%BA%86%EF%BC%81",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时50分 ~ 17时46分]"
+        },
+        {
+          "title": "央视马年春晚节目单",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E9%A9%AC%E5%B9%B4%E6%98%A5%E6%99%9A%E8%8A%82%E7%9B%AE%E5%8D%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时50分 ~ 17时46分]"
+        },
+        {
+          "title": "今晚见!央视春晚节目单公开",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350740&amp;topic_name=%E4%BB%8A%E6%99%9A%E8%A7%81%21%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%E8%8A%82%E7%9B%AE%E5%8D%95%E5%85%AC%E5%BC%80",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时50分 ~ 17时46分]"
+        },
+        {
+          "title": "央视马年春晚节目单公布",
+          "url": "https://www.douyin.com/hot/2402813",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时50分 ~ 17时46分]"
+        },
+        {
+          "title": "2026 央视春晚节目单公布，王菲六登春晚，蔡明时隔 30 年与「机器人」再续前缘，你最期待哪个节目？",
+          "url": "https://www.zhihu.com/question/2006733045621811106",
+          "source": "知乎",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时50分 ~ 17时46分]"
+        },
+        {
+          "title": "外交部：自2月17日起 对加拿大、英国持普通护照人员实施免签政策",
+          "url": "https://wallstreetcn.com/livenews/3055613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时22分 ~ 07时21分]"
+        },
+        {
+          "title": "如何评价《哈利·波特》马尔福成中国马年吉祥物，饰演者本人下场转发玩梗？",
+          "url": "https://www.zhihu.com/question/2002486347743588819",
+          "source": "知乎",
+          "ranks": [
+            13,
+            9,
+            11,
+            5,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时29分 ~ 17时46分]"
+        },
+        {
+          "title": "话百家姓过中国年",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%AF%9D%E7%99%BE%E5%AE%B6%E5%A7%93%E8%BF%87%E4%B8%AD%E5%9B%BD%E5%B9%B4%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时03分 ~ 16时40分]"
+        },
+        {
+          "title": "今晚见！央视总台《2026年春节联欢晚会》节目单发布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32620957",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时50分 ~ 17时46分]"
+        },
+        {
+          "title": "金十整理：下周重要事件与数据预告——美联储会议纪要携PCE数据登场，中国与多地市场因春节假期休市、美股周一因美国总统日休市一日",
+          "url": "https://flash.jin10.com/detail/20260215215525567800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 06时19分]"
+        },
+        {
+          "title": "央视马年春晚完成五次彩排",
+          "url": "https://www.douyin.com/hot/2401357",
+          "source": "抖音",
+          "ranks": [
+            14,
+            13,
+            23,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 05时20分]"
+        },
+        {
+          "title": "中领馆：中国公民近期避免赴日",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E9%A2%86%E9%A6%86%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E8%BF%91%E6%9C%9F%E9%81%BF%E5%85%8D%E8%B5%B4%E6%97%A5",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            25,
+            23,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 07时21分]"
+        },
+        {
+          "title": "联合国秘书长呼吁发达国家效仿中国",
+          "url": "https://www.baidu.com/s?wd=%E8%81%94%E5%90%88%E5%9B%BD%E7%A7%98%E4%B9%A6%E9%95%BF%E5%91%BC%E5%90%81%E5%8F%91%E8%BE%BE%E5%9B%BD%E5%AE%B6%E6%95%88%E4%BB%BF%E4%B8%AD%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时20分 ~ 12时20分]"
+        },
+        {
+          "title": "田曦薇首登央视春晚",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E9%A6%96%E7%99%BB%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25,
+            7,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[04时19分 ~ 07时21分]"
+        },
+        {
+          "title": "中国将对加拿大、英国实施免签政策",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%B0%86%E5%AF%B9%E5%8A%A0%E6%8B%BF%E5%A4%A7%E3%80%81%E8%8B%B1%E5%9B%BD%E5%AE%9E%E6%96%BD%E5%85%8D%E7%AD%BE%E6%94%BF%E7%AD%96",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            28,
+            27,
+            26,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 06时19分]"
+        },
+        {
+          "title": "中国冰壶女队vs美国",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%86%B0%E5%A3%B6%E5%A5%B3%E9%98%9Fvs%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        },
+        {
+          "title": "央视马年春晚",
+          "url": "https://www.douyin.com/hot/2402899",
+          "source": "抖音",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时50分 ~ 17时46分]"
+        },
+        {
+          "title": "捷克：中国是世界性强国 坚持一中",
+          "url": "https://www.toutiao.com/trending/7606885801848242219/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            2,
+            19,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时20分 ~ 16时40分]"
+        },
+        {
+          "title": "外交部：对加拿大、英国持普通护照人员实施免签政策",
+          "url": "https://www.cls.cn/detail/2290624",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时29分 ~ 15时50分]"
+        },
+        {
+          "title": "富时中国A50指数期货开盘涨0.29%。",
+          "url": "https://wallstreetcn.com/livenews/3055657",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            18,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时30分 ~ 14时03分]"
+        },
+        {
+          "title": "中国地震台网正式测定：02月16日15时14分在新疆克孜勒苏州阿合奇县（北纬41.13度，东经78.37度）发生3.9级地震，震源深度10千米。",
+          "url": "https://flash.jin10.com/detail/20260216152042363800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时50分 ~ 16时40分]"
+        },
+        {
+          "title": "泰国机场凌晨堵满中国人",
+          "url": "https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E6%9C%BA%E5%9C%BA%E5%87%8C%E6%99%A8%E5%A0%B5%E6%BB%A1%E4%B8%AD%E5%9B%BD%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时40分 ~ 17时46分]"
+        },
+        {
+          "title": "中国白银集团在港交所公告：将按每股认购股份0.51港元配发及发行合共910,000,000股认购股份。",
+          "url": "https://wallstreetcn.com/livenews/3055651",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时30分 ~ 14时03分]"
+        },
+        {
+          "title": "俄国防部：俄防空系统3小时击落49架乌克兰无人机",
+          "url": "https://flash.jin10.com/detail/20260216045716192800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时19分 ~ 07时21分]"
+        },
+        {
+          "title": "中国年味“硬控”全球",
+          "url": "https://www.toutiao.com/trending/7607288086376316934/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时50分 ~ 16时40分]"
+        },
+        {
+          "title": "中国男子团体追逐历史性突破",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E5%AD%90%E5%9B%A2%E4%BD%93%E8%BF%BD%E9%80%90%E5%8E%86%E5%8F%B2%E6%80%A7%E7%AA%81%E7%A0%B4%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时29分 ~ 09时30分]"
+        },
+        {
+          "title": "外交部发布单方面免签政策答疑",
+          "url": "https://www.toutiao.com/trending/7606547823220817926/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 02时28分]"
+        },
+        {
+          "title": "今天的解放军还有骑兵吗",
+          "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E5%A4%A9%E7%9A%84%E8%A7%A3%E6%94%BE%E5%86%9B%E8%BF%98%E6%9C%89%E9%AA%91%E5%85%B5%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时20分 ~ 14时03分]"
+        },
+        {
+          "title": "中国字贺中国年｜一马当先",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32596360",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
+        },
+        {
+          "title": "泰国机场凌晨堵满中国人",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E6%9C%BA%E5%9C%BA%E5%87%8C%E6%99%A8%E5%A0%B5%E6%BB%A1%E4%B8%AD%E5%9B%BD%E4%BA%BA%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
+        },
+        {
+          "title": "25-26 赛季德甲乒乓球联赛，樊振东 3:1 贾哈，现场充满中国元素，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2006473697876260688",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时20分"
+        },
+        {
+          "title": "新中国成立后建成哪些特别有格调的建筑？",
+          "url": "https://www.zhihu.com/question/34918870",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时50分"
+        },
+        {
+          "title": "欢迎进入链接网页右侧下载本周财经数据与事件精美周历壁纸：今日，中国、韩国、越南、美国、加拿大等地金融市场都将迎来假期，敬请各位投资者留意。",
+          "url": "https://flash.jin10.com/detail/20260216082159196800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时30分"
+        },
+        {
+          "title": "五角大楼高官装模作样称无意扼杀中国",
+          "url": "https://www.toutiao.com/trending/7606819495877001270/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时20分"
+        },
+        {
+          "title": "春节假期出入境游火爆：中国“免签朋友圈”再增两国，冬奥会带火意大利游",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32618033",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
+        },
+        {
+          "title": "詹姆斯祝福中国球迷新年快乐",
+          "url": "https://www.douyin.com/hot/2402940",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
+        },
+        {
+          "title": "富时中国A50指数期货涨超1%。",
+          "url": "https://flash.jin10.com/detail/20260216123100812800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时03分"
+        },
+        {
+          "title": "金十图示：2026年02月16日（周一）中国科技互联网公司市值排名TOP 50一览",
+          "url": "https://flash.jin10.com/detail/20260216105444965800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时20分"
+        },
+        {
+          "title": "老外扎堆来中国过年",
+          "url": "https://www.baidu.com/s?wd=%E8%80%81%E5%A4%96%E6%89%8E%E5%A0%86%E6%9D%A5%E4%B8%AD%E5%9B%BD%E8%BF%87%E5%B9%B4",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
+        }
+      ]
+    },
     {
       "keyword_group": "# --- 第三组：美国宏观与军事 --- 美国 白宫 五角大楼 美军 美联储 布林肯 拜登 特朗普",
       "match_count": 45,
@@ -38,8 +649,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时22分 ~ 16时40分]"
+          "appearance_count": 17,
+          "time_info": "[00时22分 ~ 17时46分]"
         },
         {
           "title": "加州州长：从未想到美国竟成“全球最不稳定之源”",
@@ -390,11 +1001,25 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时50分 ~ 16时40分]"
+          "appearance_count": 3,
+          "time_info": "[15时50分 ~ 17时46分]"
+        },
+        {
+          "title": "伊朗大秀肌肉回应美国施压",
+          "url": "https://www.toutiao.com/trending/7607336004873096742/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时50分 ~ 17时46分]"
         },
         {
           "title": "侯汉廷痛批民进党当局，甘当美国“提款机”",
@@ -417,18 +1042,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时20分 ~ 14时03分]"
-        },
-        {
-          "title": "伊朗大秀肌肉回应美国施压",
-          "url": "https://www.toutiao.com/trending/7607336004873096742/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时50分 ~ 16时40分]"
         },
         {
           "title": "涉特朗普政府政策，希拉里与捷克副总理上演言语冲突",
@@ -554,560 +1167,6 @@
       ]
     },
     {
-      "keyword_group": "# --- 第一组：中国宏观 (去掉了必须词，只过滤娱乐) --- 中国 央视 外交部 国防部 解放军 人民日报 新华社",
-      "match_count": 44,
-      "titles": [
-        {
-          "title": "Seedance一骑绝尘背后：中国AI春节前为何“杀疯了”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32608237",
-          "source": "澎湃新闻",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 07时21分]"
-        },
-        {
-          "title": "倒打一耙！小泉进次郎没提中国，但句句不离中国",
-          "url": "https://news.ifeng.com/c/8qlZx0e7lBs",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 07时21分]"
-        },
-        {
-          "title": "联合国秘书长呼吁发达国家效仿中国",
-          "url": "https://www.toutiao.com/trending/7607082012410642438/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 14时03分]"
-        },
-        {
-          "title": "笑翻了，“洋女婿”如此解锁中国年｜新春短剧上线",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32609677",
-          "source": "澎湃新闻",
-          "ranks": [
-            4,
-            5,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时22分 ~ 12时20分]"
-        },
-        {
-          "title": "中国铁路饮食变迁史",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E9%93%81%E8%B7%AF%E9%A5%AE%E9%A3%9F%E5%8F%98%E8%BF%81%E5%8F%B2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            7,
-            18,
-            28,
-            1,
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时22分 ~ 12时20分]"
-        },
-        {
-          "title": "春启新程｜把非遗做成中国潮品，“上海定制”圈粉老外",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32615649",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            18,
-            16,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时22分 ~ 14时03分]"
-        },
-        {
-          "title": "卷尺哥火到央视 背后没有“大领导”",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%B7%E5%B0%BA%E5%93%A5%E7%81%AB%E5%88%B0%E5%A4%AE%E8%A7%86+%E8%83%8C%E5%90%8E%E6%B2%A1%E6%9C%89%E2%80%9C%E5%A4%A7%E9%A2%86%E5%AF%BC%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            24,
-            18,
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时22分 ~ 09时30分]"
-        },
-        {
-          "title": "美国防部称在印度洋拦截一艘油轮",
-          "url": "https://wallstreetcn.com/livenews/3055623",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            15,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时22分 ~ 09时30分]"
-        },
-        {
-          "title": "中国冰壶女队5比6美国",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%86%B0%E5%A3%B6%E5%A5%B3%E9%98%9F5%E6%AF%946%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            20,
-            28,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 07时21分]"
-        },
-        {
-          "title": "外交部：自2月17日起 对加拿大、英国持普通护照人员实施免签政策",
-          "url": "https://wallstreetcn.com/livenews/3055613",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 07时21分]"
-        },
-        {
-          "title": "话百家姓过中国年",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%AF%9D%E7%99%BE%E5%AE%B6%E5%A7%93%E8%BF%87%E4%B8%AD%E5%9B%BD%E5%B9%B4%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时03分 ~ 16时40分]"
-        },
-        {
-          "title": "央视官宣春晚节目单",
-          "url": "https://www.toutiao.com/trending/7607339524166782470/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时50分 ~ 16时40分]"
-        },
-        {
-          "title": "央视春晚节目单来了！",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%E8%8A%82%E7%9B%AE%E5%8D%95%E6%9D%A5%E4%BA%86%EF%BC%81",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时50分 ~ 16时40分]"
-        },
-        {
-          "title": "央视马年春晚节目单",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E9%A9%AC%E5%B9%B4%E6%98%A5%E6%99%9A%E8%8A%82%E7%9B%AE%E5%8D%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时50分 ~ 16时40分]"
-        },
-        {
-          "title": "今晚见!央视春晚节目单公开",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350740&amp;topic_name=%E4%BB%8A%E6%99%9A%E8%A7%81%21%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%E8%8A%82%E7%9B%AE%E5%8D%95%E5%85%AC%E5%BC%80",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时50分 ~ 16时40分]"
-        },
-        {
-          "title": "央视马年春晚节目单公布",
-          "url": "https://www.douyin.com/hot/2402813",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时50分 ~ 16时40分]"
-        },
-        {
-          "title": "金十整理：下周重要事件与数据预告——美联储会议纪要携PCE数据登场，中国与多地市场因春节假期休市、美股周一因美国总统日休市一日",
-          "url": "https://flash.jin10.com/detail/20260215215525567800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            18,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 06时19分]"
-        },
-        {
-          "title": "2026 央视春晚节目单公布，王菲六登春晚，蔡明时隔 30 年与「机器人」再续前缘，你最期待哪个节目？",
-          "url": "https://www.zhihu.com/question/2006733045621811106",
-          "source": "知乎",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时50分 ~ 16时40分]"
-        },
-        {
-          "title": "如何评价《哈利·波特》马尔福成中国马年吉祥物，饰演者本人下场转发玩梗？",
-          "url": "https://www.zhihu.com/question/2002486347743588819",
-          "source": "知乎",
-          "ranks": [
-            13,
-            9,
-            11,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时29分 ~ 16时40分]"
-        },
-        {
-          "title": "央视马年春晚完成五次彩排",
-          "url": "https://www.douyin.com/hot/2401357",
-          "source": "抖音",
-          "ranks": [
-            14,
-            13,
-            23,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 05时20分]"
-        },
-        {
-          "title": "中领馆：中国公民近期避免赴日",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E9%A2%86%E9%A6%86%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E8%BF%91%E6%9C%9F%E9%81%BF%E5%85%8D%E8%B5%B4%E6%97%A5",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            25,
-            23,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 07时21分]"
-        },
-        {
-          "title": "联合国秘书长呼吁发达国家效仿中国",
-          "url": "https://www.baidu.com/s?wd=%E8%81%94%E5%90%88%E5%9B%BD%E7%A7%98%E4%B9%A6%E9%95%BF%E5%91%BC%E5%90%81%E5%8F%91%E8%BE%BE%E5%9B%BD%E5%AE%B6%E6%95%88%E4%BB%BF%E4%B8%AD%E5%9B%BD",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            1,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时20分 ~ 12时20分]"
-        },
-        {
-          "title": "今晚见！央视总台《2026年春节联欢晚会》节目单发布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32620957",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时50分 ~ 16时40分]"
-        },
-        {
-          "title": "田曦薇首登央视春晚",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E9%A6%96%E7%99%BB%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25,
-            7,
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时19分 ~ 07时21分]"
-        },
-        {
-          "title": "中国将对加拿大、英国实施免签政策",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%B0%86%E5%AF%B9%E5%8A%A0%E6%8B%BF%E5%A4%A7%E3%80%81%E8%8B%B1%E5%9B%BD%E5%AE%9E%E6%96%BD%E5%85%8D%E7%AD%BE%E6%94%BF%E7%AD%96",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            28,
-            27,
-            26,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 06时19分]"
-        },
-        {
-          "title": "中国冰壶女队vs美国",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%86%B0%E5%A3%B6%E5%A5%B3%E9%98%9Fvs%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        },
-        {
-          "title": "捷克：中国是世界性强国 坚持一中",
-          "url": "https://www.toutiao.com/trending/7606885801848242219/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            2,
-            19,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时20分 ~ 16时40分]"
-        },
-        {
-          "title": "外交部：对加拿大、英国持普通护照人员实施免签政策",
-          "url": "https://www.cls.cn/detail/2290624",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时29分 ~ 15时50分]"
-        },
-        {
-          "title": "富时中国A50指数期货开盘涨0.29%。",
-          "url": "https://wallstreetcn.com/livenews/3055657",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            18,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时30分 ~ 14时03分]"
-        },
-        {
-          "title": "中国地震台网正式测定：02月16日15时14分在新疆克孜勒苏州阿合奇县（北纬41.13度，东经78.37度）发生3.9级地震，震源深度10千米。",
-          "url": "https://flash.jin10.com/detail/20260216152042363800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时50分 ~ 16时40分]"
-        },
-        {
-          "title": "央视马年春晚",
-          "url": "https://www.douyin.com/hot/2402899",
-          "source": "抖音",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时50分 ~ 16时40分]"
-        },
-        {
-          "title": "中国白银集团在港交所公告：将按每股认购股份0.51港元配发及发行合共910,000,000股认购股份。",
-          "url": "https://wallstreetcn.com/livenews/3055651",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            22,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时30分 ~ 14时03分]"
-        },
-        {
-          "title": "俄国防部：俄防空系统3小时击落49架乌克兰无人机",
-          "url": "https://flash.jin10.com/detail/20260216045716192800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时19分 ~ 07时21分]"
-        },
-        {
-          "title": "中国年味“硬控”全球",
-          "url": "https://www.toutiao.com/trending/7607288086376316934/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时50分 ~ 16时40分]"
-        },
-        {
-          "title": "中国男子团体追逐历史性突破",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E5%AD%90%E5%9B%A2%E4%BD%93%E8%BF%BD%E9%80%90%E5%8E%86%E5%8F%B2%E6%80%A7%E7%AA%81%E7%A0%B4%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时29分 ~ 09时30分]"
-        },
-        {
-          "title": "外交部发布单方面免签政策答疑",
-          "url": "https://www.toutiao.com/trending/7606547823220817926/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 02时28分]"
-        },
-        {
-          "title": "今天的解放军还有骑兵吗",
-          "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E5%A4%A9%E7%9A%84%E8%A7%A3%E6%94%BE%E5%86%9B%E8%BF%98%E6%9C%89%E9%AA%91%E5%85%B5%E5%90%97",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时20分 ~ 14时03分]"
-        },
-        {
-          "title": "25-26 赛季德甲乒乓球联赛，樊振东 3:1 贾哈，现场充满中国元素，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2006473697876260688",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时20分"
-        },
-        {
-          "title": "新中国成立后建成哪些特别有格调的建筑？",
-          "url": "https://www.zhihu.com/question/34918870",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时50分"
-        },
-        {
-          "title": "欢迎进入链接网页右侧下载本周财经数据与事件精美周历壁纸：今日，中国、韩国、越南、美国、加拿大等地金融市场都将迎来假期，敬请各位投资者留意。",
-          "url": "https://flash.jin10.com/detail/20260216082159196800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时30分"
-        },
-        {
-          "title": "五角大楼高官装模作样称无意扼杀中国",
-          "url": "https://www.toutiao.com/trending/7606819495877001270/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时20分"
-        },
-        {
-          "title": "富时中国A50指数期货涨超1%。",
-          "url": "https://flash.jin10.com/detail/20260216123100812800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时03分"
-        },
-        {
-          "title": "金十图示：2026年02月16日（周一）中国科技互联网公司市值排名TOP 50一览",
-          "url": "https://flash.jin10.com/detail/20260216105444965800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时20分"
-        },
-        {
-          "title": "泰国机场凌晨堵满中国人",
-          "url": "https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E6%9C%BA%E5%9C%BA%E5%87%8C%E6%99%A8%E5%A0%B5%E6%BB%A1%E4%B8%AD%E5%9B%BD%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时40分"
-        }
-      ]
-    },
-    {
       "keyword_group": "# --- 第二组：中国经济与A股 (保留宽泛的行情词) --- A股 上证 深证 恒生 人民币 汇率 经济 GDP",
       "match_count": 40,
       "titles": [
@@ -1133,8 +1192,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时22分 ~ 16时40分]"
+          "appearance_count": 17,
+          "time_info": "[00时22分 ~ 17时46分]"
         },
         {
           "title": "“新美联储通讯社”：美国经济或已实现软着陆，但宣布胜利为时过早",
@@ -1191,17 +1250,6 @@
           "time_info": "09时30分"
         },
         {
-          "title": "日本央行行长植田和男：日本首相高市早苗未提出具体政策请求。 与首相讨论了经济问题。 此次会面仅为总体交换意见。",
-          "url": "https://wallstreetcn.com/livenews/3055701",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时40分"
-        },
-        {
           "title": "日本经济大臣：必须时刻警惕下行风险，包括未来物价走势和美国贸易政策前景等。",
           "url": "https://flash.jin10.com/detail/20260216084648693800",
           "source": "金十数据",
@@ -1235,6 +1283,31 @@
           "time_info": "09时30分"
         },
         {
+          "title": "首席展望｜淡水泉陶冬：现阶段黄金“只会买贵不会买错”，人民币资产的机会已经到来",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32583422",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时20分 ~ 17时46分]"
+        },
+        {
+          "title": "日本央行行长植田和男：日本首相高市早苗未提出具体政策请求。 与首相讨论了经济问题。 此次会面仅为总体交换意见。",
+          "url": "https://wallstreetcn.com/livenews/3055701",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时40分 ~ 17时46分]"
+        },
+        {
           "title": "日本经济2025年增长1.1%",
           "url": "https://flash.jin10.com/detail/20260216134508890800",
           "source": "金十数据",
@@ -1255,19 +1328,6 @@
             13,
             21,
             28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时20分 ~ 16时40分]"
-        },
-        {
-          "title": "首席展望｜淡水泉陶冬：现阶段黄金“只会买贵不会买错”，人民币资产的机会已经到来",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32583422",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15,
-            13
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -1361,6 +1421,18 @@
           "time_info": "[09时30分 ~ 12时20分]"
         },
         {
+          "title": "瑞士第四季度GDP环比初值为+0.2%。",
+          "url": "https://flash.jin10.com/detail/20260216160034128800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时40分 ~ 17时46分]"
+        },
+        {
           "title": "日本第四季度GDP增长乏力或促进一步财政宽松",
           "url": "https://flash.jin10.com/detail/20260216084114753800",
           "source": "金十数据",
@@ -1414,17 +1486,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时30分"
-        },
-        {
-          "title": "瑞士第四季度GDP环比初值为+0.2%。",
-          "url": "https://flash.jin10.com/detail/20260216160034128800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时40分"
         },
         {
           "title": "2025年底日本经济增长低于市场预期",
@@ -1619,11 +1680,12 @@
             21,
             22,
             23,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时22分 ~ 16时40分]"
+          "appearance_count": 17,
+          "time_info": "[00时22分 ~ 17时46分]"
         },
         {
           "title": "日本游客为免票背了1个月滕王阁序",
@@ -1651,50 +1713,18 @@
           "time_info": "[00时22分 ~ 01时21分]"
         },
         {
-          "title": "日本央行行长植田和男：日本首相高市早苗未提出具体政策请求。",
-          "url": "https://flash.jin10.com/detail/20260216161953227800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时40分"
-        },
-        {
-          "title": "日本央行行长植田和男：不便就与日本首相高市早苗会谈的具体细节置评。",
-          "url": "https://flash.jin10.com/detail/20260216161909629800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时40分"
-        },
-        {
-          "title": "日本央行行长植田和男：已与日本首相高市早苗进行了例行信息交流。",
-          "url": "https://flash.jin10.com/detail/20260216161903359800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时40分"
-        },
-        {
           "title": "日本12月工业产出同比终值 2.6%，初值 2.6%。",
           "url": "https://wallstreetcn.com/livenews/3055684",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
             10,
-            17
+            17,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时03分 ~ 16时40分]"
+          "appearance_count": 4,
+          "time_info": "[14时03分 ~ 17时46分]"
         },
         {
           "title": "日本12月工业产出环比终值 -0.1%，初值 -0.1%。",
@@ -1703,11 +1733,12 @@
           "ranks": [
             3,
             11,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时03分 ~ 16时40分]"
+          "appearance_count": 4,
+          "time_info": "[14时03分 ~ 17时46分]"
         },
         {
           "title": "日本12月设备利用指数环比 1.3%，前值 -5.3%。",
@@ -1716,11 +1747,49 @@
           "ranks": [
             4,
             12,
-            19
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时03分 ~ 17时46分]"
+        },
+        {
+          "title": "日本央行行长植田和男：日本首相高市早苗未提出具体政策请求。",
+          "url": "https://flash.jin10.com/detail/20260216161953227800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时40分 ~ 17时46分]"
+        },
+        {
+          "title": "日经225指数收跌0.2%，报56806.41点。 日本东证指数收跌0.8%，报3787.38点。",
+          "url": "https://wallstreetcn.com/livenews/3055689",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            12,
+            17
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时03分 ~ 16时40分]"
+          "time_info": "[15时50分 ~ 17时46分]"
+        },
+        {
+          "title": "日本央行行长植田和男：不便就与日本首相高市早苗会谈的具体细节置评。",
+          "url": "https://flash.jin10.com/detail/20260216161909629800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时40分 ~ 17时46分]"
         },
         {
           "title": "背滕王阁序被免票日本男子发声",
@@ -1735,16 +1804,27 @@
           "time_info": "[00时22分 ~ 01时21分]"
         },
         {
-          "title": "日经225指数收跌0.2%，报56806.41点。 日本东证指数收跌0.8%，报3787.38点。",
-          "url": "https://wallstreetcn.com/livenews/3055689",
-          "source": "华尔街见闻-快讯",
+          "title": "日本央行行长植田和男：已与日本首相高市早苗进行了例行信息交流。",
+          "url": "https://flash.jin10.com/detail/20260216161903359800",
+          "source": "金十数据",
           "ranks": [
             5,
-            12
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时50分 ~ 16时40分]"
+          "time_info": "[16时40分 ~ 17时46分]"
+        },
+        {
+          "title": "被王毅痛斥后日本急了",
+          "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E7%8E%8B%E6%AF%85%E7%97%9B%E6%96%A5%E5%90%8E%E6%97%A5%E6%9C%AC%E6%80%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时50分 ~ 17时46分]"
         },
         {
           "title": "被王毅痛斥后日本急了",
@@ -1757,17 +1837,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时03分 ~ 15时50分]"
-        },
-        {
-          "title": "被王毅痛斥后日本急了",
-          "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E7%8E%8B%E6%AF%85%E7%97%9B%E6%96%A5%E5%90%8E%E6%97%A5%E6%9C%AC%E6%80%A5%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时50分 ~ 16时40分]"
         },
         {
           "title": "日本防卫大臣炒作俄朝军事合作威胁",
@@ -1916,7 +1985,7 @@
     },
     {
       "keyword_group": "# --- 第六组：俄乌局势 --- 俄乌 俄罗斯 乌克兰 普京 泽连斯基 北约",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "俄军高官答凤凰：欧洲国家阻止乌克兰与俄达成协议",
@@ -1927,8 +1996,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时29分 ~ 16时40分]"
+          "appearance_count": 7,
+          "time_info": "[09时29分 ~ 17时46分]"
         },
         {
           "title": "乌克兰前能源部长试图离境被拘捕",
@@ -1939,8 +2008,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时29分 ~ 16时40分]"
+          "appearance_count": 7,
+          "time_info": "[09时29分 ~ 17时46分]"
         },
         {
           "title": "因佩戴悼念头盔，乌运动员被冬奥会禁赛，泽连斯基授予他自由勋章",
@@ -2036,6 +2105,20 @@
           "time_info": "[00时22分 ~ 04时19分]"
         },
         {
+          "title": "10人乌军暴打北约,欧公子萎了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350739&amp;topic_name=10%E4%BA%BA%E4%B9%8C%E5%86%9B%E6%9A%B4%E6%89%93%E5%8C%97%E7%BA%A6%2C%E6%AC%A7%E5%85%AC%E5%AD%90%E8%90%8E%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时03分 ~ 17时46分]"
+        },
+        {
           "title": "匈牙利和斯洛伐克致函克罗地亚 请求协助运输俄罗斯原油",
           "url": "https://flash.jin10.com/detail/20260216051706548800",
           "source": "金十数据",
@@ -2062,40 +2145,40 @@
           "time_info": "[00时22分 ~ 12时20分]"
         },
         {
-          "title": "10人乌军暴打北约,欧公子萎了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350739&amp;topic_name=10%E4%BA%BA%E4%B9%8C%E5%86%9B%E6%9A%B4%E6%89%93%E5%8C%97%E7%BA%A6%2C%E6%AC%A7%E5%85%AC%E5%AD%90%E8%90%8E%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时03分 ~ 16时40分]"
-        },
-        {
           "title": "梅德韦杰夫强硬回击泽连斯基",
           "url": "https://www.toutiao.com/trending/7606573644944670739/",
           "source": "今日头条",
           "ranks": [
             18,
-            20
+            20,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时50分 ~ 16时40分]"
+          "appearance_count": 3,
+          "time_info": "[15时50分 ~ 17时46分]"
         },
         {
           "title": "俄媒：匈斯两国请求克罗地亚允许俄罗斯石油过境",
           "url": "https://flash.jin10.com/detail/20260216160854154800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时40分 ~ 17时46分]"
+        },
+        {
+          "title": "消息人士：乌克兰问题谈判和伊朗问题谈判将于2月17日同日在日内瓦举行",
+          "url": "https://flash.jin10.com/detail/20260216164212877800",
+          "source": "金十数据",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时40分"
+          "time_info": "17时46分"
         },
         {
           "title": "地方当局表示，俄罗斯塔曼港的火灾已被扑灭。",
@@ -2161,8 +2244,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时20分 ~ 16时40分]"
+          "appearance_count": 5,
+          "time_info": "[12时20分 ~ 17时46分]"
         },
         {
           "title": "OpenAI联合创始人Grek Brockman：Codex在处理繁琐事务方面做得非常出色，比如解决合并冲突、让持续集成（CI）顺利通过、在不同编程语言之间重写代码，这提高了我对构建项目的雄心壮志。",
@@ -2208,11 +2291,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时50分 ~ 16时40分]"
+          "appearance_count": 3,
+          "time_info": "[15时50分 ~ 17时46分]"
         },
         {
           "title": "马斯克：我的“净资产”几乎完全来自我在特斯拉和SpaceX的股份",
@@ -2243,7 +2327,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
@@ -2254,7 +2338,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         }
