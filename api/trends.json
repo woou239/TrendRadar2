@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T05:23:58.700874+08:00",
-  "total_titles_processed": 504,
+  "generated_at": "2026-02-17T06:22:18.185231+08:00",
+  "total_titles_processed": 553,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- 第三组：美国宏观与军事 --- 美国 白宫 五角大楼 美军 美联储 布林肯 拜登 特朗普",
-      "match_count": 37,
+      "match_count": 40,
       "titles": [
         {
           "title": "内塔尼亚胡：以色列计划10年内停止接受美国资金援助",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 05时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时36分 ~ 06时22分]"
         },
         {
           "title": "美国总统特朗普声称：“（加沙）和平委员会”将说明如何开销承诺的50亿美元。（纽约邮报）",
@@ -24,22 +24,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            4
+            4,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时30分 ~ 05时23分]"
+          "appearance_count": 4,
+          "time_info": "[03时30分 ~ 06时22分]"
         },
         {
-          "title": "美国空军向中东增派18架F-35战斗机",
-          "url": "https://wallstreetcn.com/livenews/3055829",
-          "source": "华尔街见闻-快讯",
+          "title": "美联储3月维持利率不变的概率为92.2%",
+          "url": "https://flash.jin10.com/detail/20260217060323843800",
+          "source": "金十数据",
           "ranks": [
-            3
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时23分"
+          "time_info": "06时22分"
         },
         {
           "title": "报道：马斯克旗下SpaceX将竞标美国五角大楼的无人机技术承包合同",
@@ -47,22 +48,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            7
+            7,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时30分 ~ 05时23分]"
-        },
-        {
-          "title": "美伊谈判前夕美军加强部署 伊朗政权不确定性加剧战略风险",
-          "url": "https://flash.jin10.com/detail/20260217051005590800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
+          "appearance_count": 4,
+          "time_info": "[03时30分 ~ 06时22分]"
         },
         {
           "title": "加拿大负责美国贸易事务的部长Leblanc：加拿大与墨西哥还将围绕安全问题开会。 加墨两国将扩“大港口对港口的贸易”。 我们在医药、农业领域看到投资机会。",
@@ -91,6 +82,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时37分 ~ 04时24分]"
+        },
+        {
+          "title": "美国总统特朗普：反对纽约市Gateway铁路项目。 联邦政府不会向Gateway超额成本提供任何支持。",
+          "url": "https://wallstreetcn.com/livenews/3055815",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            11,
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时36分 ~ 06时22分]"
         },
         {
           "title": "美国总统特朗普声称：（民主党州长Newsom的）加州与英国的能源协议“不合适”。（Politico）",
@@ -199,6 +204,18 @@
         },
         {
           "title": "美国空军向中东增派18架F-35战斗机",
+          "url": "https://wallstreetcn.com/livenews/3055829",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 06时22分]"
+        },
+        {
+          "title": "美国空军向中东增派18架F-35战斗机",
           "url": "https://flash.jin10.com/detail/20260217034719785800",
           "source": "金十数据",
           "ranks": [
@@ -210,19 +227,6 @@
           "time_info": "[04时24分 ~ 05时23分]"
         },
         {
-          "title": "美国总统特朗普：反对纽约市Gateway铁路项目。 联邦政府不会向Gateway超额成本提供任何支持。",
-          "url": "https://wallstreetcn.com/livenews/3055815",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            11,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时36分 ~ 05时23分]"
-        },
-        {
           "title": "美国被曝对委内瑞拉军事行动中使用人工智能模型",
           "url": "https://www.cls.cn/detail/2290485",
           "source": "财联社热门",
@@ -232,6 +236,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时36分 ~ 01时35分]"
+        },
+        {
+          "title": "美伊谈判前夕美军加强部署 伊朗政权不确定性加剧战略风险",
+          "url": "https://flash.jin10.com/detail/20260217051005590800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 06时22分]"
         },
         {
           "title": "尼日利亚军方发言人：随着华盛顿升级打击极端主义的军事行动，已有100名美军抵达尼日利亚。",
@@ -293,6 +309,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时35分 ~ 02时36分]"
+        },
+        {
+          "title": "据福克斯新闻记者：此外，很难想象美国或以色列会在2月22日冬奥会结束前对伊朗发动打击。（2014年普京是在索契冬奥会结束后才派兵进入克里米亚；而四年前在北京冬奥会闭幕后，俄罗斯向乌克兰派出了15万大军）",
+          "url": "https://flash.jin10.com/detail/20260217042820518800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 06时22分]"
         },
         {
           "title": "特朗普：若国会无法通过，将颁布行政令强制选民出示身份证投票",
@@ -388,26 +416,26 @@
           "time_info": "[00时36分 ~ 00时37分]"
         },
         {
-          "title": "据福克斯新闻记者：此外，很难想象美国或以色列会在2月22日冬奥会结束前对伊朗发动打击。（2014年普京是在索契冬奥会结束后才派兵进入克里米亚；而四年前在北京冬奥会闭幕后，俄罗斯向乌克兰派出了15万大军）",
-          "url": "https://flash.jin10.com/detail/20260217042820518800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
-        },
-        {
           "title": "据福克斯新闻记者：美国福特号航母打击群从加勒比海出发，预计需要约两周才能抵达东地中海。",
           "url": "https://flash.jin10.com/detail/20260217042020472800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
+        },
+        {
+          "title": "美国钢铁公司（AISI）数据显示，截至2月14日当周，美国钢铁产能利用率为77.8%。",
+          "url": "https://flash.jin10.com/detail/20260217053748212800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         },
         {
           "title": "美国总统特朗普： 联邦政府将协助处理波托马克河废水泄漏事件。",
@@ -416,9 +444,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
+        },
+        {
+          "title": "全球领先的金属和电子产品回收商Sims：预计有色金属市场将保持强劲，关税预计将继续支撑美国黑色和有色金属的需求。",
+          "url": "https://flash.jin10.com/detail/20260217052846924800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         },
         {
           "title": "市场消息：根据美国银行最新的外汇和利率情绪调查，2月份市场对美元的情绪为14年来的最负面水平。目前，美元空头头寸已达到2012年1月以来的最高水平。",
@@ -457,7 +496,7 @@
     },
     {
       "keyword_group": "# --- 第一组：中国宏观 (去掉了必须词，只过滤娱乐) --- 中国 央视 外交部 国防部 解放军 人民日报 新华社",
-      "match_count": 32,
+      "match_count": 36,
       "titles": [
         {
           "title": "春晚机器人中国功夫夯爆了",
@@ -467,8 +506,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 05时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时36分 ~ 06时22分]"
         },
         {
           "title": "今晚见！央视总台《2026年春节联欢晚会》节目单发布",
@@ -478,8 +517,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 05时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时36分 ~ 06时22分]"
         },
         {
           "title": "央视马年春晚",
@@ -489,8 +528,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 05时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时36分 ~ 06时22分]"
         },
         {
           "title": "2026 年央视春晚中有哪些亮点？哪个节目最让你印象深刻？",
@@ -500,8 +539,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 05时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时36分 ~ 06时22分]"
         },
         {
           "title": "中国字贺中国年｜一马当先",
@@ -512,8 +551,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 05时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时36分 ~ 06时22分]"
         },
         {
           "title": "机器人中国功夫夯爆了",
@@ -524,8 +563,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 05时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时36分 ~ 06时22分]"
         },
         {
           "title": "2026 央视春晚无相声节目，怎样看待这一变化？相声这种艺术形式真的过时了吗？",
@@ -535,8 +574,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 05时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时36分 ~ 06时22分]"
         },
         {
           "title": "中国学者慕安会驳斥所谓“中国威胁”：臆测！中国始终在合作",
@@ -547,8 +586,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 05时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时36分 ~ 06时22分]"
         },
         {
           "title": "机器人中国功夫夯爆了",
@@ -558,8 +597,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 05时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时36分 ~ 06时22分]"
         },
         {
           "title": "今晚见!央视春晚节目单公开",
@@ -570,8 +609,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 05时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时36分 ~ 06时22分]"
         },
         {
           "title": "菲律宾总统：欢迎中国的决定",
@@ -581,8 +620,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 05时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时36分 ~ 06时22分]"
         },
         {
           "title": "文化为根，马年新象，央视春晚马上开席",
@@ -592,8 +631,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 05时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时36分 ~ 06时22分]"
         },
         {
           "title": "战位有我在唱出中国军人底气担当",
@@ -604,8 +643,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 05时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时36分 ~ 06时22分]"
         },
         {
           "title": "春晚机器人硬核诠释中国功夫",
@@ -616,8 +655,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 05时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时36分 ~ 06时22分]"
         },
         {
           "title": "共绘全家福：央视春晚节目单连续两年不单独标注港澳台表演者",
@@ -627,8 +666,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 05时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时36分 ~ 06时22分]"
         },
         {
           "title": "外交部：对加拿大、英国持普通护照人员实施免签政策",
@@ -639,8 +678,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 05时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时36分 ~ 06时22分]"
         },
         {
           "title": "央视马年春晚节目单公布",
@@ -655,8 +694,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 05时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时36分 ~ 06时22分]"
         },
         {
           "title": "春节假期出入境游火爆：中国“免签朋友圈”再增两国，冬奥会带火意大利游",
@@ -667,8 +706,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 05时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时36分 ~ 06时22分]"
         },
         {
           "title": "中国短道队无缘男子5000米接力决赛",
@@ -680,6 +719,36 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时36分 ~ 05时23分]"
+        },
+        {
+          "title": "泰国机场凌晨堵满中国人",
+          "url": "https://www.toutiao.com/trending/7607012336947658794/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            17,
+            20,
+            26,
+            22,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时34分 ~ 06时22分]"
+        },
+        {
+          "title": "如何评价 2026 年央视春晚？",
+          "url": "https://www.zhihu.com/question/2006819091768373864",
+          "source": "知乎",
+          "ranks": [
+            14,
+            10,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时35分 ~ 06时22分]"
         },
         {
           "title": "如何评价唐诗逸、李云霄、刘钧、祖峰等在 2026 年央视春晚表演的歌咏创意秀《贺花神》？",
@@ -695,35 +764,6 @@
           "time_info": "[00时36分 ~ 03时30分]"
         },
         {
-          "title": "泰国机场凌晨堵满中国人",
-          "url": "https://www.toutiao.com/trending/7607012336947658794/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            17,
-            20,
-            26,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时34分 ~ 05时23分]"
-        },
-        {
-          "title": "如何评价 2026 年央视春晚？",
-          "url": "https://www.zhihu.com/question/2006819091768373864",
-          "source": "知乎",
-          "ranks": [
-            14,
-            10,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时35分 ~ 05时23分]"
-        },
-        {
           "title": "总台央视春晚完整版",
           "url": "https://search.bilibili.com/all?keyword=%E6%80%BB%E5%8F%B0%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%E5%AE%8C%E6%95%B4%E7%89%88",
           "source": "bilibili 热搜",
@@ -733,6 +773,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时34分 ~ 01时35分]"
+        },
+        {
+          "title": "瑞士外交部：俄美乌日内瓦会谈将闭门举行",
+          "url": "https://wallstreetcn.com/livenews/3055843",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "央视马年春晚节目单",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E9%A9%AC%E5%B9%B4%E6%98%A5%E6%99%9A%E8%8A%82%E7%9B%AE%E5%8D%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时29分 ~ 06时22分]"
         },
         {
           "title": "市场消息：伊朗外交部长于周一晚间与阿曼外交部长举行了会晤，这符合每次谈判回合的惯例安排，旨在为德黑兰与华盛顿之间的间接谈判正式开启做好前期准备工作。",
@@ -758,18 +821,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时24分 ~ 05时23分]"
-        },
-        {
-          "title": "央视马年春晚节目单",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E9%A9%AC%E5%B9%B4%E6%98%A5%E6%99%9A%E8%8A%82%E7%9B%AE%E5%8D%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时29分 ~ 05时23分]"
         },
         {
           "title": "知情人士：SpaceX将参与美国防部自主无人机技术竞标",
@@ -831,6 +882,28 @@
           "time_info": "[01时34分 ~ 01时35分]"
         },
         {
+          "title": "瑞士外交部：俄美乌日内瓦会谈将闭门举行",
+          "url": "https://flash.jin10.com/detail/20260217052936401800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "如何评价《哈利·波特》马尔福成中国马年吉祥物，饰演者本人下场转发玩梗？",
+          "url": "https://www.zhihu.com/question/2002486347743588819",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
           "title": "捷克：中国是世界性强国 坚持一中",
           "url": "https://www.toutiao.com/trending/7606885801848242219/",
           "source": "今日头条",
@@ -840,12 +913,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
+        },
+        {
+          "title": "2026中国车市销量有望破3475万辆",
+          "url": "https://www.baidu.com/s?wd=2026%E4%B8%AD%E5%9B%BD%E8%BD%A6%E5%B8%82%E9%94%80%E9%87%8F%E6%9C%89%E6%9C%9B%E7%A0%B43475%E4%B8%87%E8%BE%86",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         }
       ]
     },
     {
       "keyword_group": "# --- 第六组：俄乌局势 --- 俄乌 俄罗斯 乌克兰 普京 泽连斯基 北约",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "俄军高官答凤凰：欧洲国家阻止乌克兰与俄达成协议",
@@ -878,8 +962,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 05时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时36分 ~ 06时22分]"
         },
         {
           "title": "克罗地亚总理Plenkovic谈及匈牙利在Zagreb的问题，称：克罗地亚将与专家们讨论匈牙利对俄罗斯石油供应的诉求。 在美西方对俄罗斯制裁问题上，匈牙利获得的豁免是“完全没必要的”。",
@@ -888,11 +972,23 @@
           "ranks": [
             4,
             8,
-            11
+            11,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时36分 ~ 05时23分]"
+          "appearance_count": 5,
+          "time_info": "[02时36分 ~ 06时22分]"
+        },
+        {
+          "title": "俄代表团启程前往日内瓦 俄乌可能双边接触",
+          "url": "https://flash.jin10.com/detail/20260217060231673800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         },
         {
           "title": "乌克兰国家安全与国防委员会秘书乌梅罗夫：乌克兰代表团已抵达日内瓦。明天我们将以三方形式开启新一轮谈判。",
@@ -1047,13 +1143,35 @@
           "time_info": "[02时36分 ~ 03时30分]"
         },
         {
+          "title": "金十数据整理：俄乌冲突最新24小时局势跟踪（2月17日）",
+          "url": "https://flash.jin10.com/detail/20260217053237731800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "英国首相办公室：斯塔默和卡尼一致认为，北约应该更加欧洲化，并且需要增加国防开支。",
+          "url": "https://flash.jin10.com/detail/20260217051908111800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
           "title": "梅德韦杰夫强硬回击泽连斯基",
           "url": "https://www.toutiao.com/trending/7606573644944670739/",
           "source": "今日头条",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
         },
@@ -1072,7 +1190,7 @@
     },
     {
       "keyword_group": "# --- 第四组：美股与科技 (去掉了具体的“财报”限制) --- 美股 纳指 道琼斯 标普 特斯拉 英伟达 苹果 微软 OpenAI",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
@@ -1083,8 +1201,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 05时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时36分 ~ 06时22分]"
         },
         {
           "title": "苹果发力视频播客：正面挑战YouTube和Spotify",
@@ -1092,11 +1210,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            5
+            5,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时30分 ~ 05时23分]"
+          "appearance_count": 4,
+          "time_info": "[03时30分 ~ 06时22分]"
         },
         {
           "title": "与英伟达争夺印度市场份额：AMD与塔塔咨询服务合作",
@@ -1106,11 +1225,12 @@
             2,
             10,
             14,
-            17
+            17,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时35分 ~ 05时23分]"
+          "appearance_count": 6,
+          "time_info": "[01时35分 ~ 06时22分]"
         },
         {
           "title": "周一（2月16日）纽约尾盘，标普500股指期货最终涨0.03%，道指期货涨0.08%，纳斯达克100股指期货跌0.24%。 罗素2000股指期货跌0.36%。",
@@ -1119,11 +1239,12 @@
           "ranks": [
             3,
             7,
-            10
+            10,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时36分 ~ 05时23分]"
+          "appearance_count": 5,
+          "time_info": "[02时36分 ~ 06时22分]"
         },
         {
           "title": "苹果革新视频播客功能，顺应行业视觉化浪潮",
@@ -1138,6 +1259,18 @@
           "time_info": "[04时24分 ~ 05时23分]"
         },
         {
+          "title": "市场消息：OpenAI当前遭遇一些问题，购物搜索功能陷入宕机状态。",
+          "url": "https://flash.jin10.com/detail/20260217050055263800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 06时22分]"
+        },
+        {
           "title": "印度举办AI“影响力”峰会，谷歌、OpenAI等高管预计出席",
           "url": "https://flash.jin10.com/detail/20260216233255611800",
           "source": "金十数据",
@@ -1150,15 +1283,37 @@
           "time_info": "[00时37分 ~ 01时35分]"
         },
         {
-          "title": "市场消息：OpenAI当前遭遇一些问题，购物搜索功能陷入宕机状态。",
-          "url": "https://flash.jin10.com/detail/20260217050055263800",
-          "source": "金十数据",
+          "title": "OpenAI：系统（恢复）全面运作。",
+          "url": "https://wallstreetcn.com/livenews/3055842",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时23分"
+          "time_info": "06时22分"
+        },
+        {
+          "title": "OpenAI目前正经历某些问题，购物搜索功能宕机。",
+          "url": "https://wallstreetcn.com/livenews/3055834",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "OpenAI：系统已恢复全面运作。",
+          "url": "https://flash.jin10.com/detail/20260217052259501800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         },
         {
           "title": "提醒：美股今日因假期休市一天。",
@@ -1197,7 +1352,7 @@
     },
     {
       "keyword_group": "# --- 第二组：中国经济与A股 (保留宽泛的行情词) --- A股 上证 深证 恒生 人民币 汇率 经济 GDP",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "习近平：当前经济工作的重点任务",
@@ -1208,8 +1363,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 05时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时36分 ~ 06时22分]"
         },
         {
           "title": "新春伊始，如何看待人民币升值？",
@@ -1220,8 +1375,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 05时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时36分 ~ 06时22分]"
         },
         {
           "title": "欧盟经济事务专员Dombrovskis：必须观察“欧元发挥更大国际作用”时的汇率影响。",
@@ -1230,11 +1385,23 @@
           "ranks": [
             2,
             6,
-            9
+            9,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时36分 ~ 05时23分]"
+          "appearance_count": 5,
+          "time_info": "[02时36分 ~ 06时22分]"
+        },
+        {
+          "title": "必和必拓(BHP.N)：对支撑关键大宗商品的经济背景持乐观态度。",
+          "url": "https://flash.jin10.com/detail/20260217055232518800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         },
         {
           "title": "墨西哥经济部长埃布拉德：墨西哥与加拿大将于下半年提交矿产、基础设施及供应链行动计划。",
@@ -1286,6 +1453,17 @@
           "time_info": "[00时37分 ~ 01时35分]"
         },
         {
+          "title": "加拿大贸易部长：随着加拿大和墨西哥努力实现贸易关系多元化以及加强贸易关系，现在正是建立新伙伴关系的最佳时机。很高兴与墨西哥经济部长和墨西哥竞争力研究所总干事瓦莱里亚·莫伊讨论如何为加拿大和墨西哥的企业和工人创造新机会。",
+          "url": "https://flash.jin10.com/detail/20260217052700574800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
           "title": "哥伦比亚政府表示，该国经济在2025年增长了2.7%，而市场预期为2.9%。",
           "url": "https://flash.jin10.com/detail/20260216230129507800",
           "source": "金十数据",
@@ -1322,8 +1500,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 05时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时36分 ~ 06时22分]"
         },
         {
           "title": "据日经新闻：日本瑞穗银行证券公司面临内幕交易调查。",
