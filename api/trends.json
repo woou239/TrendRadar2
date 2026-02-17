@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T20:49:38.910531+08:00",
-  "total_titles_processed": 1548,
+  "generated_at": "2026-02-17T22:06:02.345370+08:00",
+  "total_titles_processed": 1655,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- 第一组：中国宏观 (去掉了必须词，只过滤娱乐) --- 中国 央视 外交部 国防部 解放军 人民日报 新华社",
-      "match_count": 91,
+      "match_count": 104,
       "titles": [
         {
           "title": "今晚见！央视总台《2026年春节联欢晚会》节目单发布",
@@ -38,8 +38,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时14分 ~ 20时49分]"
+          "appearance_count": 14,
+          "time_info": "[12时14分 ~ 22时06分]"
         },
         {
           "title": "中国字贺中国年｜一马当先",
@@ -63,8 +63,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时29分 ~ 20时49分]"
+          "appearance_count": 15,
+          "time_info": "[09时29分 ~ 22时06分]"
         },
         {
           "title": "央视春晚开团,智驾被点名",
@@ -76,8 +76,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时55分 ~ 20时49分]"
+          "appearance_count": 13,
+          "time_info": "[13时55分 ~ 22时06分]"
         },
         {
           "title": "春晚机器人中国功夫夯爆了",
@@ -246,8 +246,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时36分 ~ 20时49分]"
+          "appearance_count": 27,
+          "time_info": "[00时36分 ~ 22时06分]"
         },
         {
           "title": "菲律宾总统：欢迎中国的决定",
@@ -286,11 +286,12 @@
             15,
             16,
             14,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时52分 ~ 20时49分]"
+          "appearance_count": 12,
+          "time_info": "[14时52分 ~ 22时06分]"
         },
         {
           "title": "央视马年春晚节目单公布",
@@ -308,6 +309,21 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时36分 ~ 07时24分]"
+        },
+        {
+          "title": "走进中国年丨大家常说的“兜风”，源自上海大年初一习俗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32578089",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19,
+            16,
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[15时48分 ~ 22时06分]"
         },
         {
           "title": "春节假期出入境游火爆：中国“免签朋友圈”再增两国，冬奥会带火意大利游",
@@ -366,20 +382,6 @@
           "time_info": "[13时55分 ~ 18时40分]"
         },
         {
-          "title": "走进中国年丨大家常说的“兜风”，源自上海大年初一习俗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32578089",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            19,
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时48分 ~ 20时49分]"
-        },
-        {
           "title": "中国女子冰壶队不敌韩国队",
           "url": "https://www.douyin.com/hot/2403477",
           "source": "抖音",
@@ -391,6 +393,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[15时48分 ~ 20时49分]"
+        },
+        {
+          "title": "视频丨俄罗斯外交部发言人用中文送上新春祝福",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32625470",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时41分 ~ 22时06分]"
         },
         {
           "title": "如何评价 2026 年央视春晚？",
@@ -431,6 +446,17 @@
           "time_info": "[15时48分 ~ 16时38分]"
         },
         {
+          "title": "美媒：福特提议允许中国车企进入美国",
+          "url": "https://news.ifeng.com/c/8qp1qt0C9om",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时49分 ~ 22时06分]"
+        },
+        {
           "title": "总台央视春晚完整版",
           "url": "https://search.bilibili.com/all?keyword=%E6%80%BB%E5%8F%B0%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%E5%AE%8C%E6%95%B4%E7%89%88",
           "source": "bilibili 热搜",
@@ -457,50 +483,39 @@
           "time_info": "[13时55分 ~ 17时42分]"
         },
         {
-          "title": "视频丨俄罗斯外交部发言人用中文送上新春祝福",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32625470",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时41分 ~ 20时49分]"
-        },
-        {
-          "title": "伊朗最高领袖：伊朗拥有何种类型或射程的导弹与美国无关。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3055983",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时49分"
-        },
-        {
-          "title": "2026年春节档电影总票房（含预售）破15亿元。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3055982",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普的儿子埃里克·特朗普投资一家拥有美国国防部合同的无人机公司。",
+          "url": "https://flash.jin10.com/detail/20260217215547535800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时49分"
+          "time_info": "22时06分"
         },
         {
-          "title": "美媒：福特提议允许中国车企进入美国",
-          "url": "https://news.ifeng.com/c/8qp1qt0C9om",
-          "source": "凤凰网",
+          "title": "春晚绝活升级背后：中国人形机器人技术有了哪些新突破？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32624494",
+          "source": "澎湃新闻",
           "ranks": [
-            5
+            17,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时36分 ~ 22时06分]"
+        },
+        {
+          "title": "伊朗外交部长：这并不意味着我们很快就能达成协议，但通往协议的道路已经开启。",
+          "url": "https://flash.jin10.com/detail/20260217215500020800",
+          "source": "金十数据",
+          "ranks": [
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时49分"
+          "time_info": "22时06分"
         },
         {
           "title": "央视马年春晚节目单",
@@ -513,6 +528,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时29分 ~ 06时22分]"
+        },
+        {
+          "title": "央视马年春晚观后感",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E9%A9%AC%E5%B9%B4%E6%98%A5%E6%99%9A%E8%A7%82%E5%90%8E%E6%84%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25,
+            11,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时48分 ~ 22时06分]"
         },
         {
           "title": "美国女友来中国过年是什么体验",
@@ -605,6 +633,30 @@
           "time_info": "[19时36分 ~ 20时49分]"
         },
         {
+          "title": "伊朗最高领袖：伊朗拥有何种类型或射程的导弹与美国无关。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3055983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时49分 ~ 22时06分]"
+        },
+        {
+          "title": "2026年春节档电影总票房（含预售）破15亿元。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3055982",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时49分 ~ 22时06分]"
+        },
+        {
           "title": "瑞士外交部：俄美乌日内瓦会谈将闭门举行",
           "url": "https://wallstreetcn.com/livenews/3055843",
           "source": "华尔街见闻-快讯",
@@ -616,6 +668,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时22分 ~ 09时29分]"
+        },
+        {
+          "title": "看着春晚，英媒想起马斯克这句：中国早就next level",
+          "url": "https://news.ifeng.com/c/8qp3PW9MEjM",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时36分 ~ 22时06分]"
         },
         {
           "title": "伊朗外交部发言人: 谈判讨论了核问题和解除制裁问题",
@@ -655,6 +719,19 @@
           "time_info": "[14时52分 ~ 16时38分]"
         },
         {
+          "title": "外媒惊叹中国人形机器人发展速度",
+          "url": "https://www.toutiao.com/trending/7607638343538622506/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时36分 ~ 22时06分]"
+        },
+        {
           "title": "大年初一国防部发短片：时刻准备着",
           "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%B9%B4%E5%88%9D%E4%B8%80%E5%9B%BD%E9%98%B2%E9%83%A8%E5%8F%91%E7%9F%AD%E7%89%87%EF%BC%9A%E6%97%B6%E5%88%BB%E5%87%86%E5%A4%87%E7%9D%80",
           "source": "百度热搜",
@@ -666,6 +743,31 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时14分 ~ 15时48分]"
+        },
+        {
+          "title": "中国黄金第一卖场：1000克金条卖断货",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%BB%84%E9%87%91%E7%AC%AC%E4%B8%80%E5%8D%96%E5%9C%BA%EF%BC%9A1000%E5%85%8B%E9%87%91%E6%9D%A1%E5%8D%96%E6%96%AD%E8%B4%A7",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            19,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时36分 ~ 22时06分]"
+        },
+        {
+          "title": "2026 年央视春晚你最喜欢的是哪个节目？",
+          "url": "https://www.zhihu.com/question/2006819279077601534",
+          "source": "知乎",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时49分 ~ 22时06分]"
         },
         {
           "title": "知情人士：SpaceX将参与美国防部自主无人机技术竞标",
@@ -694,18 +796,6 @@
           "time_info": "[03时30分 ~ 05时23分]"
         },
         {
-          "title": "央视马年春晚观后感",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E9%A9%AC%E5%B9%B4%E6%98%A5%E6%99%9A%E8%A7%82%E5%90%8E%E6%84%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时48分 ~ 18时40分]"
-        },
-        {
           "title": "如何评价《哈利·波特》马尔福成中国马年吉祥物，饰演者本人下场转发玩梗？",
           "url": "https://www.zhihu.com/question/2002486347743588819",
           "source": "知乎",
@@ -731,28 +821,15 @@
           "time_info": "[13时55分 ~ 15时48分]"
         },
         {
-          "title": "春晚绝活升级背后：中国人形机器人技术有了哪些新突破？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32624494",
-          "source": "澎湃新闻",
+          "title": "中国文学艺术界2026春节大联欢",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%96%87%E5%AD%A6%E8%89%BA%E6%9C%AF%E7%95%8C2026%E6%98%A5%E8%8A%82%E5%A4%A7%E8%81%94%E6%AC%A2",
+          "source": "百度热搜",
           "ranks": [
-            17,
-            6
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时36分 ~ 20时49分]"
-        },
-        {
-          "title": "看着春晚，英媒想起马斯克这句：中国早就next level",
-          "url": "https://news.ifeng.com/c/8qp3PW9MEjM",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时36分 ~ 20时49分]"
+          "appearance_count": 3,
+          "time_info": "[20时49分 ~ 22时06分]"
         },
         {
           "title": "大学生春晚的魔术和央视春晚一样",
@@ -765,6 +842,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时36分 ~ 20时49分]"
+        },
+        {
+          "title": "中国速滑男队团体追逐不敌美国",
+          "url": "https://www.douyin.com/hot/2404189",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时05分 ~ 22时06分]"
         },
         {
           "title": "瑞士外交部：俄美乌日内瓦会谈将闭门举行",
@@ -791,18 +879,6 @@
           "time_info": "[09时29分 ~ 12时14分]"
         },
         {
-          "title": "外媒惊叹中国人形机器人发展速度",
-          "url": "https://www.toutiao.com/trending/7607638343538622506/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时36分 ~ 20时49分]"
-        },
-        {
           "title": "中国车大年初一勇闯米兰",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%BD%A6%E5%A4%A7%E5%B9%B4%E5%88%9D%E4%B8%80%E5%8B%87%E9%97%AF%E7%B1%B3%E5%85%B0%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -814,16 +890,26 @@
           "time_info": "[18时39分 ~ 18时40分]"
         },
         {
-          "title": "中国黄金第一卖场：1000克金条卖断货",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%BB%84%E9%87%91%E7%AC%AC%E4%B8%80%E5%8D%96%E5%9C%BA%EF%BC%9A1000%E5%85%8B%E9%87%91%E6%9D%A1%E5%8D%96%E6%96%AD%E8%B4%A7",
-          "source": "百度热搜",
+          "title": "千年龟兹壁画“活”了，舞蹈《丝路古韵》惊艳马年央视春晚",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32625457",
+          "source": "澎湃新闻",
           "ranks": [
-            24,
-            19
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时36分 ~ 20时49分]"
+          "time_info": "[22时05分 ~ 22时06分]"
+        },
+        {
+          "title": "如何评价成龙、朱洁静、吴樾、莱昂纳尔·里奇等在 2026 年春晚浙江义乌分会场的表演秀《世界义乌中国年》？",
+          "url": "https://www.zhihu.com/question/2006843296941565029",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时05分 ~ 22时06分]"
         },
         {
           "title": "2026中国车市销量有望破3475万辆",
@@ -848,6 +934,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时52分 ~ 15时48分]"
+        },
+        {
+          "title": "马頔发视频炫耀李纯登上央视春晚",
+          "url": "https://www.toutiao.com/trending/7607540470029467654/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时05分 ~ 22时06分]"
         },
         {
           "title": "“最中国”在海外火出圈",
@@ -883,15 +980,26 @@
           "time_info": "[01时34分 ~ 01时35分]"
         },
         {
-          "title": "2026 年央视春晚你最喜欢的是哪个节目？",
-          "url": "https://www.zhihu.com/question/2006819279077601534",
-          "source": "知乎",
+          "title": "伊朗外交部长：双方仍有待解决的议题。",
+          "url": "https://flash.jin10.com/detail/20260217215239134800",
+          "source": "金十数据",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时49分"
+          "time_info": "22时06分"
+        },
+        {
+          "title": "伊朗外交部长：双方将就潜在协议文件开展工作并相互交换。",
+          "url": "https://flash.jin10.com/detail/20260217215223412800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
         },
         {
           "title": "伊朗外交部发言人：谈判讨论了核问题和解除制裁问题",
@@ -903,6 +1011,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时36分"
+        },
+        {
+          "title": "WTI原油短线下挫0.8美元。伊朗外交部长称，与上一轮谈判相比，局势出现了良好进展。",
+          "url": "https://flash.jin10.com/detail/20260217215201338800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
+          "title": "伊朗外交部长：我们已就主要原则与美国达成共识。",
+          "url": "https://flash.jin10.com/detail/20260217215058625800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
+          "title": "印度外交部发言人：欢迎塞尔维亚总统武契奇。他参加印度人工智能影响峰会将进一步推动印度与塞尔维亚之间的紧密友谊。",
+          "url": "https://flash.jin10.com/detail/20260217214212391800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
+          "title": "俄美乌三方在瑞士日内瓦开始谈判。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3055986",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
         },
         {
           "title": "马斯克母亲向中国人民拜年",
@@ -958,6 +1110,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
+        },
+        {
+          "title": "俄罗斯国防部：在莫斯科时间9:00至15:00之间，防空系统拦截并摧毁了19架乌克兰无人机。",
+          "url": "https://flash.jin10.com/detail/20260217214020005800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
         },
         {
           "title": "言短意长｜春晚节目单：同为中国人，不分彼此",
@@ -1026,17 +1189,6 @@
           "time_info": "13时55分"
         },
         {
-          "title": "中国文学艺术界2026春节大联欢",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%96%87%E5%AD%A6%E8%89%BA%E6%9C%AF%E7%95%8C2026%E6%98%A5%E8%8A%82%E5%A4%A7%E8%81%94%E6%AC%A2",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时49分"
-        },
-        {
           "title": "全球游客涌向中国过春节",
           "url": "https://www.toutiao.com/trending/7607642500261482047/",
           "source": "今日头条",
@@ -1065,7 +1217,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时49分"
         },
@@ -1139,7 +1291,7 @@
     },
     {
       "keyword_group": "# --- 第三组：美国宏观与军事 --- 美国 白宫 五角大楼 美军 美联储 布林肯 拜登 特朗普",
-      "match_count": 83,
+      "match_count": 96,
       "titles": [
         {
           "title": "特朗普：将间接参与美伊谈判",
@@ -1177,6 +1329,17 @@
           "time_info": "[09时29分 ~ 18时40分]"
         },
         {
+          "title": "美部长与下属传出婚外情，特朗普回应",
+          "url": "https://news.ifeng.com/c/8qp4YVQ6NeA",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时36分 ~ 22时06分]"
+        },
+        {
           "title": "美国总统特朗普声称：“（加沙）和平委员会”将说明如何开销承诺的50亿美元。（纽约邮报）",
           "url": "https://wallstreetcn.com/livenews/3055826",
           "source": "华尔街见闻-快讯",
@@ -1189,17 +1352,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时30分 ~ 07时24分]"
-        },
-        {
-          "title": "美部长与下属传出婚外情，特朗普回应",
-          "url": "https://news.ifeng.com/c/8qp4YVQ6NeA",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时36分 ~ 20时49分]"
         },
         {
           "title": "报道：马斯克旗下SpaceX将竞标美国五角大楼的无人机技术承包合同",
@@ -1216,6 +1368,17 @@
           "time_info": "[03时30分 ~ 07时24分]"
         },
         {
+          "title": "美联储古尔斯比：需要一些证据表明通胀正重返2%。",
+          "url": "https://flash.jin10.com/detail/20260217215553380800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
           "title": "美国银行：将美国雅宝(ALB.N)评级从中性评级上调至买入；将目标价从167.00美元上调至190.00美元。",
           "url": "https://flash.jin10.com/detail/20260217192538547800",
           "source": "金十数据",
@@ -1225,6 +1388,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时36分"
+        },
+        {
+          "title": "美联储古尔斯比：将3%视为中性利率的宽松目标。",
+          "url": "https://flash.jin10.com/detail/20260217215516254800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
         },
         {
           "title": "匈牙利与美国签署核能合作协议",
@@ -1255,7 +1429,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时49分"
         },
@@ -1288,9 +1462,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时49分"
+        },
+        {
+          "title": "美联储古尔斯比：若通胀下行，未来还将多次降息。",
+          "url": "https://flash.jin10.com/detail/20260217215441324800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
         },
         {
           "title": "加拿大负责美国贸易事务的部长Leblanc：加拿大与墨西哥还将围绕安全问题开会。 加墨两国将扩“大港口对港口的贸易”。 我们在医药、农业领域看到投资机会。",
@@ -1566,6 +1751,17 @@
           "time_info": "[09时29分 ~ 14时52分]"
         },
         {
+          "title": "哈梅内伊：如今我要说，特朗普也做不到",
+          "url": "https://news.ifeng.com/c/8qp3k9bhq7k",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时36分 ~ 22时06分]"
+        },
+        {
           "title": "特朗普反应低调 日本怕中美搞大动作",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%8D%E5%BA%94%E4%BD%8E%E8%B0%83+%E6%97%A5%E6%9C%AC%E6%80%95%E4%B8%AD%E7%BE%8E%E6%90%9E%E5%A4%A7%E5%8A%A8%E4%BD%9C",
           "source": "百度热搜",
@@ -1576,6 +1772,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时37分 ~ 17时42分]"
+        },
+        {
+          "title": "美国三大股指期货盘前普跌，日元反弹，黄金一度跌破4900，白银暴跌5%",
+          "url": "https://wallstreetcn.com/articles/3765810",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时49分 ~ 22时06分]"
         },
         {
           "title": "加强反恐合作，100名美军人员抵达尼日利亚",
@@ -1639,6 +1847,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时29分 ~ 07时24分]"
+        },
+        {
+          "title": "哈梅内伊：美国无法摧毁伊朗",
+          "url": "https://www.toutiao.com/trending/7606880300451086355/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时49分 ~ 22时06分]"
         },
         {
           "title": "特朗普抨击加州州长与英国签署清洁能源协议“不合适”",
@@ -1711,17 +1931,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时24分 ~ 09时29分]"
-        },
-        {
-          "title": "哈梅内伊：如今我要说，特朗普也做不到",
-          "url": "https://news.ifeng.com/c/8qp3k9bhq7k",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时36分 ~ 20时49分]"
         },
         {
           "title": "据Politico：美国总统特朗普称加州与英国的能源协议“不合适”。",
@@ -1901,6 +2110,50 @@
           "time_info": "[00时36分 ~ 00时37分]"
         },
         {
+          "title": "美联储古尔斯比：关税较高的商品往往价格涨幅更大。",
+          "url": "https://flash.jin10.com/detail/20260217215353696800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
+          "title": "美国2月纽约联储制造业指数 7.1，预期 7.4，前值 7.7。",
+          "url": "https://wallstreetcn.com/livenews/3055998",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
+          "title": "美联储古尔斯比：服务业通胀“并非温和”。",
+          "url": "https://flash.jin10.com/detail/20260217215303083800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
+          "title": "提醒：北京时间21:30，将公布加拿大1月CPI、美国2月纽约联储制造业指数、美国12月商业库存环比。",
+          "url": "https://wallstreetcn.com/livenews/3055995",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
           "title": "因金价走软，美国上市金矿股盘前走低。纽蒙特下跌3%，Sibanye Stillwater下跌5.8%，巴里克矿业下跌2.4%，哈莫尼黄金下跌4.2%。",
           "url": "https://flash.jin10.com/detail/20260217171116932800",
           "source": "金十数据",
@@ -1912,15 +2165,26 @@
           "time_info": "17时42分"
         },
         {
-          "title": "美国三大股指期货盘前普跌，日元反弹，黄金一度跌破4900，白银暴跌5%",
-          "url": "https://wallstreetcn.com/articles/3765810",
-          "source": "华尔街见闻",
+          "title": "美国贸易代表格里尔：可能调整金属关税以减轻合规压力",
+          "url": "https://wallstreetcn.com/livenews/3055994",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
+          "title": "ADP：截至1月31日四周，美国私营部门就业人数平均每周增加10250人。",
+          "url": "https://wallstreetcn.com/livenews/3055993",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时49分"
+          "time_info": "22时06分"
         },
         {
           "title": "据福克斯新闻记者：美国福特号航母打击群从加勒比海出发，预计需要约两周才能抵达东地中海。",
@@ -1962,7 +2226,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时49分"
         },
@@ -2011,17 +2275,6 @@
           "time_info": "18时40分"
         },
         {
-          "title": "哈梅内伊：美国无法摧毁伊朗",
-          "url": "https://www.toutiao.com/trending/7606880300451086355/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时49分"
-        },
-        {
           "title": "市场消息：根据美国银行最新的外汇和利率情绪调查，2月份市场对美元的情绪为14年来的最负面水平。目前，美元空头头寸已达到2012年1月以来的最高水平。",
           "url": "https://flash.jin10.com/detail/20260216224745069800",
           "source": "金十数据",
@@ -2055,13 +2308,24 @@
           "time_info": "19时36分"
         },
         {
+          "title": "美国总统特朗普：已故的杰西·杰克逊牧师是个好人。",
+          "url": "https://flash.jin10.com/detail/20260217213755064800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
           "title": "哈梅内伊表示，伊朗导弹的类型和射程与美国无关",
           "url": "https://flash.jin10.com/detail/20260217201236754800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时49分"
         },
@@ -2077,13 +2341,24 @@
           "time_info": "00时37分"
         },
         {
+          "title": "美国2月纽约联储制造业新订单指数 5.8，前值6.6。",
+          "url": "https://flash.jin10.com/detail/20260217213114682800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
           "title": "“抛售日本”会否演变为“抛售美国”",
           "url": "https://www.toutiao.com/trending/7607773879242866697/",
           "source": "今日头条",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时49分"
         },
@@ -2097,6 +2372,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时36分"
+        },
+        {
+          "title": "美国2月纽约联储制造业物价获得指数 22.2，前值14.4。",
+          "url": "https://flash.jin10.com/detail/20260217213105341800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
         },
         {
           "title": "美国国务卿鲁比奥发农历新年祝福",
@@ -2121,6 +2407,17 @@
           "time_info": "18时40分"
         },
         {
+          "title": "美国2月纽约联储制造业就业指数 4，前值-9。",
+          "url": "https://flash.jin10.com/detail/20260217213057804800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
           "title": "美国国务卿声称“已获得印度停止购买俄油的承诺”，印度外长重申“战略自主”",
           "url": "https://wallstreetcn.com/livenews/3055768",
           "source": "华尔街见闻-快讯",
@@ -2135,7 +2432,7 @@
     },
     {
       "keyword_group": "# --- 第六组：俄乌局势 --- 俄乌 俄罗斯 乌克兰 普京 泽连斯基 北约",
-      "match_count": 63,
+      "match_count": 66,
       "titles": [
         {
           "title": "俄军高官答凤凰：欧洲国家阻止乌克兰与俄达成协议",
@@ -2160,8 +2457,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时14分 ~ 20时49分]"
+          "appearance_count": 14,
+          "time_info": "[12时14分 ~ 22时06分]"
         },
         {
           "title": "乌克兰前能源部长试图离境被拘捕",
@@ -2187,8 +2484,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时36分 ~ 20时49分]"
+          "appearance_count": 27,
+          "time_info": "[00时36分 ~ 22时06分]"
         },
         {
           "title": "从杭州借道俄罗斯回东北女孩已到家",
@@ -2204,6 +2501,21 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[13时55分 ~ 18时40分]"
+        },
+        {
+          "title": "俄罗斯民众冒雪看春晚",
+          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E6%B0%91%E4%BC%97%E5%86%92%E9%9B%AA%E7%9C%8B%E6%98%A5%E6%99%9A",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            25,
+            21,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时41分 ~ 22时06分]"
         },
         {
           "title": "俄罗斯民众冒雪看春晚",
@@ -2271,20 +2583,6 @@
           "time_info": "[14时52分 ~ 17时42分]"
         },
         {
-          "title": "俄罗斯民众冒雪看春晚",
-          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E6%B0%91%E4%BC%97%E5%86%92%E9%9B%AA%E7%9C%8B%E6%98%A5%E6%99%9A",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            25,
-            21,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时41分 ~ 20时49分]"
-        },
-        {
           "title": "克里姆林宫：在日内瓦举行的乌克兰问题三方会谈将于明天继续，预计今天不会有新消息。",
           "url": "https://flash.jin10.com/detail/20260217172038147800",
           "source": "金十数据",
@@ -2313,7 +2611,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时49分"
         },
@@ -2654,6 +2952,17 @@
           "time_info": "18时40分"
         },
         {
+          "title": "法国总统马克龙呼吁印度支持“暂停对乌克兰平民的袭击”。",
+          "url": "https://flash.jin10.com/detail/20260217215012950800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
           "title": "乌克兰总理：昨晚，俄罗斯再次对乌克兰的平民进行协调攻击，目标直指剥夺我们人民的供暖、电力和水源。",
           "url": "https://flash.jin10.com/detail/20260217180127319800",
           "source": "金十数据",
@@ -2671,9 +2980,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时49分"
+        },
+        {
+          "title": "乌克兰国家安全委员会秘书：日内瓦会谈将讨论安全和人道问题。",
+          "url": "https://wallstreetcn.com/livenews/3055987",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
         },
         {
           "title": "俄罗斯列宁格勒州一处军事设施发生爆炸，造成两人死亡。",
@@ -2682,9 +3002,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时49分"
+        },
+        {
+          "title": "俄罗斯代表团抵达日内瓦俄美乌三方会谈地点",
+          "url": "https://wallstreetcn.com/livenews/3055984",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
         },
         {
           "title": "英国首相办公室：斯塔默和卡尼一致认为，北约应该更加欧洲化，并且需要增加国防开支。",
@@ -2792,7 +3123,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时49分"
         },
@@ -2825,7 +3156,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时49分"
         },
@@ -2888,7 +3219,7 @@
     },
     {
       "keyword_group": "# --- 第二组：中国经济与A股 (保留宽泛的行情词) --- A股 上证 深证 恒生 人民币 汇率 经济 GDP",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "伊朗谈判新策略曝光：与美联合开发油气田、矿区，采购美飞机，“让美国能快速获得高额经济回报”！",
@@ -2902,8 +3233,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时14分 ~ 20时49分]"
+          "appearance_count": 14,
+          "time_info": "[12时14分 ~ 22时06分]"
         },
         {
           "title": "习近平：当前经济工作的重点任务",
@@ -3212,6 +3543,28 @@
           "time_info": "09时29分"
         },
         {
+          "title": "斯洛伐克经济部：通过友谊管道的石油供应尚未恢复，斯洛伐克正通过亚得里亚管道商谈替代方案。",
+          "url": "https://flash.jin10.com/detail/20260217213833591800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
+          "title": "斯洛伐克经济部：当前国内市场的供应并未受到威胁。",
+          "url": "https://flash.jin10.com/detail/20260217213821111800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
           "title": "德国及欧元区2月ZEW经济景气指数将于十分钟后公布。",
           "url": "https://flash.jin10.com/detail/20260217175000000800",
           "source": "金十数据",
@@ -3236,6 +3589,347 @@
       ]
     },
     {
+      "keyword_group": "# --- 第四组：美股与科技 (去掉了具体的“财报”限制) --- 美股 纳指 道琼斯 标普 特斯拉 英伟达 苹果 微软 OpenAI",
+      "match_count": 28,
+      "titles": [
+        {
+          "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
+          "url": "https://wallstreetcn.com/articles/3765772",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时36分 ~ 09时29分]"
+        },
+        {
+          "title": "苹果春季发布会落地上海",
+          "url": "https://www.douyin.com/hot/2403646",
+          "source": "抖音",
+          "ranks": [
+            2,
+            15,
+            10,
+            9,
+            11,
+            14,
+            30,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[13时55分 ~ 22时06分]"
+        },
+        {
+          "title": "苹果发力视频播客：正面挑战YouTube和Spotify",
+          "url": "https://wallstreetcn.com/livenews/3055825",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            5,
+            17,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时30分 ~ 07时24分]"
+        },
+        {
+          "title": "与英伟达争夺印度市场份额：AMD与塔塔咨询服务合作",
+          "url": "https://wallstreetcn.com/livenews/3055811",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            10,
+            14,
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时35分 ~ 06时22分]"
+        },
+        {
+          "title": "周一（2月16日）纽约尾盘，标普500股指期货最终涨0.03%，道指期货涨0.08%，纳斯达克100股指期货跌0.24%。 罗素2000股指期货跌0.36%。",
+          "url": "https://wallstreetcn.com/livenews/3055820",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            7,
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时36分 ~ 06时22分]"
+        },
+        {
+          "title": "特斯拉在韩国招聘人工智能芯片设计工程师",
+          "url": "https://flash.jin10.com/detail/20260217172514312800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时42分"
+        },
+        {
+          "title": "苹果革新视频播客功能，顺应行业视觉化浪潮",
+          "url": "https://flash.jin10.com/detail/20260217035221574800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时24分 ~ 05时23分]"
+        },
+        {
+          "title": "美股盘前：黄金股、科技股普跌，纳斯达克100指数期货跌0.55%",
+          "url": "https://wallstreetcn.com/livenews/3055925",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时42分 ~ 18时40分]"
+        },
+        {
+          "title": "OpenAI：系统（恢复）全面运作。",
+          "url": "https://wallstreetcn.com/livenews/3055842",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时22分 ~ 09时29分]"
+        },
+        {
+          "title": "OpenAI目前正经历某些问题，购物搜索功能宕机。",
+          "url": "https://wallstreetcn.com/livenews/3055834",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时22分 ~ 09时29分]"
+        },
+        {
+          "title": "市场消息：OpenAI当前遭遇一些问题，购物搜索功能陷入宕机状态。",
+          "url": "https://flash.jin10.com/detail/20260217050055263800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 06时22分]"
+        },
+        {
+          "title": "美银Hartnett：“AI颠覆交易”加速扩散，一旦有科技巨头削减开支，将引发美股“轮动海啸”",
+          "url": "https://wallstreetcn.com/articles/3765781",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 13时55分]"
+        },
+        {
+          "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2291237",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时05分 ~ 22时06分]"
+        },
+        {
+          "title": "OpenAI成功“抢人”！从OpenClaw挖来创始人掌舵AI代理",
+          "url": "https://www.cls.cn/detail/2290903",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时41分 ~ 17时42分]"
+        },
+        {
+          "title": "印度举办AI“影响力”峰会，谷歌、OpenAI等高管预计出席",
+          "url": "https://flash.jin10.com/detail/20260216233255611800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时35分]"
+        },
+        {
+          "title": "苹果7款新品有哪些看点",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C7%E6%AC%BE%E6%96%B0%E5%93%81%E6%9C%89%E5%93%AA%E4%BA%9B%E7%9C%8B%E7%82%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时41分 ~ 17时42分]"
+        },
+        {
+          "title": "美股财报电话会现状：“AI风险”讨论翻倍，公司必须“自证清白”，投资者“先卖再问”",
+          "url": "https://wallstreetcn.com/articles/3765769",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时29分"
+        },
+        {
+          "title": "美股期货跌幅扩大，纳斯达克100指数期货跌超1%，标普500指数期货跌0.6%，道指期货跌0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3055992",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
+          "title": "Paramount美股盘前涨超4%，报道称华纳兄弟探索将暂时重启与Paramount的交易谈判。",
+          "url": "https://wallstreetcn.com/livenews/3055969",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时49分"
+        },
+        {
+          "title": "美股盘前，部分热门中概股走强，百度(BIDU.O)涨超1%、万国数据(GDS.O)涨0.8%、阿里巴巴(BABA.N)涨0.7%。",
+          "url": "https://flash.jin10.com/detail/20260217170620021800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时42分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-02-17）",
+          "url": "https://flash.jin10.com/detail/20260217214857731800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
+          "title": "奈飞股价美股盘前一度上涨1.6%。",
+          "url": "https://wallstreetcn.com/livenews/3055985",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
+          "title": "OpenAI：系统已恢复全面运作。",
+          "url": "https://flash.jin10.com/detail/20260217052259501800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "印度方面表示，英伟达(NVDA.O)正在与一些人工智能基础设施/软件公司合作。",
+          "url": "https://flash.jin10.com/detail/20260217155637581800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        },
+        {
+          "title": "提醒：美股今日因假期休市一天。",
+          "url": "https://wallstreetcn.com/livenews/3055774",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时37分"
+        },
+        {
+          "title": "美股今日休市一天",
+          "url": "https://flash.jin10.com/detail/20260216222506509800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时37分"
+        },
+        {
+          "title": "苹果将于3月4日举行发布会，Mac系列更新即将登场",
+          "url": "https://wallstreetcn.com/livenews/3055769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时37分"
+        },
+        {
+          "title": "市场消息：乔什·库什纳旗下的Thrive Capital公司筹集了100亿美元的新资金。这家OpenAI、Stripe、SpaceX和Skims的投资方表示，其在投资方面采取的是“要么全力以赴、要么一无所获”的策略。",
+          "url": "https://flash.jin10.com/detail/20260217200431087800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时49分"
+        }
+      ]
+    },
+    {
       "keyword_group": "# --- 第五组：日本动态 (关键修改：去掉了外交限制) --- 日本 岸田文雄 自卫队 靖国神社 核污水",
       "match_count": 28,
       "titles": [
@@ -3247,11 +3941,29 @@
             7,
             5,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时24分 ~ 20时49分]"
+          "appearance_count": 16,
+          "time_info": "[07时24分 ~ 22时06分]"
+        },
+        {
+          "title": "黄循财：日本给我们的苦难教训极重",
+          "url": "https://www.toutiao.com/trending/7606935704773361670/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            10,
+            27,
+            19,
+            28,
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[15时48分 ~ 22时06分]"
         },
         {
           "title": "火力全开!王毅警告日本",
@@ -3264,22 +3976,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时36分 ~ 12时14分]"
-        },
-        {
-          "title": "黄循财：日本给我们的苦难教训极重",
-          "url": "https://www.toutiao.com/trending/7606935704773361670/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            10,
-            27,
-            19,
-            28,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时48分 ~ 20时49分]"
         },
         {
           "title": "日本两年期国债收益率下跌1.5个基点，至1.25%。",
@@ -3568,302 +4264,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# --- 第四组：美股与科技 (去掉了具体的“财报”限制) --- 美股 纳指 道琼斯 标普 特斯拉 英伟达 苹果 微软 OpenAI",
-      "match_count": 24,
-      "titles": [
-        {
-          "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
-          "url": "https://wallstreetcn.com/articles/3765772",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时36分 ~ 09时29分]"
-        },
-        {
-          "title": "苹果春季发布会落地上海",
-          "url": "https://www.douyin.com/hot/2403646",
-          "source": "抖音",
-          "ranks": [
-            2,
-            15,
-            10,
-            9,
-            11,
-            14,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时55分 ~ 20时49分]"
-        },
-        {
-          "title": "苹果发力视频播客：正面挑战YouTube和Spotify",
-          "url": "https://wallstreetcn.com/livenews/3055825",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            5,
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时30分 ~ 07时24分]"
-        },
-        {
-          "title": "与英伟达争夺印度市场份额：AMD与塔塔咨询服务合作",
-          "url": "https://wallstreetcn.com/livenews/3055811",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            10,
-            14,
-            17,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时35分 ~ 06时22分]"
-        },
-        {
-          "title": "周一（2月16日）纽约尾盘，标普500股指期货最终涨0.03%，道指期货涨0.08%，纳斯达克100股指期货跌0.24%。 罗素2000股指期货跌0.36%。",
-          "url": "https://wallstreetcn.com/livenews/3055820",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            7,
-            10,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时36分 ~ 06时22分]"
-        },
-        {
-          "title": "特斯拉在韩国招聘人工智能芯片设计工程师",
-          "url": "https://flash.jin10.com/detail/20260217172514312800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时42分"
-        },
-        {
-          "title": "苹果革新视频播客功能，顺应行业视觉化浪潮",
-          "url": "https://flash.jin10.com/detail/20260217035221574800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时24分 ~ 05时23分]"
-        },
-        {
-          "title": "美股盘前：黄金股、科技股普跌，纳斯达克100指数期货跌0.55%",
-          "url": "https://wallstreetcn.com/livenews/3055925",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时42分 ~ 18时40分]"
-        },
-        {
-          "title": "OpenAI：系统（恢复）全面运作。",
-          "url": "https://wallstreetcn.com/livenews/3055842",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            15,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时22分 ~ 09时29分]"
-        },
-        {
-          "title": "OpenAI目前正经历某些问题，购物搜索功能宕机。",
-          "url": "https://wallstreetcn.com/livenews/3055834",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            21,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时22分 ~ 09时29分]"
-        },
-        {
-          "title": "市场消息：OpenAI当前遭遇一些问题，购物搜索功能陷入宕机状态。",
-          "url": "https://flash.jin10.com/detail/20260217050055263800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时23分 ~ 06时22分]"
-        },
-        {
-          "title": "美银Hartnett：“AI颠覆交易”加速扩散，一旦有科技巨头削减开支，将引发美股“轮动海啸”",
-          "url": "https://wallstreetcn.com/articles/3765781",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时14分 ~ 13时55分]"
-        },
-        {
-          "title": "OpenAI成功“抢人”！从OpenClaw挖来创始人掌舵AI代理",
-          "url": "https://www.cls.cn/detail/2290903",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时41分 ~ 17时42分]"
-        },
-        {
-          "title": "印度举办AI“影响力”峰会，谷歌、OpenAI等高管预计出席",
-          "url": "https://flash.jin10.com/detail/20260216233255611800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时35分]"
-        },
-        {
-          "title": "苹果7款新品有哪些看点",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C7%E6%AC%BE%E6%96%B0%E5%93%81%E6%9C%89%E5%93%AA%E4%BA%9B%E7%9C%8B%E7%82%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时41分 ~ 17时42分]"
-        },
-        {
-          "title": "美股财报电话会现状：“AI风险”讨论翻倍，公司必须“自证清白”，投资者“先卖再问”",
-          "url": "https://wallstreetcn.com/articles/3765769",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时29分"
-        },
-        {
-          "title": "Paramount美股盘前涨超4%，报道称华纳兄弟探索将暂时重启与Paramount的交易谈判。",
-          "url": "https://wallstreetcn.com/livenews/3055969",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时49分"
-        },
-        {
-          "title": "美股盘前，部分热门中概股走强，百度(BIDU.O)涨超1%、万国数据(GDS.O)涨0.8%、阿里巴巴(BABA.N)涨0.7%。",
-          "url": "https://flash.jin10.com/detail/20260217170620021800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时42分"
-        },
-        {
-          "title": "OpenAI：系统已恢复全面运作。",
-          "url": "https://flash.jin10.com/detail/20260217052259501800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
-          "title": "印度方面表示，英伟达(NVDA.O)正在与一些人工智能基础设施/软件公司合作。",
-          "url": "https://flash.jin10.com/detail/20260217155637581800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时38分"
-        },
-        {
-          "title": "提醒：美股今日因假期休市一天。",
-          "url": "https://wallstreetcn.com/livenews/3055774",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
-        },
-        {
-          "title": "美股今日休市一天",
-          "url": "https://flash.jin10.com/detail/20260216222506509800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
-        },
-        {
-          "title": "苹果将于3月4日举行发布会，Mac系列更新即将登场",
-          "url": "https://wallstreetcn.com/livenews/3055769",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
-        },
-        {
-          "title": "市场消息：乔什·库什纳旗下的Thrive Capital公司筹集了100亿美元的新资金。这家OpenAI、Stripe、SpaceX和Skims的投资方表示，其在投资方面采取的是“要么全力以赴、要么一无所获”的策略。",
-          "url": "https://flash.jin10.com/detail/20260217200431087800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时49分"
         }
       ]
     }
