@@ -1,359 +1,23 @@
 {
-  "generated_at": "2026-02-19T01:52:04.731941+08:00",
-  "total_titles_processed": 365,
+  "generated_at": "2026-02-19T02:44:56.449819+08:00",
+  "total_titles_processed": 433,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "# --- 第一组：中国宏观 (去掉了必须词，只过滤娱乐) --- 中国 央视 外交部 国防部 解放军 人民日报 新华社",
-      "match_count": 30,
+      "keyword_group": "# --- 第三组：美国宏观与军事 --- 美国 白宫 五角大楼 美军 美联储 布林肯 拜登 特朗普",
+      "match_count": 41,
       "titles": [
         {
-          "title": "中国第2金！徐梦桃成功卫冕",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%AC%AC2%E9%87%91%EF%BC%81%E5%BE%90%E6%A2%A6%E6%A1%83%E6%88%90%E5%8A%9F%E5%8D%AB%E5%86%95",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 01时52分]"
-        },
-        {
-          "title": "苏翊鸣摘米兰冬奥会中国队首金",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%8F%E7%BF%8A%E9%B8%A3%E6%91%98%E7%B1%B3%E5%85%B0%E5%86%AC%E5%A5%A5%E4%BC%9A%E4%B8%AD%E5%9B%BD%E9%98%9F%E9%A6%96%E9%87%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 01时52分]"
-        },
-        {
-          "title": "苏翊鸣夺米兰冬奥会中国队首金",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%8F%E7%BF%8A%E9%B8%A3%E5%A4%BA%E7%B1%B3%E5%85%B0%E5%86%AC%E5%A5%A5%E4%BC%9A%E4%B8%AD%E5%9B%BD%E9%98%9F%E9%A6%96%E9%87%91",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 01时52分]"
-        },
-        {
-          "title": "苏翊鸣摘米兰冬奥会中国队首金",
-          "url": "https://www.douyin.com/hot/2404758",
-          "source": "抖音",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 01时52分]"
-        },
-        {
-          "title": "千呼万唤始出来！苏翊鸣男子坡面障碍夺冠，斩获中国代表团米兰冬奥首金，如何看待本场比赛？",
-          "url": "https://www.zhihu.com/question/2007522915214652029",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 01时52分]"
-        },
-        {
-          "title": "“去中国过年”成为全球新风尚",
-          "url": "https://www.toutiao.com/trending/7607769602474917942/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 01时52分]"
-        },
-        {
-          "title": "22岁生日当天斩获冠军，苏翊鸣夺得中国代表团米兰冬奥首金",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32628906",
-          "source": "澎湃新闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 01时52分]"
-        },
-        {
-          "title": "中国首金！苏翊鸣生日当天夺冠",
-          "url": "https://www.toutiao.com/trending/7607131040049791014/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 01时52分]"
-        },
-        {
-          "title": "徐梦桃卫冕摘金，邵琪铜牌，自由式滑雪女子空中技巧，中国队一战两枚奖牌，如何评价她们的表现？",
-          "url": "https://www.zhihu.com/question/2007551573270684444",
-          "source": "知乎",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 01时52分]"
-        },
-        {
-          "title": "中国驻加拿大大使人民日报撰文：这个春节对中加关系意义非凡",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32628244",
-          "source": "澎湃新闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 01时52分]"
-        },
-        {
-          "title": "中国行之后，美国网红感叹：美国人被教唆恨中国，蠢透了",
-          "url": "https://news.ifeng.com/c/8qqYH420MXm",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 01时52分]"
-        },
-        {
-          "title": "美国污蔑中国搞核试验，中俄驳斥",
-          "url": "https://news.ifeng.com/c/8qqz7KB6wNa",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时51分 ~ 01时52分]"
-        },
-        {
-          "title": "中国队两小时连夺两金",
-          "url": "https://www.douyin.com/hot/2405334",
-          "source": "抖音",
-          "ranks": [
-            6,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 01时52分]"
-        },
-        {
-          "title": "中国队80分钟连夺两金",
-          "url": "https://www.toutiao.com/trending/7608195862888087602/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 01时52分]"
-        },
-        {
-          "title": "中国队米兰冬奥首金",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E7%B1%B3%E5%85%B0%E5%86%AC%E5%A5%A5%E9%A6%96%E9%87%91%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 01时52分]"
-        },
-        {
-          "title": "印度大学买中国机器狗冒充自研，被抓包了",
-          "url": "https://news.ifeng.com/c/8qqfrSUgsOY",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 01时52分]"
-        },
-        {
-          "title": "韩国人第一次体验中国过年",
-          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E4%BA%BA%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%93%E9%AA%8C%E4%B8%AD%E5%9B%BD%E8%BF%87%E5%B9%B4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 01时52分]"
-        },
-        {
-          "title": "“中国竟在西方赢得人心”，美媒破大防",
-          "url": "https://news.ifeng.com/c/8qqo1EPWeSC",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 01时52分]"
-        },
-        {
-          "title": "网友在加拿大超市偶遇中国课本，人教版各科目教材齐全，这些课本漂洋过海是为谁准备的？换做是你，有何感想？",
-          "url": "https://www.zhihu.com/question/2007043384502613095",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 01时52分]"
-        },
-        {
-          "title": "中国队两小时内连夺两金",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%98%9F%E4%B8%A4%E5%B0%8F%E6%97%B6%E5%86%85%E8%BF%9E%E5%A4%BA%E4%B8%A4%E9%87%91",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 01时52分]"
-        },
-        {
-          "title": "中国速度滑冰再创历史，这枚男子团体追逐铜牌有多难？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32628673",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 01时52分]"
-        },
-        {
-          "title": "如何看待 2026 央视春晚周深演唱的歌曲《吉量》？",
-          "url": "https://www.zhihu.com/question/2006837953113108627",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 01时52分]"
-        },
-        {
-          "title": "央视春晚开团,智驾被点名",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350754&amp;topic_name=%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%E5%BC%80%E5%9B%A2%2C%E6%99%BA%E9%A9%BE%E8%A2%AB%E7%82%B9%E5%90%8D",
-          "source": "贴吧",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 01时52分]"
-        },
-        {
-          "title": "中国香港居民在北海道遇袭",
-          "url": "https://www.toutiao.com/trending/7608029777136009266/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 01时52分]"
-        },
-        {
-          "title": "苏翊鸣回应中国队一天两金",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%BF%8A%E9%B8%A3%E5%9B%9E%E5%BA%94%E4%B8%AD%E5%9B%BD%E9%98%9F%E4%B8%80%E5%A4%A9%E4%B8%A4%E9%87%91%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 01时52分]"
-        },
-        {
-          "title": "美国女友来中国过年是什么体验",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%8F%8B%E6%9D%A5%E4%B8%AD%E5%9B%BD%E8%BF%87%E5%B9%B4%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 01时52分]"
-        },
-        {
-          "title": "中国香港居民在北海道遇袭",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%A6%99%E6%B8%AF%E5%B1%85%E6%B0%91%E5%9C%A8%E5%8C%97%E6%B5%B7%E9%81%93%E9%81%87%E8%A2%AD%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 01时52分]"
-        },
-        {
-          "title": "当米兰冬奥遇上中国春节",
-          "url": "https://www.douyin.com/hot/2403591",
-          "source": "抖音",
-          "ranks": [
-            25,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 01时52分]"
-        },
-        {
-          "title": "全网庆祝米兰冬奥会中国队夺金",
-          "url": "https://www.douyin.com/hot/2405275",
-          "source": "抖音",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
-        },
-        {
-          "title": "遭日本男子殴打，一名中国香港游客在北海道遇袭受伤",
-          "url": "https://wallstreetcn.com/livenews/3056383",
+          "title": "白宫新闻秘书Leavitt：所谓“和平委员会”与加沙相关的超过50亿美元资金承诺将来自美国的多个州。",
+          "url": "https://wallstreetcn.com/livenews/3056441",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            25
+            2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# --- 第三组：美国宏观与军事 --- 美国 白宫 五角大楼 美军 美联储 布林肯 拜登 特朗普",
-      "match_count": 21,
-      "titles": [
+          "time_info": "02时44分"
+        },
         {
           "title": "特朗普、拜登、奥巴马、克林顿齐发声",
           "url": "https://news.ifeng.com/c/8qqUCbPAN8F",
@@ -366,6 +30,28 @@
           "time_info": "00时57分"
         },
         {
+          "title": "美联储理事鲍曼：仍预计在第一季度末提出新的巴塞尔银行资本规则。",
+          "url": "https://flash.jin10.com/detail/20260219021836454800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时44分"
+        },
+        {
+          "title": "美联储在固定利率逆回购操作中总计接纳了10个对手方的8.56亿美元。",
+          "url": "https://flash.jin10.com/detail/20260219021725295800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时44分"
+        },
+        {
           "title": "美国财政部拍卖四个月期国债，得标利率3.595%，投标倍数3.15。",
           "url": "https://wallstreetcn.com/livenews/3056406",
           "source": "华尔街见闻-快讯",
@@ -376,6 +62,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时57分 ~ 01时52分]"
+        },
+        {
+          "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2291551",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 02时44分]"
         },
         {
           "title": "美国至2月18日4个月国债竞拍-得标利率配置百分比 86.82%，前值84.52%。",
@@ -402,17 +99,6 @@
           "time_info": "[00时57分 ~ 01时52分]"
         },
         {
-          "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2291551",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 01时52分]"
-        },
-        {
           "title": "美国至2月18日4个月国债竞拍-得标利率 3.595%，前值3.60%。",
           "url": "https://flash.jin10.com/detail/20260219003539400800",
           "source": "金十数据",
@@ -435,6 +121,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时57分 ~ 01时52分]"
+        },
+        {
+          "title": "机构：德国国债正取代日元，成为抗衡“特朗普冲击”的避险新宠",
+          "url": "https://wallstreetcn.com/livenews/3056416",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时52分 ~ 02时44分]"
         },
         {
           "title": "美国银行扩大奖励计划以吸引更多客户",
@@ -497,15 +195,15 @@
           "time_info": "[00时57分 ~ 01时52分]"
         },
         {
-          "title": "机构：德国国债正取代日元，成为抗衡“特朗普冲击”的避险新宠",
-          "url": "https://wallstreetcn.com/livenews/3056416",
+          "title": "美联储理事鲍曼：（适用于美国的）新版巴塞尔协议计划处于在一季度末之前敲定的正轨之上。",
+          "url": "https://wallstreetcn.com/livenews/3056436",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时52分"
+          "time_info": "02时44分"
         },
         {
           "title": "俄古外长举行会谈 俄方重申反对美国对古封锁",
@@ -514,9 +212,174 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
+        },
+        {
+          "title": "周三（2月18日），美联储隔夜逆回购协议（RRP）使用规模为8.56亿美元（交易对手10家），上个交易日报4.41亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3056435",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时44分"
+        },
+        {
+          "title": "美国宣布与网络安全和AI风险管理相关的倡议。",
+          "url": "https://wallstreetcn.com/livenews/3056433",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时44分"
+        },
+        {
+          "title": "公开和沃什“唱反调”？多位美联储高官称：AI提升生产力或意味着“更高的中性利率”",
+          "url": "https://wallstreetcn.com/articles/3765833",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时44分"
+        },
+        {
+          "title": "美国财政部宣布关于加强AI网络安全和风险管理的倡议",
+          "url": "https://flash.jin10.com/detail/20260219021420835800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时44分"
+        },
+        {
+          "title": "美国财政部：2月份财政部将陆续发布一套与业界及联邦、州级监管合作伙伴共同开发的六项资源，旨在确保人工智能在整个美国金融体系中的安全性和韧性。",
+          "url": "https://flash.jin10.com/detail/20260219021132913800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时44分"
+        },
+        {
+          "title": "美国财政部拍卖160亿美元20年期国债，得标利率4.664%（1月21日为4.846%），投标倍数2.36（前次为2.86）。",
+          "url": "https://wallstreetcn.com/livenews/3056430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时44分"
+        },
+        {
+          "title": "美国财政部宣布完成一项公私合作倡议，旨在加强金融服务领域人工智能的网络安全和风险管理。",
+          "url": "https://flash.jin10.com/detail/20260219021102479800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时44分"
+        },
+        {
+          "title": "美联储理事鲍曼：仍对劳动力市场感到担忧。",
+          "url": "https://flash.jin10.com/detail/20260219020643336800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时44分"
+        },
+        {
+          "title": "据克里姆林宫，俄罗斯并没有与美国讨论古巴问题。 俄罗斯总统普京称，俄方认为，（美国）对古巴施加新版限制是让人无法接受的。（国际文传电讯社IFX）",
+          "url": "https://wallstreetcn.com/livenews/3056428",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时44分"
+        },
+        {
+          "title": "美联储理事鲍曼：最新就业报告有点奇怪，大多数其他指标并未显示出如此强劲的劳动力市场。",
+          "url": "https://flash.jin10.com/detail/20260219020557361800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时44分"
+        },
+        {
+          "title": "美国20年期国债收益率在拍卖后延续涨势，日内涨3.2个基点，至4.661%。",
+          "url": "https://flash.jin10.com/detail/20260219020527901800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时44分"
+        },
+        {
+          "title": "美国政府官员：美国国立卫生研究院院长将临时接管疾控中心。",
+          "url": "https://flash.jin10.com/detail/20260219020509041800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时44分"
+        },
+        {
+          "title": "美国至2月18日20年期国债竞拍-得标利率配置百分比 15.91%，前值3.89%。",
+          "url": "https://flash.jin10.com/detail/20260219020424765800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时44分"
+        },
+        {
+          "title": "美国至2月18日20年期国债竞拍-投标倍数 2.36，前值2.86。",
+          "url": "https://flash.jin10.com/detail/20260219020418397800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时44分"
+        },
+        {
+          "title": "美国至2月18日20年期国债竞拍-得标利率 4.664%，前值4.85%。",
+          "url": "https://flash.jin10.com/detail/20260219020410891800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时44分"
         },
         {
           "title": "美国纽约州州长Hochul：衔接新泽西与纽约市的Gateway项目将于下周恢复建设工作。",
@@ -585,6 +448,17 @@
           "time_info": "00时57分"
         },
         {
+          "title": "美国天然气期货日内跌幅达3.00%，现报2.940美元/百万英热。",
+          "url": "https://flash.jin10.com/detail/20260219012706843800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时44分"
+        },
+        {
           "title": "金十提示：美国1月谘商会领先指标月率暂未公布。",
           "url": "https://flash.jin10.com/detail/20260218232040523800",
           "source": "金十数据",
@@ -598,8 +472,406 @@
       ]
     },
     {
+      "keyword_group": "# --- 第一组：中国宏观 (去掉了必须词，只过滤娱乐) --- 中国 央视 外交部 国防部 解放军 人民日报 新华社",
+      "match_count": 34,
+      "titles": [
+        {
+          "title": "中国第2金！徐梦桃成功卫冕",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%AC%AC2%E9%87%91%EF%BC%81%E5%BE%90%E6%A2%A6%E6%A1%83%E6%88%90%E5%8A%9F%E5%8D%AB%E5%86%95",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 02时44分]"
+        },
+        {
+          "title": "苏翊鸣摘米兰冬奥会中国队首金",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%8F%E7%BF%8A%E9%B8%A3%E6%91%98%E7%B1%B3%E5%85%B0%E5%86%AC%E5%A5%A5%E4%BC%9A%E4%B8%AD%E5%9B%BD%E9%98%9F%E9%A6%96%E9%87%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 02时44分]"
+        },
+        {
+          "title": "苏翊鸣夺米兰冬奥会中国队首金",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%8F%E7%BF%8A%E9%B8%A3%E5%A4%BA%E7%B1%B3%E5%85%B0%E5%86%AC%E5%A5%A5%E4%BC%9A%E4%B8%AD%E5%9B%BD%E9%98%9F%E9%A6%96%E9%87%91",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 02时44分]"
+        },
+        {
+          "title": "苏翊鸣摘米兰冬奥会中国队首金",
+          "url": "https://www.douyin.com/hot/2404758",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 02时44分]"
+        },
+        {
+          "title": "千呼万唤始出来！苏翊鸣男子坡面障碍夺冠，斩获中国代表团米兰冬奥首金，如何看待本场比赛？",
+          "url": "https://www.zhihu.com/question/2007522915214652029",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 02时44分]"
+        },
+        {
+          "title": "22岁生日当天斩获冠军，苏翊鸣夺得中国代表团米兰冬奥首金",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32628906",
+          "source": "澎湃新闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 02时44分]"
+        },
+        {
+          "title": "“去中国过年”成为全球新风尚",
+          "url": "https://www.toutiao.com/trending/7607769602474917942/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 02时44分]"
+        },
+        {
+          "title": "中国首金！苏翊鸣生日当天夺冠",
+          "url": "https://www.toutiao.com/trending/7607131040049791014/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 02时44分]"
+        },
+        {
+          "title": "徐梦桃卫冕摘金，邵琪铜牌，自由式滑雪女子空中技巧，中国队一战两枚奖牌，如何评价她们的表现？",
+          "url": "https://www.zhihu.com/question/2007551573270684444",
+          "source": "知乎",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 02时44分]"
+        },
+        {
+          "title": "中国驻加拿大大使人民日报撰文：这个春节对中加关系意义非凡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32628244",
+          "source": "澎湃新闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 02时44分]"
+        },
+        {
+          "title": "中国行之后，美国网红感叹：美国人被教唆恨中国，蠢透了",
+          "url": "https://news.ifeng.com/c/8qqYH420MXm",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 02时44分]"
+        },
+        {
+          "title": "美国污蔑中国搞核试验，中俄驳斥",
+          "url": "https://news.ifeng.com/c/8qqz7KB6wNa",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时51分 ~ 02时44分]"
+        },
+        {
+          "title": "中国队两小时连夺两金",
+          "url": "https://www.douyin.com/hot/2405334",
+          "source": "抖音",
+          "ranks": [
+            6,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 02时44分]"
+        },
+        {
+          "title": "中国科研团队研发出AI看病系统 诊断罕见病“有根有据”",
+          "url": "https://flash.jin10.com/detail/20260219022513866800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时44分"
+        },
+        {
+          "title": "中国科研团队研发出AI看病系统 诊断罕见病“有根有据”",
+          "url": "https://wallstreetcn.com/livenews/3056438",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时44分"
+        },
+        {
+          "title": "中国队80分钟连夺两金",
+          "url": "https://www.toutiao.com/trending/7608195862888087602/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 02时44分]"
+        },
+        {
+          "title": "中国队米兰冬奥首金",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E7%B1%B3%E5%85%B0%E5%86%AC%E5%A5%A5%E9%A6%96%E9%87%91%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 02时44分]"
+        },
+        {
+          "title": "印度大学买中国机器狗冒充自研，被抓包了",
+          "url": "https://news.ifeng.com/c/8qqfrSUgsOY",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 02时44分]"
+        },
+        {
+          "title": "“中国竟在西方赢得人心”，美媒破大防",
+          "url": "https://news.ifeng.com/c/8qqo1EPWeSC",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 02时44分]"
+        },
+        {
+          "title": "韩国人第一次体验中国过年",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E4%BA%BA%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%93%E9%AA%8C%E4%B8%AD%E5%9B%BD%E8%BF%87%E5%B9%B4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 02时44分]"
+        },
+        {
+          "title": "网友在加拿大超市偶遇中国课本，人教版各科目教材齐全，这些课本漂洋过海是为谁准备的？换做是你，有何感想？",
+          "url": "https://www.zhihu.com/question/2007043384502613095",
+          "source": "知乎",
+          "ranks": [
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 02时44分]"
+        },
+        {
+          "title": "中国队两小时内连夺两金",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%98%9F%E4%B8%A4%E5%B0%8F%E6%97%B6%E5%86%85%E8%BF%9E%E5%A4%BA%E4%B8%A4%E9%87%91",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 02时44分]"
+        },
+        {
+          "title": "中国速度滑冰再创历史，这枚男子团体追逐铜牌有多难？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32628673",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 02时44分]"
+        },
+        {
+          "title": "美国女友来中国过年是什么体验",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%8F%8B%E6%9D%A5%E4%B8%AD%E5%9B%BD%E8%BF%87%E5%B9%B4%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            24,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 02时44分]"
+        },
+        {
+          "title": "央视春晚开团,智驾被点名",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350754&amp;topic_name=%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%E5%BC%80%E5%9B%A2%2C%E6%99%BA%E9%A9%BE%E8%A2%AB%E7%82%B9%E5%90%8D",
+          "source": "贴吧",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 02时44分]"
+        },
+        {
+          "title": "中国香港居民在北海道遇袭",
+          "url": "https://www.toutiao.com/trending/7608029777136009266/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            30,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 02时44分]"
+        },
+        {
+          "title": "当米兰冬奥遇上中国春节",
+          "url": "https://www.douyin.com/hot/2403591",
+          "source": "抖音",
+          "ranks": [
+            25,
+            24,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 02时44分]"
+        },
+        {
+          "title": "中国香港居民在北海道遇袭",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%A6%99%E6%B8%AF%E5%B1%85%E6%B0%91%E5%9C%A8%E5%8C%97%E6%B5%B7%E9%81%93%E9%81%87%E8%A2%AD%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 02时44分]"
+        },
+        {
+          "title": "如何看待 2026 央视春晚周深演唱的歌曲《吉量》？",
+          "url": "https://www.zhihu.com/question/2006837953113108627",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 01时52分]"
+        },
+        {
+          "title": "苏翊鸣回应中国队一天两金",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%BF%8A%E9%B8%A3%E5%9B%9E%E5%BA%94%E4%B8%AD%E5%9B%BD%E9%98%9F%E4%B8%80%E5%A4%A9%E4%B8%A4%E9%87%91%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 01时52分]"
+        },
+        {
+          "title": "《自然》发表中国研究成果：修复大脑里一个“错字”，孤独症小鼠恢复了正常",
+          "url": "https://wallstreetcn.com/livenews/3056434",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时44分"
+        },
+        {
+          "title": "全网庆祝米兰冬奥会中国队夺金",
+          "url": "https://www.douyin.com/hot/2405275",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时57分"
+        },
+        {
+          "title": "遭日本男子殴打，一名中国香港游客在北海道遇袭受伤",
+          "url": "https://wallstreetcn.com/livenews/3056383",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时57分"
+        },
+        {
+          "title": "中国队第二金",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E9%98%9F%E7%AC%AC%E4%BA%8C%E9%87%91&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时44分"
+        }
+      ]
+    },
+    {
       "keyword_group": "# --- 第四组：美股与科技 (去掉了具体的“财报”限制) --- 美股 纳指 道琼斯 标普 特斯拉 英伟达 苹果 微软 OpenAI",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
         {
           "title": "美股三大指数小幅高开，黄金收复5000，白银日内涨5%，原油上涨3%",
@@ -610,8 +882,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 01时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 02时44分]"
         },
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
@@ -622,8 +894,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 01时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 02时44分]"
         },
         {
           "title": "巴菲特“收山之作”：Q4再抛苹果美银，猛砍亚马逊，首次新进纽约时报",
@@ -634,8 +906,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 01时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 02时44分]"
         },
         {
           "title": "段永平试水“AI交易”：卖苹果加仓英伟达，“新入”CoreWeave、Credo和Tempus",
@@ -646,8 +918,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 01时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 02时44分]"
         },
         {
           "title": "英伟达深入印度市场，在当地构建一系列合作伙伴关系、作出基础设施承诺。该公司向印度数据中心公司Yotta Data Services和人工智能（AI）云平台公司E2E Networks Ltd.提供先进的Blackwell Ultra GPUs。",
@@ -656,18 +928,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "AI先驱李飞飞的初创公司World Labs融资10亿美元，英伟达参投",
-          "url": "https://wallstreetcn.com/livenews/3056417",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
         },
@@ -676,11 +937,12 @@
           "url": "https://wallstreetcn.com/articles/3765829",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 01时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 02时44分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -690,19 +952,32 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 01时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 02时44分]"
         },
         {
           "title": "特斯拉首辆Cybercab下线：没有方向盘和踏板的汽车终于来了",
           "url": "https://wallstreetcn.com/articles/3765831",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 01时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 02时44分]"
+        },
+        {
+          "title": "AI先驱李飞飞的初创公司World Labs融资10亿美元，英伟达参投",
+          "url": "https://wallstreetcn.com/livenews/3056417",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时52分 ~ 02时44分]"
         },
         {
           "title": "巴菲特交棒前最后一份13F：减持苹果和美银 加仓能源与保险",
@@ -712,8 +987,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 01时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 02时44分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -723,8 +998,52 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 01时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 02时44分]"
+        },
+        {
+          "title": "贝森特和沃什的“导师”，德鲁肯米勒Q4“精准”开仓金融股ETF、标普等权重ETF和巴西ETF",
+          "url": "https://wallstreetcn.com/articles/3765838",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时44分"
+        },
+        {
+          "title": "OpenAI聘请Instagram高管Charles Porch。 Porch将担任OpenAI的全球创新合作伙伴关系副总裁。（Vanity Fair）",
+          "url": "https://wallstreetcn.com/livenews/3056432",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时44分"
+        },
+        {
+          "title": "金十图示：2026年02月18日（周三）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260219015912053800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时44分"
+        },
+        {
+          "title": "金十图示：2026年02月18日（周三）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260219014349881800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时44分"
         },
         {
           "title": "谷歌与苹果加码生成式AI，进军音乐创作领域",
@@ -733,7 +1052,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
         },
@@ -751,119 +1070,8 @@
       ]
     },
     {
-      "keyword_group": "# --- 第五组：日本动态 (关键修改：去掉了外交限制) --- 日本 岸田文雄 自卫队 靖国神社 核污水",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "再次连任日本首相的高市早苗，啥背景？",
-          "url": "https://news.ifeng.com/c/8qqh0pKi2AT",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 01时52分]"
-        },
-        {
-          "title": "日本高市早苗内阁集体辞职",
-          "url": "https://www.cls.cn/detail/2291375",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 01时52分]"
-        },
-        {
-          "title": "中领馆再次提醒近期避免前往日本",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E9%A2%86%E9%A6%86%E5%86%8D%E6%AC%A1%E6%8F%90%E9%86%92%E8%BF%91%E6%9C%9F%E9%81%BF%E5%85%8D%E5%89%8D%E5%BE%80%E6%97%A5%E6%9C%AC",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 01时52分]"
-        },
-        {
-          "title": "高市早苗确认当选日本新任首相，将着手组建新内阁，此前旧内阁集体辞职，这会给日本政坛带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2007370042841462456",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 01时52分]"
-        },
-        {
-          "title": "据日经新闻：日本政府计划最早于四月公布立法修正案，对机上使用移动电源设定更严格的限制。",
-          "url": "https://flash.jin10.com/detail/20260219002734497800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 01时52分]"
-        },
-        {
-          "title": "据日经新闻：日本国土交通省将对乘客携带上飞机的移动电源数量实施新限制。",
-          "url": "https://flash.jin10.com/detail/20260219002646572800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 01时52分]"
-        },
-        {
-          "title": "据日经新闻：日本拟禁止在客运航班上使用充电宝。",
-          "url": "https://flash.jin10.com/detail/20260219002450206800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 01时52分]"
-        },
-        {
-          "title": "高市早苗：希望日本央行与政府密切合作，以持久实现通胀目标",
-          "url": "https://flash.jin10.com/detail/20260218235340774800",
-          "source": "金十数据",
-          "ranks": [
-            22,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 01时52分]"
-        },
-        {
-          "title": "日本教练谈苏翊鸣：最难那关挺过来了",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%95%99%E7%BB%83%E8%B0%88%E8%8B%8F%E7%BF%8A%E9%B8%A3%EF%BC%9A%E6%9C%80%E9%9A%BE%E9%82%A3%E5%85%B3%E6%8C%BA%E8%BF%87%E6%9D%A5%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时51分 ~ 01时52分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "# --- 第六组：俄乌局势 --- 俄乌 俄罗斯 乌克兰 普京 泽连斯基 北约",
-      "match_count": 8,
+      "match_count": 12,
       "titles": [
         {
           "title": "会谈结束后，俄乌双方表态",
@@ -873,8 +1081,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时51分 ~ 01时52分]"
+          "appearance_count": 3,
+          "time_info": "[01时51分 ~ 02时44分]"
         },
         {
           "title": "伊朗与俄罗斯将举行海上联合军演",
@@ -885,8 +1093,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 01时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 02时44分]"
         },
         {
           "title": "声明显示，俄罗斯正在重新考虑其在和平委员会问题上的立场。",
@@ -899,6 +1107,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时57分 ~ 01时52分]"
+        },
+        {
+          "title": "WTI原油日内涨幅达3.5%，报64.44美元/桶。 布伦特原油日内涨幅达3.5%，报69.78美元/桶。 日内瓦会谈结束，乌克兰总统泽连斯基职责俄方拖延谈判进程。",
+          "url": "https://wallstreetcn.com/livenews/3056408",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时52分 ~ 02时44分]"
         },
         {
           "title": "俄罗斯2月16日当周CPI周环比上升0.12%。",
@@ -948,22 +1168,179 @@
           "time_info": "00时57分"
         },
         {
-          "title": "WTI原油日内涨幅达3.5%，报64.44美元/桶。 布伦特原油日内涨幅达3.5%，报69.78美元/桶。 日内瓦会谈结束，乌克兰总统泽连斯基职责俄方拖延谈判进程。",
-          "url": "https://wallstreetcn.com/livenews/3056408",
-          "source": "华尔街见闻-快讯",
+          "title": "乌克兰总统泽连斯基：希望下一轮谈判于二月举行。",
+          "url": "https://flash.jin10.com/detail/20260219021552145800",
+          "source": "金十数据",
           "ranks": [
-            12
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时52分"
+          "time_info": "02时44分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：政治问题需要进一步研究处理。",
+          "url": "https://flash.jin10.com/detail/20260219021540679800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时44分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：乌克兰与俄罗斯在军事层面的会谈富有实质性内容。",
+          "url": "https://flash.jin10.com/detail/20260219021526434800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时44分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：（谈及与俄罗斯的谈判）还不能说结果已经足够。",
+          "url": "https://flash.jin10.com/detail/20260219021517761800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# --- 第五组：日本动态 (关键修改：去掉了外交限制) --- 日本 岸田文雄 自卫队 靖国神社 核污水",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "再次连任日本首相的高市早苗，啥背景？",
+          "url": "https://news.ifeng.com/c/8qqh0pKi2AT",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 02时44分]"
+        },
+        {
+          "title": "日本高市早苗内阁集体辞职",
+          "url": "https://www.cls.cn/detail/2291375",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 02时44分]"
+        },
+        {
+          "title": "中领馆再次提醒近期避免前往日本",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E9%A2%86%E9%A6%86%E5%86%8D%E6%AC%A1%E6%8F%90%E9%86%92%E8%BF%91%E6%9C%9F%E9%81%BF%E5%85%8D%E5%89%8D%E5%BE%80%E6%97%A5%E6%9C%AC",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 02时44分]"
+        },
+        {
+          "title": "高市早苗确认当选日本新任首相，将着手组建新内阁，此前旧内阁集体辞职，这会给日本政坛带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2007370042841462456",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 02时44分]"
+        },
+        {
+          "title": "日本教练谈苏翊鸣：最难那关挺过来了",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%95%99%E7%BB%83%E8%B0%88%E8%8B%8F%E7%BF%8A%E9%B8%A3%EF%BC%9A%E6%9C%80%E9%9A%BE%E9%82%A3%E5%85%B3%E6%8C%BA%E8%BF%87%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时51分 ~ 02时44分]"
+        },
+        {
+          "title": "据日经新闻：日本政府计划最早于四月公布立法修正案，对机上使用移动电源设定更严格的限制。",
+          "url": "https://flash.jin10.com/detail/20260219002734497800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时57分 ~ 01时52分]"
+        },
+        {
+          "title": "据日经新闻：日本国土交通省将对乘客携带上飞机的移动电源数量实施新限制。",
+          "url": "https://flash.jin10.com/detail/20260219002646572800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时57分 ~ 01时52分]"
+        },
+        {
+          "title": "据日经新闻：日本拟禁止在客运航班上使用充电宝。",
+          "url": "https://flash.jin10.com/detail/20260219002450206800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时57分 ~ 01时52分]"
+        },
+        {
+          "title": "高市早苗：希望日本央行与政府密切合作，以持久实现通胀目标",
+          "url": "https://flash.jin10.com/detail/20260218235340774800",
+          "source": "金十数据",
+          "ranks": [
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时57分 ~ 01时52分]"
         }
       ]
     },
     {
       "keyword_group": "# --- 第二组：中国经济与A股 (保留宽泛的行情词) --- A股 上证 深证 恒生 人民币 汇率 经济 GDP",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普将前往佐治亚州，讨论经适性（经济承受能力）问题。",
+          "url": "https://wallstreetcn.com/livenews/3056442",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时44分"
+        },
         {
           "title": "春晚炸场、春运载客......低空经济这个春节“忙坏了”",
           "url": "https://www.cls.cn/detail/2291208",
@@ -972,8 +1349,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 01时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 02时44分]"
         }
       ]
     }
