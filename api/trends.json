@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-04-15T04:02:49.300537+08:00",
-  "total_titles_processed": 473,
+  "generated_at": "2026-04-15T05:45:27.842563+08:00",
+  "total_titles_processed": 547,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- 第三组：美国宏观与军事 --- 美国 白宫 五角大楼 美军 美联储 布林肯 拜登 特朗普",
-      "match_count": 61,
+      "match_count": 84,
       "titles": [
+        {
+          "title": "美军或加码对伊海上封锁，多支舰队向霍尔木兹海峡集结",
+          "url": "https://news.ifeng.com/c/8sKBLNnH6hI",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 05时45分]"
+        },
         {
           "title": "伊朗战争丨特朗普：美伊谈判可能在未来两天恢复",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
@@ -41,15 +53,16 @@
           "time_info": "[00时59分 ~ 04时02分]"
         },
         {
-          "title": "美军或加码对伊海上封锁，多支舰队向霍尔木兹海峡集结",
-          "url": "https://news.ifeng.com/c/8sKBLNnH6hI",
+          "title": "特朗普赐两杯“毒酒”，万斯干了",
+          "url": "https://news.ifeng.com/c/8sJrQz1Ewfw",
           "source": "凤凰网",
           "ranks": [
-            4
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 04时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 05时45分]"
         },
         {
           "title": "上万美军正封锁进出伊朗港口船只",
@@ -59,8 +72,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时08分 ~ 04时02分]"
+          "appearance_count": 3,
+          "time_info": "[02时08分 ~ 05时45分]"
+        },
+        {
+          "title": "伊朗战争丨美军上调对伊朗战事伤员人数：近400人",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时45分"
         },
         {
           "title": "据福克斯新闻：美国白宫将于当地时间周三举行报税日新闻发布会，美国财政部长贝森特和小企业管理局局长洛夫勒将出席。",
@@ -69,9 +93,42 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
+        },
+        {
+          "title": "委内瑞拉代总统罗德里格斯：美国颁发的许可并不能提供长期的法律保障，对委内瑞拉的制裁应当予以解除。将倾听石油公司关于能源行业的建议和意见。",
+          "url": "https://flash.jin10.com/detail/20260415051720953800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时45分"
+        },
+        {
+          "title": "芝商所CME：批准Kodiak仓库在美国伊利诺伊州进行铜仓储业务",
+          "url": "https://wallstreetcn.com/livenews/3087991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时45分"
+        },
+        {
+          "title": "上万美军正在封锁进出伊朗港口船只",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E4%B8%87%E7%BE%8E%E5%86%9B%E6%AD%A3%E5%9C%A8%E5%B0%81%E9%94%81%E8%BF%9B%E5%87%BA%E4%BC%8A%E6%9C%97%E6%B8%AF%E5%8F%A3%E8%88%B9%E5%8F%AA",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 05时45分]"
         },
         {
           "title": "市场消息：有报道称，以色列正与美国及欧洲国家保持接触，以确保胡塞武装不会策划干扰海上航运。",
@@ -91,9 +148,31 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
+        },
+        {
+          "title": "据网络状况监测网站DownDetector：用户报告显示，美国境内X出现故障。",
+          "url": "https://flash.jin10.com/detail/20260415051545620800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时45分"
+        },
+        {
+          "title": "美国法官：OpenAI高管Assailant将因袭击CEO Altman而被继续羁押，对其提讯被推后至5月5日。（彭博法律BLAW）",
+          "url": "https://wallstreetcn.com/livenews/3087988",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时45分"
         },
         {
           "title": "美国汽油、柴油价格创同期历史新高",
@@ -107,6 +186,19 @@
           "time_info": "02时08分"
         },
         {
+          "title": "美军已开始对进出霍尔木兹海峡的船只进行阻截，封锁所有伊朗港口的船只，此举将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2027155979582666052",
+          "source": "知乎",
+          "ranks": [
+            10,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 05时45分]"
+        },
+        {
           "title": "美国汽油、柴油价格创同期历史新高",
           "url": "https://wallstreetcn.com/livenews/3087911",
           "source": "华尔街见闻-快讯",
@@ -118,26 +210,26 @@
           "time_info": "02时08分"
         },
         {
-          "title": "上万美军正在封锁进出伊朗港口船只",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E4%B8%87%E7%BE%8E%E5%86%9B%E6%AD%A3%E5%9C%A8%E5%B0%81%E9%94%81%E8%BF%9B%E5%87%BA%E4%BC%8A%E6%9C%97%E6%B8%AF%E5%8F%A3%E8%88%B9%E5%8F%AA",
+          "title": "伊朗副总统讽刺白宫",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%89%AF%E6%80%BB%E7%BB%9F%E8%AE%BD%E5%88%BA%E7%99%BD%E5%AE%AB",
           "source": "百度热搜",
           "ranks": [
-            6
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 04时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 05时45分]"
         },
         {
-          "title": "特朗普赐两杯“毒酒”，万斯干了",
-          "url": "https://news.ifeng.com/c/8sJrQz1Ewfw",
-          "source": "凤凰网",
+          "title": "曝伊朗称暂停铀浓缩5年 特朗普拒绝",
+          "url": "https://www.toutiao.com/trending/7628414997059784242/",
+          "source": "今日头条",
           "ranks": [
-            6
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 04时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 05时45分]"
         },
         {
           "title": "市场消息：两名美国官员表示，美国将允许针对海上伊朗石油的临时制裁豁免于本周到期失效。",
@@ -176,16 +268,16 @@
           "time_info": "[01时01分 ~ 02时08分]"
         },
         {
-          "title": "美军已开始对进出霍尔木兹海峡的船只进行阻截，封锁所有伊朗港口的船只，此举将带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2027155979582666052",
+          "title": "孙宇晨指控「特朗普家族」旗下加密货币公司 WLF 单方面冻结其资产，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2027301230691596085",
           "source": "知乎",
           "ranks": [
-            10,
-            8
+            11,
+            17
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时59分 ~ 04时02分]"
+          "time_info": "[00时59分 ~ 05时45分]"
         },
         {
           "title": "伊朗副总统讽刺白宫沦为以分支机构",
@@ -195,28 +287,6 @@
             20,
             25,
             13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 04时02分]"
-        },
-        {
-          "title": "伊朗副总统讽刺白宫",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%89%AF%E6%80%BB%E7%BB%9F%E8%AE%BD%E5%88%BA%E7%99%BD%E5%AE%AB",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 04时02分]"
-        },
-        {
-          "title": "曝伊朗称暂停铀浓缩5年 特朗普拒绝",
-          "url": "https://www.toutiao.com/trending/7628414997059784242/",
-          "source": "今日头条",
-          "ranks": [
-            16
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -234,15 +304,15 @@
           "time_info": "[00时59分 ~ 02时08分]"
         },
         {
-          "title": "孙宇晨指控「特朗普家族」旗下加密货币公司 WLF 单方面冻结其资产，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2027301230691596085",
-          "source": "知乎",
+          "title": "特朗普说伊朗没牌了遭北约盟友打脸",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E4%BC%8A%E6%9C%97%E6%B2%A1%E7%89%8C%E4%BA%86%E9%81%AD%E5%8C%97%E7%BA%A6%E7%9B%9F%E5%8F%8B%E6%89%93%E8%84%B8%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时59分 ~ 02时08分]"
+          "time_info": "[02时08分 ~ 05时45分]"
         },
         {
           "title": "美国官员表示，美国海军目前并未为任何船只提供通过霍尔木兹海峡的护航。 但已向商船（未进入或驶离伊朗港口的船只）传达该航道通行安全，并鼓励通行。 美国并未对海峡实施全面封锁，仅对沿伊朗整个海岸线进出伊朗港口的船只实施封锁。（CNN）",
@@ -257,15 +327,38 @@
           "time_info": "[01时01分 ~ 02时08分]"
         },
         {
-          "title": "特朗普说伊朗没牌了遭北约盟友打脸",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E4%BC%8A%E6%9C%97%E6%B2%A1%E7%89%8C%E4%BA%86%E9%81%AD%E5%8C%97%E7%BA%A6%E7%9B%9F%E5%8F%8B%E6%89%93%E8%84%B8%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
+          "title": "美军拦截进出霍尔木兹船只",
+          "url": "https://www.toutiao.com/trending/7628253264286322182/",
+          "source": "今日头条",
           "ranks": [
-            11
+            30,
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时08分 ~ 04时02分]"
+          "time_info": "[04时02分 ~ 05时45分]"
+        },
+        {
+          "title": "特朗普暗示美伊“未来两天”或重启伊斯兰堡会谈",
+          "url": "https://news.ifeng.com/c/8sKPIktXF3q",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时45分"
+        },
+        {
+          "title": "委内瑞拉代总统Delcy Rodriguez：与美国需要长期的能源合作关系。 美国的许可（许可证）并不能提供长期的法律保障，应当取消对委内瑞拉的制裁。 目前正在听取石油公司的建议，以及对能源行业的意见。",
+          "url": "https://wallstreetcn.com/livenews/3087984",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时45分"
         },
         {
           "title": "美军上调对伊朗战事伤员人数：近400人",
@@ -274,7 +367,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
@@ -285,7 +378,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
@@ -307,7 +400,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
@@ -329,7 +422,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
@@ -362,7 +455,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
@@ -373,7 +466,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
@@ -395,9 +488,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
+        },
+        {
+          "title": "霍尔木兹海峡恢复部分通航，美军封锁伊朗港口持续",
+          "url": "https://wallstreetcn.com/livenews/3087979",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时45分"
         },
         {
           "title": "美联储古尔斯比：到目前为止，消费者仍在持续消费。",
@@ -417,7 +521,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
@@ -439,7 +543,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
@@ -461,7 +565,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
@@ -483,9 +587,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
+        },
+        {
+          "title": "白宫顾问哈塞特赞赏“凯文·沃什将掌管美联储”。",
+          "url": "https://wallstreetcn.com/livenews/3087976",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时45分"
         },
         {
           "title": "美国国务院：呼吁黎巴嫩停火并采取措施应对人道主义危机。各方同意在双方商定的时间和地点启动直接谈判。",
@@ -494,7 +609,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
@@ -516,9 +631,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
+        },
+        {
+          "title": "美国至4月10日当周API投产原油量 -14.5万桶/日，前值7.1万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260415043835551800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时45分"
         },
         {
           "title": "周二（4月14日），美联储隔夜逆回购协议（RRP）使用规模为3.06亿美元（交易对手13家），上个交易日报2.27亿美元。",
@@ -538,9 +664,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
+        },
+        {
+          "title": "白宫顾问哈塞特谈AI，称：（正在）提高小企业和大公司的生产力。",
+          "url": "https://wallstreetcn.com/livenews/3087974",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时45分"
         },
         {
           "title": "英海事分析公司：美国实施封锁后 仍有部分船舶通过霍尔木兹海峡",
@@ -560,9 +697,53 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
+        },
+        {
+          "title": "美国至4月10日当周API成品油进口 7万桶/日，前值7.4万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260415043827350800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时45分"
+        },
+        {
+          "title": "美国至4月10日当周API原油进口 -33.6万桶，前值-59.3万桶。",
+          "url": "https://flash.jin10.com/detail/20260415043822948800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时45分"
+        },
+        {
+          "title": "美国至4月10日当周API取暖油库存 -22.8万桶，前值-9.2万桶。",
+          "url": "https://flash.jin10.com/detail/20260415043818592800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时45分"
+        },
+        {
+          "title": "行业周报：美国上周API原油库存增超600万桶",
+          "url": "https://wallstreetcn.com/livenews/3087970",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时45分"
         },
         {
           "title": "欧洲央行管委马赫鲁夫：美联储和欧洲央行短期内走向不同道路并非不可能。",
@@ -574,6 +755,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
+        },
+        {
+          "title": "美国至4月10日当周API库欣原油库存 -168.4万桶，前值-62.9万桶。",
+          "url": "https://flash.jin10.com/detail/20260415043811467800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时45分"
         },
         {
           "title": "特朗普称对意大利总理“不帮助美国”表示震惊",
@@ -604,9 +796,31 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
+        },
+        {
+          "title": "美国至4月10日当周API精炼油库存 -336.3万桶，预期-250万桶，前值-59.9万桶。",
+          "url": "https://flash.jin10.com/detail/20260415043805045800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时45分"
+        },
+        {
+          "title": "美国至4月10日当周API汽油库存 62.6万桶，预期-221.2万桶，前值-396.8万桶。",
+          "url": "https://flash.jin10.com/detail/20260415043758159800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时45分"
         },
         {
           "title": "伊朗议员：将继续参与谈判 同时挫败美国阴谋",
@@ -615,9 +829,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
+        },
+        {
+          "title": "美国至4月10日当周API原油库存 610.1万桶，预期-126.6万桶，前值371.9万桶。",
+          "url": "https://flash.jin10.com/detail/20260415043748055800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时45分"
         },
         {
           "title": "英海事分析公司：美国实施封锁后 仍有部分船舶通过霍尔木兹海峡",
@@ -626,7 +851,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
@@ -637,9 +862,31 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周二（4月14日），美国科技股七巨头（Magnificent 7）指数涨2.78%，报202.71点。 “超大”市值科技股指数涨2.73%，报391.92点。",
+          "url": "https://wallstreetcn.com/livenews/3087965",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时45分"
+        },
+        {
+          "title": "白宫表示，有103艘空船正驶向美国港口装载石油。（据美国哥伦比亚广播公司CBS）",
+          "url": "https://wallstreetcn.com/livenews/3087964",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时45分"
         },
         {
           "title": "沃什的美联储主席提名资格听证会时间确定，距离鲍威尔任期结束不足一个月",
@@ -648,7 +895,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
@@ -664,6 +911,17 @@
           "time_info": "01时01分"
         },
         {
+          "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在04:32前后获得数据详情。",
+          "url": "https://wallstreetcn.com/livenews/3087962",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时45分"
+        },
+        {
           "title": "报道：美国参议员蒂利斯仍计划阻止沃什的美联储主席提名获得通过",
           "url": "https://wallstreetcn.com/livenews/3087865",
           "source": "华尔街见闻-快讯",
@@ -675,21 +933,21 @@
           "time_info": "01时01分"
         },
         {
-          "title": "美军拦截进出霍尔木兹船只",
-          "url": "https://www.toutiao.com/trending/7628253264286322182/",
-          "source": "今日头条",
+          "title": "美国参议院多数党领袖约翰·图恩（John Thune）：（总统特朗普派兵）封锁霍尔木兹海峡是必要的，太聪明了。",
+          "url": "https://wallstreetcn.com/livenews/3087958",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时02分"
+          "time_info": "05时45分"
         }
       ]
     },
     {
       "keyword_group": "# --- 第一组：中国宏观 (去掉了必须词，只过滤娱乐) --- 中国 央视 外交部 国防部 解放军 人民日报 新华社",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "央视曝光：7亿建的农业基地不干农业",
@@ -699,8 +957,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 04时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 05时45分]"
         },
         {
           "title": "高中学了不少数学知识，但现实生活中能用上吗？人民日报刊发丘成桐回信",
@@ -710,8 +968,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 04时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 05时45分]"
         },
         {
           "title": "新华社18秒视频让美国前高官焦虑了",
@@ -721,8 +979,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 04时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 05时45分]"
         },
         {
           "title": "人民日报：飞絮治理急不得也停不得",
@@ -733,8 +991,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 04时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 05时45分]"
         },
         {
           "title": "美方封锁进出伊朗港口船只，外交部表态",
@@ -748,6 +1006,18 @@
           "time_info": "[00时59分 ~ 04时02分]"
         },
         {
+          "title": "中国3月按美元计出口同比增长2.5%，进口同比增27.8%",
+          "url": "https://wallstreetcn.com/articles/3769900",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 05时45分]"
+        },
+        {
           "title": "外交部：如果美方执意以所谓“军品出口”为借口对华加征关税，中方必将坚决反制",
           "url": "https://m.thepaper.cn/newsDetail_forward_32967224",
           "source": "澎湃新闻",
@@ -756,30 +1026,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 04时02分]"
-        },
-        {
-          "title": "中国3月按美元计出口同比增长2.5%，进口同比增27.8%",
-          "url": "https://wallstreetcn.com/articles/3769900",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 04时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 05时45分]"
         },
         {
           "title": "欧盟拟将钢铁关税翻倍至50%，寻求“遏制中国廉价进口”",
           "url": "https://news.ifeng.com/c/8sK3rkuYnHa",
           "source": "凤凰网",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 04时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 05时45分]"
         },
         {
           "title": "外国人一季度买了50亿元中国保温杯",
@@ -788,22 +1048,24 @@
           "ranks": [
             30,
             10,
-            25
+            25,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 04时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 05时45分]"
         },
         {
           "title": "美国正在“阻击”中国车",
           "url": "https://www.douyin.com/hot/2464769",
           "source": "抖音",
           "ranks": [
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 04时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 05时45分]"
         },
         {
           "title": "受贿4139万余元，中国兵器装备集团原副总经理刘卫东一审被判13年",
@@ -815,8 +1077,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 04时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 05时45分]"
         },
         {
           "title": "美国学生不敢来华，美媒担忧：未来“中国通”要断代了",
@@ -826,8 +1088,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 04时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 05时45分]"
         },
         {
           "title": "外交部就美军拟在菲新建燃料库答澎湃：有的地区成员不计后果拉域外国家给自己撑腰",
@@ -838,8 +1100,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 04时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 05时45分]"
         },
         {
           "title": "孙卫东卸任外交部副部长",
@@ -849,8 +1111,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 04时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 05时45分]"
         },
         {
           "title": "外交部：中方从不承认印度非法设立的所谓“阿鲁纳恰尔邦”",
@@ -860,8 +1122,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 04时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 05时45分]"
         },
         {
           "title": "lululemon中国市场成救命稻草",
@@ -872,8 +1134,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 04时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 05时45分]"
         },
         {
           "title": "央视重锤!AI造黄产业链被扒",
@@ -883,20 +1145,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 04时02分]"
-        },
-        {
-          "title": "外国泡面厂商不觊觎中国市场吗?",
-          "url": "https://www.zhihu.com/question/338502431",
-          "source": "知乎",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时08分 ~ 04时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 05时45分]"
         },
         {
           "title": "日本警方再次逮捕强闯中国使馆自卫官",
@@ -904,22 +1154,71 @@
           "source": "今日头条",
           "ranks": [
             20,
-            22
+            22,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时08分 ~ 04时02分]"
+          "appearance_count": 3,
+          "time_info": "[02时08分 ~ 05时45分]"
+        },
+        {
+          "title": "外国泡面厂商不觊觎中国市场吗?",
+          "url": "https://www.zhihu.com/question/338502431",
+          "source": "知乎",
+          "ranks": [
+            18,
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时08分 ~ 05时45分]"
         },
         {
           "title": "外交部回应韩国标注中国台湾",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E9%9F%A9%E5%9B%BD%E6%A0%87%E6%B3%A8%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%23&t=31&band_rank=25&Refer=top",
           "source": "微博",
           "ranks": [
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时08分 ~ 05时45分]"
+        },
+        {
+          "title": "孙卫东卸任外交部副部长",
+          "url": "https://www.toutiao.com/trending/7628431394586886163/",
+          "source": "今日头条",
+          "ranks": [
+            26,
             25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时08分 ~ 04时02分]"
+          "time_info": "[04时02分 ~ 05时45分]"
+        },
+        {
+          "title": "变天之后，匈牙利新政府将如何对待中国？",
+          "url": "https://news.ifeng.com/c/8sKUEQgerfO",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时45分"
+        },
+        {
+          "title": "为什么在中国邮箱不流行？",
+          "url": "https://www.zhihu.com/question/378318261",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时45分"
         },
         {
           "title": "据福克斯新闻：福克斯新闻（Fox）报道：美国众议院穆伦纳尔（Moolenaar）要求美国国防部长赫格塞斯向空客公司施压，涉及卫星图像问题。",
@@ -928,7 +1227,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
@@ -939,18 +1238,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时02分"
-        },
-        {
-          "title": "孙卫东卸任外交部副部长",
-          "url": "https://www.toutiao.com/trending/7628431394586886163/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         }
@@ -958,7 +1246,7 @@
     },
     {
       "keyword_group": "# --- 第二组：中国经济与A股 (保留宽泛的行情词) --- A股 上证 深证 恒生 人民币 汇率 经济 GDP",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "人民币成原油贸易第二大结算货币",
@@ -968,19 +1256,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 04时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 05时45分]"
         },
         {
           "title": "美伊交涉现进展，标普收复冲突以来跌幅，人民币三年新高，油价冲高回落",
           "url": "https://wallstreetcn.com/articles/3769784",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 04时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 05时45分]"
         },
         {
           "title": "赏花经济点亮乡村振兴新图景",
@@ -990,8 +1279,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时08分 ~ 04时02分]"
+          "appearance_count": 3,
+          "time_info": "[02时08分 ~ 05时45分]"
         },
         {
           "title": "辽宁省「砍掉」21 家省级经开区，对经济发展和产业结构优化有何影响？",
@@ -1000,11 +1289,12 @@
           "ranks": [
             17,
             16,
-            15
+            15,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 04时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 05时45分]"
         },
         {
           "title": "德商银行CEO：德国经济前景已减弱。",
@@ -1013,7 +1303,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
@@ -1029,13 +1319,35 @@
           "time_info": "01时01分"
         },
         {
+          "title": "周二（4月14日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报6.8108元，较周一纽约尾盘涨89点，日内整体交投于6.8207-6.8059元区间。 日线图上，离岸人民币逼近2023年2月10日顶部6.7898元、当年1月16日顶部6.6975元。",
+          "url": "https://wallstreetcn.com/livenews/3087982",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时45分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：我们今年绝对可以实现4%的增长。",
+          "url": "https://flash.jin10.com/detail/20260415044500788800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时45分"
+        },
+        {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8156元，较周一夜盘收盘涨144点。成交量446.54亿美元。",
           "url": "https://wallstreetcn.com/livenews/3087931",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
@@ -1046,7 +1358,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
@@ -1057,7 +1369,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
@@ -1068,9 +1380,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
+        },
+        {
+          "title": "白宫顾问哈塞特：美国民众的实际收入增速非常高。 相信今年经济将保持强劲增速。 预计今年肯定能实现4%的增长。",
+          "url": "https://wallstreetcn.com/livenews/3087969",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时45分"
         },
         {
           "title": "美联储理事Barr并未置评FOMC货币政策或美国经济。",
@@ -1109,8 +1432,19 @@
     },
     {
       "keyword_group": "# --- 第四组：美股与科技 (去掉了具体的“财报”限制) --- 美股 纳指 道琼斯 标普 特斯拉 英伟达 苹果 微软 OpenAI",
-      "match_count": 10,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "美伊和谈预期升温，美股债齐涨，纳指十连涨，原油下挫，黄金升破4800关口",
+          "url": "https://wallstreetcn.com/articles/3769897",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时45分"
+        },
         {
           "title": "微软驳斥关于其取消碳业务的传闻",
           "url": "https://wallstreetcn.com/livenews/3087942",
@@ -1118,9 +1452,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
+        },
+        {
+          "title": "周二（4月14日）纽约尾盘，标普500股指期货最终涨1.16%，道指期货涨0.73%，纳斯达克100股指期货涨1.74%。 罗素2000股指期货涨1.32%。",
+          "url": "https://wallstreetcn.com/livenews/3087985",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时45分"
         },
         {
           "title": "英伟达推出全球首个开源量子AI模型",
@@ -1130,8 +1475,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 04时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 05时45分]"
+        },
+        {
+          "title": "OpenAI推出Cyber紧咬Anthropic，AI漏洞挖掘能力引监管层忧虑",
+          "url": "https://flash.jin10.com/detail/20260415045655489800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时45分"
         },
         {
           "title": "微软将接管挪威Stargate Data Center（星际之门数据中心），该项目原本是为OpenAI准备的。",
@@ -1151,9 +1507,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
+        },
+        {
+          "title": "全球AI芯片被一家味精厂卡脖子？份额超95%，英伟达也得排队抢产能",
+          "url": "https://wallstreetcn.com/articles/3769939",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时45分"
         },
         {
           "title": "英伟达(NVDA.O)涨幅达3%。",
@@ -1200,6 +1567,17 @@
           "time_info": "01时01分"
         },
         {
+          "title": "纳斯达克网络安全ETF收跌0.63%，ETFMG网络安全ETF跌1.08%，整体高开低走，OpenAI发布网络AI模型后跌幅略微收窄。",
+          "url": "https://wallstreetcn.com/livenews/3087968",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时45分"
+        },
+        {
           "title": "标普500指数涨幅扩大至1%，电信板块涨3%，可选消费板块涨2.5%，科技板块涨1%，能源板块跌2.2%。",
           "url": "https://wallstreetcn.com/livenews/3087871",
           "source": "华尔街见闻-快讯",
@@ -1209,6 +1587,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
+        },
+        {
+          "title": "美股存储芯片指数收涨超2.4%，继续创收盘历史新高",
+          "url": "https://wallstreetcn.com/livenews/3087963",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时45分"
         },
         {
           "title": "微软将接管OpenAI在挪威数据中心的租约",
@@ -1246,7 +1635,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
@@ -1258,8 +1647,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 04时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 05时45分]"
         },
         {
           "title": "克宫称俄乌将以“另一种方式”谈判",
@@ -1269,8 +1658,20 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 02时08分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 05时45分]"
+        },
+        {
+          "title": "王毅同俄罗斯外长拉夫罗夫会谈",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E5%90%8C%E4%BF%84%E7%BD%97%E6%96%AF%E5%A4%96%E9%95%BF%E6%8B%89%E5%A4%AB%E7%BD%97%E5%A4%AB%E4%BC%9A%E8%B0%88",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时02分 ~ 05时45分]"
         },
         {
           "title": "据国际文传电讯社：俄罗斯喀山一座火药厂发生火灾。",
@@ -1304,17 +1705,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时08分"
-        },
-        {
-          "title": "王毅同俄罗斯外长拉夫罗夫会谈",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E5%90%8C%E4%BF%84%E7%BD%97%E6%96%AF%E5%A4%96%E9%95%BF%E6%8B%89%E5%A4%AB%E7%BD%97%E5%A4%AB%E4%BC%9A%E8%B0%88",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时02分"
         }
       ]
     },
@@ -1330,8 +1720,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 04时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 05时45分]"
         },
         {
           "title": "IMF：日本央行等主要央行暂无迫切必要加息",
