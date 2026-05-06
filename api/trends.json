@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07T06:47:59.527408+08:00",
-  "total_titles_processed": 534,
+  "generated_at": "2026-05-07T07:45:23.459422+08:00",
+  "total_titles_processed": 601,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- 第三组：美国宏观与军事 --- 美国 白宫 五角大楼 美军 美联储 布林肯 拜登 特朗普",
-      "match_count": 74,
+      "match_count": 83,
       "titles": [
         {
           "title": "中方再回应特朗普访华",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时26分 ~ 06时47分]"
+          "appearance_count": 5,
+          "time_info": "[01时26分 ~ 07时45分]"
         },
         {
           "title": "美军部署超10万个人工智能体，欲打造“算法铁幕”谋求算法霸权",
@@ -24,11 +24,12 @@
           "source": "澎湃新闻",
           "ranks": [
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时26分 ~ 06时47分]"
+          "appearance_count": 5,
+          "time_info": "[01时26分 ~ 07时45分]"
         },
         {
           "title": "伊朗战争丨特朗普预估美伊“一周”达成协议",
@@ -37,9 +38,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时47分 ~ 07时45分]"
+        },
+        {
+          "title": "伊朗确认前往美国参加世界杯：将在开赛前14天抵美",
+          "url": "https://news.ifeng.com/c/8sv8uru6xCR",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时47分 ~ 07时45分]"
         },
         {
           "title": "美国总统特朗普：我认为油价会涨到200到250美元。现在是100美元。即使涨到200美元，也值得。",
@@ -51,6 +63,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
+        },
+        {
+          "title": "美联储高官“放鹰”：风险已转向通胀上行，不排除加息",
+          "url": "https://flash.jin10.com/detail/20260507074132618800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了7个对手方的16.33亿美元。",
@@ -108,15 +131,42 @@
           "time_info": "03时28分"
         },
         {
-          "title": "伊朗确认前往美国参加世界杯：将在开赛前14天抵美",
-          "url": "https://news.ifeng.com/c/8sv8uru6xCR",
-          "source": "凤凰网",
+          "title": "韩国产业通商资源部长官称，将在6月份过后宣布有关美国投资计划的信息。（NewSis）",
+          "url": "https://wallstreetcn.com/livenews/3099613",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时47分"
+          "time_info": "07时45分"
+        },
+        {
+          "title": "知情人士：白宫认为与伊朗接近达成停战谅解备忘录",
+          "url": "https://www.cls.cn/detail/2363872",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时26分 ~ 07时45分]"
+        },
+        {
+          "title": "特朗普：如果伊朗同意美方条款，“史诗怒火”行动将宣告结束",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33102780",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时28分 ~ 07时45分]"
         },
         {
           "title": "特朗普对美伊达成协议再表乐观 同时威胁轰炸",
@@ -141,27 +191,18 @@
           "time_info": "03时28分"
         },
         {
-          "title": "美国政府正考虑开采军事基地下的石油以补充战储",
-          "url": "https://flash.jin10.com/detail/20260507062625750800",
-          "source": "金十数据",
+          "title": "特朗普称暂停“自由计划”行动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33100608",
+          "source": "澎湃新闻",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时47分"
-        },
-        {
-          "title": "知情人士：白宫认为与伊朗接近达成停战谅解备忘录",
-          "url": "https://www.cls.cn/detail/2363872",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
+            11,
+            12,
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时26分 ~ 06时47分]"
+          "appearance_count": 5,
+          "time_info": "[01时26分 ~ 07时45分]"
         },
         {
           "title": "美国军方希望开发一种成本低于25万美元的拦截器。（华尔街日报）",
@@ -169,11 +210,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            16
+            16,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时44分 ~ 06时47分]"
+          "appearance_count": 3,
+          "time_info": "[05时44分 ~ 07时45分]"
         },
         {
           "title": "周三（5月6日），美联储隔夜逆回购协议（RRP）使用规模为16.33亿美元（交易对手7家），上个交易日报11.22亿美元。",
@@ -188,30 +230,42 @@
           "time_info": "[01时26分 ~ 03时28分]"
         },
         {
-          "title": "特朗普称暂停“自由计划”行动",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33100608",
-          "source": "澎湃新闻",
+          "title": "美国政府正考虑开采军事基地下的石油以补充战储",
+          "url": "https://flash.jin10.com/detail/20260507062625750800",
+          "source": "金十数据",
           "ranks": [
-            11,
-            12,
-            15
+            5,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时26分 ~ 06时47分]"
+          "appearance_count": 2,
+          "time_info": "[06时47分 ~ 07时45分]"
         },
         {
-          "title": "特朗普：如果伊朗同意美方条款，“史诗怒火”行动将宣告结束",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33102780",
-          "source": "澎湃新闻",
+          "title": "Anthropic为何成了美国安全威胁",
+          "url": "https://search.bilibili.com/all?keyword=Anthropic%E4%B8%BA%E4%BD%95%E6%88%90%E4%BA%86%E7%BE%8E%E5%9B%BD%E5%AE%89%E5%85%A8%E5%A8%81%E8%83%81",
+          "source": "bilibili 热搜",
           "ranks": [
-            16,
-            14,
-            6
+            23,
+            30,
+            20
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[03时28分 ~ 06时47分]"
+          "time_info": "[05时44分 ~ 07时45分]"
+        },
+        {
+          "title": "特朗普称暂停自由计划行动",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%9A%82%E5%81%9C%E8%87%AA%E7%94%B1%E8%AE%A1%E5%88%92%E8%A1%8C%E5%8A%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25,
+            29,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时44分 ~ 07时45分]"
         },
         {
           "title": "美国军方希望开发一种成本低于25万美元的拦截器。",
@@ -226,6 +280,18 @@
           "time_info": "[05时44分 ~ 06时47分]"
         },
         {
+          "title": "美国民主党议员要求政府披露“以色列核武详情”",
+          "url": "https://wallstreetcn.com/livenews/3099598",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时47分 ~ 07时45分]"
+        },
+        {
           "title": "伊朗官员：美军动用所有军事手段也无法开通霍尔木兹海峡",
           "url": "https://flash.jin10.com/detail/20260507051942098800",
           "source": "金十数据",
@@ -236,6 +302,42 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时44分 ~ 06时47分]"
+        },
+        {
+          "title": "美国民主党议员要求政府披露“以色列核武详情”",
+          "url": "https://flash.jin10.com/detail/20260507062014437800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时47分 ~ 07时45分]"
+        },
+        {
+          "title": "美国：考虑利用军事基地地下的石油资源来补充战略储备",
+          "url": "https://wallstreetcn.com/livenews/3099596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时47分 ~ 07时45分]"
+        },
+        {
+          "title": "美联储6月维持利率不变的概率为93.5%",
+          "url": "https://flash.jin10.com/detail/20260507060225746800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时47分 ~ 07时45分]"
         },
         {
           "title": "Meta支持的Scale AI获五角大楼5亿美元AI合同",
@@ -250,6 +352,30 @@
           "time_info": "[05时44分 ~ 06时47分]"
         },
         {
+          "title": "美国商务部长就爱泼斯坦案闭门作证",
+          "url": "https://wallstreetcn.com/livenews/3099592",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时47分 ~ 07时45分]"
+        },
+        {
+          "title": "肯·格里芬：因美国纽约市长“趣味低俗”的税务视频，城堡投资正扩张迈阿密业务",
+          "url": "https://wallstreetcn.com/livenews/3099588",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时47分 ~ 07时45分]"
+        },
+        {
           "title": "美国财政部权衡在回购市场中发挥作用，以进行现金和流动性管理",
           "url": "https://wallstreetcn.com/livenews/3099569",
           "source": "华尔街见闻-快讯",
@@ -262,28 +388,15 @@
           "time_info": "[05时44分 ~ 06时47分]"
         },
         {
-          "title": "Anthropic为何成了美国安全威胁",
-          "url": "https://search.bilibili.com/all?keyword=Anthropic%E4%B8%BA%E4%BD%95%E6%88%90%E4%BA%86%E7%BE%8E%E5%9B%BD%E5%AE%89%E5%85%A8%E5%A8%81%E8%83%81",
-          "source": "bilibili 热搜",
+          "title": "【早报】油价大幅跳水！特朗普：美伊“很有可能”达成协议；以军在停火期间突袭贝鲁特",
+          "url": "https://www.cls.cn/detail/2364367",
+          "source": "财联社热门",
           "ranks": [
-            23,
-            30
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时44分 ~ 06时47分]"
-        },
-        {
-          "title": "特朗普称暂停自由计划行动",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%9A%82%E5%81%9C%E8%87%AA%E7%94%B1%E8%AE%A1%E5%88%92%E8%A1%8C%E5%8A%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时44分 ~ 06时47分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
         },
         {
           "title": "美国总统特朗普：对伊朗问题从不设最后期限，协议终将达成，但不会设定最后期限。",
@@ -308,17 +421,6 @@
           "time_info": "01时26分"
         },
         {
-          "title": "美国民主党议员要求政府披露“以色列核武详情”",
-          "url": "https://wallstreetcn.com/livenews/3099598",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时47分"
-        },
-        {
           "title": "美军在阿曼湾截停伊朗籍空油轮，称其违反美方封锁",
           "url": "https://flash.jin10.com/detail/20260507011223424800",
           "source": "金十数据",
@@ -341,17 +443,6 @@
           "time_info": "03时28分"
         },
         {
-          "title": "美国民主党议员要求政府披露“以色列核武详情”",
-          "url": "https://flash.jin10.com/detail/20260507062014437800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时47分"
-        },
-        {
           "title": "特朗普：即使石油价格涨到200美元，也值得",
           "url": "https://wallstreetcn.com/livenews/3099535",
           "source": "华尔街见闻-快讯",
@@ -361,6 +452,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
+        },
+        {
+          "title": "朝鲜常驻联合国代表：美国等国无端指责朝拥核国家地位",
+          "url": "https://wallstreetcn.com/livenews/3099610",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
         },
         {
           "title": "美国总统特朗普：我们希望所有伊朗人都能活着。",
@@ -374,15 +476,37 @@
           "time_info": "03时28分"
         },
         {
-          "title": "美国：考虑利用军事基地地下的石油资源来补充战略储备",
-          "url": "https://wallstreetcn.com/livenews/3099596",
+          "title": "欧洲议会首席谈判代表贝恩德·朗格表示，关于欧盟与美国的贸易协定，谈判已取得良好进展，但仍有一定距离。下一次三方会谈将于5月19日在斯特拉斯堡举行。",
+          "url": "https://flash.jin10.com/detail/20260507071320288800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
+        },
+        {
+          "title": "摩根大通推出新指数，追踪6400家美国私营公司",
+          "url": "https://wallstreetcn.com/livenews/3099609",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时47分"
+          "time_info": "07时45分"
+        },
+        {
+          "title": "伊朗高层回击美媒：所谓的“和谈进展”只是美国的愿望清单，而非现实",
+          "url": "https://wallstreetcn.com/articles/3771674",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
         },
         {
           "title": "美国军方：周三，美军在阿曼湾使一艘悬挂伊朗国旗、试图驶向伊朗港口的空载油轮丧失能力。",
@@ -429,17 +553,6 @@
           "time_info": "03时28分"
         },
         {
-          "title": "美联储6月维持利率不变的概率为93.5%",
-          "url": "https://flash.jin10.com/detail/20260507060225746800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时47分"
-        },
-        {
           "title": "美联储Goolsbee：生产率上升可能抑制通胀，也可能推高通胀",
           "url": "https://wallstreetcn.com/livenews/3099501",
           "source": "华尔街见闻-快讯",
@@ -473,15 +586,15 @@
           "time_info": "03时28分"
         },
         {
-          "title": "美国商务部长就爱泼斯坦案闭门作证",
-          "url": "https://wallstreetcn.com/livenews/3099592",
-          "source": "华尔街见闻-快讯",
+          "title": "市场消息：韩国工业部长表示，有关美国的投资计划将在6月后公布。",
+          "url": "https://flash.jin10.com/detail/20260507065806049800",
+          "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时47分"
+          "time_info": "07时45分"
         },
         {
           "title": "美联储古尔斯比：生产率上升对通胀的影响仍然是一个活跃的辩论话题。",
@@ -493,6 +606,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
+        },
+        {
+          "title": "朝鲜常驻联合国代表：美国等国无端指责朝拥核国家地位",
+          "url": "https://flash.jin10.com/detail/20260507065421859800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
         },
         {
           "title": "伊朗：尚未回应美国对伊方14点提议的看法",
@@ -559,17 +683,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
-        },
-        {
-          "title": "肯·格里芬：因美国纽约市长“趣味低俗”的税务视频，城堡投资正扩张迈阿密业务",
-          "url": "https://wallstreetcn.com/livenews/3099588",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时47分"
         },
         {
           "title": "以色列总理内塔尼亚胡：美国总统特朗普和我一致认为，伊朗最重要的目标是消除所有浓缩铀并拆除伊朗的浓缩能力。",
@@ -839,7 +952,7 @@
     },
     {
       "keyword_group": "# --- 第一组：中国宏观 (去掉了必须词，只过滤娱乐) --- 中国 央视 外交部 国防部 解放军 人民日报 新华社",
-      "match_count": 39,
+      "match_count": 41,
       "titles": [
         {
           "title": "世界杯转播费对中国开价是印度10倍",
@@ -849,8 +962,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时26分 ~ 06时47分]"
+          "appearance_count": 5,
+          "time_info": "[01时26分 ~ 07时45分]"
         },
         {
           "title": "中国强硬拒绝世界杯天价转播费",
@@ -860,8 +973,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时26分 ~ 06时47分]"
+          "appearance_count": 5,
+          "time_info": "[01时26分 ~ 07时45分]"
         },
         {
           "title": "三星：停止在中国市场销售所有家电产品",
@@ -872,8 +985,55 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时26分 ~ 06时47分]"
+          "appearance_count": 5,
+          "time_info": "[01时26分 ~ 07时45分]"
+        },
+        {
+          "title": "国足没进世界杯，为何国际足联要对央视狮子大开口，要天价世界杯转播费？国际足联就不怕得罪中国市场？",
+          "url": "https://www.zhihu.com/question/2034748243603633994",
+          "source": "知乎",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时26分 ~ 07时45分]"
+        },
+        {
+          "title": "便利中国游 轻松中国购",
+          "url": "https://www.toutiao.com/trending/7636757439035117102/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时26分 ~ 07时45分]"
+        },
+        {
+          "title": "来中国玩的外国人更多了",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A5%E4%B8%AD%E5%9B%BD%E7%8E%A9%E7%9A%84%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9B%B4%E5%A4%9A%E4%BA%86%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时26分 ~ 07时45分]"
+        },
+        {
+          "title": "央视曝光“私家车变移动卧铺”现象",
+          "url": "https://www.toutiao.com/trending/7636590148435607588/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时26分 ~ 07时45分]"
         },
         {
           "title": "中方回应英方制裁中国实体",
@@ -888,51 +1048,19 @@
           "time_info": "[01时26分 ~ 06时47分]"
         },
         {
-          "title": "国足没进世界杯，为何国际足联要对央视狮子大开口，要天价世界杯转播费？国际足联就不怕得罪中国市场？",
-          "url": "https://www.zhihu.com/question/2034748243603633994",
-          "source": "知乎",
+          "title": "三星宣布在中国大陆市场停止销售含电视、显示器在内的所有家电产品",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33102792",
+          "source": "澎湃新闻",
           "ranks": [
-            4,
+            14,
+            10,
+            8,
             3,
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时26分 ~ 06时47分]"
-        },
-        {
-          "title": "便利中国游 轻松中国购",
-          "url": "https://www.toutiao.com/trending/7636757439035117102/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时26分 ~ 06时47分]"
-        },
-        {
-          "title": "来中国玩的外国人更多了",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A5%E4%B8%AD%E5%9B%BD%E7%8E%A9%E7%9A%84%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9B%B4%E5%A4%9A%E4%BA%86%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时26分 ~ 06时47分]"
-        },
-        {
-          "title": "央视曝光“私家车变移动卧铺”现象",
-          "url": "https://www.toutiao.com/trending/7636590148435607588/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时26分 ~ 06时47分]"
+          "appearance_count": 5,
+          "time_info": "[01时26分 ~ 07时45分]"
         },
         {
           "title": "阿拉格齐称访华富有成果，中国认为战前战后的伊朗完全不同",
@@ -941,9 +1069,46 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时47分 ~ 07时45分]"
+        },
+        {
+          "title": "中国航天招志愿者最新消息：能玩手机",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E6%8B%9B%E5%BF%97%E6%84%BF%E8%80%85%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF%EF%BC%9A%E8%83%BD%E7%8E%A9%E6%89%8B%E6%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时26分 ~ 07时45分]"
+        },
+        {
+          "title": "2026美加墨世界杯转播权涨到3亿美元，央视选择拒绝",
+          "url": "https://news.ifeng.com/c/8suhPHNQp2Y",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时26分 ~ 07时45分]"
+        },
+        {
+          "title": "为什么特朗普“不得不”常买中国货",
+          "url": "https://news.ifeng.com/c/8sugghRWW2t",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时26分 ~ 07时45分]"
         },
         {
           "title": "被问及可能达成的协议是否包括伊朗将其高丰度浓缩铀转运出境、或许运往美国时，特朗普回答道：“是的，不是‘或许’，它会被运往美国。” 特朗普还说，伊朗还将承诺不运行地下核设施，并“将在相当长一段时间内本着善意遵守这一安排”。（新华社）",
@@ -957,42 +1122,91 @@
           "time_info": "01时26分"
         },
         {
-          "title": "三星宣布在中国大陆市场停止销售含电视、显示器在内的所有家电产品",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33102792",
+          "title": "2000飙至30万！美农业部长甩锅：怪中国",
+          "url": "https://news.ifeng.com/c/8stvW3IMKAo",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时26分 ~ 07时45分]"
+        },
+        {
+          "title": "韩民众对中国好感度达6年最高",
+          "url": "https://www.douyin.com/hot/2490025",
+          "source": "抖音",
+          "ranks": [
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时26分 ~ 07时45分]"
+        },
+        {
+          "title": "中国航天员中心招募卧床实验志愿者：最高拿7万元，但不能玩手机",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33101875",
           "source": "澎湃新闻",
           "ranks": [
+            12,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时26分 ~ 07时45分]"
+        },
+        {
+          "title": "世界杯中国赞助商投入超5亿美元",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%AD%E5%9B%BD%E8%B5%9E%E5%8A%A9%E5%95%86%E6%8A%95%E5%85%A5%E8%B6%855%E4%BA%BF%E7%BE%8E%E5%85%83%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
             14,
-            10,
-            8,
-            3
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时26分 ~ 06时47分]"
+          "appearance_count": 5,
+          "time_info": "[01时26分 ~ 07时45分]"
         },
         {
-          "title": "2026美加墨世界杯转播权涨到3亿美元，央视选择拒绝",
-          "url": "https://news.ifeng.com/c/8suhPHNQp2Y",
-          "source": "凤凰网",
+          "title": "战后日本军演首次在境外发射进攻性导弹，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33101670",
+          "source": "澎湃新闻",
           "ranks": [
-            6,
-            7
+            13,
+            14,
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时26分 ~ 06时47分]"
+          "appearance_count": 5,
+          "time_info": "[01时26分 ~ 07时45分]"
         },
         {
-          "title": "为什么特朗普“不得不”常买中国货",
-          "url": "https://news.ifeng.com/c/8sugghRWW2t",
-          "source": "凤凰网",
+          "title": "转播权18亿,央视不惯臭毛病",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354029&amp;topic_name=%E8%BD%AC%E6%92%AD%E6%9D%8318%E4%BA%BF%2C%E5%A4%AE%E8%A7%86%E4%B8%8D%E6%83%AF%E8%87%AD%E6%AF%9B%E7%97%85",
+          "source": "贴吧",
           "ranks": [
-            7,
-            8
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时26分 ~ 06时47分]"
+          "appearance_count": 5,
+          "time_info": "[01时26分 ~ 07时45分]"
+        },
+        {
+          "title": "中国强硬拒绝世界杯天价转播费",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%BC%BA%E7%A1%AC%E6%8B%92%E7%BB%9D%E4%B8%96%E7%95%8C%E6%9D%AF%E5%A4%A9%E4%BB%B7%E8%BD%AC%E6%92%AD%E8%B4%B9%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时26分 ~ 07时45分]"
         },
         {
           "title": "中国驻佛得角大使馆：涉疫邮轮上无中国公民",
@@ -1002,17 +1216,6 @@
             6,
             7,
             10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时26分 ~ 06时47分]"
-        },
-        {
-          "title": "2000飙至30万！美农业部长甩锅：怪中国",
-          "url": "https://news.ifeng.com/c/8stvW3IMKAo",
-          "source": "凤凰网",
-          "ranks": [
-            9
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -1033,93 +1236,6 @@
           "time_info": "[01时26分 ~ 06时47分]"
         },
         {
-          "title": "中国航天招志愿者最新消息：能玩手机",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E6%8B%9B%E5%BF%97%E6%84%BF%E8%80%85%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF%EF%BC%9A%E8%83%BD%E7%8E%A9%E6%89%8B%E6%9C%BA",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时26分 ~ 06时47分]"
-        },
-        {
-          "title": "韩民众对中国好感度达6年最高",
-          "url": "https://www.douyin.com/hot/2490025",
-          "source": "抖音",
-          "ranks": [
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时26分 ~ 06时47分]"
-        },
-        {
-          "title": "中国航天员中心招募卧床实验志愿者：最高拿7万元，但不能玩手机",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33101875",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时26分 ~ 06时47分]"
-        },
-        {
-          "title": "世界杯中国赞助商投入超5亿美元",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%AD%E5%9B%BD%E8%B5%9E%E5%8A%A9%E5%95%86%E6%8A%95%E5%85%A5%E8%B6%855%E4%BA%BF%E7%BE%8E%E5%85%83%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时26分 ~ 06时47分]"
-        },
-        {
-          "title": "战后日本军演首次在境外发射进攻性导弹，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33101670",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            14,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时26分 ~ 06时47分]"
-        },
-        {
-          "title": "转播权18亿,央视不惯臭毛病",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354029&amp;topic_name=%E8%BD%AC%E6%92%AD%E6%9D%8318%E4%BA%BF%2C%E5%A4%AE%E8%A7%86%E4%B8%8D%E6%83%AF%E8%87%AD%E6%AF%9B%E7%97%85",
-          "source": "贴吧",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时26分 ~ 06时47分]"
-        },
-        {
-          "title": "中国强硬拒绝世界杯天价转播费",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%BC%BA%E7%A1%AC%E6%8B%92%E7%BB%9D%E4%B8%96%E7%95%8C%E6%9D%AF%E5%A4%A9%E4%BB%B7%E8%BD%AC%E6%92%AD%E8%B4%B9%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时26分 ~ 06时47分]"
-        },
-        {
           "title": "外交部回应“赖清德外窜返台飞行许可被拒”",
           "url": "https://news.ifeng.com/c/8suKYGACl9u",
           "source": "凤凰网",
@@ -1129,6 +1245,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时26分 ~ 05时44分]"
+        },
+        {
+          "title": "市场消息：据一位知情人士透露，特朗普政府正在研究利用美国军事基地及国防部其他场所地下的石油资源，以补充国家日益减少的应急储备。",
+          "url": "https://flash.jin10.com/detail/20260507054528380800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时47分 ~ 07时45分]"
         },
         {
           "title": "巴基斯坦会买中国土耳其2款五代机吗",
@@ -1141,6 +1269,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时28分 ~ 05时44分]"
+        },
+        {
+          "title": "外交部回应日在海外发射进攻型导弹",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E6%97%A5%E5%9C%A8%E6%B5%B7%E5%A4%96%E5%8F%91%E5%B0%84%E8%BF%9B%E6%94%BB%E5%9E%8B%E5%AF%BC%E5%BC%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时44分 ~ 07时45分]"
         },
         {
           "title": "【伊朗提出可行方案：永久结束战争，解除海上封锁，恢复正常通行】伊朗常驻联合国代表团当地时间5月6日表示，霍尔木兹海峡问题的唯一切实可行解决方案就是永久结束战争，解除海上封锁，恢复正常通行。代表团还表示，美国以“航行自由”为借口，在联合国安理会推进一项不完整且带有政治动机的决议草案，目的是推进其政治议程并合法化其非法行为，而非解决危机。美国和以色列2月28日对伊朗发动军事打击后，伊朗封锁了霍尔木兹海峡。美国自4月13日起对往来伊朗港口的船只实施封锁。目前，美伊谈判目前陷入僵局，霍尔木兹海峡通航持续受阻。 (央视新闻)",
@@ -1165,6 +1305,17 @@
           "time_info": "01时26分"
         },
         {
+          "title": "硬刚国际足联 中国这次在争什么",
+          "url": "https://www.baidu.com/s?wd=%E7%A1%AC%E5%88%9A%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94+%E4%B8%AD%E5%9B%BD%E8%BF%99%E6%AC%A1%E5%9C%A8%E4%BA%89%E4%BB%80%E4%B9%88",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
+        },
+        {
           "title": "伊朗国防部发言人：美国必须和以色列保持距离",
           "url": "https://flash.jin10.com/detail/20260507010103699800",
           "source": "金十数据",
@@ -1187,15 +1338,15 @@
           "time_info": "05时44分"
         },
         {
-          "title": "市场消息：据一位知情人士透露，特朗普政府正在研究利用美国军事基地及国防部其他场所地下的石油资源，以补充国家日益减少的应急储备。",
-          "url": "https://flash.jin10.com/detail/20260507054528380800",
-          "source": "金十数据",
+          "title": "为什么中国人对玉石情有独钟，而欧美人兴趣不浓？",
+          "url": "https://www.zhihu.com/question/21386973",
+          "source": "知乎",
           "ranks": [
-            16
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时47分"
+          "time_info": "07时45分"
         },
         {
           "title": "阿联酋外交部：与国际伙伴、国防伙伴的关系属于主权问题。",
@@ -1226,7 +1377,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时47分"
         },
@@ -1275,17 +1426,6 @@
           "time_info": "01时26分"
         },
         {
-          "title": "外交部回应日在海外发射进攻型导弹",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E6%97%A5%E5%9C%A8%E6%B5%B7%E5%A4%96%E5%8F%91%E5%B0%84%E8%BF%9B%E6%94%BB%E5%9E%8B%E5%AF%BC%E5%BC%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时44分"
-        },
-        {
           "title": "伊朗外交部发言人：德黑兰方面尚未向巴基斯坦传达其针对美国就伊朗“14点提议”所持观点的回复。（伊朗国家广播IRIB）",
           "url": "https://wallstreetcn.com/livenews/3099481",
           "source": "华尔街见闻-快讯",
@@ -1300,7 +1440,7 @@
     },
     {
       "keyword_group": "# --- 第四组：美股与科技 (去掉了具体的“财报”限制) --- 美股 纳指 道琼斯 标普 特斯拉 英伟达 苹果 微软 OpenAI",
-      "match_count": 21,
+      "match_count": 25,
       "titles": [
         {
           "title": "美伊局势暂趋缓和，芯片股力挺标普纳指新高，原油下挫，盘后AMD大涨",
@@ -1308,11 +1448,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时26分 ~ 06时47分]"
+          "appearance_count": 5,
+          "time_info": "[01时26分 ~ 07时45分]"
         },
         {
           "title": "和英伟达“站在光里”！康宁拟十倍扩产光连接产能",
@@ -1323,8 +1464,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时26分 ~ 06时47分]"
+          "appearance_count": 5,
+          "time_info": "[01时26分 ~ 07时45分]"
         },
         {
           "title": "美伊前景未明，美股高开，半导体股走强，康宁大涨17%，油价跌幅收窄至6%",
@@ -1345,9 +1486,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时47分 ~ 07时45分]"
         },
         {
           "title": "道指涨超1.4%，重返5万点关口上方。标普涨1.4%，纳指涨1.9%。",
@@ -1361,6 +1502,17 @@
           "time_info": "03时28分"
         },
         {
+          "title": "Snap收涨0.33%，美股盘后跌9.17%。",
+          "url": "https://wallstreetcn.com/livenews/3099620",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
+        },
+        {
           "title": "OpenAI：我们推出B2B Signals，这是OpenAI Signals的商业扩展版。",
           "url": "https://flash.jin10.com/detail/20260507030831224800",
           "source": "金十数据",
@@ -1370,6 +1522,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
+        },
+        {
+          "title": "美股收盘：纳指、标普再创新高 AMD、康宁接力暴涨 中概股表现亮眼",
+          "url": "https://www.cls.cn/detail/2364348",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
+        },
+        {
+          "title": "英伟达康宁签长期协议：康宁光学连接产能将提升10倍，英伟达获至多1800万股认购权",
+          "url": "https://wallstreetcn.com/articles/3771670",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时28分 ~ 07时45分]"
         },
         {
           "title": "美伊停战预期升温 美股期指齐涨 原油大跌 | 今夜看点",
@@ -1382,18 +1558,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时26分 ~ 06时47分]"
-        },
-        {
-          "title": "英伟达康宁签长期协议：康宁光学连接产能将提升10倍，英伟达获至多1800万股认购权",
-          "url": "https://wallstreetcn.com/articles/3771670",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时28分 ~ 06时47分]"
         },
         {
           "title": "为什么美股在大涨特涨，巴菲特等金融专家却在持续减持？",
@@ -1445,6 +1609,18 @@
           "time_info": "[05时44分 ~ 06时47分]"
         },
         {
+          "title": "周四亚太盘初，标普股指期货、纳指期货跌超0.1%。 WTI原油期货跌超0.4%，延续周三收跌超7%的表现。",
+          "url": "https://wallstreetcn.com/livenews/3099593",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时47分 ~ 07时45分]"
+        },
+        {
           "title": "美股大类资产类ETF普遍收涨，新兴市场ETF涨3.2%，黄金ETF涨3%，布油基金跌约8%",
           "url": "https://wallstreetcn.com/livenews/3099572",
           "source": "华尔街见闻-快讯",
@@ -1480,15 +1656,26 @@
           "time_info": "03时28分"
         },
         {
-          "title": "周四亚太盘初，标普股指期货、纳指期货跌超0.1%。 WTI原油期货跌超0.4%，延续周三收跌超7%的表现。",
-          "url": "https://wallstreetcn.com/livenews/3099593",
-          "source": "华尔街见闻-快讯",
+          "title": "OpenAI：Uber(UBER.N)使用OpenAI为人工智能助手和语音功能提供支持。",
+          "url": "https://flash.jin10.com/detail/20260507064154537800",
+          "source": "金十数据",
           "ranks": [
-            10
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时47分"
+          "time_info": "07时45分"
+        },
+        {
+          "title": "英伟达宣布与康宁建立长期合作关系",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%AE%A3%E5%B8%83%E4%B8%8E%E5%BA%B7%E5%AE%81%E5%BB%BA%E7%AB%8B%E9%95%BF%E6%9C%9F%E5%90%88%E4%BD%9C%E5%85%B3%E7%B3%BB%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
         },
         {
           "title": "康宁公司（GLW）维持超过14%的涨幅，持稳于185美元附近，美股盘初曾达到195.81美元——盘中涨幅超过20.79%。 英伟达拟向该公司投资高达32亿美元，签署大规模光纤协议并新建三座AI专用工厂。",
@@ -1549,7 +1736,7 @@
     },
     {
       "keyword_group": "# --- 第二组：中国经济与A股 (保留宽泛的行情词) --- A股 上证 深证 恒生 人民币 汇率 经济 GDP",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "一图看懂 | 全球AI链迎史诗级共振暴涨，A股市场跑出了哪些“黑马”？",
@@ -1560,8 +1747,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时26分 ~ 06时47分]"
+          "appearance_count": 5,
+          "time_info": "[01时26分 ~ 07时45分]"
         },
         {
           "title": "美联储古尔斯比：如果人工智能如宣传的那样优秀，那将是“美妙的”，但美联储仍需警惕经济过热。",
@@ -1575,17 +1762,6 @@
           "time_info": "01时26分"
         },
         {
-          "title": "伊朗议长：“敌人”施经济压力 官民要团结应对",
-          "url": "https://flash.jin10.com/detail/20260507064052614800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时47分"
-        },
-        {
           "title": "美联储古尔斯比：如果人们提前支取未来预期收益用于今天的消费，可能会导致经济过热。",
           "url": "https://flash.jin10.com/detail/20260507011703542800",
           "source": "金十数据",
@@ -1597,26 +1773,41 @@
           "time_info": "01时26分"
         },
         {
-          "title": "机构调研摸底A股公司二季度经营，一批公司报喜订单及产能情况",
-          "url": "https://wallstreetcn.com/livenews/3099599",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时47分"
-        },
-        {
           "title": "A股大涨，成交破3.2万亿！科创50飙涨超5%，算力、存储芯片集体爆发，寒武纪、海光信息创新高",
           "url": "https://wallstreetcn.com/articles/3771617",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时26分 ~ 06时47分]"
+          "appearance_count": 5,
+          "time_info": "[01时26分 ~ 07时45分]"
+        },
+        {
+          "title": "平陆运河如何影响南方经济",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B9%B3%E9%99%86%E8%BF%90%E6%B2%B3%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E5%8D%97%E6%96%B9%E7%BB%8F%E6%B5%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时26分 ~ 07时45分]"
+        },
+        {
+          "title": "伊朗议长：“敌人”施经济压力 官民要团结应对",
+          "url": "https://flash.jin10.com/detail/20260507064052614800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时47分 ~ 07时45分]"
         },
         {
           "title": "美国芝加哥联储主席Goolsbee（2027年FOMC票委）：如果人们将未来预期的收入提前用于当前消费，很容易导致经济过热。 如果人工智能真如宣传的那样出色，那将是“一件好事”，但美联储仍需警惕经济过热。",
@@ -1655,16 +1846,16 @@
           "time_info": "[05时44分 ~ 06时47分]"
         },
         {
-          "title": "平陆运河如何影响南方经济",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B9%B3%E9%99%86%E8%BF%90%E6%B2%B3%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E5%8D%97%E6%96%B9%E7%BB%8F%E6%B5%8E",
-          "source": "bilibili 热搜",
+          "title": "机构调研摸底A股公司二季度经营，一批公司报喜订单及产能情况",
+          "url": "https://wallstreetcn.com/livenews/3099599",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            10
+            5,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时26分 ~ 06时47分]"
+          "appearance_count": 2,
+          "time_info": "[06时47分 ~ 07时45分]"
         },
         {
           "title": "周三（5月6日）纽约尾盘（周四北京时间04:59），离岸人民币（CNH）兑美元报6.8132元，较周二纽约尾盘涨138点，日内整体交投于6.8283-6.8049元区间。",
@@ -1679,6 +1870,18 @@
           "time_info": "[05时44分 ~ 06时47分]"
         },
         {
+          "title": "汇兑损失左右部分上市公司业绩，“增收不增利”拷问汇率风险管控",
+          "url": "https://wallstreetcn.com/livenews/3099595",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时47分 ~ 07时45分]"
+        },
+        {
           "title": "恒生指数主连夜盘收涨1.12%，报26423点。 恒生科技指数主连夜盘收涨1.79%，报5064点。",
           "url": "https://wallstreetcn.com/livenews/3099533",
           "source": "华尔街见闻-快讯",
@@ -1690,15 +1893,15 @@
           "time_info": "03时28分"
         },
         {
-          "title": "汇兑损失左右部分上市公司业绩，“增收不增利”拷问汇率风险管控",
-          "url": "https://wallstreetcn.com/livenews/3099595",
+          "title": "伊朗议长：“敌人”施经济压力，官民要团结应对",
+          "url": "https://wallstreetcn.com/livenews/3099604",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时47分"
+          "time_info": "07时45分"
         },
         {
           "title": "上期所原油期货2606合约夜盘收跌5.11%，报633.20元人民币/桶。 沪金夜盘收涨0.98%，沪银收涨2.80%。",
@@ -1726,7 +1929,7 @@
     },
     {
       "keyword_group": "# --- 第五组：日本动态 (关键修改：去掉了外交限制) --- 日本 岸田文雄 自卫队 靖国神社 核污水",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "美菲军演中日本发射 88 式导弹，系战后日本首次在境外发射进攻型导弹，会带来哪些风险？暴露了其什么野心？",
@@ -1737,8 +1940,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时26分 ~ 06时47分]"
+          "appearance_count": 5,
+          "time_info": "[01时26分 ~ 07时45分]"
+        },
+        {
+          "title": "高市早苗下跪看清日本丑恶嘴脸",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%B8%8B%E8%B7%AA%E7%9C%8B%E6%B8%85%E6%97%A5%E6%9C%AC%E4%B8%91%E6%81%B6%E5%98%B4%E8%84%B8%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
         },
         {
           "title": "异环横扫海外,掀翻日本游戏圈",
@@ -1748,8 +1962,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时26分 ~ 06时47分]"
+          "appearance_count": 5,
+          "time_info": "[01时26分 ~ 07时45分]"
         },
         {
           "title": "日本网红店翻车,食客集体中毒",
@@ -1759,19 +1973,31 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时26分 ~ 06时47分]"
+          "appearance_count": 5,
+          "time_info": "[01时26分 ~ 07时45分]"
         },
         {
           "title": "日本坦克究竟有多奇葩",
           "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%9D%A6%E5%85%8B%E7%A9%B6%E7%AB%9F%E6%9C%89%E5%A4%9A%E5%A5%87%E8%91%A9",
           "source": "bilibili 热搜",
           "ranks": [
-            23
+            23,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时47分 ~ 07时45分]"
+        },
+        {
+          "title": "麻辣烫日本火爆被年轻女性当成药膳",
+          "url": "https://www.toutiao.com/trending/7636222872004231204/",
+          "source": "今日头条",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时47分"
+          "time_info": "07时45分"
         },
         {
           "title": "日媒：贝森特下周将访问日本 与金融当局讨论日元疲软问题",
@@ -1788,7 +2014,7 @@
     },
     {
       "keyword_group": "# --- 第六组：俄乌局势 --- 俄乌 俄罗斯 乌克兰 普京 泽连斯基 北约",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "乌克兰首席谈判代表本周或赴美会晤威特科夫",
@@ -1807,11 +2033,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            15
+            15,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时44分 ~ 06时47分]"
+          "appearance_count": 3,
+          "time_info": "[05时44分 ~ 07时45分]"
         },
         {
           "title": "泽连斯基称乌方将“对等”回应俄方袭击",
@@ -1832,9 +2059,20 @@
           "ranks": [
             6
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时47分 ~ 07时45分]"
+        },
+        {
+          "title": "泽连斯基称乌将“对等”回应俄袭击",
+          "url": "https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E7%A7%B0%E4%B9%8C%E5%B0%86%E2%80%9C%E5%AF%B9%E7%AD%89%E2%80%9D%E5%9B%9E%E5%BA%94%E4%BF%84%E8%A2%AD%E5%87%BB",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时47分"
+          "time_info": "07时45分"
         },
         {
           "title": "报道：俄罗斯石油公司就施韦特炼油厂再次对德国采取法律行动",
