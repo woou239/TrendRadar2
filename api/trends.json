@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-10T19:45:34.375660+08:00",
-  "total_titles_processed": 1121,
+  "generated_at": "2026-05-10T21:05:05.538875+08:00",
+  "total_titles_processed": 1190,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- 第一组：中国宏观 (去掉了必须词，只过滤娱乐) --- 中国 央视 外交部 国防部 解放军 人民日报 新华社",
-      "match_count": 81,
+      "match_count": 86,
       "titles": [
         {
           "title": "太空快递跑出中国加速度",
@@ -84,8 +84,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时45分 ~ 19时45分]"
+          "appearance_count": 18,
+          "time_info": "[00时45分 ~ 21时05分]"
         },
         {
           "title": "新华体育专栏：没有中国大陆观众，世界杯是完整的吗？",
@@ -111,8 +111,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时45分 ~ 19时45分]"
+          "appearance_count": 18,
+          "time_info": "[00时45分 ~ 21时05分]"
         },
         {
           "title": "电影《给阿嬷的情书》评分已涨至 9.1 分，该评分在中国影史是什么水平？",
@@ -139,11 +139,23 @@
             18,
             21,
             20,
-            24
+            24,
+            22
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时45分 ~ 19时45分]"
+          "appearance_count": 18,
+          "time_info": "[00时45分 ~ 21时05分]"
+        },
+        {
+          "title": "世界杯中国转播费从 3 亿美元腰斩到 1.5 亿，这个报价怎么样？未来还会降价吗？",
+          "url": "https://www.zhihu.com/question/2036716290836883357",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时59分 ~ 21时05分]"
         },
         {
           "title": "伊朗战争丨伊朗驻华大使澄清中国油轮遇袭传言",
@@ -196,11 +208,12 @@
             9,
             8,
             6,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时45分 ~ 19时45分]"
+          "appearance_count": 18,
+          "time_info": "[00时45分 ~ 21时05分]"
         },
         {
           "title": "伊朗驻华大使：美国没法施压中国，改变对伊朗关系",
@@ -228,6 +241,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时45分 ~ 07时41分]"
+        },
+        {
+          "title": "世界杯中国转播费3亿腰斩到1.5亿美元",
+          "url": "https://www.toutiao.com/trending/7637174028100403226/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时09分 ~ 21时05分]"
         },
         {
           "title": "8名中国人在泰国拍短剧被捕",
@@ -284,15 +309,16 @@
           "time_info": "[02时51分 ~ 07时41分]"
         },
         {
-          "title": "世界杯中国转播费从 3 亿美元腰斩到 1.5 亿，这个报价怎么样？未来还会降价吗？",
-          "url": "https://www.zhihu.com/question/2036716290836883357",
-          "source": "知乎",
+          "title": "曝世界杯中国转播费报价腰斩",
+          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%AD%E5%9B%BD%E8%BD%AC%E6%92%AD%E8%B4%B9%E6%8A%A5%E4%BB%B7%E8%85%B0%E6%96%A9",
+          "source": "百度热搜",
           "ranks": [
-            1
+            1,
+            5
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[13时59分 ~ 19时45分]"
+          "time_info": "[18时09分 ~ 21时05分]"
         },
         {
           "title": "国防部：中方建造潜艇已交付巴基斯坦",
@@ -309,16 +335,27 @@
           "time_info": "[01时44分 ~ 06时37分]"
         },
         {
-          "title": "世界杯中国转播费3亿腰斩到1.5亿美元",
-          "url": "https://www.toutiao.com/trending/7637174028100403226/",
-          "source": "今日头条",
+          "title": "世乒赛女团决赛：中国vs日本",
+          "url": "https://www.douyin.com/hot/2494406",
+          "source": "抖音",
           "ranks": [
-            1,
-            2
+            1
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时09分 ~ 19时45分]"
+          "time_info": "[19时45分 ~ 21时05分]"
+        },
+        {
+          "title": "又偷?中国孩子善举被日本认领",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354154&amp;topic_name=%E5%8F%88%E5%81%B7%3F%E4%B8%AD%E5%9B%BD%E5%AD%A9%E5%AD%90%E5%96%84%E4%B8%BE%E8%A2%AB%E6%97%A5%E6%9C%AC%E8%AE%A4%E9%A2%86",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时45分 ~ 21时05分]"
         },
         {
           "title": "中国互联网金融协会互联网贷款自律工作委员会筹备组第一次会议在京召开",
@@ -349,15 +386,30 @@
           "time_info": "[07时41分 ~ 16时09分]"
         },
         {
-          "title": "曝世界杯中国转播费报价腰斩",
-          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%AD%E5%9B%BD%E8%BD%AC%E6%92%AD%E8%B4%B9%E6%8A%A5%E4%BB%B7%E8%85%B0%E6%96%A9",
-          "source": "百度热搜",
+          "title": "中国女团vs日本",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%9B%A2vs%E6%97%A5%E6%9C%AC%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
           "ranks": [
-            1
+            10,
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时09分 ~ 19时45分]"
+          "appearance_count": 4,
+          "time_info": "[18时09分 ~ 21时05分]"
+        },
+        {
+          "title": "中国潜水器发现深海生命绿洲",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%BD%9C%E6%B0%B4%E5%99%A8%E5%8F%91%E7%8E%B0%E6%B7%B1%E6%B5%B7%E7%94%9F%E5%91%BD%E7%BB%BF%E6%B4%B2%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时09分 ~ 21时05分]"
         },
         {
           "title": "中国品牌书写高质量发展新答卷",
@@ -395,17 +447,6 @@
           "time_info": "16时09分"
         },
         {
-          "title": "世乒赛女团决赛：中国vs日本",
-          "url": "https://www.douyin.com/hot/2494406",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时45分"
-        },
-        {
           "title": "李强主持召开国务院常务会议，听取全国综合交通运输体系建设情况汇报。（央视新闻）",
           "url": "https://wallstreetcn.com/livenews/3101060",
           "source": "华尔街见闻-快讯",
@@ -419,26 +460,17 @@
           "time_info": "[00时45分 ~ 05时38分]"
         },
         {
-          "title": "卡塔尔外交部长：利用霍尔木兹海峡作为施压工具只会加深危机。",
-          "url": "https://flash.jin10.com/detail/20260510193148095800",
-          "source": "金十数据",
+          "title": "陪看世乒赛中国VS日本",
+          "url": "https://search.bilibili.com/all?keyword=%E9%99%AA%E7%9C%8B%E4%B8%96%E4%B9%92%E8%B5%9B%E4%B8%AD%E5%9B%BDVS%E6%97%A5%E6%9C%AC",
+          "source": "bilibili 热搜",
           "ranks": [
-            2
+            6,
+            3,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时45分"
-        },
-        {
-          "title": "又偷?中国孩子善举被日本认领",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354154&amp;topic_name=%E5%8F%88%E5%81%B7%3F%E4%B8%AD%E5%9B%BD%E5%AD%A9%E5%AD%90%E5%96%84%E4%B8%BE%E8%A2%AB%E6%97%A5%E6%9C%AC%E8%AE%A4%E9%A2%86",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时45分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时09分 ~ 21时05分]"
         },
         {
           "title": "中国男乒晋级世乒赛决赛",
@@ -477,15 +509,16 @@
           "time_info": "13时59分"
         },
         {
-          "title": "卡塔尔外交部长告诉伊朗外长，各方应积极响应调解努力，以结束战争。",
-          "url": "https://flash.jin10.com/detail/20260510192604028800",
-          "source": "金十数据",
+          "title": "世乒赛女团决赛，中国 vs 日本，怎样评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2036848157703628439",
+          "source": "知乎",
           "ranks": [
-            4
+            20,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时45分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时45分 ~ 21时05分]"
         },
         {
           "title": "中国男团1比1法国",
@@ -500,18 +533,6 @@
           "time_info": "[06时37分 ~ 07时41分]"
         },
         {
-          "title": "陪看世乒赛中国VS日本",
-          "url": "https://search.bilibili.com/all?keyword=%E9%99%AA%E7%9C%8B%E4%B8%96%E4%B9%92%E8%B5%9B%E4%B8%AD%E5%9B%BDVS%E6%97%A5%E6%9C%AC",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时09分 ~ 19时45分]"
-        },
-        {
           "title": "沙特外交部：全力支持兄弟国家巴林王国采取的措施，以应对旨在破坏国家安全并寻求动摇巴林王国安全与稳定的活动。",
           "url": "https://flash.jin10.com/detail/20260510001654674800",
           "source": "金十数据",
@@ -522,18 +543,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时45分 ~ 01时44分]"
-        },
-        {
-          "title": "中国女团vs日本",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%9B%A2vs%E6%97%A5%E6%9C%AC%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时09分 ~ 19时45分]"
         },
         {
           "title": "卡塔尔国防部：火灾得到控制后，该船继续驶向梅赛义德港。",
@@ -548,16 +557,16 @@
           "time_info": "[18时09分 ~ 19时45分]"
         },
         {
-          "title": "中国潜水器发现深海生命绿洲",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%BD%9C%E6%B0%B4%E5%99%A8%E5%8F%91%E7%8E%B0%E6%B7%B1%E6%B5%B7%E7%94%9F%E5%91%BD%E7%BB%BF%E6%B4%B2%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
+          "title": "卡塔尔外交部长：利用霍尔木兹海峡作为施压工具只会加深危机。",
+          "url": "https://flash.jin10.com/detail/20260510193148095800",
+          "source": "金十数据",
           "ranks": [
-            15,
-            2
+            2,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时09分 ~ 19时45分]"
+          "time_info": "[19时45分 ~ 21时05分]"
         },
         {
           "title": "卡塔尔国防部：该事件导致船只上发生小规模火灾，未报告人员受伤。",
@@ -594,6 +603,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时09分 ~ 19时45分]"
+        },
+        {
+          "title": "卡塔尔外交部长告诉伊朗外长，各方应积极响应调解努力，以结束战争。",
+          "url": "https://flash.jin10.com/detail/20260510192604028800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时45分 ~ 21时05分]"
         },
         {
           "title": "中国男团1比0法国",
@@ -693,6 +714,18 @@
           "time_info": "[10时25分 ~ 13时59分]"
         },
         {
+          "title": "中国大使向英国提出严正交涉",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%A7%E4%BD%BF%E5%90%91%E8%8B%B1%E5%9B%BD%E6%8F%90%E5%87%BA%E4%B8%A5%E6%AD%A3%E4%BA%A4%E6%B6%89",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时45分 ~ 21时05分]"
+        },
+        {
           "title": "世界杯中国转播费从3亿腰斩到1.5亿",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%AD%E5%9B%BD%E8%BD%AC%E6%92%AD%E8%B4%B9%E4%BB%8E3%E4%BA%BF%E8%85%B0%E6%96%A9%E5%88%B01.5%E4%BA%BF%23&t=31&band_rank=11&Refer=top",
           "source": "微博",
@@ -718,6 +751,29 @@
           "time_info": "[16时09分 ~ 19时45分]"
         },
         {
+          "title": "卡塔尔外交部：海上航行安全是安全与稳定的基本支柱，任何情况下都不能妥协。",
+          "url": "https://flash.jin10.com/detail/20260510192047750800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时45分 ~ 21时05分]"
+        },
+        {
+          "title": "一中国公民涉嫌在泰国非法持有武器",
+          "url": "https://www.toutiao.com/trending/7637750447826632767/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时04分 ~ 21时05分]"
+        },
+        {
           "title": "电视剧《主角》今晚央视首播",
           "url": "https://www.toutiao.com/trending/7637842448181362738/",
           "source": "今日头条",
@@ -728,6 +784,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时59分 ~ 16时09分]"
+        },
+        {
+          "title": "卡塔尔外交部：此次袭击是一次“严重的升级”，威胁到该地区海上交通和重要供应的安全。",
+          "url": "https://flash.jin10.com/detail/20260510190933360800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时45分 ~ 21时05分]"
         },
         {
           "title": "伊朗外长晒访华视频感谢中国",
@@ -750,6 +818,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时25分 ~ 10时26分]"
+        },
+        {
+          "title": "卡塔尔外交部：谴责在卡塔尔水域内对货船的无人机袭击。",
+          "url": "https://flash.jin10.com/detail/20260510190736242800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时45分 ~ 21时05分]"
+        },
+        {
+          "title": "阿联酋国防部：空中防御系统成功拦截了两架来自伊朗的无人机。",
+          "url": "https://flash.jin10.com/detail/20260510184402238800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时45分 ~ 21时05分]"
         },
         {
           "title": "复盘世乒赛中国3-0韩国",
@@ -775,6 +867,28 @@
           "time_info": "[01时44分 ~ 02时52分]"
         },
         {
+          "title": "“果然是一生要出片的中国女人”",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%9E%9C%E7%84%B6%E6%98%AF%E4%B8%80%E7%94%9F%E8%A6%81%E5%87%BA%E7%89%87%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%A5%B3%E4%BA%BA%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时04分 ~ 21时05分]"
+        },
+        {
+          "title": "媒体：西方动辄撤梯子中国乐于递梯子",
+          "url": "https://www.toutiao.com/trending/7637763317838135306/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时04分 ~ 21时05分]"
+        },
+        {
           "title": "OPPO母亲节文案“两个老公”引争议，中国妇女报：品牌传播别把冒犯当创意",
           "url": "https://m.thepaper.cn/newsDetail_forward_33150512",
           "source": "澎湃新闻",
@@ -785,6 +899,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时09分 ~ 18时09分]"
+        },
+        {
+          "title": "国防部记者会点名日本和菲律宾",
+          "url": "https://www.toutiao.com/trending/7636777807171797028/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时04分 ~ 21时05分]"
         },
         {
           "title": "国际足联为中国市场低头",
@@ -809,15 +934,15 @@
           "time_info": "[10时25分 ~ 10时26分]"
         },
         {
-          "title": "卡塔尔外交部：海上航行安全是安全与稳定的基本支柱，任何情况下都不能妥协。",
-          "url": "https://flash.jin10.com/detail/20260510192047750800",
-          "source": "金十数据",
+          "title": "世界杯向中国漫天要价 央视“硬刚”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%90%91%E4%B8%AD%E5%9B%BD%E6%BC%AB%E5%A4%A9%E8%A6%81%E4%BB%B7+%E5%A4%AE%E8%A7%86%E2%80%9C%E7%A1%AC%E5%88%9A%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
-            6
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时04分 ~ 21时05分]"
         },
         {
           "title": "我领馆提醒：中国公民不要前往尼泊尔毗邻印边境地区",
@@ -831,17 +956,6 @@
           "time_info": "10时26分"
         },
         {
-          "title": "卡塔尔外交部：此次袭击是一次“严重的升级”，威胁到该地区海上交通和重要供应的安全。",
-          "url": "https://flash.jin10.com/detail/20260510190933360800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时45分"
-        },
-        {
           "title": "中国牵头全球深渊科考重大突破",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%89%B5%E5%A4%B4%E5%85%A8%E7%90%83%E6%B7%B1%E6%B8%8A%E7%A7%91%E8%80%83%E9%87%8D%E5%A4%A7%E7%AA%81%E7%A0%B4",
           "source": "bilibili 热搜",
@@ -853,35 +967,13 @@
           "time_info": "18时09分"
         },
         {
-          "title": "卡塔尔外交部：谴责在卡塔尔水域内对货船的无人机袭击。",
-          "url": "https://flash.jin10.com/detail/20260510190736242800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时45分"
-        },
-        {
-          "title": "阿联酋国防部：空中防御系统成功拦截了两架来自伊朗的无人机。",
-          "url": "https://flash.jin10.com/detail/20260510184402238800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时45分"
-        },
-        {
           "title": "又一个中国球员或能打NBA了",
           "url": "https://www.toutiao.com/trending/7637434513639505971/",
           "source": "今日头条",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时45分"
         },
@@ -897,17 +989,6 @@
           "time_info": "01时44分"
         },
         {
-          "title": "中国大使向英国提出严正交涉",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%A7%E4%BD%BF%E5%90%91%E8%8B%B1%E5%9B%BD%E6%8F%90%E5%87%BA%E4%B8%A5%E6%AD%A3%E4%BA%A4%E6%B6%89",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时45分"
-        },
-        {
           "title": "央视网更正锁电相关报道",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E7%BD%91%E6%9B%B4%E6%AD%A3%E9%94%81%E7%94%B5%E7%9B%B8%E5%85%B3%E6%8A%A5%E9%81%93%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -917,17 +998,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
-        },
-        {
-          "title": "世乒赛女团决赛，中国 vs 日本，怎样评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2036848157703628439",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时45分"
         },
         {
           "title": "中国军舰超长待机四渡对马海峡说明啥",
@@ -999,7 +1069,7 @@
     },
     {
       "keyword_group": "# --- 第三组：美国宏观与军事 --- 美国 白宫 五角大楼 美军 美联储 布林肯 拜登 特朗普",
-      "match_count": 64,
+      "match_count": 67,
       "titles": [
         {
           "title": "怕中俄再否决涉伊朗决议，美国删了",
@@ -1136,8 +1206,33 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时45分 ~ 19时45分]"
+          "appearance_count": 18,
+          "time_info": "[00时45分 ~ 21时05分]"
+        },
+        {
+          "title": "美联储高官：如果AI成了，那会加息；如果AI败了，那会滞胀",
+          "url": "https://wallstreetcn.com/articles/3771913",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时59分 ~ 21时05分]"
+        },
+        {
+          "title": "特朗普还有一场硬仗",
+          "url": "https://news.ifeng.com/c/8szUPi5xnTB",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时41分 ~ 21时05分]"
         },
         {
           "title": "意媒：特朗普“仍在考虑”调整驻意美军",
@@ -1165,19 +1260,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时25分 ~ 16时09分]"
-        },
-        {
-          "title": "美联储高官：如果AI成了，那会加息；如果AI败了，那会滞胀",
-          "url": "https://wallstreetcn.com/articles/3771913",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时59分 ~ 19时45分]"
         },
         {
           "title": "美联储降息理由日益枯竭，沃什接棒面临棘手局面",
@@ -1238,6 +1320,17 @@
           "time_info": "[06时37分 ~ 18时09分]"
         },
         {
+          "title": "伊朗战争丨伊朗已就美国的提案作出回应",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时04分 ~ 21时05分]"
+        },
+        {
           "title": "美军：继续执行对伊朗的海上封锁",
           "url": "https://wallstreetcn.com/livenews/3101090",
           "source": "华尔街见闻-快讯",
@@ -1252,18 +1345,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[04时39分 ~ 16时09分]"
-        },
-        {
-          "title": "特朗普还有一场硬仗",
-          "url": "https://news.ifeng.com/c/8szUPi5xnTB",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时41分 ~ 19时45分]"
         },
         {
           "title": "俄罗斯总统普京：美国显然并不需要乌克兰冲突，它还有诸多其他优先事项。",
@@ -1291,6 +1372,17 @@
           "time_info": "00时45分"
         },
         {
+          "title": "伊朗已回应美国提出的结束战争方案",
+          "url": "https://wallstreetcn.com/livenews/3101140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时05分"
+        },
+        {
           "title": "俄罗斯总统普京：俄罗斯愿意再次尝试储存伊朗浓缩铀，最初各方都同意这一安排，但后来美国立场转趋强硬。",
           "url": "https://flash.jin10.com/detail/20260510025043675800",
           "source": "金十数据",
@@ -1305,6 +1397,21 @@
           "time_info": "[03时54分 ~ 07时41分]"
         },
         {
+          "title": "“虎妈”时代结束？美国Beta型妈妈正在重新定义成功",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33141230",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16,
+            13,
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时59分 ~ 21时05分]"
+        },
+        {
           "title": "据伊朗塔斯尼姆通讯社：伊朗军方发言人表示，遵循美国对伊朗制裁的国家将“在穿越霍尔木兹海峡时面临困难”。",
           "url": "https://flash.jin10.com/detail/20260510134323649800",
           "source": "金十数据",
@@ -1314,6 +1421,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
+        },
+        {
+          "title": "伊朗对美国提案的回应已通过巴基斯坦转交",
+          "url": "https://flash.jin10.com/detail/20260510202448557800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时05分"
         },
         {
           "title": "通胀“高烧”不退 美国消费者信心跌至冰点",
@@ -1380,6 +1498,17 @@
           "time_info": "[10时26分 ~ 18时09分]"
         },
         {
+          "title": "美国迈阿密一船只疑似爆炸，至少11人送医",
+          "url": "https://news.ifeng.com/c/8t0fKYlLfpF",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时09分 ~ 21时05分]"
+        },
+        {
           "title": "美国总统特朗普接受法国LCJ频道采访时表示：伊朗确实希望达成协议。",
           "url": "https://flash.jin10.com/detail/20260510011547572800",
           "source": "金十数据",
@@ -1391,6 +1520,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时44分 ~ 03时54分]"
+        },
+        {
+          "title": "伊媒称美军一战机在阿曼湾遇紧急情况",
+          "url": "https://www.toutiao.com/trending/7638178061543804479/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时09分 ~ 21时05分]"
         },
         {
           "title": "美国疾控中心：汉坦病毒大规模暴发的威胁仍然较低。",
@@ -1415,20 +1557,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时45分 ~ 02时52分]"
-        },
-        {
-          "title": "“虎妈”时代结束？美国Beta型妈妈正在重新定义成功",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33141230",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            16,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时59分 ~ 19时45分]"
         },
         {
           "title": "美国公布有关UFO文件",
@@ -1481,6 +1609,19 @@
           "time_info": "[02时52分 ~ 04时39分]"
         },
         {
+          "title": "伊媒称在卡塔尔附近海域起火货船悬挂美国国旗",
+          "url": "https://wallstreetcn.com/livenews/3101122",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时09分 ~ 21时05分]"
+        },
+        {
           "title": "俄罗斯总统普京：我们感谢美国促成对话，但这仅仅是俄罗斯和乌克兰之间的问题。",
           "url": "https://flash.jin10.com/detail/20260510022323699800",
           "source": "金十数据",
@@ -1494,17 +1635,6 @@
           "time_info": "[03时54分 ~ 05时38分]"
         },
         {
-          "title": "美国迈阿密一船只疑似爆炸，至少11人送医",
-          "url": "https://news.ifeng.com/c/8t0fKYlLfpF",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时09分 ~ 19时45分]"
-        },
-        {
           "title": "行人被美国客机撞上后吸入引擎死亡",
           "url": "https://www.toutiao.com/trending/7637782113118978054/",
           "source": "今日头条",
@@ -1514,30 +1644,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时25分 ~ 10时26分]"
-        },
-        {
-          "title": "伊媒称美军一战机在阿曼湾遇紧急情况",
-          "url": "https://www.toutiao.com/trending/7638178061543804479/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时09分 ~ 19时45分]"
-        },
-        {
-          "title": "伊媒称在卡塔尔附近海域起火货船悬挂美国国旗",
-          "url": "https://wallstreetcn.com/livenews/3101122",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时09分 ~ 19时45分]"
         },
         {
           "title": "美国小型贸易商打入委内瑞拉石油市场 挑战巨头托克与维多",
@@ -1562,6 +1668,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时44分 ~ 02时52分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-10）",
+          "url": "https://flash.jin10.com/detail/20260510184554353800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时45分 ~ 21时05分]"
         },
         {
           "title": "据以色列第13频道援引一名以色列官员的话报道称，美国总统特朗普向内塔尼亚胡承诺不会放弃浓缩铀问题。",
@@ -1598,6 +1716,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时52分 ~ 03时54分]"
+        },
+        {
+          "title": "俄罗斯总统助理乌沙科夫：美国总统特使威特科夫和特朗普女婿库什纳将“很快”抵达莫斯科，俄罗斯将继续与他们对话。",
+          "url": "https://flash.jin10.com/detail/20260510182305585800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时45分 ~ 21时05分]"
         },
         {
           "title": "美国制药巨头正研发汉坦病毒疫苗",
@@ -1656,17 +1786,6 @@
           "time_info": "16时09分"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-10）",
-          "url": "https://flash.jin10.com/detail/20260510184554353800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时45分"
-        },
-        {
           "title": "西班牙卫生部长：下一批（游轮乘客）预计来是来自土耳其、法国、英国和美国。",
           "url": "https://flash.jin10.com/detail/20260510151817090800",
           "source": "金十数据",
@@ -1698,17 +1817,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
-        },
-        {
-          "title": "俄罗斯总统助理乌沙科夫：美国总统特使威特科夫和特朗普女婿库什纳将“很快”抵达莫斯科，俄罗斯将继续与他们对话。",
-          "url": "https://flash.jin10.com/detail/20260510182305585800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时45分"
         },
         {
           "title": "美国一邮轮暴发诺如病毒疫情 115人出现感染症状",
@@ -1831,11 +1939,12 @@
           "url": "https://news.ifeng.com/c/8t08yropeAv",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时25分 ~ 19时45分]"
+          "appearance_count": 8,
+          "time_info": "[10时25分 ~ 21时05分]"
         },
         {
           "title": "普京：俄中油气领域合作将迈出重大一步",
@@ -1846,8 +1955,20 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时25分 ~ 21时05分]"
+        },
+        {
+          "title": "普京出席胜利日招待会，向外国政要敬酒(图)",
+          "url": "https://news.ifeng.com/c/8t0VWlHbnmL",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[10时25分 ~ 19时45分]"
+          "time_info": "[13时59分 ~ 21时05分]"
         },
         {
           "title": "红场阅兵上为何普京没下场检阅部队",
@@ -1926,17 +2047,6 @@
           "time_info": "[00时45分 ~ 10时26分]"
         },
         {
-          "title": "普京出席胜利日招待会，向外国政要敬酒(图)",
-          "url": "https://news.ifeng.com/c/8t0VWlHbnmL",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时59分 ~ 19时45分]"
-        },
-        {
           "title": "普京：收到泽连斯基希望会晤的口信，不反对在第三国会谈",
           "url": "https://wallstreetcn.com/livenews/3101092",
           "source": "华尔街见闻-快讯",
@@ -1979,6 +2089,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时41分 ~ 16时09分]"
+        },
+        {
+          "title": "普京：俄乌冲突正走向结束",
+          "url": "https://www.cls.cn/detail/2367122",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时09分 ~ 21时05分]"
         },
         {
           "title": "据伊朗法尔斯通讯社：俄罗斯总统普京表示，美伊持续交战对谁都没好处。美伊局势极为复杂，也让俄罗斯陷入两难境地，因为我们与伊朗和阿拉伯国家都保持着良好关系。",
@@ -2024,6 +2147,21 @@
           "time_info": "[10时26分 ~ 19时45分]"
         },
         {
+          "title": "普京：俄乌冲突正走向结束",
+          "url": "https://wallstreetcn.com/livenews/3101106",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            11,
+            18,
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时59分 ~ 21时05分]"
+        },
+        {
           "title": "普京谈与泽连斯基会面：不主动，不拒绝",
           "url": "https://news.ifeng.com/c/8t08yropeAv",
           "source": "凤凰网",
@@ -2063,20 +2201,6 @@
           "time_info": "[03时54分 ~ 07时41分]"
         },
         {
-          "title": "普京：俄乌冲突正走向结束",
-          "url": "https://wallstreetcn.com/livenews/3101106",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            11,
-            18,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时59分 ~ 19时45分]"
-        },
-        {
           "title": "俄罗斯总统普京：我希望伊朗冲突尽快结束。",
           "url": "https://flash.jin10.com/detail/20260510022818298800",
           "source": "金十数据",
@@ -2096,11 +2220,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时09分 ~ 19时45分]"
+          "appearance_count": 3,
+          "time_info": "[18时09分 ~ 21时05分]"
         },
         {
           "title": "俄罗斯总统普京：斯洛伐克总理菲科告诉我，泽连斯基已准备好进行会面。",
@@ -2114,19 +2239,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时52分 ~ 04时39分]"
-        },
-        {
-          "title": "普京：俄乌冲突正走向结束",
-          "url": "https://www.cls.cn/detail/2367122",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时09分 ~ 19时45分]"
         },
         {
           "title": "俄罗斯总统普京：我们向基辅提出了囚犯交换提议，并提供了包括500名乌克兰士兵在内的名单，但乌克兰方面表示尚未做好准备。",
@@ -2254,6 +2366,30 @@
           "time_info": "[10时25分 ~ 10时26分]"
         },
         {
+          "title": "据国际文传电讯社：克里姆林宫表示，俄罗斯认为亚美尼亚向乌克兰总统泽连斯基提供了“发表反俄言论的平台”是不可接受的。",
+          "url": "https://flash.jin10.com/detail/20260510183608430800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时45分 ~ 21时05分]"
+        },
+        {
+          "title": "据塔斯社：克里姆林宫表示，俄罗斯希望亚美尼亚就乌克兰总统泽连斯基的访问提供澄清说明。",
+          "url": "https://flash.jin10.com/detail/20260510183540119800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时45分 ~ 21时05分]"
+        },
+        {
           "title": "普京：俄乌冲突“正接近尾声”",
           "url": "https://www.toutiao.com/trending/7637910193888837641/",
           "source": "今日头条",
@@ -2345,28 +2481,6 @@
           "time_info": "18时09分"
         },
         {
-          "title": "据国际文传电讯社：克里姆林宫表示，俄罗斯认为亚美尼亚向乌克兰总统泽连斯基提供了“发表反俄言论的平台”是不可接受的。",
-          "url": "https://flash.jin10.com/detail/20260510183608430800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时45分"
-        },
-        {
-          "title": "据塔斯社：克里姆林宫表示，俄罗斯希望亚美尼亚就乌克兰总统泽连斯基的访问提供澄清说明。",
-          "url": "https://flash.jin10.com/detail/20260510183540119800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时45分"
-        },
-        {
           "title": "俄罗斯胜利日阅兵",
           "url": "https://s.weibo.com/weibo?q=%E4%BF%84%E7%BD%97%E6%96%AF%E8%83%9C%E5%88%A9%E6%97%A5%E9%98%85%E5%85%B5&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -2392,7 +2506,7 @@
     },
     {
       "keyword_group": "# --- 第五组：日本动态 (关键修改：去掉了外交限制) --- 日本 岸田文雄 自卫队 靖国神社 核污水",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "国乒女团晋级决赛 将与日本队争冠",
@@ -2433,8 +2547,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时45分 ~ 19时45分]"
+          "appearance_count": 18,
+          "time_info": "[00时45分 ~ 21时05分]"
         },
         {
           "title": "安倍晋三遗孀陪赖清德跪日本人",
@@ -2467,38 +2581,62 @@
           "time_info": "[00时45分 ~ 07时41分]"
         },
         {
-          "title": "国乒男女团今天冲冠 一起迎战日本队",
-          "url": "https://www.toutiao.com/trending/7637701773985054771/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时09分 ~ 19时45分]"
-        },
-        {
           "title": "加油！国乒女团对阵日本冲击七连冠",
           "url": "https://www.toutiao.com/trending/7637484035215736859/",
           "source": "今日头条",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时45分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时45分 ~ 21时05分]"
         },
         {
           "title": "陪看：国乒女团与日本争冠",
           "url": "https://www.baidu.com/s?wd=%E9%99%AA%E7%9C%8B%EF%BC%9A%E5%9B%BD%E4%B9%92%E5%A5%B3%E5%9B%A2%E4%B8%8E%E6%97%A5%E6%9C%AC%E4%BA%89%E5%86%A0",
           "source": "百度热搜",
           "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时45分 ~ 21时05分]"
+        },
+        {
+          "title": "国乒男女团今天冲冠 一起迎战日本队",
+          "url": "https://www.toutiao.com/trending/7637701773985054771/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时09分 ~ 21时05分]"
+        },
+        {
+          "title": "“华盛顿”号航母驶离日本横须贺基地",
+          "url": "https://wallstreetcn.com/livenews/3101139",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时45分"
+          "time_info": "21时05分"
+        },
+        {
+          "title": "“华盛顿”号航母驶离日本横须贺基地",
+          "url": "https://flash.jin10.com/detail/20260510201558687800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时05分"
         },
         {
           "title": "世乒赛国乒今晚对战日本",
@@ -2525,6 +2663,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时51分 ~ 06时37分]"
+        },
+        {
+          "title": "日本导弹境外首秀命中率仅50%，小动作背后藏着大阴谋",
+          "url": "https://v.ifeng.com/c/8t0z5johSNm",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时04分 ~ 21时05分]"
         },
         {
           "title": "北约与日本拟共享卫星发射场",
@@ -2601,7 +2750,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时45分"
         },
@@ -2653,7 +2802,7 @@
     },
     {
       "keyword_group": "# --- 第四组：美股与科技 (去掉了具体的“财报”限制) --- 美股 纳指 道琼斯 标普 特斯拉 英伟达 苹果 微软 OpenAI",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "非农缓解“滞胀”担忧，美股新高，英特尔和存储芯片股暴涨，Rocket Lab绩后涨34%",
@@ -2722,6 +2871,20 @@
           "time_info": "[00时45分 ~ 16时09分]"
         },
         {
+          "title": "远超预期！刚刚过去的财报季，美股“强得惊人”",
+          "url": "https://wallstreetcn.com/articles/3771916",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时59分 ~ 21时05分]"
+        },
+        {
           "title": "英特尔、苹果据传达成芯片制造初步协议 任天堂Switch全面涨价 | 环球市场",
           "url": "https://www.cls.cn/detail/2366646",
           "source": "财联社热门",
@@ -2745,20 +2908,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[03时54分 ~ 10时26分]"
-        },
-        {
-          "title": "远超预期！刚刚过去的财报季，美股“强得惊人”",
-          "url": "https://wallstreetcn.com/articles/3771916",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            5,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时59分 ~ 19时45分]"
         },
         {
           "title": "英特尔代工迎来关键背书：苹果订单背后的产业转向",
@@ -2787,6 +2936,18 @@
           "time_info": "[07时41分 ~ 13时59分]"
         },
         {
+          "title": "苹果被曝支付巨额溢价以确保 A18 Pro 芯片的供应，反映了哪些问题？成本会转嫁给用户吗？",
+          "url": "https://www.zhihu.com/question/2035848170890948934",
+          "source": "知乎",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时45分 ~ 21时05分]"
+        },
+        {
           "title": "AI基础设施投资风向转变：AMD、英特尔与美光飙涨，英伟达光环渐褪",
           "url": "https://wallstreetcn.com/articles/3771897",
           "source": "华尔街见闻",
@@ -2797,6 +2958,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时25分 ~ 13时59分]"
+        },
+        {
+          "title": "当OpenAI和Anthropic下场“抢生意”，Palantir的真对手来了",
+          "url": "https://wallstreetcn.com/articles/3771914",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时04分 ~ 21时05分]"
         },
         {
           "title": "如何看待美股芯片交易热潮",
@@ -2819,17 +2991,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
-        },
-        {
-          "title": "苹果被曝支付巨额溢价以确保 A18 Pro 芯片的供应，反映了哪些问题？成本会转嫁给用户吗？",
-          "url": "https://www.zhihu.com/question/2035848170890948934",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时45分"
         },
         {
           "title": "狂卖80亿美元微软持仓！知名科技对冲基金“十年持股一朝清仓”",
@@ -2857,7 +3018,7 @@
     },
     {
       "keyword_group": "# --- 第二组：中国经济与A股 (保留宽泛的行情词) --- A股 上证 深证 恒生 人民币 汇率 经济 GDP",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "“精神病院炒股，成A股公司前十大股东”，最新回应",
@@ -2894,8 +3055,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时59分 ~ 16时09分]"
+          "appearance_count": 4,
+          "time_info": "[13时59分 ~ 21时05分]"
         },
         {
           "title": "下周A股追还是撤",
@@ -2908,6 +3069,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时45分 ~ 04时39分]"
+        },
+        {
+          "title": "申万宏源：A股赚钱效应累积正在质变",
+          "url": "https://www.toutiao.com/trending/7638180405157822506/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时04分 ~ 21时05分]"
         },
         {
           "title": "谁是A股核心主线",
