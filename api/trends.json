@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-17T21:15:04.085508+08:00",
-  "total_titles_processed": 1117,
+  "generated_at": "2026-05-17T22:52:51.116168+08:00",
+  "total_titles_processed": 1225,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- 第一组：中国宏观 (去掉了必须词，只过滤娱乐) --- 中国 央视 外交部 国防部 解放军 人民日报 新华社",
-      "match_count": 63,
+      "match_count": 73,
       "titles": [
         {
           "title": "中国顶流私募Q1调仓揭秘：重仓AI和半导体 中概核心稳中有调",
@@ -15,11 +15,12 @@
             1,
             2,
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时52分 ~ 21时15分]"
+          "appearance_count": 22,
+          "time_info": "[00时52分 ~ 22时52分]"
         },
         {
           "title": "中国式支付圈粉全球",
@@ -72,8 +73,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时40分 ~ 21时15分]"
+          "appearance_count": 12,
+          "time_info": "[06时40分 ~ 22时52分]"
         },
         {
           "title": "央视梳理榴莲仅退款事件",
@@ -116,6 +117,39 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时52分 ~ 10时33分]"
+        },
+        {
+          "title": "中国科学院公众科学日",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E9%99%A2%E5%85%AC%E4%BC%97%E7%A7%91%E5%AD%A6%E6%97%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            14,
+            8,
+            9,
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时32分 ~ 22时52分]"
+        },
+        {
+          "title": "UP主逛中国最大预制菜展",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%80%9B%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%A4%A7%E9%A2%84%E5%88%B6%E8%8F%9C%E5%B1%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            22,
+            21,
+            23,
+            14,
+            29,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时32分 ~ 22时52分]"
         },
         {
           "title": "媒体：央视拿下世界杯版权，背后早就藏着几个必然",
@@ -204,40 +238,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时52分 ~ 21时15分]"
-        },
-        {
-          "title": "中国科学院公众科学日",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E9%99%A2%E5%85%AC%E4%BC%97%E7%A7%91%E5%AD%A6%E6%97%A5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            14,
-            8,
-            9,
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时32分 ~ 21时15分]"
-        },
-        {
-          "title": "UP主逛中国最大预制菜展",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%80%9B%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%A4%A7%E9%A2%84%E5%88%B6%E8%8F%9C%E5%B1%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            22,
-            21,
-            23,
-            14,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时32分 ~ 21时15分]"
+          "appearance_count": 22,
+          "time_info": "[00时52分 ~ 22时52分]"
         },
         {
           "title": "戛纳电影节中国之夜",
@@ -255,6 +257,31 @@
           "time_info": "[01时52分 ~ 05时43分]"
         },
         {
+          "title": "“千里之行，始于足下”，哈萨克斯坦总统用中文感谢中国",
+          "url": "https://news.ifeng.com/c/8tCHtXG6RXQ",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时17分 ~ 22时52分]"
+        },
+        {
+          "title": "中国半年内迎来“四常”领导人",
+          "url": "https://www.toutiao.com/trending/7640700191540039195/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            24,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时17分 ~ 22时52分]"
+        },
+        {
           "title": "央视梳理“190元榴莲仅退款”全过程",
           "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%A2%B3%E7%90%86%E2%80%9C190%E5%85%83%E6%A6%B4%E8%8E%B2%E4%BB%85%E9%80%80%E6%AC%BE%E2%80%9D%E5%85%A8%E8%BF%87%E7%A8%8B",
           "source": "百度热搜",
@@ -268,6 +295,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[14时17分 ~ 21时15分]"
+        },
+        {
+          "title": "如何看待央视最终以 6500 万美元获得世界杯转播权?",
+          "url": "https://www.zhihu.com/question/2038657177729102743",
+          "source": "知乎",
+          "ranks": [
+            16,
+            15,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时17分 ~ 22时52分]"
         },
         {
           "title": "【伊朗官员：伊方制定的霍尔木兹海峡航线交通管理机制将于近期公布】当地时间5月16日，伊朗议会国家安全委员会主席阿齐兹在社交平台表示，在维护国家主权和保障国际贸易安全的框架下，伊朗已制定一套专业的霍尔木兹海峡航线交通管理机制，并将于近期正式公布。该机制仅对与伊朗合作的商船和相关方开放。伊朗将收取必要的费用，作为其通过该机制提供的专业服务的交换。该航线将继续对美国“自由计划”的参与者关闭。（央视）",
@@ -296,66 +337,52 @@
           "time_info": "[17时01分 ~ 21时15分]"
         },
         {
-          "title": "“千里之行，始于足下”，哈萨克斯坦总统用中文感谢中国",
-          "url": "https://news.ifeng.com/c/8tCHtXG6RXQ",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时17分 ~ 21时15分]"
-        },
-        {
-          "title": "中国半年内迎来“四常”领导人",
-          "url": "https://www.toutiao.com/trending/7640700191540039195/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            24,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时17分 ~ 21时15分]"
-        },
-        {
-          "title": "如何看待央视最终以 6500 万美元获得世界杯转播权?",
-          "url": "https://www.zhihu.com/question/2038657177729102743",
-          "source": "知乎",
-          "ranks": [
-            16,
-            15,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时17分 ~ 21时15分]"
-        },
-        {
           "title": "张雪机车冠军车型首次登陆中国香港",
           "url": "https://www.toutiao.com/trending/7640050555227357235/",
           "source": "今日头条",
           "ranks": [
             14,
             15,
-            17
+            17,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时01分 ~ 21时15分]"
+          "appearance_count": 7,
+          "time_info": "[17时01分 ~ 22时52分]"
         },
         {
-          "title": "我驻刚果（金）使馆提醒在刚中国公民注意防范埃博拉疫情",
-          "url": "https://flash.jin10.com/detail/20260517203903271800",
+          "title": "阿联酋国防部：一架无人机击中了巴拉卡核电站外的发电机。",
+          "url": "https://flash.jin10.com/detail/20260517220005342800",
           "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时15分"
+          "time_info": "22时52分"
+        },
+        {
+          "title": "下周重磅日程：普京访华、英伟达财报、谷歌I/O大会、中国经济数据",
+          "url": "https://wallstreetcn.com/articles/3772335",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时14分 ~ 22时52分]"
+        },
+        {
+          "title": "阿联酋国防部：已处理三架从西部边界发射的无人机。正在进行调查以确定袭击来源。",
+          "url": "https://flash.jin10.com/detail/20260517215641792800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "福克斯主持人吐槽中国结果“翻车”",
@@ -370,15 +397,37 @@
           "time_info": "[10时32分 ~ 14时17分]"
         },
         {
-          "title": "世界杯央视解说阵容亮相",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%A4%AE%E8%A7%86%E8%A7%A3%E8%AF%B4%E9%98%B5%E5%AE%B9%E4%BA%AE%E7%9B%B8",
-          "source": "百度热搜",
+          "title": "中国存储巨头重启IPO",
+          "url": "https://www.toutiao.com/trending/7640758373742919734/",
+          "source": "今日头条",
           "ranks": [
             4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时57分"
+          "time_info": "22时52分"
+        },
+        {
+          "title": "还想比肩中国？“AI时代，印度正成为最大输家之一”",
+          "url": "https://news.ifeng.com/c/8tCYxqxYOCE",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
+          "title": "阿联酋国防部：防空部队应对了三架无人机。 其中两架被拦截，一架无人机击中了巴拉卡核电站外的发电机。 正在调查袭击事件的源头。 已做好充分准备应对任何威胁。",
+          "url": "https://wallstreetcn.com/livenews/3104893",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "中国移动：将加强5G-A、6G、卫星互联网等通信网关键核心技术攻关",
@@ -409,6 +458,32 @@
           "time_info": "[17时02分 ~ 21时15分]"
         },
         {
+          "title": "视频丨“张雪机车”夺赛季第四冠，车手德比斯感谢中国车迷",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33189773",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时26分 ~ 22时52分]"
+        },
+        {
+          "title": "伊朗外交部：美以用“维护能源稳定”作借口 为对伊战争辩护",
+          "url": "https://wallstreetcn.com/livenews/3104872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时57分 ~ 22时52分]"
+        },
+        {
           "title": "中国电信推出试商用Token套餐",
           "url": "https://flash.jin10.com/detail/20260517162903400800",
           "source": "金十数据",
@@ -421,16 +496,28 @@
           "time_info": "[17时02分 ~ 18时26分]"
         },
         {
-          "title": "伊朗外交部：美以用“维护能源稳定”作借口 为对伊战争辩护",
-          "url": "https://wallstreetcn.com/livenews/3104872",
-          "source": "华尔街见闻-快讯",
+          "title": "我驻刚果（金）使馆提醒在刚中国公民注意防范埃博拉疫情",
+          "url": "https://flash.jin10.com/detail/20260517203903271800",
+          "source": "金十数据",
           "ranks": [
-            3,
-            10
+            2,
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时57分 ~ 21时15分]"
+          "time_info": "[21时15分 ~ 22时52分]"
+        },
+        {
+          "title": "世界杯央视解说阵容亮相",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%A4%AE%E8%A7%86%E8%A7%A3%E8%AF%B4%E9%98%B5%E5%AE%B9%E4%BA%AE%E7%9B%B8",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时57分 ~ 22时52分]"
         },
         {
           "title": "据土耳其阿纳多卢通讯社：卡塔尔和沙特阿拉伯外交部长通电话，讨论了中东紧张局势、地区稳定以及为防止局势再度升级而进行的调解努力。",
@@ -443,6 +530,20 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时02分 ~ 18时26分]"
+        },
+        {
+          "title": "十四届全国政协常委、农业和农村委员会副主任王晓东接受审查调查。（央视新闻）",
+          "url": "https://wallstreetcn.com/livenews/3104864",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            10,
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时26分 ~ 22时52分]"
         },
         {
           "title": "俄国防部：防空系统一夜间在俄上空摧毁556架乌克兰无人机",
@@ -471,16 +572,16 @@
           "time_info": "[01时53分 ~ 04时56分]"
         },
         {
-          "title": "视频丨“张雪机车”夺赛季第四冠，车手德比斯感谢中国车迷",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33189773",
+          "title": "解放军报：日本押注无人装备居心叵测",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33189766",
           "source": "澎湃新闻",
           "ranks": [
-            19,
-            16
+            20,
+            17
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[18时26分 ~ 21时15分]"
+          "time_info": "[19时57分 ~ 22时52分]"
         },
         {
           "title": "中国有多少城市能撑起来七日游",
@@ -506,19 +607,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时33分 ~ 17时02分]"
-        },
-        {
-          "title": "十四届全国政协常委、农业和农村委员会副主任王晓东接受审查调查。（央视新闻）",
-          "url": "https://wallstreetcn.com/livenews/3104864",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时26分 ~ 21时15分]"
         },
         {
           "title": "央视追踪四川大摆荡坠亡事件",
@@ -557,28 +645,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时53分 ~ 04时01分]"
-        },
-        {
-          "title": "解放军报：日本押注无人装备居心叵测",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33189766",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时57分 ~ 21时15分]"
-        },
-        {
-          "title": "下周重磅日程：普京访华、英伟达财报、谷歌I/O大会、中国经济数据",
-          "url": "https://wallstreetcn.com/articles/3772335",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时14分 ~ 21时15分]"
         },
         {
           "title": "伊朗外交部：美以用“维护能源稳定”作借口 为对伊战争辩护",
@@ -648,6 +714,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
+        },
+        {
+          "title": "金十整理：下周重要事件与数据预告——中国一年期LPR利率将公布；周四国内成品油将开启新一轮调价窗口；英伟达将发布财报",
+          "url": "https://flash.jin10.com/detail/20260517212811009800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
+          "title": "世界杯央视解说阵容公布",
+          "url": "https://www.douyin.com/hot/2502479",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "韩国外交部：韩国外交部长与伊朗外长通话，韩国外交部长要求伊朗对最近对韩国纳穆号船只的袭击表态。",
@@ -738,6 +826,17 @@
           "time_info": "18时26分"
         },
         {
+          "title": "外资美妆在华业绩回暖：高端品牌试探涨价，中国市场有望再成增长引擎",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33190119",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
           "title": "“中国刻蚀机之父”尹志尧：我们现在已经有能力来做最先进的设备",
           "url": "https://flash.jin10.com/detail/20260517145550542800",
           "source": "金十数据",
@@ -758,6 +857,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
+        },
+        {
+          "title": "德比斯感谢中国车迷支持",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BE%B7%E6%AF%94%E6%96%AF%E6%84%9F%E8%B0%A2%E4%B8%AD%E5%9B%BD%E8%BD%A6%E8%BF%B7%E6%94%AF%E6%8C%81%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
+          "title": "中国特种光纤凭什么征服海外",
+          "url": "https://www.toutiao.com/trending/7640828645241523731/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "卡塔尔外交部：卡塔尔首相兼外交大臣与沙特外交大臣进行了电话会谈。双方回顾了两国的合作关系及进一步支持和强化合作的途径，还讨论了地区局势发展，尤其是涉及美国与伊朗停火的相关事项，以及旨在降级紧张局势、提升地区安全与稳定的努力。",
@@ -796,7 +917,7 @@
     },
     {
       "keyword_group": "# --- 第三组：美国宏观与军事 --- 美国 白宫 五角大楼 美军 美联储 布林肯 拜登 特朗普",
-      "match_count": 59,
+      "match_count": 63,
       "titles": [
         {
           "title": "特朗普：不希望看到台湾有人闹“独立”",
@@ -838,11 +959,24 @@
           "ranks": [
             1,
             2,
+            3,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时32分 ~ 22时52分]"
+        },
+        {
+          "title": "为什么美国防长在台湾问题上一言不发？",
+          "url": "https://news.ifeng.com/c/8tCCLtKAMKP",
+          "source": "凤凰网",
+          "ranks": [
+            4,
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时32分 ~ 21时15分]"
+          "appearance_count": 8,
+          "time_info": "[14时17分 ~ 22时52分]"
         },
         {
           "title": "特朗普警告台独",
@@ -874,17 +1008,6 @@
           "time_info": "[00时52分 ~ 10时33分]"
         },
         {
-          "title": "为什么美国防长在台湾问题上一言不发？",
-          "url": "https://news.ifeng.com/c/8tCCLtKAMKP",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时17分 ~ 21时15分]"
-        },
-        {
           "title": "凯文·沃什上任美联储主席首日，美股全线走低，金银大幅下挫，国际油价拉升，沃什的新政预期有多悲观？",
           "url": "https://www.zhihu.com/question/2038931746901710643",
           "source": "知乎",
@@ -900,6 +1023,19 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[01时52分 ~ 14时17分]"
+        },
+        {
+          "title": "环球下周看点：英伟达财报与美联储会议纪要来袭 美股行情迎关键考验",
+          "url": "https://www.cls.cn/detail/2373249",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时32分 ~ 22时52分]"
         },
         {
           "title": "美联储新主席上任有何影响",
@@ -943,17 +1079,17 @@
           "time_info": "[00时52分 ~ 18时26分]"
         },
         {
-          "title": "环球下周看点：英伟达财报与美联储会议纪要来袭 美股行情迎关键考验",
-          "url": "https://www.cls.cn/detail/2373249",
-          "source": "财联社热门",
+          "title": "岛内称特朗普警告“台独”重击赖当局",
+          "url": "https://www.toutiao.com/trending/7640276210946179115/",
+          "source": "今日头条",
           "ranks": [
+            14,
             13,
-            6,
-            7
+            15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时32分 ~ 21时15分]"
+          "appearance_count": 8,
+          "time_info": "[14时17分 ~ 22时52分]"
         },
         {
           "title": "美联储权力交接现波折 鲍威尔临时留任主席遭内部质疑",
@@ -971,16 +1107,17 @@
           "time_info": "[02时56分 ~ 07时45分]"
         },
         {
-          "title": "岛内称特朗普警告“台独”重击赖当局",
-          "url": "https://www.toutiao.com/trending/7640276210946179115/",
-          "source": "今日头条",
+          "title": "特朗普访华后续观察",
+          "url": "https://www.douyin.com/hot/2502108",
+          "source": "抖音",
           "ranks": [
-            14,
-            13
+            9,
+            10,
+            14
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[14时17分 ~ 21时15分]"
+          "time_info": "[17时01分 ~ 22时52分]"
         },
         {
           "title": "美国记者挑战豆汁后表情亮了",
@@ -996,6 +1133,20 @@
           "time_info": "[00时52分 ~ 07时45分]"
         },
         {
+          "title": "民航局局长宋志勇会见美国航空企业",
+          "url": "https://wallstreetcn.com/livenews/3104870",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            5,
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时26分 ~ 22时52分]"
+        },
+        {
           "title": "特朗普：如果不能达成和平协议，伊朗将面临“非常糟糕的处境”",
           "url": "https://flash.jin10.com/detail/20260517015331327800",
           "source": "金十数据",
@@ -1009,31 +1160,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时56分 ~ 07时45分]"
-        },
-        {
-          "title": "民航局局长宋志勇会见美国航空企业",
-          "url": "https://wallstreetcn.com/livenews/3104870",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            5,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时26分 ~ 21时15分]"
-        },
-        {
-          "title": "特朗普访华后续观察",
-          "url": "https://www.douyin.com/hot/2502108",
-          "source": "抖音",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时01分 ~ 21时15分]"
         },
         {
           "title": "“福特”号航母返回美国，部署时长达326天",
@@ -1088,15 +1214,15 @@
           "time_info": "[05时43分 ~ 07时45分]"
         },
         {
-          "title": "美媒：美国评估来自古巴的攻击型无人机威胁",
-          "url": "https://flash.jin10.com/detail/20260517203228076800",
-          "source": "金十数据",
+          "title": "27年前捐5000美元植树的美国人找到了",
+          "url": "https://www.baidu.com/s?wd=27%E5%B9%B4%E5%89%8D%E6%8D%905000%E7%BE%8E%E5%85%83%E6%A4%8D%E6%A0%91%E7%9A%84%E7%BE%8E%E5%9B%BD%E4%BA%BA%E6%89%BE%E5%88%B0%E4%BA%86",
+          "source": "百度热搜",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时15分"
+          "time_info": "22时52分"
         },
         {
           "title": "美国“福特”号航母返回美国母港",
@@ -1111,15 +1237,26 @@
           "time_info": "[06时40分 ~ 10时33分]"
         },
         {
-          "title": "据AXIOS网站：古巴已获得300多架军用无人机，并开始讨论攻击美国关塔那摩湾基地及美军舰艇的计划。",
-          "url": "https://flash.jin10.com/detail/20260517202502688800",
+          "title": "驻日美军一士兵涉嫌盗窃被捕",
+          "url": "https://news.ifeng.com/c/8tCpvFtLBLw",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
+          "title": "韩国青瓦台：韩国总统李在明与美国总统特朗普讨论了韩美联合事实清单。",
+          "url": "https://flash.jin10.com/detail/20260517215033948800",
           "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时15分"
+          "time_info": "22时52分"
         },
         {
           "title": "一印裔美国男子在印度德里机场被捕 身上藏有115根金条",
@@ -1168,11 +1305,36 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            11
+            11,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时57分 ~ 22时52分]"
+        },
+        {
+          "title": "美媒：美国评估来自古巴的攻击型无人机威胁",
+          "url": "https://flash.jin10.com/detail/20260517203228076800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时57分 ~ 21时15分]"
+          "time_info": "[21时15分 ~ 22时52分]"
+        },
+        {
+          "title": "据AXIOS网站：古巴已获得300多架军用无人机，并开始讨论攻击美国关塔那摩湾基地及美军舰艇的计划。",
+          "url": "https://flash.jin10.com/detail/20260517202502688800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时15分 ~ 22时52分]"
         },
         {
           "title": "美福特号航母返回美国 结束为期11个月部署",
@@ -1187,6 +1349,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时17分 ~ 19时57分]"
+        },
+        {
+          "title": "国民党副主席回应特朗普涉台表态",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E6%B0%91%E5%85%9A%E5%89%AF%E4%B8%BB%E5%B8%AD%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%B6%89%E5%8F%B0%E8%A1%A8%E6%80%81",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时57分 ~ 22时52分]"
         },
         {
           "title": "结束中美元首北京会晤数小时后，特朗普警告“台独”",
@@ -1240,17 +1413,6 @@
           "time_info": "[01时53分 ~ 04时01分]"
         },
         {
-          "title": "国民党副主席回应特朗普涉台表态",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E6%B0%91%E5%85%9A%E5%89%AF%E4%B8%BB%E5%B8%AD%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%B6%89%E5%8F%B0%E8%A1%A8%E6%80%81",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时57分 ~ 21时15分]"
-        },
-        {
           "title": "以色列总理内塔尼亚胡表示将于今天与特朗普总统通话，同时暗示两人也将讨论伊朗问题。",
           "url": "https://flash.jin10.com/detail/20260517185935987800",
           "source": "金十数据",
@@ -1261,6 +1423,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时57分 ~ 21时15分]"
+        },
+        {
+          "title": "特朗普发文抨击众议员汤姆·马西 呼吁用选票将他赶下台",
+          "url": "https://flash.jin10.com/detail/20260517200041857800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时15分 ~ 22时52分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-17）",
@@ -1356,6 +1530,17 @@
           "time_info": "14时17分"
         },
         {
+          "title": "据韩联社：韩国总统李在明与美国总统特朗普通电话。",
+          "url": "https://flash.jin10.com/detail/20260517213955159800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
           "title": "据伊朗媒体Fars News：美国已将解冻高达25%的伊朗被冻结资产作为条件，还要求伊朗必须交出400公斤浓缩铀。",
           "url": "https://flash.jin10.com/detail/20260517172907518800",
           "source": "金十数据",
@@ -1365,17 +1550,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
-        },
-        {
-          "title": "特朗普发文抨击众议员汤姆·马西 呼吁用选票将他赶下台",
-          "url": "https://flash.jin10.com/detail/20260517200041857800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时15分"
         },
         {
           "title": "据伊朗媒体Fars News：消息人士称，美国在其（对伊朗的）回应中提出条件，要求伊朗仅保留一个核设施的运营，且美国已明确表示不会向伊朗支付任何赔偿。",
@@ -1524,7 +1698,7 @@
     },
     {
       "keyword_group": "# --- 第六组：俄乌局势 --- 俄乌 俄罗斯 乌克兰 普京 泽连斯基 北约",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "俄罗斯总统普京将于5月19日至20日访华",
@@ -1543,11 +1717,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时32分 ~ 21时15分]"
+          "appearance_count": 10,
+          "time_info": "[10时32分 ~ 22时52分]"
         },
         {
           "title": "中方宣布普京访华日期",
@@ -1560,6 +1735,22 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时52分 ~ 10时33分]"
+        },
+        {
+          "title": "克宫：普京访华主要安排均已敲定",
+          "url": "https://www.toutiao.com/trending/7640383599233253427/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            5,
+            9,
+            25,
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时32分 ~ 22时52分]"
         },
         {
           "title": "克里姆林宫：俄罗斯和阿联酋总统通电话，讨论中东问题。",
@@ -1575,21 +1766,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时52分 ~ 14时17分]"
-        },
-        {
-          "title": "克宫：普京访华主要安排均已敲定",
-          "url": "https://www.toutiao.com/trending/7640383599233253427/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            5,
-            9,
-            25,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时32分 ~ 21时15分]"
         },
         {
           "title": "普京将于5月19日至20日访华",
@@ -1631,11 +1807,23 @@
             20,
             24,
             25,
-            27
+            27,
+            19
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时52分 ~ 19时57分]"
+          "appearance_count": 20,
+          "time_info": "[00时52分 ~ 22时52分]"
+        },
+        {
+          "title": "普京为何急于访华？",
+          "url": "https://news.ifeng.com/c/8tCh3xC6fdI",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "乌克兰总统泽连斯基表示，周四，俄罗斯无人机在乌克兰南部城市赫尔松袭击了一辆联合国车辆，他指责莫斯科蓄意袭击。",
@@ -1653,6 +1841,17 @@
           "time_info": "[01时53分 ~ 05时43分]"
         },
         {
+          "title": "俄罗斯莫斯科一地铁站附近发生火灾",
+          "url": "https://wallstreetcn.com/livenews/3104894",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
           "title": "北约情报机构认为伊朗仍保有大部分导弹库存及设施",
           "url": "https://flash.jin10.com/detail/20260517141106720800",
           "source": "金十数据",
@@ -1663,6 +1862,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时17分 ~ 17时02分]"
+        },
+        {
+          "title": "乌克兰安全局表示，乌克兰袭击了俄罗斯莫斯科地区的一座炼油厂和两座油泵站。",
+          "url": "https://flash.jin10.com/detail/20260517190859175800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时57分 ~ 22时52分]"
         },
         {
           "title": "北约大幅增加开支之际 欧洲军用装备价格或将上涨50%",
@@ -1691,18 +1903,6 @@
           "time_info": "[10时33分 ~ 17时02分]"
         },
         {
-          "title": "乌克兰安全局表示，乌克兰袭击了俄罗斯莫斯科地区的一座炼油厂和两座油泵站。",
-          "url": "https://flash.jin10.com/detail/20260517190859175800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时57分 ~ 21时15分]"
-        },
-        {
           "title": "普京将于5月19日至20日访华",
           "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E5%B0%86%E4%BA%8E5%E6%9C%8819%E6%97%A5%E8%87%B320%E6%97%A5%E8%AE%BF%E5%8D%8E",
           "source": "百度热搜",
@@ -1726,6 +1926,42 @@
           "time_info": "[07时45分 ~ 10时33分]"
         },
         {
+          "title": "印度驻俄罗斯大使馆：正与公司管理层和当地政府合作，为工人提供必要的援助。",
+          "url": "https://flash.jin10.com/detail/20260517195752799800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时15分 ~ 22时52分]"
+        },
+        {
+          "title": "印度驻俄罗斯大使馆：大使馆官员已前往事发地点，并在医院探望受伤工人。",
+          "url": "https://flash.jin10.com/detail/20260517195749099800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时15分 ~ 22时52分]"
+        },
+        {
+          "title": "印度驻俄罗斯大使馆：今天早些时候，莫斯科地区发生无人机袭击，一名印度工人遇难，另有三人受伤。",
+          "url": "https://flash.jin10.com/detail/20260517195743923800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时15分 ~ 22时52分]"
+        },
+        {
           "title": "习近平同俄罗斯总统普京分别向第十届中俄博览会致贺信",
           "url": "https://flash.jin10.com/detail/20260517092337064800",
           "source": "金十数据",
@@ -1746,39 +1982,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
-        },
-        {
-          "title": "印度驻俄罗斯大使馆：正与公司管理层和当地政府合作，为工人提供必要的援助。",
-          "url": "https://flash.jin10.com/detail/20260517195752799800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时15分"
-        },
-        {
-          "title": "印度驻俄罗斯大使馆：大使馆官员已前往事发地点，并在医院探望受伤工人。",
-          "url": "https://flash.jin10.com/detail/20260517195749099800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时15分"
-        },
-        {
-          "title": "印度驻俄罗斯大使馆：今天早些时候，莫斯科地区发生无人机袭击，一名印度工人遇难，另有三人受伤。",
-          "url": "https://flash.jin10.com/detail/20260517195743923800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时15分"
         },
         {
           "title": "当地市长表示，乌克兰无人机袭击了莫斯科附近一座炼油厂，造成12人受伤，但工厂的“核心工艺设施”未受到损坏。",
@@ -1829,8 +2032,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时52分 ~ 21时15分]"
+          "appearance_count": 22,
+          "time_info": "[00时52分 ~ 22时52分]"
         },
         {
           "title": "伊拉克新总理承诺推动全面经济改革与反腐",
@@ -1955,11 +2158,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            8
+            8,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时57分 ~ 21时15分]"
+          "appearance_count": 3,
+          "time_info": "[19时57分 ~ 22时52分]"
         },
         {
           "title": "陈茂波：香港经济基调良好前景正面 有助吸引更多国际长期资金投资",
@@ -1972,6 +2176,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时02分 ~ 18时26分]"
+        },
+        {
+          "title": "宁德时代与厦门市深化战略合作，加快零碳科技城建设与低空经济布局",
+          "url": "https://flash.jin10.com/detail/20260517194805179800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时15分 ~ 22时52分]"
         },
         {
           "title": "据华盛顿邮报：巴西总统卢拉请求美国总统特朗普解除对古巴的经济封锁。",
@@ -2006,17 +2222,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时33分"
-        },
-        {
-          "title": "宁德时代与厦门市深化战略合作，加快零碳科技城建设与低空经济布局",
-          "url": "https://flash.jin10.com/detail/20260517194805179800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时15分"
         },
         {
           "title": "黎巴嫩称以色列袭击造成约20亿美元经济损失",
@@ -2055,7 +2260,7 @@
     },
     {
       "keyword_group": "# --- 第四组：美股与科技 (去掉了具体的“财报”限制) --- 美股 纳指 道琼斯 标普 特斯拉 英伟达 苹果 微软 OpenAI",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "原油大涨掀债市抛售潮，美股回落，英伟达跌超4%，长债收益率创数年新高，金属重挫",
@@ -2150,6 +2355,19 @@
           "time_info": "[10时32分 ~ 14时17分]"
         },
         {
+          "title": "苹果华为小米大幅降价原因",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%8D%8E%E4%B8%BA%E5%B0%8F%E7%B1%B3%E5%A4%A7%E5%B9%85%E9%99%8D%E4%BB%B7%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时57分 ~ 22时52分]"
+        },
+        {
           "title": "比尔·盖茨基金会出售其持有的最后一批微软股票",
           "url": "https://flash.jin10.com/detail/20260517040319740800",
           "source": "金十数据",
@@ -2163,29 +2381,6 @@
           "time_info": "[04时56分 ~ 07时45分]"
         },
         {
-          "title": "纳指科技ETF景顺二级市场出现较大幅度溢价，将于2026年5月18日开市起停牌，自2026年5月18日10:30起复牌，停牌期间赎回业务照常办理。",
-          "url": "https://wallstreetcn.com/livenews/3104878",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时15分"
-        },
-        {
-          "title": "苹果华为小米大幅降价原因",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%8D%8E%E4%B8%BA%E5%B0%8F%E7%B1%B3%E5%A4%A7%E5%B9%85%E9%99%8D%E4%BB%B7%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时57分 ~ 21时15分]"
-        },
-        {
           "title": "苹果华为抢着降价 谁怕了",
           "url": "https://www.toutiao.com/trending/7640405614518078986/",
           "source": "今日头条",
@@ -2197,6 +2392,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时52分 ~ 04时56分]"
+        },
+        {
+          "title": "纳指科技ETF景顺二级市场出现较大幅度溢价，将于2026年5月18日开市起停牌，自2026年5月18日10:30起复牌，停牌期间赎回业务照常办理。",
+          "url": "https://wallstreetcn.com/livenews/3104878",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时15分 ~ 22时52分]"
         },
         {
           "title": "苹果华为小米集体降价",
@@ -2220,12 +2427,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时32分 ~ 10时33分]"
+        },
+        {
+          "title": "分析师：苹果降价是阳谋",
+          "url": "https://www.douyin.com/hot/2502039",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         }
       ]
     },
     {
       "keyword_group": "# --- 第五组：日本动态 (关键修改：去掉了外交限制) --- 日本 岸田文雄 自卫队 靖国神社 核污水",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "日本担心中美关系稳定自己被晾在一边",
@@ -2266,6 +2484,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[17时01分 ~ 21时15分]"
+        },
+        {
+          "title": "原油供应不足 七成日本人认为政府应呼吁节能",
+          "url": "https://flash.jin10.com/detail/20260517211647032800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "市场消息： 日本首相高市早苗内阁支持率下跌2.5个百分点，降至61.3%。",
