@@ -1,11 +1,13 @@
 {
-  "generated_at": "2026-05-31T10:59:43.931464+08:00",
-  "total_titles_processed": 670,
-  "failed_sources": [],
+  "generated_at": "2026-05-31T15:00:53.493694+08:00",
+  "total_titles_processed": 839,
+  "failed_sources": [
+    "douyin"
+  ],
   "trends": [
     {
       "keyword_group": "# --- 第三组：美国宏观与军事 --- 美国 白宫 五角大楼 美军 美联储 布林肯 拜登 特朗普",
-      "match_count": 51,
+      "match_count": 64,
       "titles": [
         {
           "title": "美国软件股逆袭，创2001年以来最佳单月表现",
@@ -31,11 +33,12 @@
             5,
             4,
             3,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 10时59分]"
+          "appearance_count": 13,
+          "time_info": "[00时55分 ~ 15时00分]"
         },
         {
           "title": "普京：已将无人机残骸交美国鉴定",
@@ -71,11 +74,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             12,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 10时59分]"
+          "appearance_count": 13,
+          "time_info": "[00时55分 ~ 15时00分]"
         },
         {
           "title": "美国年轻人街头暴揍机器人",
@@ -83,11 +87,12 @@
           "source": "贴吧",
           "ranks": [
             12,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 10时59分]"
+          "appearance_count": 13,
+          "time_info": "[00时55分 ~ 15时00分]"
         },
         {
           "title": "美国法官裁定将特朗普名字从肯尼迪中心移除",
@@ -194,11 +199,12 @@
             1,
             3,
             4,
-            15
+            15,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时49分 ~ 10时59分]"
+          "appearance_count": 6,
+          "time_info": "[04时49分 ~ 15时00分]"
         },
         {
           "title": "美国人形机器人被曝已投入俄乌战场 军事专家：基本不能打仗",
@@ -233,11 +239,12 @@
           "ranks": [
             1,
             2,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时56分 ~ 10时59分]"
+          "appearance_count": 5,
+          "time_info": "[05时56分 ~ 15时00分]"
         },
         {
           "title": "香会变调：美国在台海问题上收声",
@@ -249,6 +256,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时57分 ~ 10时59分]"
+        },
+        {
+          "title": "华为感谢美国制裁",
+          "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA%E6%84%9F%E8%B0%A2%E7%BE%8E%E5%9B%BD%E5%88%B6%E8%A3%81&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时59分 ~ 15时00分]"
         },
         {
           "title": "清华教授：美伊冲突让美国失分，多国怀疑其军事能力",
@@ -296,18 +314,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时59分"
-        },
-        {
-          "title": "美官员透露：特朗普提出更强硬条款 试图施压伊朗加快谈判进程",
-          "url": "https://wallstreetcn.com/livenews/3111866",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
         },
@@ -363,6 +370,30 @@
           "time_info": "[00时56分 ~ 02时01分]"
         },
         {
+          "title": "美官员透露：特朗普提出更强硬条款 试图施压伊朗加快谈判进程",
+          "url": "https://wallstreetcn.com/livenews/3111866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 15时00分]"
+        },
+        {
+          "title": "普京：已将残骸交给美国鉴定",
+          "url": "https://www.cls.cn/detail/2386165",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时57分 ~ 15时00分]"
+        },
+        {
           "title": "美国独立前大英派十几个旁系王族分封到美国每个州当公爵可不可行，比如分封到纽约州当纽约公爵？",
           "url": "https://www.zhihu.com/question/1975094206910460830",
           "source": "知乎",
@@ -413,6 +444,18 @@
           "time_info": "[00时56分 ~ 04时49分]"
         },
         {
+          "title": "大片火球从天而降！伊朗袭击科威特美军基地",
+          "url": "https://v.ifeng.com/c/8tZLWOELypO",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时59分 ~ 15时00分]"
+        },
+        {
           "title": "声明：美国军方在阿曼湾对不合规船只采取了行动，以防止其突破封锁措施。",
           "url": "https://flash.jin10.com/detail/20260531015945191800",
           "source": "金十数据",
@@ -435,6 +478,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时56分 ~ 03时23分]"
+        },
+        {
+          "title": "美伊谈判进入关键拉锯：特朗普临时改协议，签署时间再生变数",
+          "url": "https://wallstreetcn.com/articles/3773514",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时59分 ~ 15时00分]"
         },
         {
           "title": "伊朗最高领袖顾问批特朗普背弃外交原则",
@@ -461,15 +515,49 @@
           "time_info": "[02时01分 ~ 03时23分]"
         },
         {
-          "title": "普京：已将残骸交给美国鉴定",
-          "url": "https://www.cls.cn/detail/2386165",
-          "source": "财联社热门",
+          "title": "特朗普：美伊若无法达成协议，“战争部”将介入",
+          "url": "https://news.ifeng.com/c/8tZS9zcXgA5",
+          "source": "凤凰网",
           "ranks": [
-            12
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时57分 ~ 10时59分]"
+          "time_info": "[14时59分 ~ 15时00分]"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队称击落一架美军MQ-1无人机",
+          "url": "https://wallstreetcn.com/livenews/3111863",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 15时00分]"
+        },
+        {
+          "title": "中方代表问菲律宾为何做美国小弟",
+          "url": "https://www.toutiao.com/trending/7645193705942519338/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时59分 ~ 15时00分]"
+        },
+        {
+          "title": "美军在东太平洋发动致命袭击",
+          "url": "https://news.ifeng.com/c/8tZaN4gFiQl",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时59分 ~ 15时00分]"
         },
         {
           "title": "美国智库主席重批民进党愚蠢，蓝营议员解读：传达两大信号",
@@ -483,15 +571,48 @@
           "time_info": "[07时57分 ~ 10时59分]"
         },
         {
+          "title": "30年前的“摧毁飞机谋杀案”，特朗普给翻出来了",
+          "url": "https://news.ifeng.com/c/8tZclGoODbk",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时59分 ~ 15时00分]"
+        },
+        {
+          "title": "崔天凯问菲律宾为何做美国小弟",
+          "url": "https://www.baidu.com/s?wd=%E5%B4%94%E5%A4%A9%E5%87%AF%E9%97%AE%E8%8F%B2%E5%BE%8B%E5%AE%BE%E4%B8%BA%E4%BD%95%E5%81%9A%E7%BE%8E%E5%9B%BD%E5%B0%8F%E5%BC%9F",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时59分 ~ 15时00分]"
+        },
+        {
           "title": "美国南方司令部：5月30日，南方长矛联合特遣队对一艘由指定恐怖组织运营的船只进行了致命打击。",
           "url": "https://flash.jin10.com/detail/20260531100848330800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
+        },
+        {
+          "title": "特朗普：美伊若无法达成协议 “战争部”将介入",
+          "url": "https://wallstreetcn.com/livenews/3111873",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时00分"
         },
         {
           "title": "日本防卫大臣小泉进次郎：必须与美国、欧洲及志同道合的盟友保持合作。",
@@ -500,29 +621,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时59分"
-        },
-        {
-          "title": "大片火球从天而降！伊朗袭击科威特美军基地",
-          "url": "https://v.ifeng.com/c/8tZLWOELypO",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时59分"
-        },
-        {
-          "title": "伊朗伊斯兰革命卫队称击落一架美军MQ-1无人机",
-          "url": "https://wallstreetcn.com/livenews/3111863",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
         },
@@ -544,7 +643,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
         },
@@ -560,13 +659,57 @@
           "time_info": "04时49分"
         },
         {
+          "title": "美国总统特朗普：所有竞选总统和副总统的人都应该被强制进行高难度认知测试。国会和民主党人应该要求这一点！",
+          "url": "https://flash.jin10.com/detail/20260531123650502800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时00分"
+        },
+        {
+          "title": "美国总统特朗普：事实上，这是我进行的第四次此类测试，全部都是完美的，120道题目中答对120道！能够获得满分是非常罕见的，尤其是连续四次都能做到。",
+          "url": "https://flash.jin10.com/detail/20260531123639729800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时00分"
+        },
+        {
+          "title": "美国总统特朗普：与其他美国总统不同，他们从未接受过批准的高难度认知测试，我的得分是30分满分，被认为是“极高智力”。",
+          "url": "https://flash.jin10.com/detail/20260531123628014800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时00分"
+        },
+        {
+          "title": "美国总统特朗普：我在沃尔特·里德军事医疗中心进行的体检结果刚刚发布，结果非常好。",
+          "url": "https://flash.jin10.com/detail/20260531123548870800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时00分"
+        },
+        {
           "title": "普京称已将残骸交给美国鉴定",
           "url": "https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E7%A7%B0%E5%B7%B2%E5%B0%86%E6%AE%8B%E9%AA%B8%E4%BA%A4%E7%BB%99%E7%BE%8E%E5%9B%BD%E9%89%B4%E5%AE%9A%23&t=31&band_rank=15&Refer=top",
           "source": "微博",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
         },
@@ -577,7 +720,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
         },
@@ -588,7 +731,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
         },
@@ -610,7 +753,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
         },
@@ -632,15 +775,26 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
+        },
+        {
+          "title": "特朗普：美伊若无法达成协议 “战争部”将介入",
+          "url": "https://flash.jin10.com/detail/20260531103926927800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时00分"
         }
       ]
     },
     {
       "keyword_group": "# --- 第一组：中国宏观 (去掉了必须词，只过滤娱乐) --- 中国 央视 外交部 国防部 解放军 人民日报 新华社",
-      "match_count": 34,
+      "match_count": 42,
       "titles": [
         {
           "title": "“中国要2027‘武统’”，美军报告渲染威胁",
@@ -662,11 +816,12 @@
             7,
             6,
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 10时59分]"
+          "appearance_count": 13,
+          "time_info": "[00时55分 ~ 15时00分]"
         },
         {
           "title": "中国俄罗斯等6国投弃权票",
@@ -746,11 +901,12 @@
           "source": "贴吧",
           "ranks": [
             15,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 10时59分]"
+          "appearance_count": 13,
+          "time_info": "[00时55分 ~ 15时00分]"
         },
         {
           "title": "10名中国车主诉特斯拉FSD欺诈索395万",
@@ -819,37 +975,62 @@
           "time_info": "[00时56分 ~ 07时57分]"
         },
         {
+          "title": "日防相避答中国代表质问日本何时道歉",
+          "url": "https://www.toutiao.com/trending/7645476236138971177/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时59分 ~ 15时00分]"
+        },
+        {
+          "title": "解放军代表质问日防卫大臣：日本何时向亚洲受害国道歉？",
+          "url": "https://news.ifeng.com/c/8tZYPi59mXv",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时59分 ~ 15时00分]"
+        },
+        {
           "title": "中国军人压迫感太强了",
           "url": "https://www.toutiao.com/trending/7644805076884471851/",
           "source": "今日头条",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
+        },
+        {
+          "title": "中国华能原总会计师王益华被查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33273188",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时57分 ~ 15时00分]"
         },
         {
           "title": "解放军代表回应美防长香会表态",
           "url": "https://www.toutiao.com/trending/7645855521920077339/",
           "source": "今日头条",
           "ranks": [
-            4
+            4,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时59分"
-        },
-        {
-          "title": "中国5月官方综合PMI 50.5，前值 50.1。",
-          "url": "https://wallstreetcn.com/livenews/3111868",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时59分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时59分 ~ 15时00分]"
         },
         {
           "title": "中方代表重申：中国核政策从未改变",
@@ -862,6 +1043,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时55分 ~ 03时23分]"
+        },
+        {
+          "title": "中国5月官方综合PMI 50.5，前值 50.1。",
+          "url": "https://wallstreetcn.com/livenews/3111868",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 15时00分]"
         },
         {
           "title": "中国机械工业联合会副会长罗俊杰：机械工业“十五五”规划正在修改完善",
@@ -901,16 +1094,73 @@
           "time_info": "[03时23分 ~ 05时56分]"
         },
         {
-          "title": "中国华能原总会计师王益华被查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33273188",
-          "source": "澎湃新闻",
+          "title": "阿根廷前驻华大使警告：再发生一次，会失去中国的信任",
+          "url": "https://news.ifeng.com/c/8tYcNycNJ2e",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时59分 ~ 15时00分]"
+        },
+        {
+          "title": "美司令声称“韩国就像一把指向中国的匕首”，韩方回应",
+          "url": "https://news.ifeng.com/c/8tZgufysH6y",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时59分 ~ 15时00分]"
+        },
+        {
+          "title": "Wendy's终于敢来中国了",
+          "url": "https://www.douyin.com/hot/2518236",
+          "source": "抖音",
           "ranks": [
             10,
             6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时57分 ~ 10时59分]"
+          "time_info": "[10时59分 ~ 14时59分]"
+        },
+        {
+          "title": "中国5月官方制造业PMI 50，非制造业PMI回升至50.1",
+          "url": "https://wallstreetcn.com/articles/3773510",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时59分 ~ 15时00分]"
+        },
+        {
+          "title": "中国汽车流通协会：2026年5月中国汽车经销商库存预警指数为57.9%",
+          "url": "https://wallstreetcn.com/livenews/3111864",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 15时00分]"
+        },
+        {
+          "title": "日本何时向亚洲受害国道歉？日防卫大臣小泉避答中国代表提问",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33275645",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时59分 ~ 15时00分]"
         },
         {
           "title": "为什么全世界很多地方把土豆当口粮，中国人却更爱把它当菜？",
@@ -936,6 +1186,28 @@
           "time_info": "[06时53分 ~ 07时57分]"
         },
         {
+          "title": "解放军代表质问：日本何时道歉",
+          "url": "https://www.baidu.com/s?wd=%E8%A7%A3%E6%94%BE%E5%86%9B%E4%BB%A3%E8%A1%A8%E8%B4%A8%E9%97%AE%EF%BC%9A%E6%97%A5%E6%9C%AC%E4%BD%95%E6%97%B6%E9%81%93%E6%AD%89",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时59分 ~ 15时00分]"
+        },
+        {
+          "title": "黄仁勋放不下中国市场",
+          "url": "https://www.toutiao.com/trending/7645916558685900342/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时59分 ~ 15时00分]"
+        },
+        {
           "title": "中国华能原总会计师王益华被查",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%8D%8E%E8%83%BD%E5%8E%9F%E6%80%BB%E4%BC%9A%E8%AE%A1%E5%B8%88%E7%8E%8B%E7%9B%8A%E5%8D%8E%E8%A2%AB%E6%9F%A5",
           "source": "百度热搜",
@@ -947,37 +1219,15 @@
           "time_info": "[00时55分 ~ 00时56分]"
         },
         {
-          "title": "阿根廷前驻华大使警告：再发生一次，会失去中国的信任",
-          "url": "https://news.ifeng.com/c/8tYcNycNJ2e",
-          "source": "凤凰网",
+          "title": "中国人民解放军南部战区位中国黄岩岛领海领空及周边区域组织战备警巡",
+          "url": "https://flash.jin10.com/detail/20260531124525000800",
+          "source": "金十数据",
           "ranks": [
-            6
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时59分"
-        },
-        {
-          "title": "中国汽车流通协会：2026年5月中国汽车经销商库存预警指数为57.9%",
-          "url": "https://wallstreetcn.com/livenews/3111864",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时59分"
-        },
-        {
-          "title": "Wendy's终于敢来中国了",
-          "url": "https://www.douyin.com/hot/2518236",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时59分"
+          "time_info": "15时00分"
         },
         {
           "title": "中国5月综合PMI 50.5，前值50.1。",
@@ -986,7 +1236,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
         },
@@ -997,7 +1247,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
         },
@@ -1008,7 +1258,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
         },
@@ -1019,7 +1269,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
         },
@@ -1030,7 +1280,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
         },
@@ -1067,11 +1317,12 @@
           "url": "https://www.cls.cn/detail/2386025",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 10时59分]"
+          "appearance_count": 13,
+          "time_info": "[00时55分 ~ 15时00分]"
         },
         {
           "title": "【早报】丁向群任国家金融监管总局党委书记；上证50、科创50等重要指数调整样本",
@@ -1083,8 +1334,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 10时59分]"
+          "appearance_count": 13,
+          "time_info": "[00时55分 ~ 15时00分]"
         },
         {
           "title": "业内：A股交易拥挤度达历史罕见水平",
@@ -1109,22 +1360,36 @@
             18,
             14,
             13,
-            7
+            7,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时00分 ~ 10时59分]"
+          "appearance_count": 11,
+          "time_info": "[02时00分 ~ 15时00分]"
         },
         {
           "title": "【早报】中际旭创发布严正声明；MiniMax启动A股IPO",
           "url": "https://www.cls.cn/detail/2386240",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时59分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时59分 ~ 15时00分]"
+        },
+        {
+          "title": "全球 100 个最热城市，印度占 98 个，近期最高温超 48 摄氏度，为什么会这么热？对经济、民生有何影响？",
+          "url": "https://www.zhihu.com/question/2042664557701763797",
+          "source": "知乎",
+          "ranks": [
+            11,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时59分 ~ 15时00分]"
         },
         {
           "title": "对于经济学上的理性预期该如何理解？",
@@ -1157,7 +1422,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
         },
@@ -1173,24 +1438,13 @@
           "time_info": "07时57分"
         },
         {
-          "title": "全球 100 个最热城市，印度占 98 个，近期最高温超 48 摄氏度，为什么会这么热？对经济、民生有何影响？",
-          "url": "https://www.zhihu.com/question/2042664557701763797",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时59分"
-        },
-        {
           "title": "国家统计局：5月官方制造业PMI为50.0%，我国经济总体产出保持扩张",
           "url": "https://flash.jin10.com/detail/20260531093247274800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
         },
@@ -1201,7 +1455,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
         },
@@ -1212,7 +1466,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
         },
@@ -1223,7 +1477,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
         }
@@ -1231,7 +1485,7 @@
     },
     {
       "keyword_group": "# --- 第五组：日本动态 (关键修改：去掉了外交限制) --- 日本 岸田文雄 自卫队 靖国神社 核污水",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "中方代表：日本没资格谈国际防务合作",
@@ -1285,24 +1539,36 @@
           "time_info": "[00时55分 ~ 06时53分]"
         },
         {
+          "title": "中方代表：日本没有资格",
+          "url": "https://news.ifeng.com/c/8tYUpcu9Xt1",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时59分 ~ 15时00分]"
+        },
+        {
+          "title": "日本海上自卫队取消美战机在日军舰训练计划",
+          "url": "https://flash.jin10.com/detail/20260531143929912800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时00分"
+        },
+        {
           "title": "日本鹿儿岛发生3.9级地震",
           "url": "https://flash.jin10.com/detail/20260531102204228800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时59分"
-        },
-        {
-          "title": "中方代表：日本没有资格",
-          "url": "https://news.ifeng.com/c/8tYUpcu9Xt1",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
         },
@@ -1317,6 +1583,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时56分 ~ 04时49分]"
+        },
+        {
+          "title": "专访石田隆至：幸存战犯临终前警示“现在的日本越来越危险”倾向",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33272335",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时59分 ~ 15时00分]"
         },
         {
           "title": "据日本共同社：日本和韩国将于下个月恢复联合搜救演习，这将是约九年来的首次。",
@@ -1354,24 +1632,24 @@
           "time_info": "[00时55分 ~ 00时56分]"
         },
         {
+          "title": "据韩联社：韩国与日本在国防会谈中讨论双边军事后勤支持协议。",
+          "url": "https://flash.jin10.com/detail/20260531133134591800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时00分"
+        },
+        {
           "title": "日本防卫大臣小泉进次郎：日本始终欢迎对话。日本决心在区域防务装备合作中发挥新作用。",
           "url": "https://flash.jin10.com/detail/20260531094747976800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时59分"
-        },
-        {
-          "title": "专访石田隆至：幸存战犯临终前警示“现在的日本越来越危险”倾向",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33272335",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
         }
@@ -1379,7 +1657,7 @@
     },
     {
       "keyword_group": "# --- 第四组：美股与科技 (去掉了具体的“财报”限制) --- 美股 纳指 道琼斯 标普 特斯拉 英伟达 苹果 微软 OpenAI",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "连涨9周，自3月低点反弹20%！美股这波反弹之凶猛“历史罕见”",
@@ -1416,8 +1694,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 10时59分]"
+          "appearance_count": 13,
+          "time_info": "[00时55分 ~ 15时00分]"
         },
         {
           "title": "美股收盘：三大股指续创新高 戴尔领衔科技股狂欢",
@@ -1429,8 +1707,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 10时59分]"
+          "appearance_count": 13,
+          "time_info": "[00时55分 ~ 15时00分]"
         },
         {
           "title": "英伟达、微软一同发布神秘预告 传闻中的PC芯片下周亮相？",
@@ -1441,8 +1719,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 10时59分]"
+          "appearance_count": 13,
+          "time_info": "[00时55分 ~ 15时00分]"
         },
         {
           "title": "20亿小参数赶超英伟达旗舰模型，上海世界模型“裸考”登顶国际权威榜单",
@@ -1473,6 +1751,17 @@
           "time_info": "[00时56分 ~ 07时57分]"
         },
         {
+          "title": "黄仁勋预告“PC新时代”：英伟达不想只卖GPU了",
+          "url": "https://wallstreetcn.com/articles/3773517",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时59分 ~ 15时00分]"
+        },
+        {
           "title": "报道：OpenAI在讨论将花旗、摩根大通纳入IPO承销商名单",
           "url": "https://wallstreetcn.com/livenews/3111808",
           "source": "华尔街见闻-快讯",
@@ -1485,6 +1774,17 @@
           "time_info": "[00时56分 ~ 04时49分]"
         },
         {
+          "title": "环球下周看点：英伟达芯片帝国扩张 博通、慧与科技发布财报",
+          "url": "https://www.cls.cn/detail/2386233",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时59分 ~ 15时00分]"
+        },
+        {
           "title": "20亿小参数赶超英伟达旗舰模型 上海世界模型“裸考”登顶国际权威榜单",
           "url": "https://flash.jin10.com/detail/20260530212621800800",
           "source": "金十数据",
@@ -1494,12 +1794,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
+        },
+        {
+          "title": "戴尔科技集团创始人兼首席执行官：首台搭载英伟达Vera Rubin NVL72的戴尔科技Plus系统已面世。",
+          "url": "https://flash.jin10.com/detail/20260531103426891800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时00分"
         }
       ]
     },
     {
       "keyword_group": "# --- 第六组：俄乌局势 --- 俄乌 俄罗斯 乌克兰 普京 泽连斯基 北约",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "俄罗斯：俄南部港口及油库遭到乌克兰无人机袭击",
@@ -1538,13 +1849,24 @@
           "time_info": "[00时56分 ~ 02时01分]"
         },
         {
+          "title": "普京：有理由认为俄乌冲突接近结束",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33274997",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时59分 ~ 15时00分]"
+        },
+        {
           "title": "措辞严厉！俄罗斯、哈萨克斯坦等四国总统发布联合声明",
           "url": "https://news.ifeng.com/c/8tYaakffjkW",
           "source": "凤凰网",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
         },
@@ -1558,6 +1880,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时53分"
+        },
+        {
+          "title": "据英国金融时报：捷克总理部长巴比什承认，捷克共和国今年将无法达到北约2%的目标。",
+          "url": "https://flash.jin10.com/detail/20260531120859507800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时00分"
         },
         {
           "title": "赵乐际对俄罗斯进行正式友好访问并出席中俄议会合作委员会第十一次会议",
