@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-09T04:06:42.806178+08:00",
-  "total_titles_processed": 406,
+  "generated_at": "2026-06-09T06:22:19.055074+08:00",
+  "total_titles_processed": 482,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- 第四组：美股与科技 (去掉了具体的“财报”限制) --- 美股 纳指 道琼斯 标普 特斯拉 英伟达 苹果 微软 OpenAI",
-      "match_count": 47,
+      "match_count": 66,
       "titles": [
+        {
+          "title": "英伟达与海力士官宣多年合作计划，锁定先进存储供应，黄仁勋称“协议期限将超两年且有能力持续续约”",
+          "url": "https://wallstreetcn.com/articles/3774048",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时47分 ~ 06时22分]"
+        },
         {
           "title": "以伊战事缓和，美股高开，科技股反弹，英特尔大涨11%，美油跌破91美元",
           "url": "https://wallstreetcn.com/articles/3774056",
@@ -19,15 +30,15 @@
           "time_info": "[01时47分 ~ 04时06分]"
         },
         {
-          "title": "英伟达与海力士官宣多年合作计划，锁定先进存储供应，黄仁勋称“协议期限将超两年且有能力持续续约”",
-          "url": "https://wallstreetcn.com/articles/3774048",
+          "title": "芯片股力撑美股反弹，半导体指数涨超5%，英特尔大涨11%，中东局势缓和，原油冲高回落",
+          "url": "https://wallstreetcn.com/articles/3774056",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            1
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时47分 ~ 04时06分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         },
         {
           "title": "苹果(AAPL.O)：通过“浏览前询问”功能，将家长的控制范围从应用程序扩展至整个网络。",
@@ -69,9 +80,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
+        },
+        {
+          "title": "OpenAI计划在首次公开募股（IPO）之前启动员工/股东股票要约收购案（Tender Sale）。 据知情人士透露，该公司将在未来几周内正式举行该股票要约收购（Tender）。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3116363",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         },
         {
           "title": "苹果公司：苹果设备将拥有针对机上内容的搜索指数。",
@@ -93,8 +115,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时47分 ~ 04时06分]"
+          "appearance_count": 4,
+          "time_info": "[01时47分 ~ 06时22分]"
+        },
+        {
+          "title": "苹果 6 月 9 日召开的 2026 年全球开发者大会「WWDC26」，有哪些值得关注的信息？",
+          "url": "https://www.zhihu.com/question/2047342757354501238",
+          "source": "知乎",
+          "ranks": [
+            11,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时06分 ~ 06时22分]"
         },
         {
           "title": "中东炮火暂歇 美股期指回血 苹果WWDC接棒登场 | 今夜看点",
@@ -105,8 +139,32 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时47分 ~ 06时22分]"
+        },
+        {
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            13
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时47分 ~ 04时06分]"
+          "time_info": "[01时47分 ~ 06时22分]"
+        },
+        {
+          "title": "苹果公司Federighi：我们并没有采用谷歌公司向用户部署的那些模型。",
+          "url": "https://wallstreetcn.com/livenews/3116327",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时06分 ~ 06时22分]"
         },
         {
           "title": "苹果WWDC26开发者大会",
@@ -120,37 +178,38 @@
           "time_info": "[01时47分 ~ 01时48分]"
         },
         {
-          "title": "美股",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时47分 ~ 01时48分]"
-        },
-        {
-          "title": "苹果公司Federighi：我们并没有采用谷歌公司向用户部署的那些模型。",
-          "url": "https://wallstreetcn.com/livenews/3116327",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时06分"
-        },
-        {
           "title": "标普500指数涨幅收窄至0.3%，刷新日低。",
           "url": "https://wallstreetcn.com/livenews/3116326",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时06分 ~ 06时22分]"
+        },
+        {
+          "title": "“聊天已死”？OpenAI拟大改ChatGPT，打造超级AI应用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33333027",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时06分 ~ 06时22分]"
+        },
+        {
+          "title": "OpenAI自曝已秘密提交IPO申请",
+          "url": "https://flash.jin10.com/detail/20260609052258365800",
+          "source": "金十数据",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时06分"
+          "time_info": "06时22分"
         },
         {
           "title": "苹果公司：正在将多层额外的液态玻璃（Liquid Glass）视觉效果直接融合至应用图标（App Icon）艺术作品本身。",
@@ -162,6 +221,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
+        },
+        {
+          "title": "周一（6月8日）纽约尾盘，标普500股指期货最终涨0.24%，道指期货跌0.24%，纳斯达克100股指期货涨1.50%。 罗素2000股指期货涨0.79%。",
+          "url": "https://wallstreetcn.com/livenews/3116356",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         },
         {
           "title": "苹果宣布MacOS 27 Golden Gate，称：MacOS的下一个版本是Golden Gate。 iOS 27将可以应用至最早为iPhone 11的机型。",
@@ -186,26 +256,26 @@
           "time_info": "01时48分"
         },
         {
-          "title": "苹果 6 月 9 日召开的 2026 年全球开发者大会「WWDC26」，有哪些值得关注的信息？",
-          "url": "https://www.zhihu.com/question/2047342757354501238",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时06分"
-        },
-        {
           "title": "据NBC：英伟达(NVDA.O)CEO表示很乐意接待沃伦并与她交谈。",
           "url": "https://flash.jin10.com/detail/20260609033802533800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
+        },
+        {
+          "title": "OpenAI：IPO可能需要一段时间，因为我们想做的一些事情，作为一家私营公司可能会更容易。",
+          "url": "https://flash.jin10.com/detail/20260609051732279800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         },
         {
           "title": "苹果公司库克：WWDC开发者大会将侧重于苹果智能（Apple Intelligence）与Siri。",
@@ -230,6 +300,28 @@
           "time_info": "01时48分"
         },
         {
+          "title": "苹果(AAPL.O)：无论基础设施托管在何处，苹果始终保持对Private Cloud Compute软件的完全控制权。苹果设备仅信任经由苹果加密认证的Private Cloud Compute软件。在Google Cloud上运行的Private Cloud Compute服务，将在整个夏季预览期间逐步落实全套保护措施。",
+          "url": "https://flash.jin10.com/detail/20260609051727017800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "美股“黑色星期五”引爆恐慌？高盛：正是难得的买入良机！",
+          "url": "https://www.cls.cn/detail/2393754",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
           "title": "苹果(AAPL.O)：iOS 27将支持iPhone 11系列机型。",
           "url": "https://flash.jin10.com/detail/20260609011349319800",
           "source": "金十数据",
@@ -247,9 +339,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
+        },
+        {
+          "title": "OpenAI：尚未决定首次公开募股的时间。",
+          "url": "https://flash.jin10.com/detail/20260609051515095800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         },
         {
           "title": "苹果(AAPL.O)：将多层Liquid Glass（液态玻璃）效果直接融入应用图标设计中。",
@@ -261,6 +364,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
+        },
+        {
+          "title": "OpenAI已提交IPO申请",
+          "url": "https://flash.jin10.com/detail/20260609051454671800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         },
         {
           "title": "特斯拉(TSLA.O)股价最新上涨4.13%。",
@@ -285,15 +399,37 @@
           "time_info": "01时48分"
         },
         {
+          "title": "OpenAI首席科学家：OpenAI致力追求的各项核心目标，均围绕着这一使命：确保通用人工智能造福全人类。人工智能应当增强人类的主体性，而非削弱人类在塑造未来中的作用与意义。",
+          "url": "https://flash.jin10.com/detail/20260609051127110800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
           "title": "苹果2026年全球开发者大会（WWDC）要点总结",
           "url": "https://wallstreetcn.com/livenews/3116316",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
+        },
+        {
+          "title": "周一（6月8日），彭博电动汽车价格回报指数跌2.02%，报3706.35点。 全天处于下跌状态，亚太时段持续走低，北京时间09:31以来持续交投于3700点附近、15:00刷新日低至3672.92点。 成分股阿内卡矿业股份收跌8%，淡水河谷印尼公司跌7.22%，日本电产株式会社跌6.06%，Panasonic株式会社跌4.79%，小鹏集团H股跌4.62%，浙江零跑科技跌4.22%跌幅第六大，意法半导体法国巴黎股价则收涨4.01%，特斯拉涨4.59%，安霸股份涨8.19%。",
+          "url": "https://wallstreetcn.com/livenews/3116344",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         },
         {
           "title": "苹果软件主管克雷格·费德里吉：苹果计划更新儿童安全功能。",
@@ -313,9 +449,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
+        },
+        {
+          "title": "苹果(AAPL.O)：推出了新的智能功能，并扩展了Xcode中的生产力功能。",
+          "url": "https://flash.jin10.com/detail/20260609050823882800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         },
         {
           "title": "苹果(AAPL.O)CEO蒂姆·库克表示，WWDC的发布内容将聚焦于苹果智能和Siri。",
@@ -335,9 +482,31 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
+        },
+        {
+          "title": "高通(QCOM.O)美股盘后上涨近8%。",
+          "url": "https://flash.jin10.com/detail/20260609050509753800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "新兴市场ETF收涨将近1.8%，领跑美股大类资产类ETF",
+          "url": "https://wallstreetcn.com/livenews/3116342",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         },
         {
           "title": "苹果软件主管克雷格·费德里吉：苹果与谷歌及英伟达合作，将其私有云计算方案引入谷歌云的基础设施中。",
@@ -346,20 +515,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
         },
         {
-          "title": "“聊天已死”？OpenAI拟大改ChatGPT，打造超级AI应用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33333027",
-          "source": "澎湃新闻",
+          "title": "标普500指数的11个板块普遍收跌，公用事业板块跌1.92%，房地产板块跌1.63%，原材料板块跌1.28%，电信板块跌1.07%，能源板块则收涨1.14%，信息技术/科技板块涨1.47%。",
+          "url": "https://wallstreetcn.com/livenews/3116341",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时06分"
+          "time_info": "06时22分"
         },
         {
           "title": "金十提示：苹果(AAPL.O) WWDC 2026开发者大会已开始。",
@@ -379,9 +548,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
+        },
+        {
+          "title": "周一（6月8日），美股行业ETF涨跌各异，半导体ETF收涨5%，全球科技股指数ETF、科技行业ETF至少涨2.15%，网络股指数ETF则收跌0.43%，全球航空业ETF跌0.86%。",
+          "url": "https://wallstreetcn.com/livenews/3116340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         },
         {
           "title": "苹果高管：我真的认为最好的还没有出来。",
@@ -390,9 +570,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
+        },
+        {
+          "title": "苹果收跌1.9%。",
+          "url": "https://wallstreetcn.com/livenews/3116339",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         },
         {
           "title": "苹果软件主管克雷格·费德里吉：苹果已进入第三代苹果基础模型阶段。",
@@ -401,7 +592,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
         },
@@ -412,7 +603,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
         },
@@ -423,7 +614,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
         },
@@ -434,9 +625,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
+        },
+        {
+          "title": "纳指科技指数收涨超1.8%，半导体指数反弹5.6%",
+          "url": "https://wallstreetcn.com/livenews/3116336",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         },
         {
           "title": "苹果软件主管克雷格·费德里吉：苹果构建了自有的“世界知识服务”，该服务运行于其私有云计算平台上。",
@@ -445,7 +647,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
         },
@@ -456,7 +658,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
         },
@@ -467,7 +669,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
         },
@@ -489,9 +691,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
+        },
+        {
+          "title": "苹果iOS 27看点前瞻",
+          "url": "https://www.douyin.com/hot/2526458",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         },
         {
           "title": "据知情人士透露，SpaceX的纳斯达克IPO超额认购情况显著，计划周三美股收盘之后结束认购。（彭博）",
@@ -511,7 +724,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
         },
@@ -522,7 +735,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
         }
@@ -530,7 +743,7 @@
     },
     {
       "keyword_group": "# --- 第三组：美国宏观与军事 --- 美国 白宫 五角大楼 美军 美联储 布林肯 拜登 特朗普",
-      "match_count": 30,
+      "match_count": 44,
       "titles": [
         {
           "title": "沃什上任后第一次敲打！特朗普公开发声：没有任何理由加息，加息就是想扼杀我们的成功",
@@ -540,8 +753,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时47分 ~ 04时06分]"
+          "appearance_count": 4,
+          "time_info": "[01时47分 ~ 06时22分]"
+        },
+        {
+          "title": "伊朗时隔两个月再袭以色列，特朗普称「希望以色列不要还击」，局势将如何发展？美伊谈判是否会受影响？",
+          "url": "https://www.zhihu.com/question/2047287128892224880",
+          "source": "知乎",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时06分 ~ 06时22分]"
         },
         {
           "title": "乌克兰总统泽连斯基：今天我与美国总统特使威特科夫和库什纳行了交谈。谈话非常积极。",
@@ -550,20 +775,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
         },
         {
-          "title": "美军在阿曼湾袭击一艘油轮",
-          "url": "https://wallstreetcn.com/livenews/3116334",
+          "title": "美国总统特朗普：以色列不会与伊朗重启战争。",
+          "url": "https://flash.jin10.com/detail/20260609054903462800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "美国总统特朗普：石油价格将在伊朗问题结束后下跌。",
+          "url": "https://wallstreetcn.com/livenews/3116365",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时06分"
+          "time_info": "06时22分"
         },
         {
           "title": "苹果：与美国医生团队合作，共同制定相关医疗器械设备的使用指南。",
@@ -577,15 +813,15 @@
           "time_info": "01时48分"
         },
         {
-          "title": "伊朗时隔两个月再袭以色列，特朗普称「希望以色列不要还击」，局势将如何发展？美伊谈判是否会受影响？",
-          "url": "https://www.zhihu.com/question/2047287128892224880",
-          "source": "知乎",
+          "title": "美国总统特朗普：我们已经摧毁了伊朗的军事力量和领导层。 我们（与伊朗）正在谈判。 你们真的将在两周内获胜。 我们将在两周内宣布“全面”胜利。 胜利将发生得“非常迅速”。",
+          "url": "https://wallstreetcn.com/livenews/3116364",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时06分"
+          "time_info": "06时22分"
         },
         {
           "title": "苹果(AAPL.O)：正与美国医生团体合作制定设备使用指南。",
@@ -599,15 +835,15 @@
           "time_info": "01时48分"
         },
         {
-          "title": "美国农业部（USDA）将在饲料中试验使用伊维菌素，以控制野生动物中的螺旋蝇疫情。",
-          "url": "https://wallstreetcn.com/livenews/3116331",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普谈伊朗：我们正在进行谈判。",
+          "url": "https://flash.jin10.com/detail/20260609054818793800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时06分"
+          "time_info": "06时22分"
         },
         {
           "title": "周一（6月8日），美联储隔夜逆回购协议（RRP）使用规模为18.32亿美元（交易对手16家），上个交易日（非农日）报7.61亿美元。",
@@ -621,24 +857,24 @@
           "time_info": "01时48分"
         },
         {
+          "title": "摩根大通、美国银行因为网络安全威胁问题而被美国国会山成员质询。",
+          "url": "https://wallstreetcn.com/livenews/3116362",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
           "title": "路透社/益普索调查显示，仅有22%的人认可特朗普对生活成本问题的处理，70%的人表示不认可。",
           "url": "https://flash.jin10.com/detail/20260609034919706800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时06分"
-        },
-        {
-          "title": "特朗普提名托德·布兰奇出任美司法部长",
-          "url": "https://wallstreetcn.com/livenews/3116329",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
         },
@@ -650,8 +886,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时47分 ~ 04时06分]"
+          "appearance_count": 4,
+          "time_info": "[01时47分 ~ 06时22分]"
         },
         {
           "title": "伊朗“警告性”打击以色列，以色列称“将强力回应”，特朗普警告内塔尼亚胡“不要反击，美伊协议近在咫尺”",
@@ -661,8 +897,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时47分 ~ 04时06分]"
+          "appearance_count": 4,
+          "time_info": "[01时47分 ~ 06时22分]"
+        },
+        {
+          "title": "美军在阿曼湾袭击一艘油轮",
+          "url": "https://wallstreetcn.com/livenews/3116334",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时06分 ~ 06时22分]"
         },
         {
           "title": "主持人插不进话，特朗普受访暴怒失控：当场“摔麦”走人",
@@ -673,8 +921,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时47分 ~ 04时06分]"
+          "appearance_count": 4,
+          "time_info": "[01时47分 ~ 06时22分]"
         },
         {
           "title": "美银Hartnett：迎接“6月风暴”，美国CPI将“刺破泡沫”",
@@ -684,8 +932,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时47分 ~ 04时06分]"
+          "appearance_count": 4,
+          "time_info": "[01时47分 ~ 06时22分]"
+        },
+        {
+          "title": "美国农业部（USDA）将在饲料中试验使用伊维菌素，以控制野生动物中的螺旋蝇疫情。",
+          "url": "https://wallstreetcn.com/livenews/3116331",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时06分 ~ 06时22分]"
         },
         {
           "title": "以伊军事冲突升级，特朗普：双方“正寻求”立即停火",
@@ -695,8 +955,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时47分 ~ 04时06分]"
+          "appearance_count": 4,
+          "time_info": "[01时47分 ~ 06时22分]"
         },
         {
           "title": "现场：美军舰载机弹射起飞，意外掉落副油箱",
@@ -706,8 +966,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时47分 ~ 04时06分]"
+          "appearance_count": 4,
+          "time_info": "[01时47分 ~ 06时22分]"
+        },
+        {
+          "title": "特朗普提名托德·布兰奇出任美司法部长",
+          "url": "https://wallstreetcn.com/livenews/3116329",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时06分 ~ 06时22分]"
         },
         {
           "title": "路透社/益普索调查显示，特朗普的支持率为35%，与5月中旬持平，仅略高于其本届任期内34%的最低水平。",
@@ -716,9 +988,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：（援引伊朗驻联合国代表）我们正通过巴基斯坦与美国交换意见，以达成最终文本。",
+          "url": "https://flash.jin10.com/detail/20260609053213808800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "OpenAI秘密提交美国IPO文件，加入竞争对手竞相上市的行列",
+          "url": "https://wallstreetcn.com/livenews/3116359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         },
         {
           "title": "路透社/益普索调查显示，特朗普的支持率仍徘徊在其政治生涯的最低水平附近，且大多数美国人预计汽油价格将会上涨。",
@@ -727,9 +1021,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
+        },
+        {
+          "title": "亚马逊(AMZN.O)：向美国证券交易委员会提交文件，拟发行五期加元计价债券，总规模最高达140亿加元。",
+          "url": "https://flash.jin10.com/detail/20260609053024906800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了16个对手方的18.32亿美元。",
@@ -749,7 +1054,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
         },
@@ -765,15 +1070,37 @@
           "time_info": "01时48分"
         },
         {
+          "title": "Meta Platforms(META.O)：美国劳动力学院是一个无成本的项目，支持所有参与者学习，并为所有毕业生提供就业保障。",
+          "url": "https://flash.jin10.com/detail/20260609052125306800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
           "title": "乌克兰总统泽连斯基6月8日与美国特使Witkoff、库什纳通电话。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3116323",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
+        },
+        {
+          "title": "纽约联储调查：美国求职者前景预期恶化，通胀预期小幅回落",
+          "url": "https://wallstreetcn.com/articles/3774144",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         },
         {
           "title": "白宫：美国总统特朗普向美国参议院提交托德·布兰奇（Todd Blanche）出任司法部长的提名。",
@@ -782,9 +1109,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
+        },
+        {
+          "title": "Meta Platforms(META.O)：美国劳动力学院正式启动，首年获1.15亿美元启动资金支持。该项目将于2026年在路易斯安那州、俄亥俄州、印第安纳州和得克萨斯州启动试点。",
+          "url": "https://flash.jin10.com/detail/20260609052012949800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         },
         {
           "title": "据日经新闻：日本制铁将向美国钢铁(X.N)公司位于宾夕法尼亚州的综合设施投资至多25亿美元。",
@@ -793,9 +1131,31 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
+        },
+        {
+          "title": "明晟公司（MSCI）：将按照标准程序处理SpaceX美国IPO。",
+          "url": "https://wallstreetcn.com/livenews/3116346",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "金价跌回年初起点，抹去全年涨幅，若美联储加息金价会不会跌破 4000 美元？ 此前多家投行唱多，如何解读？",
+          "url": "https://www.zhihu.com/question/2046542725336584487",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         },
         {
           "title": "大摩：美元反弹势头能否延续，取决于美联储的利率路径",
@@ -829,6 +1189,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
+        },
+        {
+          "title": "印度寻求美国优惠关税以推动临时贸易协议达成",
+          "url": "https://flash.jin10.com/detail/20260609045153933800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         },
         {
           "title": "致命害虫螺旋蝇在美国得州蔓延，新增两起确诊病例",
@@ -867,7 +1238,7 @@
     },
     {
       "keyword_group": "# --- 第一组：中国宏观 (去掉了必须词，只过滤娱乐) --- 中国 央视 外交部 国防部 解放军 人民日报 新华社",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "中国男足将在主场迎战泰国队",
@@ -878,8 +1249,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时47分 ~ 04时06分]"
+          "appearance_count": 4,
+          "time_info": "[01时47分 ~ 06时22分]"
         },
         {
           "title": "读懂山西才懂何以中国",
@@ -887,11 +1258,12 @@
           "source": "抖音",
           "ranks": [
             2,
-            1
+            1,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时47分 ~ 04时06分]"
+          "appearance_count": 4,
+          "time_info": "[01时47分 ~ 06时22分]"
         },
         {
           "title": "2026 年第一季度鸿蒙在中国智能手机市场份额反超 iOS，安卓仍占 63%，这反映了怎样的市场格局？",
@@ -899,11 +1271,12 @@
           "source": "知乎",
           "ranks": [
             1,
-            7
+            7,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时47分 ~ 04时06分]"
+          "appearance_count": 4,
+          "time_info": "[01时47分 ~ 06时22分]"
         },
         {
           "title": "扬州回应“央视曝光回收料牙刷”：依法从严从快作出处理",
@@ -914,8 +1287,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时47分 ~ 04时06分]"
+          "appearance_count": 4,
+          "time_info": "[01时47分 ~ 06时22分]"
         },
         {
           "title": "欧盟推动相关国家减少所谓“对华依赖”，外交部回应",
@@ -925,8 +1298,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时47分 ~ 04时06分]"
+          "appearance_count": 4,
+          "time_info": "[01时47分 ~ 06时22分]"
         },
         {
           "title": "中国对日稀土出口骤降八成，日企慌神：快歇菜了",
@@ -936,8 +1309,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时47分 ~ 04时06分]"
+          "appearance_count": 4,
+          "time_info": "[01时47分 ~ 06时22分]"
         },
         {
           "title": "万茜人民日报撰文谈参演《八千里路云和月》：表演是把心放进去",
@@ -948,8 +1321,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时47分 ~ 04时06分]"
+          "appearance_count": 4,
+          "time_info": "[01时47分 ~ 06时22分]"
         },
         {
           "title": "马斯克SpaceX拒绝中国投资者",
@@ -959,8 +1332,20 @@
             23
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时47分 ~ 06时22分]"
+        },
+        {
+          "title": "中国车手的纽北Vlog",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E8%BD%A6%E6%89%8B%E7%9A%84%E7%BA%BD%E5%8C%97Vlog",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            28
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时47分 ~ 04时06分]"
+          "time_info": "[01时47分 ~ 06时22分]"
         },
         {
           "title": "中国重型运载火箭长征九号被称「令人窒息的庞然大物」，其研发对中国航天有何意义？",
@@ -974,26 +1359,27 @@
           "time_info": "[01时47分 ~ 01时48分]"
         },
         {
-          "title": "中国车手的纽北Vlog",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E8%BD%A6%E6%89%8B%E7%9A%84%E7%BA%BD%E5%8C%97Vlog",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时47分 ~ 01时48分]"
-        },
-        {
           "title": "Apple Intelligence 的缺席为什么没有影响到 iPhone 在中国大陆的销量？",
           "url": "https://www.zhihu.com/question/2047276644910552070",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时06分 ~ 06时22分]"
+        },
+        {
+          "title": "明晟公司（MSCI）新兴市场股票指数收跌3.6%，创3月份前期以来最大单日跌幅。 韩国Kospi股指跌超8%。 发展中国家科技股指陷入回调区间，较上周所创历史最高位回撤12%。 三星电子、SK海力士、台积电等亚洲AI相关芯片股构成最大拖累。",
+          "url": "https://wallstreetcn.com/livenews/3116349",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时06分"
+          "time_info": "06时22分"
         },
         {
           "title": "外交部回应对朝鲜半岛问题立场",
@@ -1002,7 +1388,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
         }
@@ -1010,7 +1396,7 @@
     },
     {
       "keyword_group": "# --- 第二组：中国经济与A股 (保留宽泛的行情词) --- A股 上证 深证 恒生 人民币 汇率 经济 GDP",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "人民币兑所有货币汇率都在上涨，出口也大幅增长，具体原因是什么？",
@@ -1018,11 +1404,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时47分 ~ 04时06分]"
+          "appearance_count": 4,
+          "time_info": "[01时47分 ~ 06时22分]"
         },
         {
           "title": "外围股市拖累A股大跌，公募一线解读：急跌如何应对？",
@@ -1033,8 +1420,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时47分 ~ 04时06分]"
+          "appearance_count": 4,
+          "time_info": "[01时47分 ~ 06时22分]"
+        },
+        {
+          "title": "周一（6月8日）纽约尾盘（周二北京时间04:59），离岸人民币（CNH）兑美元报6.7847元，较上周五纽约尾盘涨60点，日内整体交投于6.7924-6.7804元区间。",
+          "url": "https://wallstreetcn.com/livenews/3116355",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         },
         {
           "title": "惠誉：预计美伊冲突将拖累GDP增长，推高通胀与债券收益率，并加剧全球主权国家的地缘政治风险。",
@@ -1054,7 +1452,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
         },
@@ -1065,7 +1463,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
         },
@@ -1076,7 +1474,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
         }
@@ -1084,7 +1482,7 @@
     },
     {
       "keyword_group": "# --- 第五组：日本动态 (关键修改：去掉了外交限制) --- 日本 岸田文雄 自卫队 靖国神社 核污水",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "日本陆上自卫队举行最大规模实弹演习",
@@ -1094,8 +1492,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时47分 ~ 04时06分]"
+          "appearance_count": 4,
+          "time_info": "[01时47分 ~ 06时22分]"
+        },
+        {
+          "title": "对冲基金对赌日本央行6月加息孤掌难鸣，难阻日元继续沉沦",
+          "url": "https://wallstreetcn.com/livenews/3116361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         },
         {
           "title": "日本开始在南鸟岛部署导弹发射装置",
@@ -1134,8 +1543,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时47分 ~ 04时06分]"
+          "appearance_count": 4,
+          "time_info": "[01时47分 ~ 06时22分]"
         },
         {
           "title": "普京称泽连斯基公开信粗鲁无礼，信里到底写了啥？",
@@ -1145,8 +1554,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时47分 ~ 04时06分]"
+          "appearance_count": 4,
+          "time_info": "[01时47分 ~ 06时22分]"
         },
         {
           "title": "据塔斯社：俄罗斯能源部表示，针对能源设施的空袭增多导致俄罗斯南部燃料供应出现暂时困难。",
