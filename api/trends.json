@@ -1,33 +1,45 @@
 {
-  "generated_at": "2026-06-22T01:23:21.083802+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-22T03:21:42.392779+08:00",
+  "total_titles_processed": 388,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- 第三组：美国宏观与军事 --- 美国 白宫 五角大楼 美军 美联储 布林肯 拜登 特朗普",
-      "match_count": 27,
+      "match_count": 39,
       "titles": [
-        {
-          "title": "特朗普：斯塔默将辞去英国首相职务",
-          "url": "https://wallstreetcn.com/livenews/3122370",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        },
         {
           "title": "下周重磅日程：“美联储最爱通胀指标”、英伟达股东大会、OpenAI或发新模型、美光财报",
           "url": "https://wallstreetcn.com/articles/3775117",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 03时21分]"
+        },
+        {
+          "title": "万斯：特朗普致力于区域全面停火，希望改善与伊朗人的关系",
+          "url": "https://news.ifeng.com/c/8u90rSz0ftO",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 03时21分]"
+        },
+        {
+          "title": "叙利亚总统al-Sharaa：美国总统特朗普有关叙利亚与黎巴嫩（政府）的论调被误解了。 叙利亚可能会支持黎巴嫩政府机构。（SANA）",
+          "url": "https://wallstreetcn.com/livenews/3122380",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时23分"
+          "time_info": "03时21分"
         },
         {
           "title": "据Axios记者：一名参与会谈的外交官表示，伊朗代表团没有离开，美国与伊朗之间的谈判仍在继续。",
@@ -41,22 +53,22 @@
           "time_info": "01时23分"
         },
         {
+          "title": "美国智库：伊朗战争致美方成本达400亿美元",
+          "url": "https://flash.jin10.com/detail/20260622025530617800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时21分"
+        },
+        {
           "title": "伊朗议长回应特朗普最新威胁",
           "url": "https://flash.jin10.com/detail/20260622010423515800",
           "source": "金十数据",
           "ranks": [
             3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        },
-        {
-          "title": "万斯：特朗普致力于区域全面停火，希望改善与伊朗人的关系",
-          "url": "https://news.ifeng.com/c/8u90rSz0ftO",
-          "source": "凤凰网",
-          "ranks": [
-            4
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -74,26 +86,62 @@
           "time_info": "01时23分"
         },
         {
+          "title": "报道：伊朗谈判人员仍在与美国接触，伊媒此前称代表离开瑞士会场",
+          "url": "https://wallstreetcn.com/livenews/3122376",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时21分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：美国有人说特朗普完全听我的，以色列有人说我完全听特朗普的，这两种说法都不真实。我们是独立国家的领导人。我代表的是以色列的利益。",
+          "url": "https://flash.jin10.com/detail/20260622023516275800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时21分"
+        },
+        {
+          "title": "特朗普：斯塔默将辞去英国首相职务",
+          "url": "https://wallstreetcn.com/livenews/3122370",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 03时21分]"
+        },
+        {
           "title": "事关霍尔木兹！特朗普最新发声 美伊技术层面谈判今日举行",
           "url": "https://www.cls.cn/detail/2404722",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 03时21分]"
         },
         {
           "title": "美国总统特朗普：以色列无法“干掉”（黎巴嫩）真主党，这让我感到失望。",
           "url": "https://wallstreetcn.com/livenews/3122366",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 03时21分]"
         },
         {
           "title": "梅洛尼终于爆发，“干了件美国盟友都不敢的事儿”",
@@ -103,19 +151,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 03时21分]"
         },
         {
           "title": "美国总统特朗普：与伊朗的谅解备忘录（MoU）仅仅是（之前）停火的延长而已。 伊朗必须阻止在黎巴嫩的代理人（给以色列）制造麻烦。 如果代理人没有被阻止，我们（美国与以色列）将再次袭击伊朗。",
           "url": "https://wallstreetcn.com/livenews/3122364",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 03时21分]"
         },
         {
           "title": "霍尔木兹海峡又封了？伊朗、美国说法不一 瑞士小镇上演外交风云",
@@ -125,8 +174,136 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 03时21分]"
+        },
+        {
+          "title": "美国总统特朗普：昨天有1900万桶石油流出波斯湾。",
+          "url": "https://wallstreetcn.com/livenews/3122360",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 03时21分]"
+        },
+        {
+          "title": "美国总统特朗普：Pezeshkian（伊朗总统）要管好自己的嘴。",
+          "url": "https://wallstreetcn.com/livenews/3122359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 03时21分]"
+        },
+        {
+          "title": "美专家：若台海爆发冲突美军胜不了",
+          "url": "https://www.toutiao.com/trending/7652677499449196587/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 03时21分]"
+        },
+        {
+          "title": "特朗普的新专机，首次亮相",
+          "url": "https://www.cls.cn/detail/2404514",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 03时21分]"
+        },
+        {
+          "title": "美国总统特朗普：必要时，美国可能会接管霍尔木兹海峡，可能会收取海峡通行费。 接管海峡将意味着美国攫取20%的石油（收益）。 我昨夜与伊朗官员们通话，用了脏话（expletive）。 告诉伊朗人，如果关闭海峡，伊朗人民将没有国家。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3122357",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 03时21分]"
+        },
+        {
+          "title": "万斯称特朗普致力于区域全面停火",
+          "url": "https://wallstreetcn.com/livenews/3122356",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 03时21分]"
+        },
+        {
+          "title": "美国副总统万斯：今天的会议意味着技术磋商开始。 今天与伊朗的对话不会解决所有分歧。",
+          "url": "https://wallstreetcn.com/livenews/3122353",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 03时21分]"
+        },
+        {
+          "title": "美国副总统万斯在伊朗会谈之后表示：问题在于，我们还能在中东实现多少进展。 总统特朗普要求我们翻开新的篇章。 最近数小时取得很大的进展。 预计未来数小时还将取得更多进展。 如果伊朗弃核，美国愿意转变与伊朗人民的关系。 特朗普承诺推动实现该地区全面停火。 两国设法为（美国与伊朗之间的）技术对话制定框架。",
+          "url": "https://wallstreetcn.com/livenews/3122351",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 03时21分]"
+        },
+        {
+          "title": "伊朗谈判员：（特朗普政府）很快将发布关于豁免伊朗石油的决定。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3122374",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时23分"
+          "time_info": "03时21分"
+        },
+        {
+          "title": "伊朗谈判代表团团长回应特朗普最新威胁：我们根本不把美国人的威胁放在眼里，奉劝他们最好谨言慎行",
+          "url": "https://wallstreetcn.com/livenews/3122372",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时21分"
+        },
+        {
+          "title": "伊朗：美国总统特朗普的威胁导致美方在瑞士的谈判中止。（法尔斯通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3122373",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时21分"
         },
         {
           "title": "伊朗代表团因抗议特朗普言论而离开谈判会场",
@@ -140,15 +317,15 @@
           "time_info": "01时23分"
         },
         {
-          "title": "美国总统特朗普：昨天有1900万桶石油流出波斯湾。",
-          "url": "https://wallstreetcn.com/livenews/3122360",
+          "title": "抗议特朗普威胁言论，伊朗代表团离开谈判地点",
+          "url": "https://wallstreetcn.com/livenews/3122371",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时23分"
+          "time_info": "03时21分"
         },
         {
           "title": "美国共和党参议员格雷厄姆：我们希望外交能够成功。 但如果伊朗试图挑战我们，我们将彻底摧毁他们。",
@@ -162,81 +339,15 @@
           "time_info": "01时23分"
         },
         {
-          "title": "美国总统特朗普：Pezeshkian（伊朗总统）要管好自己的嘴。",
-          "url": "https://wallstreetcn.com/livenews/3122359",
-          "source": "华尔街见闻-快讯",
+          "title": "据黎巴嫩电视台Al-Mayadeen：伊朗代表团不会重返谈判，除非特朗普为其威胁道歉，并且以色列从黎巴嫩南部撤军。",
+          "url": "https://flash.jin10.com/detail/20260622015926521800",
+          "source": "金十数据",
           "ranks": [
-            11
+            18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时23分"
-        },
-        {
-          "title": "特朗普的新专机，首次亮相",
-          "url": "https://www.cls.cn/detail/2404514",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        },
-        {
-          "title": "美国总统特朗普：必要时，美国可能会接管霍尔木兹海峡，可能会收取海峡通行费。 接管海峡将意味着美国攫取20%的石油（收益）。 我昨夜与伊朗官员们通话，用了脏话（expletive）。 告诉伊朗人，如果关闭海峡，伊朗人民将没有国家。（福克斯新闻）",
-          "url": "https://wallstreetcn.com/livenews/3122357",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        },
-        {
-          "title": "美专家：若台海爆发冲突美军胜不了",
-          "url": "https://www.toutiao.com/trending/7652677499449196587/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        },
-        {
-          "title": "万斯称特朗普致力于区域全面停火",
-          "url": "https://wallstreetcn.com/livenews/3122356",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        },
-        {
-          "title": "美国副总统万斯：今天的会议意味着技术磋商开始。 今天与伊朗的对话不会解决所有分歧。",
-          "url": "https://wallstreetcn.com/livenews/3122353",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        },
-        {
-          "title": "美国副总统万斯在伊朗会谈之后表示：问题在于，我们还能在中东实现多少进展。 总统特朗普要求我们翻开新的篇章。 最近数小时取得很大的进展。 预计未来数小时还将取得更多进展。 如果伊朗弃核，美国愿意转变与伊朗人民的关系。 特朗普承诺推动实现该地区全面停火。 两国设法为（美国与伊朗之间的）技术对话制定框架。",
-          "url": "https://wallstreetcn.com/livenews/3122351",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
+          "time_info": "03时21分"
         },
         {
           "title": "据Axios记者：一名美国官员称，伊朗代表此前已同意在会议开始时安排媒体简报活动。“他们甚至带来了本国国家媒体进行报道，这些媒体已在活动现场提前就位。但尽管如此，他们在看到现场媒体数量后仍离开了会议，随后通过国家媒体发布了对情况的不准确描述，”该美方官员称。",
@@ -248,6 +359,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "据路透社：伊朗消息人士表示，伊朗与美国在瑞士的谈判已暂停，但并未结束。",
+          "url": "https://flash.jin10.com/detail/20260622014628275800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时21分"
         },
         {
           "title": "伊朗代表团抗议特朗普近期口头威胁",
@@ -272,6 +394,17 @@
           "time_info": "01时23分"
         },
         {
+          "title": "消息人士：美国得克萨斯州马拉松加尔维斯顿湾炼油厂热电联产设施发生火灾，目前暂无人员伤亡报告。",
+          "url": "https://flash.jin10.com/detail/20260622012149113800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时21分"
+        },
+        {
           "title": "据沙特阿拉伯阿拉比亚电视台：消息人士称，美国与伊朗在瑞士举行的第二轮谈判即将开始。",
           "url": "https://flash.jin10.com/detail/20260621233348848800",
           "source": "金十数据",
@@ -281,6 +414,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "据沙特阿拉伯阿拉比亚电视台援引消息人士称：伊朗代表团已离开谈判会场，返回其在瑞士的驻地，但与美国的谈判仍在通过中间方继续进行。",
+          "url": "https://flash.jin10.com/detail/20260622012111729800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时21分"
         },
         {
           "title": "伊朗、美国和卡塔尔开会讨论黎巴嫩局势",
@@ -308,19 +452,8 @@
     },
     {
       "keyword_group": "# --- 第一组：中国宏观 (去掉了必须词，只过滤娱乐) --- 中国 央视 外交部 国防部 解放军 人民日报 新华社",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
-        {
-          "title": "据伊朗国家媒体：伊朗外交部发言人表示，周日的会谈集中在结束战争、解除制裁和释放伊朗被冻结资金上。",
-          "url": "https://flash.jin10.com/detail/20260622010554917800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        },
         {
           "title": "中国男篮战胜澳大利亚",
           "url": "https://www.douyin.com/hot/2542378",
@@ -329,8 +462,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 03时21分]"
         },
         {
           "title": "马宁在世界杯上演黄牌双帽子戏法，中国裁判组亮相世界杯！",
@@ -340,8 +473,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 03时21分]"
         },
         {
           "title": "伊朗外交部发言人：美国未执行谅解备忘录第一条",
@@ -351,19 +484,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        },
-        {
-          "title": "【特朗普就黎巴嫩问题再度威胁伊朗】美国总统特朗普21日在社交媒体上发文称，伊朗必须立即停止在黎巴嫩的“代理人”行动，否则美国将会再次对伊朗发起猛烈打击，“就像上周那样，而且会更猛烈”。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3122368",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 03时21分]"
         },
         {
           "title": "世界杯小组赛厄瓜多尔VS库拉索，马宁领衔中国裁判组亮相",
@@ -373,8 +495,32 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 03时21分]"
+        },
+        {
+          "title": "据伊朗国家媒体：伊朗外交部发言人表示，周日的会谈集中在结束战争、解除制裁和释放伊朗被冻结资金上。",
+          "url": "https://flash.jin10.com/detail/20260622010554917800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 03时21分]"
+        },
+        {
+          "title": "【特朗普就黎巴嫩问题再度威胁伊朗】美国总统特朗普21日在社交媒体上发文称，伊朗必须立即停止在黎巴嫩的“代理人”行动，否则美国将会再次对伊朗发起猛烈打击，“就像上周那样，而且会更猛烈”。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3122368",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 03时21分]"
         },
         {
           "title": "中国男篮91-81击败澳大利亚",
@@ -384,8 +530,90 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 03时21分]"
+        },
+        {
+          "title": "【万斯称美国愿与伊朗“从根本上改变双边关系”】美国副总统万斯在与伊朗举行高级别会谈前表示，美国愿意与伊朗“从根本上改变双边关系”。万斯表示，伊朗和美国领导层此前从未以如此高的级别举行会晤。万斯称：“总统要求我们开启新的篇章，改变我们与伊朗人民的关系，并向伊朗人民伸出友谊之手。如果伊朗领导层愿意放弃成为‘地区不稳定因素’，如果他们愿意长期放弃‘发展核武器的目标’，那么美国愿意从根本上改变与伊朗的关系。”（央视）",
+          "url": "https://wallstreetcn.com/livenews/3122362",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 03时21分]"
+        },
+        {
+          "title": "世界杯官方发土味喜报祝贺中国裁判",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%AE%98%E6%96%B9%E5%8F%91%E5%9C%9F%E5%91%B3%E5%96%9C%E6%8A%A5%E7%A5%9D%E8%B4%BA%E4%B8%AD%E5%9B%BD%E8%A3%81%E5%88%A4",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 03时21分]"
+        },
+        {
+          "title": "欧文抵达中国开启中国行",
+          "url": "https://www.douyin.com/hot/2542597",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 03时21分]"
+        },
+        {
+          "title": "中国男篮力克澳大利亚",
+          "url": "https://www.toutiao.com/trending/7653447834108690486/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 03时21分]"
+        },
+        {
+          "title": "佛得角门将母亲中文感谢中国球迷",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BD%9B%E5%BE%97%E8%A7%92%E9%97%A8%E5%B0%86%E6%AF%8D%E4%BA%B2%E4%B8%AD%E6%96%87%E6%84%9F%E8%B0%A2%E4%B8%AD%E5%9B%BD%E7%90%83%E8%BF%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 03时21分]"
+        },
+        {
+          "title": "印度14岁学生布局定居中国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355304&amp;topic_name=%E5%8D%B0%E5%BA%A614%E5%B2%81%E5%AD%A6%E7%94%9F%E5%B8%83%E5%B1%80%E5%AE%9A%E5%B1%85%E4%B8%AD%E5%9B%BD",
+          "source": "贴吧",
+          "ranks": [
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 03时21分]"
+        },
+        {
+          "title": "活力中国调研行｜上天、入海，“小巨人”们为何坚定布局最前沿",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33423194",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 03时21分]"
         },
         {
           "title": "法国外交部：法国外交部长将于当地时间周一在瑞士会见卡塔尔首相。",
@@ -399,81 +627,26 @@
           "time_info": "01时23分"
         },
         {
-          "title": "【万斯称美国愿与伊朗“从根本上改变双边关系”】美国副总统万斯在与伊朗举行高级别会谈前表示，美国愿意与伊朗“从根本上改变双边关系”。万斯表示，伊朗和美国领导层此前从未以如此高的级别举行会晤。万斯称：“总统要求我们开启新的篇章，改变我们与伊朗人民的关系，并向伊朗人民伸出友谊之手。如果伊朗领导层愿意放弃成为‘地区不稳定因素’，如果他们愿意长期放弃‘发展核武器的目标’，那么美国愿意从根本上改变与伊朗的关系。”（央视）",
-          "url": "https://wallstreetcn.com/livenews/3122362",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        },
-        {
-          "title": "欧文抵达中国开启中国行",
-          "url": "https://www.douyin.com/hot/2542597",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        },
-        {
-          "title": "中国男篮力克澳大利亚",
-          "url": "https://www.toutiao.com/trending/7653447834108690486/",
-          "source": "今日头条",
+          "title": "中国地震台网正式测定：6月22日1时58分，在新疆伊犁州昭苏县（北纬43.36度，东经81.10度）发生4.0级地震，震源深度20公里。",
+          "url": "https://flash.jin10.com/detail/20260622021140847800",
+          "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时23分"
+          "time_info": "03时21分"
         },
         {
-          "title": "佛得角门将母亲中文感谢中国球迷",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BD%9B%E5%BE%97%E8%A7%92%E9%97%A8%E5%B0%86%E6%AF%8D%E4%BA%B2%E4%B8%AD%E6%96%87%E6%84%9F%E8%B0%A2%E4%B8%AD%E5%9B%BD%E7%90%83%E8%BF%B7",
-          "source": "bilibili 热搜",
+          "title": "德国国防部长：霍尔木兹海峡关闭责任在特朗普",
+          "url": "https://flash.jin10.com/detail/20260622020611881800",
+          "source": "金十数据",
           "ranks": [
-            15
+            14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时23分"
-        },
-        {
-          "title": "印度14岁学生布局定居中国",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355304&amp;topic_name=%E5%8D%B0%E5%BA%A614%E5%B2%81%E5%AD%A6%E7%94%9F%E5%B8%83%E5%B1%80%E5%AE%9A%E5%B1%85%E4%B8%AD%E5%9B%BD",
-          "source": "贴吧",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        },
-        {
-          "title": "世界杯官方发土味喜报祝贺中国裁判",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%AE%98%E6%96%B9%E5%8F%91%E5%9C%9F%E5%91%B3%E5%96%9C%E6%8A%A5%E7%A5%9D%E8%B4%BA%E4%B8%AD%E5%9B%BD%E8%A3%81%E5%88%A4",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        },
-        {
-          "title": "活力中国调研行｜上天、入海，“小巨人”们为何坚定布局最前沿",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33423194",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
+          "time_info": "03时21分"
         }
       ]
     },
@@ -486,33 +659,36 @@
           "url": "https://www.toutiao.com/trending/7653862468392848938/",
           "source": "今日头条",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        },
-        {
-          "title": "2026 年世界杯小组赛 F 组，突尼斯 0-4 日本，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2050231270332789671",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 03时21分]"
         },
         {
           "title": "全面压制,日本送突尼斯出局",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355314&amp;topic_name=%E5%85%A8%E9%9D%A2%E5%8E%8B%E5%88%B6%2C%E6%97%A5%E6%9C%AC%E9%80%81%E7%AA%81%E5%B0%BC%E6%96%AF%E5%87%BA%E5%B1%80",
           "source": "贴吧",
           "ranks": [
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 03时21分]"
+        },
+        {
+          "title": "2026 年世界杯小组赛 F 组，突尼斯 0-4 日本，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2050231270332789671",
+          "source": "知乎",
+          "ranks": [
+            3,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 03时21分]"
         },
         {
           "title": "队史世界杯最大赢球比分，但日本躲不过淘汰赛首轮强强对话",
@@ -522,19 +698,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 03时21分]"
         },
         {
           "title": "泳装屈原!日本手游整狠活",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355298&amp;topic_name=%E6%B3%B3%E8%A3%85%E5%B1%88%E5%8E%9F%21%E6%97%A5%E6%9C%AC%E6%89%8B%E6%B8%B8%E6%95%B4%E7%8B%A0%E6%B4%BB",
           "source": "贴吧",
           "ranks": [
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 03时21分]"
         },
         {
           "title": "世界杯史上第1000场比赛，日本4比0突尼斯",
@@ -544,8 +721,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 03时21分]"
         },
         {
           "title": "曝日本为“备战台海”囤弹药",
@@ -555,19 +732,59 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 03时21分]"
         },
         {
           "title": "刘建宏聊日本足球的天花板",
           "url": "https://www.douyin.com/hot/2542630",
           "source": "抖音",
           "ranks": [
-            22
+            22,
+            23
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 03时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# --- 第二组：中国经济与A股 (保留宽泛的行情词) --- A股 上证 深证 恒生 人民币 汇率 经济 GDP",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "龙舟经济火爆",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BE%99%E8%88%9F%E7%BB%8F%E6%B5%8E%E7%81%AB%E7%88%86%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 03时21分]"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：我们攻击了他们的桥梁，攻击了许多目标。我们对“伊朗革命卫队经济”的累计破坏规模不是以百万计，也不是以数亿美元、数百亿美元计，而是以数千亿美元计算。他们需要很长时间才能恢复。",
+          "url": "https://flash.jin10.com/detail/20260622023414406800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时23分"
+          "time_info": "03时21分"
+        },
+        {
+          "title": "巴基斯坦总理：感谢瑞士在签署具有历史意义的伊斯兰堡谅解备忘录之后所提供的支持以及建设性参与。双方一致认为，该备忘录的成功落实将有助于地区和平、稳定以及全球经济繁荣。",
+          "url": "https://flash.jin10.com/detail/20260622020221202800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时21分"
         }
       ]
     },
@@ -583,8 +800,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 03时21分]"
         },
         {
           "title": "供应链公司：已向苹果首款折叠屏iPhone小批量供货",
@@ -592,23 +809,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# --- 第二组：中国经济与A股 (保留宽泛的行情词) --- A股 上证 深证 恒生 人民币 汇率 经济 GDP",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "龙舟经济火爆",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BE%99%E8%88%9F%E7%BB%8F%E6%B5%8E%E7%81%AB%E7%88%86%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
           ],
           "is_new": false,
           "appearance_count": 1,
