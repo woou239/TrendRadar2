@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-21T16:23:59.159760+08:00",
-  "total_titles_processed": 809,
+  "generated_at": "2026-06-21T19:41:38.516373+08:00",
+  "total_titles_processed": 980,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- 第一组：中国宏观 (去掉了必须词，只过滤娱乐) --- 中国 央视 外交部 国防部 解放军 人民日报 新华社",
-      "match_count": 54,
+      "match_count": 68,
       "titles": [
         {
           "title": "中国大模型何时能达Fable级别？马斯克预计明年Q1 唐杰称不用那么久",
@@ -27,11 +27,12 @@
             3,
             2,
             1,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时19分 ~ 16时23分]"
+          "appearance_count": 10,
+          "time_info": "[01时19分 ~ 19时41分]"
         },
         {
           "title": "印度14岁学生布局定居中国",
@@ -46,8 +47,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时19分 ~ 16时23分]"
+          "appearance_count": 10,
+          "time_info": "[01时19分 ~ 19时41分]"
         },
         {
           "title": "特朗普：今年将再次访问中国",
@@ -207,7 +208,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -290,20 +291,31 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
         {
-          "title": "佛得角门将母亲中文感谢中国球迷",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BD%9B%E5%BE%97%E8%A7%92%E9%97%A8%E5%B0%86%E6%AF%8D%E4%BA%B2%E4%B8%AD%E6%96%87%E6%84%9F%E8%B0%A2%E4%B8%AD%E5%9B%BD%E7%90%83%E8%BF%B7",
-          "source": "bilibili 热搜",
+          "title": "伊朗外交部公布伊美谈判安排，称黎以停火是主要议题",
+          "url": "https://news.ifeng.com/c/8u8kqRk2ZNT",
+          "source": "凤凰网",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时23分"
+          "time_info": "19时41分"
+        },
+        {
+          "title": "文化中国行美好如夏至",
+          "url": "https://s.weibo.com/weibo?q=%E6%96%87%E5%8C%96%E4%B8%AD%E5%9B%BD%E8%A1%8C%E7%BE%8E%E5%A5%BD%E5%A6%82%E5%A4%8F%E8%87%B3&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
         },
         {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗外交部发言人表示，今天的会议是对与美国达成的谅解备忘录实施情况的后续跟进。",
@@ -312,9 +324,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
+        },
+        {
+          "title": "伊朗外交部发言人：美国未执行谅解备忘录第一条",
+          "url": "https://news.ifeng.com/c/8u8jKnIv0GU",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
         },
         {
           "title": "中使馆提醒：请来柬中国公民洁身自好",
@@ -323,7 +346,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -334,7 +357,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -356,11 +379,61 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            11
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时27分 ~ 19时41分]"
+        },
+        {
+          "title": "中国男篮vs澳大利亚男篮",
+          "url": "https://www.douyin.com/hot/2542378",
+          "source": "抖音",
+          "ranks": [
+            10,
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时27分 ~ 16时23分]"
+          "time_info": "[16时23分 ~ 19时41分]"
+        },
+        {
+          "title": "马宁在世界杯上演黄牌双帽子戏法，中国裁判组亮相世界杯！",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33422790",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时23分 ~ 19时41分]"
+        },
+        {
+          "title": "世界杯小组赛厄瓜多尔VS库拉索，马宁领衔中国裁判组亮相",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33422595",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时26分 ~ 19时41分]"
+        },
+        {
+          "title": "佛得角门将母亲中文感谢中国球迷",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BD%9B%E5%BE%97%E8%A7%92%E9%97%A8%E5%B0%86%E6%AF%8D%E4%BA%B2%E4%B8%AD%E6%96%87%E6%84%9F%E8%B0%A2%E4%B8%AD%E5%9B%BD%E7%90%83%E8%BF%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时23分 ~ 19时41分]"
         },
         {
           "title": "明天将是中国球迷的主场",
@@ -387,18 +460,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时15分 ~ 07时02分]"
-        },
-        {
-          "title": "世界杯小组赛厄瓜多尔VS库拉索，马宁领衔中国裁判组亮相",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33422595",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时26分 ~ 16时23分]"
         },
         {
           "title": "智谱唐杰“呛声”马斯克：中国模型达到Fable水平用不了那么久",
@@ -449,6 +510,18 @@
           "time_info": "[03时15分 ~ 05时09分]"
         },
         {
+          "title": "人民日报批烂梗泛滥",
+          "url": "https://s.weibo.com/weibo?q=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E6%89%B9%E7%83%82%E6%A2%97%E6%B3%9B%E6%BB%A5&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时23分 ~ 19时41分]"
+        },
+        {
           "title": "新华社评论员：牢记初心使命，永葆政治本色——四论学习贯彻习近平党建思想",
           "url": "https://m.thepaper.cn/newsDetail_forward_33418715",
           "source": "澎湃新闻",
@@ -482,26 +555,48 @@
           "time_info": "[11时26分 ~ 11时27分]"
         },
         {
+          "title": "中国人民银行行长潘功胜会见印度尼西亚财政部部长普尔巴亚·尤迪·萨德瓦",
+          "url": "https://wallstreetcn.com/livenews/3122329",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
+        },
+        {
           "title": "中国芯片出口正经历最猛烈的扩张",
           "url": "https://www.toutiao.com/trending/7653701627672546859/",
           "source": "今日头条",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
         {
-          "title": "马宁在世界杯上演黄牌双帽子戏法，中国裁判组亮相世界杯！",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33422790",
-          "source": "澎湃新闻",
+          "title": "以色列国防部长：以色列不会从黎巴嫩的安全区撤出。",
+          "url": "https://flash.jin10.com/detail/20260621184026243800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时23分"
+          "time_info": "19时41分"
+        },
+        {
+          "title": "世界杯官方发土味喜报祝贺中国裁判",
+          "url": "https://www.toutiao.com/trending/7653466018400747526/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
         },
         {
           "title": "中国队没进世界杯 中国裁判为啥进了",
@@ -510,20 +605,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
         {
-          "title": "中国男篮vs澳大利亚男篮",
-          "url": "https://www.douyin.com/hot/2542378",
-          "source": "抖音",
+          "title": "以色列国防部长：宣布停火后，以色列国防军在黎巴嫩安全区的所有位置保持不变，以保护北部社区。",
+          "url": "https://flash.jin10.com/detail/20260621183904577800",
+          "source": "金十数据",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时23分"
+          "time_info": "19时41分"
         },
         {
           "title": "中国地震台网正式测定：06月21日10时04分在青海海西州直辖区（北纬37.89度，东经95.56度）发生3.2级地震，震源深度10千米。",
@@ -537,15 +632,37 @@
           "time_info": "11时27分"
         },
         {
-          "title": "人民日报批烂梗泛滥",
-          "url": "https://s.weibo.com/weibo?q=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E6%89%B9%E7%83%82%E6%A2%97%E6%B3%9B%E6%BB%A5&t=31&band_rank=13&Refer=top",
-          "source": "微博",
+          "title": "以色列国防部长：以军在黎巴嫩行动不受限，有权消除一切威胁。",
+          "url": "https://flash.jin10.com/detail/20260621183827597800",
+          "source": "金十数据",
           "ranks": [
-            13
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时23分"
+          "time_info": "19时41分"
+        },
+        {
+          "title": "伊朗外交部称伊朗将跟进美方履行其承诺",
+          "url": "https://flash.jin10.com/detail/20260621182729493800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
+        },
+        {
+          "title": "伊朗外交部发言人：美国未执行谅解备忘录第一条",
+          "url": "https://wallstreetcn.com/livenews/3122321",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
         },
         {
           "title": "据沙特阿拉伯阿拉比亚电视台：巴基斯坦内政部长抵达德黑兰，并会见了伊朗内政部长、外交部长以及其他官员。",
@@ -559,13 +676,35 @@
           "time_info": "03时15分"
         },
         {
+          "title": "伊朗外交部：伊美与调解方四方会谈将在21日下午举行",
+          "url": "https://wallstreetcn.com/livenews/3122320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
+        },
+        {
+          "title": "中使馆提醒赴柬中国公民洁身自好",
+          "url": "https://www.toutiao.com/trending/7653007962197331475/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
+        },
+        {
           "title": "央视直播日本比赛收视率超3%",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E7%9B%B4%E6%92%AD%E6%97%A5%E6%9C%AC%E6%AF%94%E8%B5%9B%E6%94%B6%E8%A7%86%E7%8E%87%E8%B6%853%25%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -581,13 +720,35 @@
           "time_info": "01时20分"
         },
         {
+          "title": "国际原子能机构总干事格罗西：在比尔根山会见瑞士外交部长，评估关于伊朗的最新进展。",
+          "url": "https://flash.jin10.com/detail/20260621175023218800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
+        },
+        {
+          "title": "中国人民银行行长潘功胜会见印度尼西亚财政部部长普尔巴亚·尤迪·萨德瓦",
+          "url": "https://flash.jin10.com/detail/20260621174533411800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
+        },
+        {
           "title": "法国担忧中国鹅肝产量逼近法国",
           "url": "https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E6%8B%85%E5%BF%A7%E4%B8%AD%E5%9B%BD%E9%B9%85%E8%82%9D%E4%BA%A7%E9%87%8F%E9%80%BC%E8%BF%91%E6%B3%95%E5%9B%BD%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -631,7 +792,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -642,7 +803,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         }
@@ -650,7 +811,7 @@
     },
     {
       "keyword_group": "# --- 第三组：美国宏观与军事 --- 美国 白宫 五角大楼 美军 美联储 布林肯 拜登 特朗普",
-      "match_count": 48,
+      "match_count": 57,
       "titles": [
         {
           "title": "外媒爆料：特朗普和高市早苗在G7会议上吵了起来",
@@ -772,6 +933,17 @@
           "time_info": "[01时19分 ~ 07时02分]"
         },
         {
+          "title": "伊朗、美国和卡塔尔开会讨论黎巴嫩局势",
+          "url": "https://wallstreetcn.com/livenews/3122336",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
+        },
+        {
           "title": "霍尔木兹重启进行时：美军宣布结束封锁 多艘油轮驶出海峡",
           "url": "https://www.cls.cn/detail/2404175",
           "source": "财联社热门",
@@ -820,6 +992,17 @@
           "time_info": "07时02分"
         },
         {
+          "title": "据伊朗迈赫尔通讯社：美国、伊朗、卡塔尔三方会议“目前正在”瑞士举行，讨论黎巴嫩停火及伊朗被冻结资产问题。",
+          "url": "https://flash.jin10.com/detail/20260621191039536800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
+        },
+        {
           "title": "埃及、沙特、土耳其外长和美国高级官员举行会谈",
           "url": "https://flash.jin10.com/detail/20260621053253183800",
           "source": "金十数据",
@@ -866,6 +1049,31 @@
           "time_info": "[01时20分 ~ 11时27分]"
         },
         {
+          "title": "事关霍尔木兹！特朗普最新发声 美伊技术层面谈判今日举行",
+          "url": "https://www.cls.cn/detail/2404722",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时23分 ~ 19时41分]"
+        },
+        {
+          "title": "埃及、沙特、土耳其外长和美国高级官员举行会谈",
+          "url": "https://wallstreetcn.com/livenews/3122286",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时27分 ~ 19时41分]"
+        },
+        {
           "title": "美国芝加哥发生枪击事件 至少12人受伤",
           "url": "https://flash.jin10.com/detail/20260621024232393800",
           "source": "金十数据",
@@ -878,16 +1086,16 @@
           "time_info": "[03时15分 ~ 05时09分]"
         },
         {
-          "title": "埃及、沙特、土耳其外长和美国高级官员举行会谈",
-          "url": "https://wallstreetcn.com/livenews/3122286",
-          "source": "华尔街见闻-快讯",
+          "title": "沃什的野望：五“刀”重构美联储",
+          "url": "https://wallstreetcn.com/articles/3775120",
+          "source": "华尔街见闻",
           "ranks": [
-            2,
-            12
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时27分 ~ 16时23分]"
+          "appearance_count": 4,
+          "time_info": "[11时26分 ~ 19时41分]"
         },
         {
           "title": "美国副总统万斯：（关于前往瑞士进行伊朗会谈）我只能在那里待一两天。希望在核问题上取得进展，并在黎巴嫩停火问题上取得进展。",
@@ -926,28 +1134,17 @@
           "time_info": "[05时09分 ~ 07时02分]"
         },
         {
-          "title": "沃什的野望：五“刀”重构美联储",
-          "url": "https://wallstreetcn.com/articles/3775120",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时26分 ~ 16时23分]"
-        },
-        {
           "title": "霍尔木兹海峡又封了？伊朗、美国说法不一 瑞士小镇上演外交风云",
           "url": "https://www.cls.cn/detail/2404688",
           "source": "财联社热门",
           "ranks": [
             10,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时26分 ~ 16时23分]"
+          "appearance_count": 4,
+          "time_info": "[11时26分 ~ 19时41分]"
         },
         {
           "title": "特朗普的“空中行宫”谁买单",
@@ -972,6 +1169,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时19分 ~ 03时15分]"
+        },
+        {
+          "title": "梅洛尼终于爆发，“干了件美国盟友都不敢的事儿”",
+          "url": "https://news.ifeng.com/c/8u8ecch77aK",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时23分 ~ 19时41分]"
         },
         {
           "title": "意大利总理回击特朗普批评：应关注自身支持率",
@@ -1006,6 +1214,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时26分 ~ 11时27分]"
+        },
+        {
+          "title": "下周重磅日程：“美联储最爱通胀指标”、英伟达股东大会、OpenAI或发新模型、美光财报",
+          "url": "https://wallstreetcn.com/articles/3775117",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时23分 ~ 19时41分]"
         },
         {
           "title": "特朗普：若与伊朗不能达成协议 美或收取海峡通行费",
@@ -1043,37 +1263,15 @@
           "time_info": "[11时26分 ~ 11时27分]"
         },
         {
-          "title": "事关霍尔木兹！特朗普最新发声 美伊技术层面谈判今日举行",
-          "url": "https://www.cls.cn/detail/2404722",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
-          "title": "梅洛尼终于爆发，“干了件美国盟友都不敢的事儿”",
-          "url": "https://news.ifeng.com/c/8u8ecch77aK",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
-          "title": "下周重磅日程：“美联储最爱通胀指标”、英伟达股东大会、OpenAI或发新模型、美光财报",
-          "url": "https://wallstreetcn.com/articles/3775117",
-          "source": "华尔街见闻",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-21）",
+          "url": "https://flash.jin10.com/detail/20260621184020175800",
+          "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时23分"
+          "time_info": "19时41分"
         },
         {
           "title": "瑞士官方部门称，由万斯率领的美国代表团、由卡利巴夫率领的伊朗代表团及调解方均已抵达比尔根山（Bürgenstock），谈判将于（当地时间）周日上午启动。",
@@ -1082,7 +1280,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -1096,6 +1294,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        },
+        {
+          "title": "据阿拉伯卫星电视台：伊朗方面警告称，除非黎巴嫩战事结束，否则不会与美国就任何更广泛的协议展开谈判。",
+          "url": "https://flash.jin10.com/detail/20260621183218715800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
+        },
+        {
+          "title": "特朗普的新专机，首次亮相",
+          "url": "https://www.cls.cn/detail/2404514",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
         },
         {
           "title": "美国中央司令部发言人：霍尔木兹海峡交通持续畅通，美国军方正在监测局势以确保这一状况持续。",
@@ -1181,9 +1401,42 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
+        },
+        {
+          "title": "为何说美联储加息预期增强",
+          "url": "https://www.toutiao.com/trending/7653771669688815114/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
+        },
+        {
+          "title": "据阿拉伯卫星电视台：巴基斯坦总理谢里夫与美国副总统万斯会晤，库什纳、维特科夫及巴基斯坦陆军参谋长亦出席。",
+          "url": "https://flash.jin10.com/detail/20260621173348871800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
+        },
+        {
+          "title": "据半岛电视台：伊朗总统表示，作为与美国结束战争的初步协议的一部分，目前由卡塔尔持有的60亿美元被冻结资金将被归还。",
+          "url": "https://flash.jin10.com/detail/20260621172327857800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
         },
         {
           "title": "伊朗议会议员诺文：特朗普在战争的叙事中，将失败粉饰为胜利。当今世界已将伊朗视为一个第四极力量和一个新兴大国。",
@@ -1192,7 +1445,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -1203,15 +1456,26 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
+        },
+        {
+          "title": "世界杯上的美国队与美国社会",
+          "url": "https://www.toutiao.com/trending/7653653212897755186/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
         }
       ]
     },
     {
       "keyword_group": "# --- 第五组：日本动态 (关键修改：去掉了外交限制) --- 日本 岸田文雄 自卫队 靖国神社 核污水",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "泳装屈原!日本手游整狠活",
@@ -1226,8 +1490,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时19分 ~ 16时23分]"
+          "appearance_count": 10,
+          "time_info": "[01时19分 ~ 19时41分]"
         },
         {
           "title": "日本游客为免票全文背诵《岳阳楼记》",
@@ -1244,24 +1508,35 @@
           "time_info": "[01时19分 ~ 11时27分]"
         },
         {
-          "title": "黄健翔称日本足球达到这个境界了",
-          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E5%81%A5%E7%BF%94%E7%A7%B0%E6%97%A5%E6%9C%AC%E8%B6%B3%E7%90%83%E8%BE%BE%E5%88%B0%E8%BF%99%E4%B8%AA%E5%A2%83%E7%95%8C%E4%BA%86&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
           "title": "2026 年世界杯小组赛 F 组，突尼斯 0-4 日本，如何评价本场比赛？",
           "url": "https://www.zhihu.com/question/2050231270332789671",
           "source": "知乎",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时23分 ~ 19时41分]"
+        },
+        {
+          "title": "全面压制,日本送突尼斯出局",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355314&amp;topic_name=%E5%85%A8%E9%9D%A2%E5%8E%8B%E5%88%B6%2C%E6%97%A5%E6%9C%AC%E9%80%81%E7%AA%81%E5%B0%BC%E6%96%AF%E5%87%BA%E5%B1%80",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时23分 ~ 19时41分]"
+        },
+        {
+          "title": "黄健翔称日本足球达到这个境界了",
+          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E5%81%A5%E7%BF%94%E7%A7%B0%E6%97%A5%E6%9C%AC%E8%B6%B3%E7%90%83%E8%BE%BE%E5%88%B0%E8%BF%99%E4%B8%AA%E5%A2%83%E7%95%8C%E4%BA%86&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -1286,31 +1561,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
         {
-          "title": "全面压制,日本送突尼斯出局",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355314&amp;topic_name=%E5%85%A8%E9%9D%A2%E5%8E%8B%E5%88%B6%2C%E6%97%A5%E6%9C%AC%E9%80%81%E7%AA%81%E5%B0%BC%E6%96%AF%E5%87%BA%E5%B1%80",
-          "source": "贴吧",
+          "title": "锐评日本四球轻取突尼斯",
+          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84%E6%97%A5%E6%9C%AC%E5%9B%9B%E7%90%83%E8%BD%BB%E5%8F%96%E7%AA%81%E5%B0%BC%E6%96%AF",
+          "source": "bilibili 热搜",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
-          "title": "日本4比0大胜突尼斯",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC4%E6%AF%940%E5%A4%A7%E8%83%9C%E7%AA%81%E5%B0%BC%E6%96%AF",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时23分"
+          "time_info": "19时41分"
         },
         {
           "title": "突尼斯0比4日本",
@@ -1319,9 +1583,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
+        },
+        {
+          "title": "日本4比0大胜突尼斯",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC4%E6%AF%940%E5%A4%A7%E8%83%9C%E7%AA%81%E5%B0%BC%E6%96%AF",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时23分 ~ 19时41分]"
         },
         {
           "title": "曝日本为“备战台海”囤弹药",
@@ -1332,8 +1608,20 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时26分 ~ 16时23分]"
+          "appearance_count": 4,
+          "time_info": "[11时26分 ~ 19时41分]"
+        },
+        {
+          "title": "日本终结亚洲球队六连败",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%BB%88%E7%BB%93%E4%BA%9A%E6%B4%B2%E7%90%83%E9%98%9F%E5%85%AD%E8%BF%9E%E8%B4%A5",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时23分 ~ 19时41分]"
         },
         {
           "title": "突尼斯vs日本",
@@ -1347,13 +1635,37 @@
           "time_info": "[11时26分 ~ 11时27分]"
         },
         {
+          "title": "日本队4:0大胜突尼斯",
+          "url": "https://www.douyin.com/hot/2541983",
+          "source": "抖音",
+          "ranks": [
+            25,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时23分 ~ 19时41分]"
+        },
+        {
+          "title": "日本4-0突尼斯",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC4-0%E7%AA%81%E5%B0%BC%E6%96%AF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时23分 ~ 19时41分]"
+        },
+        {
           "title": "据日本共同社：日本首相高市早苗内阁支持率降至55.8%，为上任以来最低。",
           "url": "https://flash.jin10.com/detail/20260621160916787800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -1364,7 +1676,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -1375,7 +1687,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -1386,18 +1698,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
-          "title": "日本终结亚洲球队六连败",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%BB%88%E7%BB%93%E4%BA%9A%E6%B4%B2%E7%90%83%E9%98%9F%E5%85%AD%E8%BF%9E%E8%B4%A5",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -1408,7 +1709,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -1419,7 +1720,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -1430,9 +1731,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
+        },
+        {
+          "title": "日本2050世界杯宣言",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC2050%E4%B8%96%E7%95%8C%E6%9D%AF%E5%AE%A3%E8%A8%80%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
         },
         {
           "title": "日本毫米级门线悬案",
@@ -1441,31 +1753,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
         {
-          "title": "日本队4:0大胜突尼斯",
-          "url": "https://www.douyin.com/hot/2541983",
+          "title": "刘建宏聊日本足球的天花板",
+          "url": "https://www.douyin.com/hot/2542630",
           "source": "抖音",
           "ranks": [
-            25
+            24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
-          "title": "日本4-0突尼斯",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC4-0%E7%AA%81%E5%B0%BC%E6%96%AF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时23分"
+          "time_info": "19时41分"
         }
       ]
     },
@@ -1493,7 +1794,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -1534,6 +1835,17 @@
           "time_info": "[01时20分 ~ 03时15分]"
         },
         {
+          "title": "效仿泽连斯基，多名乌克兰官员退还波兰奖项",
+          "url": "https://news.ifeng.com/c/8u8KFVuXV3R",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时23分 ~ 19时41分]"
+        },
+        {
           "title": "乌克兰总统泽连斯基确认对俄罗斯图门地区的炼油设施实施了无人机袭击。",
           "url": "https://flash.jin10.com/detail/20260621004745292800",
           "source": "金十数据",
@@ -1546,24 +1858,13 @@
           "time_info": "[01时20分 ~ 03时15分]"
         },
         {
-          "title": "效仿泽连斯基，多名乌克兰官员退还波兰奖项",
-          "url": "https://news.ifeng.com/c/8u8KFVuXV3R",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
           "title": "乌克兰无人机袭击克里米亚造成四人死亡，28人受伤。",
           "url": "https://flash.jin10.com/detail/20260621154840762800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -1574,7 +1875,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -1585,7 +1886,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -1596,7 +1897,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -1607,7 +1908,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -1648,7 +1949,7 @@
     },
     {
       "keyword_group": "# --- 第二组：中国经济与A股 (保留宽泛的行情词) --- A股 上证 深证 恒生 人民币 汇率 经济 GDP",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "龙头4天2板 本周披露并购重组进展的A股名单一览",
@@ -1687,17 +1988,6 @@
           "time_info": "[01时19分 ~ 07时02分]"
         },
         {
-          "title": "智微智能：为满足公司主营业务“智算业务板块”的布局需要，拟向多家供应商分批采购服务器及配套设备，总金额不超过人民币40亿元。",
-          "url": "https://wallstreetcn.com/livenews/3122309",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
           "title": "瑞银：受厄尔尼诺影响，印尼经济增长可能在四个季度后下降1%，因干旱损害农业和矿业。",
           "url": "https://flash.jin10.com/detail/20260621105704238800",
           "source": "金十数据",
@@ -1707,6 +1997,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
+        },
+        {
+          "title": "智微智能：为满足公司主营业务“智算业务板块”的布局需要，拟向多家供应商分批采购服务器及配套设备，总金额不超过人民币40亿元。",
+          "url": "https://wallstreetcn.com/livenews/3122309",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时23分 ~ 19时41分]"
         },
         {
           "title": "下半年资产配置机会在哪里？听徐小庆、刘晨明展望2026下半年大类资产与A股策略如何布局！",
@@ -1732,15 +2034,37 @@
           "time_info": "[01时20分 ~ 03时15分]"
         },
         {
+          "title": "五只科技股杀入A股市值前十",
+          "url": "https://www.toutiao.com/trending/7653657296974646825/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
+        },
+        {
           "title": "数字经济时代，三驾马车已经失真",
           "url": "https://wallstreetcn.com/articles/3775124",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
+        },
+        {
+          "title": "经济危机叠加政治博弈引发抗议，玻利维亚宣布进入紧急状态",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33420663",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
         }
       ]
     },
@@ -1767,11 +2091,12 @@
           "ranks": [
             9,
             10,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时19分 ~ 16时23分]"
+          "appearance_count": 10,
+          "time_info": "[01时19分 ~ 19时41分]"
         },
         {
           "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
