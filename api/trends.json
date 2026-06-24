@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-25T00:12:58.456687+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-25T02:31:38.831661+08:00",
+  "total_titles_processed": 416,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- 第三组：美国宏观与军事 --- 美国 白宫 五角大楼 美军 美联储 布林肯 拜登 特朗普",
-      "match_count": 25,
+      "match_count": 37,
       "titles": [
+        {
+          "title": "特朗普对石油公司开刀：下令调查哄抬行为，称油价已断崖式下跌",
+          "url": "https://news.ifeng.com/c/8uDgRGX21RF",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时12分 ~ 02时31分]"
+        },
         {
           "title": "美国国务卿鲁比奥：负责伊朗事务的技术小组将于本月晚些时候重返。",
           "url": "https://flash.jin10.com/detail/20260625001227488800",
@@ -19,22 +30,33 @@
           "time_info": "00时12分"
         },
         {
+          "title": "美联储敲定重组银行监管部门的方案",
+          "url": "https://flash.jin10.com/detail/20260625021205098800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
+          "title": "美国总统特朗普：与国会参议院共和党成员的午餐会情况不错。 （兜售）石油价格（下跌）和就业数据。 伊朗同意我想要的一切。",
+          "url": "https://wallstreetcn.com/livenews/3124195",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
           "title": "美国国务卿鲁比奥：我们希望黎巴嫩与以色列的谈判取得成功。",
           "url": "https://flash.jin10.com/detail/20260625001147718800",
           "source": "金十数据",
           "ranks": [
             2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
-        },
-        {
-          "title": "特朗普对石油公司开刀：下令调查哄抬行为，称油价已断崖式下跌",
-          "url": "https://news.ifeng.com/c/8uDgRGX21RF",
-          "source": "凤凰网",
-          "ranks": [
-            3
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -63,15 +85,15 @@
           "time_info": "00时12分"
         },
         {
-          "title": "盘点｜“G7团结”演不下去了，特朗普如何惹恼多国领导人",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33439614",
-          "source": "澎湃新闻",
+          "title": "市场消息：美联储负责监管事务的副主席米歇尔·鲍曼已完成对该机构银行监管部门的人事重组。",
+          "url": "https://flash.jin10.com/detail/20260625020417241800",
+          "source": "金十数据",
           "ranks": [
-            5
+            4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时12分"
+          "time_info": "02时31分"
         },
         {
           "title": "美国国务卿鲁比奥：黎巴嫩与以色列之间的谈判今天和明天继续进行。",
@@ -94,6 +116,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时12分"
+        },
+        {
+          "title": "盘点｜“G7团结”演不下去了，特朗普如何惹恼多国领导人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33439614",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时12分 ~ 02时31分]"
+        },
+        {
+          "title": "伊朗：签谅解备忘录表明“美国战败”",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E7%AD%BE%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95%E8%A1%A8%E6%98%8E%E2%80%9C%E7%BE%8E%E5%9B%BD%E6%88%98%E8%B4%A5%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时12分 ~ 02时31分]"
         },
         {
           "title": "据半岛电视台：科威特埃米尔与美国国务卿鲁比奥讨论了地区局势发展。",
@@ -127,6 +173,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时12分"
+        },
+        {
+          "title": "美国国家运输安全委员会（NTSB）：将在30天内初步形成特斯拉撞车事故的初步（调查）报告。 将调查驾驶员（对于驾车）的参与程度和（特斯拉的）自动驾驶技术。",
+          "url": "https://wallstreetcn.com/livenews/3124187",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
         },
         {
           "title": "美国国务卿鲁比奥：美国对海湾地区的安全保证是“实实在在的”。",
@@ -195,6 +252,17 @@
           "time_info": "00时12分"
         },
         {
+          "title": "岚目镜观｜“我是谁？”：250岁的美国面临自我审判（上）",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33438057",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
           "title": "特朗普：美方将参与国际原子能机构对伊朗核查行动",
           "url": "https://flash.jin10.com/detail/20260624235934784800",
           "source": "金十数据",
@@ -204,6 +272,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时12分"
+        },
+        {
+          "title": "美国能源部长：过去24小时内2000万桶原油从霍尔木兹海峡运出",
+          "url": "https://flash.jin10.com/detail/20260625014052573800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
+          "title": "美国七年期国债收益率跌10个基点，报4.27%。",
+          "url": "https://wallstreetcn.com/livenews/3124176",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
+          "title": "据Politico：特朗普政府官员已告知国会山共和党关键人物，预计本周结束前将提交一份关于伊朗战事相关费用的追加拨款请求。",
+          "url": "https://flash.jin10.com/detail/20260625013708420800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
         },
         {
           "title": "市场消息：美国、卡塔尔、尼日利亚和阿尔及利亚敦促欧盟修改甲烷法规，并警告此举可能对天然气供应和价格造成风险。",
@@ -239,6 +340,17 @@
           "time_info": "00时12分"
         },
         {
+          "title": "诺和诺德美国主管Jamey Millar：选择GLP-1口服药而非注射剂的Medicare（美国联邦医疗保险）患者数量是选择后者的两倍。（彭博电视）",
+          "url": "https://wallstreetcn.com/livenews/3124170",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
           "title": "美国加利福尼亚州北部地区发生5.5级地震",
           "url": "https://flash.jin10.com/detail/20260624234120481800",
           "source": "金十数据",
@@ -250,15 +362,26 @@
           "time_info": "00时12分"
         },
         {
-          "title": "伊朗：签谅解备忘录表明“美国战败”",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E7%AD%BE%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95%E8%A1%A8%E6%98%8E%E2%80%9C%E7%BE%8E%E5%9B%BD%E6%88%98%E8%B4%A5%E2%80%9D",
-          "source": "百度热搜",
+          "title": "周三（6月24日），美联储隔夜逆回购协议（RRP）使用规模为45.34亿美元（交易对手7家），上个交易日报64.84亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3124167",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时12分"
+          "time_info": "02时31分"
+        },
+        {
+          "title": "美国总统特朗普在国会山宣称：伊朗做出重大让步。 进展非常顺利。",
+          "url": "https://wallstreetcn.com/livenews/3124166",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
         },
         {
           "title": "WTI原油期货维持4.2%的跌幅，目前交投于70美元关口上方，最新数据显示，美国上周EIA原油库存下降609万桶，降幅超过彭博用户与受访分析师的预期。",
@@ -281,6 +404,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时12分"
+        },
+        {
+          "title": "美国财政部拍卖700亿美元五年期国债，得标利率4.2%、创2025年1月份以来新高（5月下旬报4.182%），投标倍数2.35（前次为2.34）。",
+          "url": "https://wallstreetcn.com/livenews/3124163",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
         }
       ]
     },
@@ -296,8 +430,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
+          "appearance_count": 2,
+          "time_info": "[00时12分 ~ 02时31分]"
         },
         {
           "title": "世界最快高铁跑出中国创新加速度",
@@ -307,8 +441,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
+          "appearance_count": 2,
+          "time_info": "[00时12分 ~ 02时31分]"
         },
         {
           "title": "欧洲病了别让中国吃药",
@@ -318,8 +452,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
+          "appearance_count": 2,
+          "time_info": "[00时12分 ~ 02时31分]"
         },
         {
           "title": "中国海军的“御用摄影师”不灵了，日本防卫省跟丢辽宁舰编队",
@@ -329,8 +463,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
+          "appearance_count": 2,
+          "time_info": "[00时12分 ~ 02时31分]"
         },
         {
           "title": "日方阻挠设立“慰安妇”纪念雕像，外交部：在受害者伤口上撒盐",
@@ -340,8 +474,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
+          "appearance_count": 2,
+          "time_info": "[00时12分 ~ 02时31分]"
         },
         {
           "title": "美财长大放厥词：AI的最大风险是中国超越美国",
@@ -351,8 +485,55 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
+          "appearance_count": 2,
+          "time_info": "[00时12分 ~ 02时31分]"
+        },
+        {
+          "title": "外交部：两名日本人因违反中国法律被拘留",
+          "url": "https://www.cls.cn/detail/2407880",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时12分 ~ 02时31分]"
+        },
+        {
+          "title": "中国海军“御用摄影师”交了白卷",
+          "url": "https://www.toutiao.com/trending/7654430319692939274/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时12分 ~ 02时31分]"
+        },
+        {
+          "title": "明查｜这是中国“垃圾河”？实为拍摄于孟加拉国的老视频",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33438447",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时12分 ~ 02时31分]"
+        },
+        {
+          "title": "章泽天对谈中国合伙人王强",
+          "url": "https://search.bilibili.com/all?keyword=%E7%AB%A0%E6%B3%BD%E5%A4%A9%E5%AF%B9%E8%B0%88%E4%B8%AD%E5%9B%BD%E5%90%88%E4%BC%99%E4%BA%BA%E7%8E%8B%E5%BC%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时12分 ~ 02时31分]"
         },
         {
           "title": "中国足球小将冠军奖杯抵京",
@@ -366,55 +547,11 @@
           "time_info": "00时12分"
         },
         {
-          "title": "外交部：两名日本人因违反中国法律被拘留",
-          "url": "https://www.cls.cn/detail/2407880",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
-        },
-        {
           "title": "如果把「中国玩家共同经历过的游戏时代」做成一条时间轴，你觉得哪些瞬间最值得被永久保存？",
           "url": "https://www.zhihu.com/question/2043732533016253106",
           "source": "知乎",
           "ranks": [
             14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
-        },
-        {
-          "title": "明查｜这是中国“垃圾河”？实为拍摄于孟加拉国的老视频",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33438447",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
-        },
-        {
-          "title": "章泽天对谈中国合伙人王强",
-          "url": "https://search.bilibili.com/all?keyword=%E7%AB%A0%E6%B3%BD%E5%A4%A9%E5%AF%B9%E8%B0%88%E4%B8%AD%E5%9B%BD%E5%90%88%E4%BC%99%E4%BA%BA%E7%8E%8B%E5%BC%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
-        },
-        {
-          "title": "中国海军“御用摄影师”交了白卷",
-          "url": "https://www.toutiao.com/trending/7654430319692939274/",
-          "source": "今日头条",
-          "ranks": [
-            25
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -446,7 +583,7 @@
     },
     {
       "keyword_group": "# --- 第四组：美股与科技 (去掉了具体的“财报”限制) --- 美股 纳指 道琼斯 标普 特斯拉 英伟达 苹果 微软 OpenAI",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
         {
           "title": "静待美光财报，美股半导体股普涨，黄金股普跌，现货黄金跌破4000美元，布油跌4%",
@@ -456,8 +593,30 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
+          "appearance_count": 2,
+          "time_info": "[00时12分 ~ 02时31分]"
+        },
+        {
+          "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3775262",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时12分 ~ 02时31分]"
+        },
+        {
+          "title": "存储暴跌的导火索之一！韩媒“小作文”：英伟达Rubin预期减产，SK海力士HBM4扩产放缓",
+          "url": "https://wallstreetcn.com/articles/3775325",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时12分 ~ 02时31分]"
         },
         {
           "title": "温蒂汉堡（WEN）维持超过24%的涨幅，报7.777美元，美股盘初曾涨42.24%至8.89美元。 美股散户抱团概念股（meme概念股）指数涨1.13%，暂报13.42点，此前一度涨超2.03%。",
@@ -471,37 +630,38 @@
           "time_info": "00时12分"
         },
         {
-          "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
-          "url": "https://wallstreetcn.com/articles/3775262",
-          "source": "华尔街见闻",
+          "title": "OpenAI：推出新版GPT-5.5 Instant，今日面向付费用户开放，明日面向免费用户开放。",
+          "url": "https://flash.jin10.com/detail/20260625020749576800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时12分"
+          "time_info": "02时31分"
         },
         {
-          "title": "存储暴跌的导火索之一！韩媒“小作文”：英伟达Rubin预期减产，SK海力士HBM4扩产放缓",
-          "url": "https://wallstreetcn.com/articles/3775325",
-          "source": "华尔街见闻",
+          "title": "特斯拉跌幅扩大至2%。",
+          "url": "https://wallstreetcn.com/livenews/3124190",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时12分"
+          "time_info": "02时31分"
         },
         {
           "title": "全球 AI 交易降温，美股半导体相关 ETF 暴跌，闪迪、美光科技跌超 10%，发生了什么？",
           "url": "https://www.zhihu.com/question/2052869201178652833",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
+          "appearance_count": 2,
+          "time_info": "[00时12分 ~ 02时31分]"
         },
         {
           "title": "英伟达要求PCB厂商降价10%？记者求证",
@@ -511,19 +671,32 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
+          "appearance_count": 2,
+          "time_info": "[00时12分 ~ 02时31分]"
         },
         {
           "title": "美股期指小幅上涨 科技股反弹迎接美光财报“大考” | 今夜看点",
           "url": "https://www.cls.cn/detail/2408279",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
+          "appearance_count": 2,
+          "time_info": "[00时12分 ~ 02时31分]"
+        },
+        {
+          "title": "无人车追尾特斯拉被判全责",
+          "url": "https://www.toutiao.com/trending/7654640018397347878/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时12分 ~ 02时31分]"
         },
         {
           "title": "特斯拉人工智能主管Ashok Elluswamy在社交平台X上发帖称，事发时特斯拉的驾驶辅助系统并未启动，但并未提供任何证据。",
@@ -548,21 +721,32 @@
           "time_info": "00时12分"
         },
         {
-          "title": "无人车追尾特斯拉被判全责",
-          "url": "https://www.toutiao.com/trending/7654640018397347878/",
-          "source": "今日头条",
+          "title": "特斯拉第二季度车辆交付预期遭摩根大通下调",
+          "url": "https://wallstreetcn.com/livenews/3124172",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            21
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时12分"
+          "time_info": "02时31分"
+        },
+        {
+          "title": "纳斯达克100指数跌幅扩大至0.5%，刷新日低。标普500指数大致持平，道指涨234点、涨幅0.4%，纳指跌0.2%，半导体指数跌1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3124169",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
         }
       ]
     },
     {
       "keyword_group": "# --- 第二组：中国经济与A股 (保留宽泛的行情词) --- A股 上证 深证 恒生 人民币 汇率 经济 GDP",
-      "match_count": 5,
+      "match_count": 12,
       "titles": [
         {
           "title": "美媒担忧：白宫想用制裁逼伊朗让步，却把人民币“送”上桌",
@@ -572,8 +756,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
+          "appearance_count": 2,
+          "time_info": "[00时12分 ~ 02时31分]"
         },
         {
           "title": "Steam Machine 的售价已正式公布，2TB 带手柄价格约为 9674 人民币，你觉得卖贵了吗？",
@@ -583,8 +767,41 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时12分 ~ 02时31分]"
+        },
+        {
+          "title": "美联储理事库克在小企业研讨会开幕式上的讲话中未对货币政策或经济前景发表评论。",
+          "url": "https://flash.jin10.com/detail/20260625020018719800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时12分"
+          "time_info": "02时31分"
+        },
+        {
+          "title": "美联储理事库克并未置评美国经济前景或FOMC货币政策。",
+          "url": "https://wallstreetcn.com/livenews/3124184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
+          "title": "加拿大央行会议纪要：不利的美国墨西哥加拿大贸易协议（USMCA）评审结果可能会加重经济困境，其对就业和投资的影响可能会更广泛地波及加拿大整体经济。 USMCA谈判若能取得有利结果，将有助于恢复部分确定性，并有望提振投资。 一季度GDP数据中，最大的意外是政府开支。 经济表现疲软，处于供大于求的状态，劳动力市场存在闲置产能，但经济并未陷入衰退。 重申央行将看淡油价对通胀的短期影响。 委员们一致同意，如果通胀数据开始显示通胀压力正在蔓延的证据，这将表明有必要收紧货币政策。 管理委员会成员一致认为，货币政策需要保持灵活性，当前的经济形势给货币政策制定带来了两难困境。",
+          "url": "https://wallstreetcn.com/livenews/3124175",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
         },
         {
           "title": "港交所文件显示，安徽华恒生物科技股份有限公司通过港交所上市聆讯。",
@@ -598,6 +815,17 @@
           "time_info": "00时12分"
         },
         {
+          "title": "加拿大央行会议纪要：委员们一致认为经济疲软，处于供过于求的状态，且劳动力市场存在闲置，但经济并未陷入衰退。",
+          "url": "https://flash.jin10.com/detail/20260625013214912800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
           "title": "安永：上半年A股IPO首日平均涨233%，位居近五年首位",
           "url": "https://wallstreetcn.com/livenews/3124116",
           "source": "华尔街见闻-快讯",
@@ -609,11 +837,83 @@
           "time_info": "00时12分"
         },
         {
+          "title": "加拿大央行会议纪要：管理委员会成员一致认为，经济形势给货币政策带来了两难局面。",
+          "url": "https://flash.jin10.com/detail/20260625013148477800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
+          "title": "加拿大央行会议纪要：如果USMCA谈判结果不利，其对就业和投资的影响可能会更广泛地波及加拿大经济。",
+          "url": "https://flash.jin10.com/detail/20260625013133307800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
+          "title": "加拿大央行会议纪要：经济疲软，除燃料外的通胀压力“总体可控”",
+          "url": "https://flash.jin10.com/detail/20260625013049365800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
           "title": "瑞穗经济学家：若要有效利用外储，意味着日本要抛售美债",
           "url": "https://wallstreetcn.com/livenews/3124111",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# --- 第六组：俄乌局势 --- 俄乌 俄罗斯 乌克兰 普京 泽连斯基 北约",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "普京：行动开始前我们已忍耐8年",
+          "url": "https://www.toutiao.com/trending/7654761824301400107/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
+          "title": "俄罗斯5月工业产出同比下降0.7%，市场预计增长1.6%。",
+          "url": "https://flash.jin10.com/detail/20260625000102047800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时12分"
+        },
+        {
+          "title": "消息人士称，由于炼油厂停产，俄罗斯6月份从西部港口出口的石油量预计将达到创纪录的270万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260624235511561800",
+          "source": "金十数据",
+          "ranks": [
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -633,8 +933,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
+          "appearance_count": 2,
+          "time_info": "[00时12分 ~ 02时31分]"
         },
         {
           "title": "报道：草案显示，日本计划更好地管理用于日元干预的“弹药”",
@@ -642,34 +942,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# --- 第六组：俄乌局势 --- 俄乌 俄罗斯 乌克兰 普京 泽连斯基 北约",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "俄罗斯5月工业产出同比下降0.7%，市场预计增长1.6%。",
-          "url": "https://flash.jin10.com/detail/20260625000102047800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
-        },
-        {
-          "title": "消息人士称，由于炼油厂停产，俄罗斯6月份从西部港口出口的石油量预计将达到创纪录的270万桶/日。",
-          "url": "https://flash.jin10.com/detail/20260624235511561800",
-          "source": "金十数据",
-          "ranks": [
-            19
           ],
           "is_new": false,
           "appearance_count": 1,
