@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-06-25T06:12:35.036688+08:00",
-  "total_titles_processed": 580,
+  "generated_at": "2026-06-25T08:03:49.320593+08:00",
+  "total_titles_processed": 707,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- 第三组：美国宏观与军事 --- 美国 白宫 五角大楼 美军 美联储 布林肯 拜登 特朗普",
-      "match_count": 67,
+      "match_count": 81,
       "titles": [
         {
           "title": "特朗普对石油公司开刀：下令调查哄抬行为，称油价已断崖式下跌",
           "url": "https://news.ifeng.com/c/8uDgRGX21RF",
           "source": "凤凰网",
           "ranks": [
-            3
+            3,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时12分 ~ 06时12分]"
+          "appearance_count": 5,
+          "time_info": "[00时12分 ~ 08时03分]"
         },
         {
           "title": "盘点｜“G7团结”演不下去了，特朗普如何惹恼多国领导人",
@@ -24,11 +25,12 @@
           "source": "澎湃新闻",
           "ranks": [
             5,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时12分 ~ 06时12分]"
+          "appearance_count": 5,
+          "time_info": "[00时12分 ~ 08时03分]"
         },
         {
           "title": "美国国务卿鲁比奥：负责伊朗事务的技术小组将于本月晚些时候重返。",
@@ -64,6 +66,17 @@
           "time_info": "04时45分"
         },
         {
+          "title": "美国地质勘探局：委内瑞拉发生地震后，预计可能出现大量人员伤亡和大范围破坏。",
+          "url": "https://flash.jin10.com/detail/20260625074342619800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
+        },
+        {
           "title": "美国总统特朗普：与国会参议院共和党成员的午餐会情况不错。 （兜售）石油价格（下跌）和就业数据。 伊朗同意我想要的一切。",
           "url": "https://wallstreetcn.com/livenews/3124195",
           "source": "华尔街见闻-快讯",
@@ -92,9 +105,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
+        },
+        {
+          "title": "特朗普与共和党参议员爆发激烈争吵，伊朗战争分歧点燃党内火药桶",
+          "url": "https://flash.jin10.com/detail/20260625073705480800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
         },
         {
           "title": "美国国务卿鲁比奥：以色列之所以在黎巴嫩，是因为真主党正从那里针对以色列发动攻击。",
@@ -114,7 +138,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
         },
@@ -169,9 +193,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
+        },
+        {
+          "title": "如何看待本次美国世界杯场馆没有遮雨棚，比赛期间暴雨所有观众和媒体都被惨浇，不装顶棚是因为气候还是成本？",
+          "url": "https://www.zhihu.com/question/2052696986457827081",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
         },
         {
           "title": "美国国务卿鲁比奥：黎巴嫩与以色列之间的谈判今天和明天继续进行。",
@@ -202,7 +237,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
         },
@@ -224,9 +259,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
+        },
+        {
+          "title": "岚目镜观｜“我是谁？”：250岁的美国面临自我审判（上）",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33438057",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时31分 ~ 08时03分]"
         },
         {
           "title": "伊朗：签谅解备忘录表明“美国战败”",
@@ -240,17 +287,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时12分 ~ 04时45分]"
-        },
-        {
-          "title": "岚目镜观｜“我是谁？”：250岁的美国面临自我审判（上）",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33438057",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时31分 ~ 06时12分]"
         },
         {
           "title": "据半岛电视台：科威特埃米尔与美国国务卿鲁比奥讨论了地区局势发展。",
@@ -303,7 +339,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
         },
@@ -317,6 +353,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
+        },
+        {
+          "title": "委内瑞拉发生7级左右地震，美国发布海啸预警",
+          "url": "https://news.ifeng.com/c/8uEcsuaZvzw",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
         },
         {
           "title": "美国国务卿鲁比奥：美国对海湾地区的安全保证是“实实在在的”。",
@@ -339,6 +386,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时45分"
+        },
+        {
+          "title": "受美国出口增长带动 英国汽车产量在5月首次回升",
+          "url": "https://flash.jin10.com/detail/20260625072621553800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
         },
         {
           "title": "Hertz Global（HTZ）股价下跌41%，创该公司美国IPO以来最大单日跌幅。",
@@ -380,9 +438,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
+        },
+        {
+          "title": "美国海啸预警系统：委内瑞拉地震不再构成海啸威胁。",
+          "url": "https://flash.jin10.com/detail/20260625072009487800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
         },
         {
           "title": "华尔街大行通过美联储压力测试 为百亿美元派息铺平道路",
@@ -402,7 +471,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
         },
@@ -413,7 +482,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
         },
@@ -460,6 +529,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时12分"
+        },
+        {
+          "title": "据美国USGS：委内瑞拉Moron西南方向16公里发生7.5级地震。",
+          "url": "https://wallstreetcn.com/livenews/3124286",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
         },
         {
           "title": "美联储货币紧缩预期升温，黄金ETF或面临新一轮资金流出",
@@ -512,7 +592,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
         },
@@ -534,7 +614,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
         },
@@ -556,7 +636,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
         },
@@ -578,9 +658,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
+        },
+        {
+          "title": "迄今最大规模：美国得州一农场确诊4例螺旋蝇病例",
+          "url": "https://wallstreetcn.com/livenews/3124281",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
         },
         {
           "title": "美国总统特朗普：对霍尔木兹海峡收费是无法让人接受的。",
@@ -589,7 +680,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
         },
@@ -622,7 +713,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
         },
@@ -638,6 +729,17 @@
           "time_info": "00时12分"
         },
         {
+          "title": "美国海啸警报：在委内瑞拉地震震中300公里范围内的沿海地区可能出现危险海啸波。",
+          "url": "https://flash.jin10.com/detail/20260625062437881800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
+        },
+        {
           "title": "美国众议院议长约翰逊：今天已经与总统特朗普对话。 我们讨论了“拯救美国法案”。 我理解特朗普将在某个时间点签署住房草案为法律。",
           "url": "https://wallstreetcn.com/livenews/3124117",
           "source": "华尔街见闻-快讯",
@@ -647,6 +749,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时12分"
+        },
+        {
+          "title": "委内瑞拉发生7级左右地震 美国发布海啸预警",
+          "url": "https://flash.jin10.com/detail/20260625062330435800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
         },
         {
           "title": "诺和诺德美国主管Jamey Millar：选择GLP-1口服药而非注射剂的Medicare（美国联邦医疗保险）患者数量是选择后者的两倍。（彭博电视）",
@@ -666,7 +779,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
         },
@@ -680,6 +793,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时12分"
+        },
+        {
+          "title": "美国海啸预警系统：委内瑞拉地震后，波多黎各和维尔京群岛面临海啸威胁。",
+          "url": "https://flash.jin10.com/detail/20260625062012085800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
+        },
+        {
+          "title": "美国地质勘探局：委内瑞拉莫龙地区发生7.1级地震。",
+          "url": "https://flash.jin10.com/detail/20260625061828637800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
         },
         {
           "title": "周三（6月24日），美联储隔夜逆回购协议（RRP）使用规模为45.34亿美元（交易对手7家），上个交易日报64.84亿美元。",
@@ -699,9 +834,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
+        },
+        {
+          "title": "美国海啸预警系统：在委内瑞拉沿海地震后发布海啸威胁警报。",
+          "url": "https://flash.jin10.com/detail/20260625061700386800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
         },
         {
           "title": "美国总统特朗普在国会山宣称：伊朗做出重大让步。 进展非常顺利。",
@@ -724,6 +870,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时12分"
+        },
+        {
+          "title": "AI驱动债务狂潮创纪录 6月美国高评级债券发行飙至1750亿美元",
+          "url": "https://flash.jin10.com/detail/20260625060708840800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
         },
         {
           "title": "美国能源信息署（EIA）：美国上周EIA原油库存下降609万桶，彭博用户预计减少380万桶、分析师预期下降393.783万桶，之前一周减少826.3万桶。 美国原油库存（剔除战略石油储备SPR）创2025年1月份以来新低，含SPR的石油库存创1984年10月份以来新低。 中西部原油库存创2014年11月份以来新低。 西海岸原油库存创2004年以来新低。 库欣原油库存创2014年10月份以来新低。 东海岸馏分油库存创2022年5月份以来新低。",
@@ -751,7 +908,7 @@
     },
     {
       "keyword_group": "# --- 第四组：美股与科技 (去掉了具体的“财报”限制) --- 美股 纳指 道琼斯 标普 特斯拉 英伟达 苹果 微软 OpenAI",
-      "match_count": 29,
+      "match_count": 32,
       "titles": [
         {
           "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
@@ -776,6 +933,20 @@
           "time_info": "[00时12分 ~ 04时45分]"
         },
         {
+          "title": "全球 AI 交易降温，美股半导体相关 ETF 暴跌，闪迪、美光科技跌超 10%，发生了什么？",
+          "url": "https://www.zhihu.com/question/2052869201178652833",
+          "source": "知乎",
+          "ranks": [
+            7,
+            6,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时12分 ~ 08时03分]"
+        },
+        {
           "title": "存储暴跌的导火索之一！韩媒“小作文”：英伟达Rubin预期减产，SK海力士HBM4扩产放缓",
           "url": "https://wallstreetcn.com/articles/3775325",
           "source": "华尔街见闻",
@@ -787,18 +958,16 @@
           "time_info": "[00时12分 ~ 04时45分]"
         },
         {
-          "title": "全球 AI 交易降温，美股半导体相关 ETF 暴跌，闪迪、美光科技跌超 10%，发生了什么？",
-          "url": "https://www.zhihu.com/question/2052869201178652833",
-          "source": "知乎",
+          "title": "美股收盘：科技股回调拖累纳指跌0.4% AI估值与资本开支担忧持续发酵",
+          "url": "https://www.cls.cn/detail/2408510",
+          "source": "财联社热门",
           "ranks": [
-            7,
-            6,
-            4,
-            2
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时12分 ~ 06时12分]"
+          "appearance_count": 2,
+          "time_info": "[06时12分 ~ 08时03分]"
         },
         {
           "title": "科技股承压，美股指涨跌互现，美债美元齐涨，黄金暴跌，美光盘后暴涨12%",
@@ -807,9 +976,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
+        },
+        {
+          "title": "标普纳指三连跌但跌势缓和，金银油大跳水，盘后美光高通拉动芯片大反弹",
+          "url": "https://wallstreetcn.com/articles/3775351",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
         },
         {
           "title": "温蒂汉堡（WEN）维持超过24%的涨幅，报7.777美元，美股盘初曾涨42.24%至8.89美元。 美股散户抱团概念股（meme概念股）指数涨1.13%，暂报13.42点，此前一度涨超2.03%。",
@@ -834,15 +1014,15 @@
           "time_info": "02时31分"
         },
         {
-          "title": "美股收盘：科技股回调拖累纳指跌0.4% AI估值与资本开支担忧持续发酵",
-          "url": "https://www.cls.cn/detail/2408510",
+          "title": "【早报】美股芯片股盘后逆袭，美光、高通大涨16%；多资产集体跳水！黄金跌破4000美元、原油暴跌、比特币下探59000美元",
+          "url": "https://www.cls.cn/detail/2408547",
           "source": "财联社热门",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时12分"
+          "time_info": "08时03分"
         },
         {
           "title": "特斯拉跌幅扩大至2%。",
@@ -856,6 +1036,18 @@
           "time_info": "02时31分"
         },
         {
+          "title": "英伟达要求PCB厂商降价10%？记者求证",
+          "url": "https://wallstreetcn.com/articles/3775353",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时12分 ~ 08时03分]"
+        },
+        {
           "title": "标普500指数的11个板块涨跌各异，工业板块收涨1.18%，电信板块跌0.61%，信息技术/科技板块跌0.64%，能源板块跌1.73%。",
           "url": "https://wallstreetcn.com/livenews/3124230",
           "source": "华尔街见闻-快讯",
@@ -866,18 +1058,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时45分 ~ 06时12分]"
-        },
-        {
-          "title": "英伟达要求PCB厂商降价10%？记者求证",
-          "url": "https://wallstreetcn.com/articles/3775353",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时12分 ~ 06时12分]"
         },
         {
           "title": "美股期指小幅上涨 科技股反弹迎接美光财报“大考” | 今夜看点",
@@ -923,9 +1103,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
+        },
+        {
+          "title": "英伟达股东会摘要：黄仁勋豪言AI投资回报率的问题“已有答案”",
+          "url": "https://www.cls.cn/detail/2408477",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
         },
         {
           "title": "AI初创公司Mirendil按10亿美元估值融资2亿美元，英伟达、A16Z、Kleiner Perkins参与投资。（华尔街日报）",
@@ -956,7 +1147,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
         },
@@ -1033,7 +1224,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
         },
@@ -1055,7 +1246,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
         },
@@ -1085,18 +1276,19 @@
     },
     {
       "keyword_group": "# --- 第一组：中国宏观 (去掉了必须词，只过滤娱乐) --- 中国 央视 外交部 国防部 解放军 人民日报 新华社",
-      "match_count": 16,
+      "match_count": 26,
       "titles": [
         {
           "title": "2名日本人被中方拘留，外交部回应",
           "url": "https://news.ifeng.com/c/8uDdI76KjZE",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时12分 ~ 06时12分]"
+          "appearance_count": 5,
+          "time_info": "[00时12分 ~ 08时03分]"
         },
         {
           "title": "世界最快高铁跑出中国创新加速度",
@@ -1106,8 +1298,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时12分 ~ 06时12分]"
+          "appearance_count": 5,
+          "time_info": "[00时12分 ~ 08时03分]"
+        },
+        {
+          "title": "中国海军的“御用摄影师”不灵了，日本防卫省跟丢辽宁舰编队",
+          "url": "https://news.ifeng.com/c/8uDm1JreVxF",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时12分 ~ 08时03分]"
         },
         {
           "title": "欧洲病了别让中国吃药",
@@ -1122,6 +1326,17 @@
           "time_info": "[00时12分 ~ 06时12分]"
         },
         {
+          "title": "对巴拿马，中国外交官撂下一句重话",
+          "url": "https://news.ifeng.com/c/8uEiZz6FzKM",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
+        },
+        {
           "title": "白宫：特朗普补充预算请求包括671.5亿美元用于国防部军事项目。",
           "url": "https://flash.jin10.com/detail/20260625044203755800",
           "source": "金十数据",
@@ -1133,15 +1348,41 @@
           "time_info": "04时45分"
         },
         {
-          "title": "中国海军的“御用摄影师”不灵了，日本防卫省跟丢辽宁舰编队",
-          "url": "https://news.ifeng.com/c/8uDm1JreVxF",
-          "source": "凤凰网",
+          "title": "中国海军“御用摄影师”交了白卷",
+          "url": "https://www.toutiao.com/trending/7654430319692939274/",
+          "source": "今日头条",
           "ranks": [
-            6
+            25,
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时12分 ~ 06时12分]"
+          "appearance_count": 5,
+          "time_info": "[00时12分 ~ 08时03分]"
+        },
+        {
+          "title": "明查｜这是中国“垃圾河”？实为拍摄于孟加拉国的老视频",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33438447",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时12分 ~ 08时03分]"
+        },
+        {
+          "title": "章泽天对谈中国合伙人王强",
+          "url": "https://search.bilibili.com/all?keyword=%E7%AB%A0%E6%B3%BD%E5%A4%A9%E5%AF%B9%E8%B0%88%E4%B8%AD%E5%9B%BD%E5%90%88%E4%BC%99%E4%BA%BA%E7%8E%8B%E5%BC%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时12分 ~ 08时03分]"
         },
         {
           "title": "日方阻挠设立“慰安妇”纪念雕像，外交部：在受害者伤口上撒盐",
@@ -1178,42 +1419,6 @@
           "time_info": "[00时12分 ~ 06时12分]"
         },
         {
-          "title": "中国海军“御用摄影师”交了白卷",
-          "url": "https://www.toutiao.com/trending/7654430319692939274/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时12分 ~ 06时12分]"
-        },
-        {
-          "title": "明查｜这是中国“垃圾河”？实为拍摄于孟加拉国的老视频",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33438447",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时12分 ~ 06时12分]"
-        },
-        {
-          "title": "章泽天对谈中国合伙人王强",
-          "url": "https://search.bilibili.com/all?keyword=%E7%AB%A0%E6%B3%BD%E5%A4%A9%E5%AF%B9%E8%B0%88%E4%B8%AD%E5%9B%BD%E5%90%88%E4%BC%99%E4%BA%BA%E7%8E%8B%E5%BC%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时12分 ~ 06时12分]"
-        },
-        {
           "title": "外国游客涌入中国农村体验干农活",
           "url": "https://www.toutiao.com/trending/7654920189703622180/",
           "source": "今日头条",
@@ -1224,6 +1429,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时12分 ~ 06时12分]"
+        },
+        {
+          "title": "阿里巴巴：已起诉美国防部",
+          "url": "https://news.ifeng.com/c/8uEiZz6FzIt",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
+        },
+        {
+          "title": "中国超算重回世界第一，释放多重信号",
+          "url": "https://news.ifeng.com/c/8uEjt6pBjJe",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
         },
         {
           "title": "中国足球小将冠军奖杯抵京",
@@ -1237,6 +1464,28 @@
           "time_info": "00时12分"
         },
         {
+          "title": "高盛：中国白酒最困难的阶段已经过去",
+          "url": "https://wallstreetcn.com/articles/3775426",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
+        },
+        {
+          "title": "中国企业家回了马斯克一句话，西方媒体不淡定了",
+          "url": "https://news.ifeng.com/c/8uE6Ferc62C",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
+        },
+        {
           "title": "纳斯达克金龙中国指数初步收跌1.8%。 热门中概股里，蔚来、美团、阿里至少跌约3%，百度跌2.3%，拼多多跌1%，腾讯涨2.4%，日月光半导体涨3.5%。KWEB跌0.7%，CQQQ涨0.8%。",
           "url": "https://wallstreetcn.com/livenews/3124220",
           "source": "华尔街见闻-快讯",
@@ -1248,6 +1497,28 @@
           "time_info": "04时45分"
         },
         {
+          "title": "阿里巴巴证实：已起诉美国防部",
+          "url": "https://flash.jin10.com/detail/20260625064643362800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
+        },
+        {
+          "title": "中国地震台网自动测定：06月25日06时30分在日本本州东部附近海域附近发生7.1级左右地震，最终结果以正式速报为准。",
+          "url": "https://flash.jin10.com/detail/20260625064146173800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
+        },
+        {
           "title": "如果把「中国玩家共同经历过的游戏时代」做成一条时间轴，你觉得哪些瞬间最值得被永久保存？",
           "url": "https://www.zhihu.com/question/2043732533016253106",
           "source": "知乎",
@@ -1257,6 +1528,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时12分"
+        },
+        {
+          "title": "阿里巴巴对美国国防部提起诉讼",
+          "url": "https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E5%AF%B9%E7%BE%8E%E5%9B%BD%E5%9B%BD%E9%98%B2%E9%83%A8%E6%8F%90%E8%B5%B7%E8%AF%89%E8%AE%BC",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
+        },
+        {
+          "title": "阿里巴巴证实：已起诉美国防部",
+          "url": "https://wallstreetcn.com/livenews/3124279",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
+        },
+        {
+          "title": "中国地震台网自动测定：06月25日06时04分在委内瑞拉附近发生6.7级左右地震，最终结果以正式速报为准。",
+          "url": "https://flash.jin10.com/detail/20260625061732225800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
         },
         {
           "title": "NiKo希望也能在中国夺冠",
@@ -1272,8 +1576,224 @@
       ]
     },
     {
+      "keyword_group": "# --- 第五组：日本动态 (关键修改：去掉了外交限制) --- 日本 岸田文雄 自卫队 靖国神社 核污水",
+      "match_count": 19,
+      "titles": [
+        {
+          "title": "“日本驻华大使多次请求与中方会面，均未成功”",
+          "url": "https://news.ifeng.com/c/8uDaPJKLJkd",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时12分 ~ 08时03分]"
+        },
+        {
+          "title": "日本内阁官房长官：核设施未发生异常情况，未出现伤亡。",
+          "url": "https://flash.jin10.com/detail/20260625073636535800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
+        },
+        {
+          "title": "日本内阁官房长官：地震后未报告伤亡。",
+          "url": "https://flash.jin10.com/detail/20260625073514932800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
+        },
+        {
+          "title": "日本6月19日当周净买进国外债券 1997亿日元，前值 3826亿日元。",
+          "url": "https://wallstreetcn.com/livenews/3124297",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
+        },
+        {
+          "title": "日本6月19日当周净买进国外股票 4268亿日元，前值 -4183亿日元。",
+          "url": "https://wallstreetcn.com/livenews/3124296",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
+        },
+        {
+          "title": "日本6月19日当周外资净买进日本债券 -10573亿日元，前值 -5310亿日元。",
+          "url": "https://wallstreetcn.com/livenews/3124295",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
+        },
+        {
+          "title": "日本6月19日当周外资净买进日本股票 4794亿日元，前值 -7851亿日元。",
+          "url": "https://wallstreetcn.com/livenews/3124294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
+        },
+        {
+          "title": "日本内阁官房长官木原稔：地震后未收到核设施出现问题的报告；目前尚未收到地震人员伤亡报告。",
+          "url": "https://wallstreetcn.com/livenews/3124293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
+        },
+        {
+          "title": "日本近海6.9级地震 东京震感明显",
+          "url": "https://www.toutiao.com/trending/7655103440732818971/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
+        },
+        {
+          "title": "贵金属全线暴跌金价失守4000美元关口 日本大举押注AI与半导体 | 环球市场",
+          "url": "https://www.cls.cn/detail/2408544",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
+        },
+        {
+          "title": "据日本放送协会NHK：日本地震发生后未有海啸警报发布。",
+          "url": "https://flash.jin10.com/detail/20260625064122233800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
+        },
+        {
+          "title": "日本岩手县6.9级地震 东京震感明显",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%B2%A9%E6%89%8B%E5%8E%BF6.9%E7%BA%A7%E5%9C%B0%E9%9C%87+%E4%B8%9C%E4%BA%AC%E9%9C%87%E6%84%9F%E6%98%8E%E6%98%BE",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
+        },
+        {
+          "title": "日本岩手县近海发生6.9级地震",
+          "url": "https://flash.jin10.com/detail/20260625063928497800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
+        },
+        {
+          "title": "日本气象厅：岩手县沿海发生6.9级地震，最大震度为6+。",
+          "url": "https://flash.jin10.com/detail/20260625063826172800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
+        },
+        {
+          "title": "欧洲地中海地震中心：日本本州东海岸附近发生6.9级地震。",
+          "url": "https://flash.jin10.com/detail/20260625063731100800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
+        },
+        {
+          "title": "据日本媒体25日报道，日本岩手县附近海域当天发生6.9级地震。",
+          "url": "https://wallstreetcn.com/livenews/3124277",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
+        },
+        {
+          "title": "日本本州东岸附近发生6.5级地震。（德国地球科学研究中心GFZ）",
+          "url": "https://wallstreetcn.com/livenews/3124275",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
+        },
+        {
+          "title": "据日本气象厅（JMA），日本青森县发生强烈震动。 日本北部发生6.9级地震，东京建筑物也出现摇晃。 NHK成，地震没有引发海啸威胁。",
+          "url": "https://wallstreetcn.com/livenews/3124272",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
+        },
+        {
+          "title": "报道：草案显示，日本计划更好地管理用于日元干预的“弹药”",
+          "url": "https://wallstreetcn.com/livenews/3124109",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时12分"
+        }
+      ]
+    },
+    {
       "keyword_group": "# --- 第二组：中国经济与A股 (保留宽泛的行情词) --- A股 上证 深证 恒生 人民币 汇率 经济 GDP",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "美媒担忧：白宫想用制裁逼伊朗让步，却把人民币“送”上桌",
@@ -1293,7 +1813,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
         },
@@ -1338,7 +1858,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
         },
@@ -1431,6 +1951,17 @@
           "time_info": "04时45分"
         },
         {
+          "title": "A股公司年度“红包”派发进行时，“双创”板块成现金分红硬核力量",
+          "url": "https://wallstreetcn.com/livenews/3124274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
+        },
+        {
           "title": "加拿大央行会议纪要：经济疲软，除燃料外的通胀压力“总体可控”",
           "url": "https://flash.jin10.com/detail/20260625013049365800",
           "source": "金十数据",
@@ -1478,7 +2009,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
         },
@@ -1514,34 +2045,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# --- 第五组：日本动态 (关键修改：去掉了外交限制) --- 日本 岸田文雄 自卫队 靖国神社 核污水",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "“日本驻华大使多次请求与中方会面，均未成功”",
-          "url": "https://news.ifeng.com/c/8uDaPJKLJkd",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时12分 ~ 06时12分]"
-        },
-        {
-          "title": "报道：草案显示，日本计划更好地管理用于日元干预的“弹药”",
-          "url": "https://wallstreetcn.com/livenews/3124109",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
         }
       ]
     }
