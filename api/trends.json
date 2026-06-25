@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-26T05:26:52.698548+08:00",
-  "total_titles_processed": 482,
+  "generated_at": "2026-06-26T07:12:41.842234+08:00",
+  "total_titles_processed": 547,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- 第三组：美国宏观与军事 --- 美国 白宫 五角大楼 美军 美联储 布林肯 拜登 特朗普",
-      "match_count": 51,
+      "match_count": 57,
       "titles": [
         {
           "title": "美国“拉清单”，商务部：中方不得不进行反制",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 05时26分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 07时12分]"
         },
         {
           "title": "特朗普：对意法德英很失望，希望北约盟友表忠心",
@@ -26,8 +26,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 05时26分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 07时12分]"
+        },
+        {
+          "title": "美国5月PCE物价指数同比上升4.1%，核心PCE同比3.4%创三年新高",
+          "url": "https://wallstreetcn.com/articles/3775530",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 07时12分]"
         },
         {
           "title": "法国总统马克龙：美国已结束对乌克兰的中立立场，其支持基辅的领土完整、军事援助、能源支持以及对俄罗斯的制裁。",
@@ -41,28 +54,6 @@
           "time_info": "03时50分"
         },
         {
-          "title": "据AXIOS网站：美国众议院议长约翰逊表示，将在与特朗普会晤后将住房法案提交给白宫。",
-          "url": "https://flash.jin10.com/detail/20260626052048013800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时26分"
-        },
-        {
-          "title": "美国国务院批准以2.5亿美元向澳大利亚出售F/A-18F超级大黄蜂和EA-18G咆哮者飞机的培训服务及相关设备。",
-          "url": "https://flash.jin10.com/detail/20260626052023980800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时26分"
-        },
-        {
           "title": "美国与海湾合作委员会发表声明，谴责伊朗代理人在伊拉克发动的袭击。",
           "url": "https://flash.jin10.com/detail/20260626003030777800",
           "source": "金十数据",
@@ -72,18 +63,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
-        },
-        {
-          "title": "美国5月PCE物价指数同比上升4.1%，核心PCE同比3.4%创三年新高",
-          "url": "https://wallstreetcn.com/articles/3775530",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 05时26分]"
         },
         {
           "title": "美国白宫官员：美国正在调查霍尔木兹海峡一艘船只遇袭的事件。",
@@ -97,6 +76,17 @@
           "time_info": "03时50分"
         },
         {
+          "title": "美国发布针对委内瑞拉的通用许可证，授权与地震救援相关的交易。",
+          "url": "https://flash.jin10.com/detail/20260626064005862800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
           "title": "欧盟就Anthropic的AI模型访问权限与白宫进行讨论",
           "url": "https://wallstreetcn.com/livenews/3124779",
           "source": "华尔街见闻-快讯",
@@ -106,6 +96,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        },
+        {
+          "title": "据AXIOS网站：美国众议院议长约翰逊表示，将在与特朗普会晤后将住房法案提交给白宫。",
+          "url": "https://flash.jin10.com/detail/20260626052048013800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时26分 ~ 07时12分]"
         },
         {
           "title": "美联储三把手威廉姆斯：美国到2028年将实现通胀目标",
@@ -118,6 +120,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时50分 ~ 05时26分]"
+        },
+        {
+          "title": "美国国务院批准以2.5亿美元向澳大利亚出售F/A-18F超级大黄蜂和EA-18G咆哮者飞机的培训服务及相关设备。",
+          "url": "https://flash.jin10.com/detail/20260626052023980800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时26分 ~ 07时12分]"
         },
         {
           "title": "五角大楼将允许关键矿物工厂建设在美军基地内。",
@@ -139,8 +153,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 05时26分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 07时12分]"
         },
         {
           "title": "国际足联主席确认特朗普将出席世界杯决赛，并直接向冠军球队颁奖，如何看待这一操作？为啥会打破惯例？",
@@ -149,11 +163,12 @@
           "ranks": [
             20,
             19,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 05时26分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 07时12分]"
         },
         {
           "title": "SpaceX打算修建天然气输送管道，来给火箭注入燃料。 该公司在美国得州（发射场地）的输送管道将长达8英里。（路透）",
@@ -178,6 +193,42 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时50分 ~ 05时26分]"
+        },
+        {
+          "title": "特朗普寻求为陷入困境的美国农民提供111亿美元新援助",
+          "url": "https://wallstreetcn.com/livenews/3124855",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时26分 ~ 07时12分]"
+        },
+        {
+          "title": "美国关键通胀数据冲上近三年新高！市场却先松一口气",
+          "url": "https://www.cls.cn/detail/2409483",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时26分 ~ 07时12分]"
+        },
+        {
+          "title": "特朗普拟提名FCC总法律顾问掌管美国司法部反垄断局",
+          "url": "https://flash.jin10.com/detail/20260626043110139800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时26分 ~ 07时12分]"
         },
         {
           "title": "再度呼吁降息！特朗普回应拒签住房法案：低利率能解决一切",
@@ -235,15 +286,15 @@
           "time_info": "03时50分"
         },
         {
-          "title": "特朗普寻求为陷入困境的美国农民提供111亿美元新援助",
-          "url": "https://wallstreetcn.com/livenews/3124855",
+          "title": "报道：美国政府要求OpenAI分阶段发布最新模型GPT 5.6",
+          "url": "https://wallstreetcn.com/livenews/3124869",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时26分"
+          "time_info": "07时12分"
         },
         {
           "title": "特朗普请求为陷入困境的农民提供111亿美元新援助",
@@ -257,6 +308,17 @@
           "time_info": "01时07分"
         },
         {
+          "title": "美联储7月维持利率不变的概率为69%",
+          "url": "https://flash.jin10.com/detail/20260626060355787800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
           "title": "模型显示：美国气温升高将带动能源需求上升，空调制冷需求恐创历史第二高",
           "url": "https://wallstreetcn.com/livenews/3124770",
           "source": "华尔街见闻-快讯",
@@ -268,26 +330,15 @@
           "time_info": "01时07分"
         },
         {
-          "title": "美国关键通胀数据冲上近三年新高！市场却先松一口气",
-          "url": "https://www.cls.cn/detail/2409483",
-          "source": "财联社热门",
+          "title": "美国众议长约翰逊：与总统特朗普进行了富有成效的会谈。",
+          "url": "https://wallstreetcn.com/livenews/3124865",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时26分"
-        },
-        {
-          "title": "特朗普拟提名FCC总法律顾问掌管美国司法部反垄断局",
-          "url": "https://flash.jin10.com/detail/20260626043110139800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时26分"
+          "time_info": "07时12分"
         },
         {
           "title": "房地美数据显示，美国抵押贷款利率小幅升至6.49%",
@@ -307,9 +358,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        },
+        {
+          "title": "特朗普政府周三通知国会，将向土耳其出售价值7亿美元的喷气发动机。",
+          "url": "https://flash.jin10.com/detail/20260626055515833800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
         },
         {
           "title": "加拿大总理卡尼：美国总统特朗普周三打电话给我，我们讨论了很长时间。",
@@ -351,7 +413,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -373,7 +435,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -406,7 +468,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -450,7 +512,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -483,7 +545,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -574,12 +636,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时50分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周四（6月25日），美国科技股七巨头（Magnificent 7）指数跌2.79%，报198.56点，美股盘初显著下跌，整体呈现出长尾L形走势。成分股苹果收跌6.1%，创2025年4月以来最大单日跌幅。 “超大”市值科技股指数跌1.36%，报414.51点，微幅高开后盘初转跌，整体也呈现出长尾L形走势。",
+          "url": "https://wallstreetcn.com/livenews/3124848",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
         }
       ]
     },
     {
       "keyword_group": "# --- 第四组：美股与科技 (去掉了具体的“财报”限制) --- 美股 纳指 道琼斯 标普 特斯拉 英伟达 苹果 微软 OpenAI",
-      "match_count": 39,
+      "match_count": 48,
       "titles": [
         {
           "title": "苹果官宣涨价，Mac 及 iPad 多款产品调价幅度达 20%，此次涨价影响有多大？你能接受吗？",
@@ -590,8 +663,33 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 05时26分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 07时12分]"
+        },
+        {
+          "title": "涨价约20%！苹果官宣涨价：iPad和Mac率先调价，存储成本压力“前所未有”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33453348",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 07时12分]"
+        },
+        {
+          "title": "标普三连跌，美元突破13个月高点，黄金跌破4000、油价跌破70、比特币跌破60000大关，美光、高通拉动芯片股大反弹",
+          "url": "https://wallstreetcn.com/articles/3775351",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 07时12分]"
         },
         {
           "title": "苹果重挫5%拖累科技板块，纳指转跌超1%，美光涨幅收窄至8%，黄金重回4000，白银转涨",
@@ -605,27 +703,15 @@
           "time_info": "[01时07分 ~ 05时26分]"
         },
         {
-          "title": "涨价约20%！苹果官宣涨价：iPad和Mac率先调价，存储成本压力“前所未有”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33453348",
-          "source": "澎湃新闻",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 05时26分]"
-        },
-        {
-          "title": "标普三连跌，美元突破13个月高点，黄金跌破4000、油价跌破70、比特币跌破60000大关，美光、高通拉动芯片股大反弹",
-          "url": "https://wallstreetcn.com/articles/3775351",
+          "title": "苹果微软拖累标普收平，美光飙升15%领涨芯片股，油价涨，黄金重回4000",
+          "url": "https://wallstreetcn.com/articles/3775470",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            1
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 05时26分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
         },
         {
           "title": "市场消息：苹果计划先推出基础版 M6 芯片，随后推出 M7 Pro、Max 和 Ultra 版本。",
@@ -650,6 +736,17 @@
           "time_info": "01时07分"
         },
         {
+          "title": "“不可接受”！苹果商店下架多款俄罗斯应用程序，克宫要求作出解释",
+          "url": "https://wallstreetcn.com/livenews/3124879",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
           "title": "苹果罕见地变更战略：将跳过高端M6 Mac芯片，青睐侧重于AI的M7",
           "url": "https://wallstreetcn.com/livenews/3124788",
           "source": "华尔街见闻-快讯",
@@ -659,17 +756,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
-        },
-        {
-          "title": "周四（6月25日）纽约尾盘，标普500股指期货最终涨0.08%，道指期货涨0.30%，纳斯达克100股指期货涨0.77%。 罗素2000股指期货涨0.81%。",
-          "url": "https://wallstreetcn.com/livenews/3124862",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时26分"
         },
         {
           "title": "苹果重挫6%，创去年4月以来最大跌幅，该公司产品涨价、预留继续上调的空间",
@@ -683,6 +769,17 @@
           "time_info": "01时07分"
         },
         {
+          "title": "美股收盘：科技巨头回落拖累纳指收跌 芯片股暴拉难挽大盘颓势",
+          "url": "https://www.cls.cn/detail/2409639",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
           "title": "纳斯达克100指数涨幅扩大至1%，美股早盘呈现出V形反转，成分股闪迪目前涨18.1%，美光涨16.1%，应用材料涨10.1%，西部数据涨8.1%，高通涨7.9%，阿斯麦ADR涨4.5%，谷歌A跌0.8%，英伟达跌幅收窄至1.1%，Meta跌1.7%，亚马逊跌2.2%，微软跌3.4%，苹果仍然重挫超5.6%，Strategy跌6.9%。 半导体指数涨超4.1%。",
           "url": "https://wallstreetcn.com/livenews/3124781",
           "source": "华尔街见闻-快讯",
@@ -694,16 +791,17 @@
           "time_info": "01时07分"
         },
         {
-          "title": "苹果回应涨价",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%9B%9E%E5%BA%94%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
+          "title": "苹果多款产品涨价",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E5%A4%9A%E6%AC%BE%E4%BA%A7%E5%93%81%E6%B6%A8%E4%BB%B7",
+          "source": "bilibili 热搜",
           "ranks": [
-            7,
-            6
+            9,
+            6,
+            5
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时07分 ~ 05时26分]"
+          "time_info": "[01时07分 ~ 07时12分]"
         },
         {
           "title": "苹果正式涨价！MacBook、iPad最高涨300美元 iPhone未来或跟进",
@@ -715,8 +813,46 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 05时26分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 07时12分]"
+        },
+        {
+          "title": "周四（6月25日）纽约尾盘，标普500股指期货最终涨0.08%，道指期货涨0.30%，纳斯达克100股指期货涨0.77%。 罗素2000股指期货涨0.81%。",
+          "url": "https://wallstreetcn.com/livenews/3124862",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时26分 ~ 07时12分]"
+        },
+        {
+          "title": "苹果回应涨价",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%9B%9E%E5%BA%94%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 07时12分]"
+        },
+        {
+          "title": "高通全面进军AI数据中心：Meta签多代CPU大单、微软部署HBC芯片，料到2029年业务收入150亿",
+          "url": "https://wallstreetcn.com/articles/3775441",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 07时12分]"
         },
         {
           "title": "苹果官宣涨价！",
@@ -726,20 +862,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 05时26分]"
-        },
-        {
-          "title": "高通全面进军AI数据中心：Meta签多代CPU大单、微软部署HBC芯片，料到2029年业务收入150亿",
-          "url": "https://wallstreetcn.com/articles/3775441",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 05时26分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 07时12分]"
         },
         {
           "title": "苹果涨价iPhone未涨",
@@ -747,11 +871,12 @@
           "source": "微博",
           "ranks": [
             9,
-            15
+            15,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 05时26分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 07时12分]"
         },
         {
           "title": "苹果官宣涨价：iPad和Mac率先调价",
@@ -761,8 +886,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 05时26分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 07时12分]"
         },
         {
           "title": "美股",
@@ -771,11 +896,12 @@
           "ranks": [
             19,
             26,
-            24
+            24,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 05时26分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 07时12分]"
         },
         {
           "title": "苹果官宣涨价",
@@ -785,8 +911,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 05时26分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 07时12分]"
         },
         {
           "title": "苹果涨价",
@@ -795,23 +921,60 @@
           "ranks": [
             21,
             23,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 05时26分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 07时12分]"
         },
         {
-          "title": "苹果多款产品涨价",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E5%A4%9A%E6%AC%BE%E4%BA%A7%E5%93%81%E6%B6%A8%E4%BB%B7",
-          "source": "bilibili 热搜",
+          "title": "SpaceX股价回落敲响警钟 OpenAI或等到明年再IPO",
+          "url": "https://flash.jin10.com/detail/20260626044755013800",
+          "source": "金十数据",
           "ranks": [
-            9,
-            6
+            7,
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时07分 ~ 05时26分]"
+          "time_info": "[05时26分 ~ 07时12分]"
+        },
+        {
+          "title": "Rocket Lab美股盘后涨幅扩大至5%，该公司赢得一份NASA合同。",
+          "url": "https://wallstreetcn.com/livenews/3124857",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时26分 ~ 07时12分]"
+        },
+        {
+          "title": "美股大类资产类ETF多数收涨，布油基金涨2.8%，与大豆基金领跑",
+          "url": "https://wallstreetcn.com/livenews/3124856",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时26分 ~ 07时12分]"
+        },
+        {
+          "title": "标普500指数的11个板块涨跌各异，可选消费板块收跌1.78%，日用消费品、电信板块至多跌1.08%，信息技术/科技板块跌0.09%，原材料板块涨1.39%，保健板块涨1.49%，工业板块涨2.19%。",
+          "url": "https://wallstreetcn.com/livenews/3124853",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时26分 ~ 07时12分]"
         },
         {
           "title": "美光业绩提振AI板块 纳指期货涨超2% PCE数据缓解加息担忧 | 今夜看点",
@@ -823,6 +986,42 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时50分 ~ 05时26分]"
+        },
+        {
+          "title": "据纽约时报：OpenAI倾向于等到明年再进行IPO。",
+          "url": "https://flash.jin10.com/detail/20260626043517228800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时26分 ~ 07时12分]"
+        },
+        {
+          "title": "周四（6月25日），美股行业ETF多数收涨，半导体ETF涨2.90%，全球航空业ETF、医疗业ETF、生物科技指数ETF、全球科技股指数ETF、银行业ETF至多涨1.54%，网络股指数ETF则收跌1.39%，可选消费ETF跌1.49%。",
+          "url": "https://wallstreetcn.com/livenews/3124851",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时26分 ~ 07时12分]"
+        },
+        {
+          "title": "根据销售AI账单审计工具的公司Vaudit的数据，由于计费错误，一些客户支付给Anthropic和OpenAI产品的费用可能高于实际应支付的金额。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3124849",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时26分 ~ 07时12分]"
         },
         {
           "title": "法国兴业银行：上调标普500指数目标至8000点（之前为7300点），更加强劲的业绩周期将支撑这样的预期。",
@@ -842,7 +1041,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -858,81 +1057,48 @@
           "time_info": "01时07分"
         },
         {
-          "title": "SpaceX股价回落敲响警钟 OpenAI或等到明年再IPO",
-          "url": "https://flash.jin10.com/detail/20260626044755013800",
-          "source": "金十数据",
+          "title": "存储成本压力山大！苹果罕见全球提价，直言“无法再保护消费者”",
+          "url": "https://wallstreetcn.com/articles/3775531",
+          "source": "华尔街见闻",
           "ranks": [
-            7
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时26分"
+          "time_info": "07时12分"
         },
         {
-          "title": "Rocket Lab美股盘后涨幅扩大至5%，该公司赢得一份NASA合同。",
-          "url": "https://wallstreetcn.com/livenews/3124857",
+          "title": "周五亚太盘初，纳斯达克100指数股指期货跌0.3%，道指期货涨0.15%。 目前（美股盘后），美光科技下跌2.7%，闪迪跌1.9%，英特尔、希捷科技至少跌约1.2%，西部数据跌超0.8%。",
+          "url": "https://wallstreetcn.com/livenews/3124872",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时26分"
+          "time_info": "07时12分"
         },
         {
-          "title": "美股大类资产类ETF多数收涨，布油基金涨2.8%，与大豆基金领跑",
-          "url": "https://wallstreetcn.com/livenews/3124856",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时26分"
-        },
-        {
-          "title": "标普500指数的11个板块涨跌各异，可选消费板块收跌1.78%，日用消费品、电信板块至多跌1.08%，信息技术/科技板块跌0.09%，原材料板块涨1.39%，保健板块涨1.49%，工业板块涨2.19%。",
-          "url": "https://wallstreetcn.com/livenews/3124853",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时26分"
-        },
-        {
-          "title": "据纽约时报：OpenAI倾向于等到明年再进行IPO。",
-          "url": "https://flash.jin10.com/detail/20260626043517228800",
-          "source": "金十数据",
+          "title": "苹果大幅涨价 涉及iPad等多个产品",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7+%E6%B6%89%E5%8F%8AiPad%E7%AD%89%E5%A4%9A%E4%B8%AA%E4%BA%A7%E5%93%81",
+          "source": "百度热搜",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时26分"
+          "time_info": "07时12分"
         },
         {
-          "title": "周四（6月25日），美股行业ETF多数收涨，半导体ETF涨2.90%，全球航空业ETF、医疗业ETF、生物科技指数ETF、全球科技股指数ETF、银行业ETF至多涨1.54%，网络股指数ETF则收跌1.39%，可选消费ETF跌1.49%。",
-          "url": "https://wallstreetcn.com/livenews/3124851",
+          "title": "周四（6月25日），美股超大规模云服务商（Hyperscalers）跌2.27%，报87.43点，6月1日达到106.56点之后，持续回撤，逼近4月7日顶部82.45点。 成分股全线溃败，微软收跌3.46%，甲骨文跌3.22%，亚马逊跌3.10%，Meta Platforms跌2.65%，谷歌A跌0.46%。",
+          "url": "https://wallstreetcn.com/livenews/3124866",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时26分"
-        },
-        {
-          "title": "根据销售AI账单审计工具的公司Vaudit的数据，由于计费错误，一些客户支付给Anthropic和OpenAI产品的费用可能高于实际应支付的金额。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3124849",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时26分"
+          "time_info": "07时12分"
         },
         {
           "title": "苹果收跌6.1%，创2025年4月以来最大单日跌幅。",
@@ -941,7 +1107,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -952,9 +1118,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        },
+        {
+          "title": "报道：OpenAI倾向于等到2027年再进行IPO",
+          "url": "https://wallstreetcn.com/livenews/3124858",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
         },
         {
           "title": "金十图示：2026年06月25日（周四）美股热门股票行情一览（美股收盘）",
@@ -963,7 +1140,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -985,7 +1162,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -996,7 +1173,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -1007,9 +1184,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        },
+        {
+          "title": "周四（6月25日），美股存储芯片与硬件供应链指数上涨11.85%，报271.70点，跳空高开之后持续高位震荡，逼近6月22日所创收盘历史最高位274.95点。 成分股闪迪收涨21.97%，美光科技涨15.74%，创5月26日以来最佳单日表现，应用材料涨13.42%，泰瑞达涨10.48%，拉姆研究涨7.21%，西部数据、希捷科技至少涨3.23%，Rambus跌0.67%。",
+          "url": "https://wallstreetcn.com/livenews/3124852",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 苹果跌超6%",
@@ -1018,7 +1206,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         }
@@ -1026,7 +1214,7 @@
     },
     {
       "keyword_group": "# --- 第一组：中国宏观 (去掉了必须词，只过滤娱乐) --- 中国 央视 外交部 国防部 解放军 人民日报 新华社",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "东风-17发射画面“震惊美军”，国防部回应",
@@ -1036,8 +1224,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 05时26分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 07时12分]"
         },
         {
           "title": "“中国链”何以成为链接未来的必选项",
@@ -1047,8 +1235,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 05时26分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 07时12分]"
         },
         {
           "title": "美国画饼，欧盟走过场，立陶宛挑衅中国最后却落得一地尴尬",
@@ -1058,8 +1246,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 05时26分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 07时12分]"
         },
         {
           "title": "高通承认：受制于美国，要为中国定制芯片",
@@ -1069,19 +1257,33 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 05时26分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 07时12分]"
         },
         {
-          "title": "美国防部更新目标定位指南 放宽AI参与作战决策限制",
-          "url": "https://flash.jin10.com/detail/20260626051908223800",
-          "source": "金十数据",
+          "title": "中国足协：7月1日起将启用新规",
+          "url": "https://www.toutiao.com/trending/7654185665119715379/",
+          "source": "今日头条",
           "ranks": [
-            3
+            5,
+            9,
+            19,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时26分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 07时12分]"
+        },
+        {
+          "title": "主导电动车之后，中国发动机也对日本穷追不舍",
+          "url": "https://news.ifeng.com/c/8uFLQzUmjSj",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 07时12分]"
         },
         {
           "title": "中国古代有没有很猎奇的画？",
@@ -1097,28 +1299,16 @@
           "time_info": "[01时07分 ~ 05时26分]"
         },
         {
-          "title": "中国足协：7月1日起将启用新规",
-          "url": "https://www.toutiao.com/trending/7654185665119715379/",
-          "source": "今日头条",
+          "title": "美国防部更新目标定位指南 放宽AI参与作战决策限制",
+          "url": "https://flash.jin10.com/detail/20260626051908223800",
+          "source": "金十数据",
           "ranks": [
-            5,
-            9,
+            3,
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 05时26分]"
-        },
-        {
-          "title": "主导电动车之后，中国发动机也对日本穷追不舍",
-          "url": "https://news.ifeng.com/c/8uFLQzUmjSj",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 05时26分]"
+          "appearance_count": 2,
+          "time_info": "[05时26分 ~ 07时12分]"
         },
         {
           "title": "国防部回应东风-17发射画面震惊美军",
@@ -1127,11 +1317,12 @@
           "ranks": [
             6,
             8,
-            18
+            18,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 05时26分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 07时12分]"
         },
         {
           "title": "如何评价《2026 全球独角兽榜》中米哈游估值 2000 亿元，位列中国十大独角兽企业？",
@@ -1140,11 +1331,12 @@
           "ranks": [
             12,
             7,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 05时26分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 07时12分]"
         },
         {
           "title": "洪都拉斯澄清并未就“台洪复交”同台当局接触，外交部回应",
@@ -1154,8 +1346,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 05时26分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 07时12分]"
         },
         {
           "title": "国防部回应福建舰过航台湾海峡：例行训练，今后还会继续组织",
@@ -1166,8 +1358,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 05时26分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 07时12分]"
         },
         {
           "title": "章泽天对谈中国合伙人王强",
@@ -1177,8 +1369,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 05时26分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 07时12分]"
         },
         {
           "title": "佛得角门将的战靴产自中国莆田",
@@ -1188,8 +1380,19 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 05时26分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 07时12分]"
+        },
+        {
+          "title": "2名中国公民在委内瑞拉地震中遇难",
+          "url": "https://www.toutiao.com/trending/7655454842927713835/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
         },
         {
           "title": "中国男排VS比利时男排",
@@ -1203,13 +1406,35 @@
           "time_info": "03时50分"
         },
         {
+          "title": "2名中国公民在委内瑞拉地震中遇难",
+          "url": "https://wallstreetcn.com/livenews/3124870",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
+          "title": "2名中国公民在委内瑞拉地震中遇难",
+          "url": "https://flash.jin10.com/detail/20260626055337081800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
           "title": "纳斯达克金龙中国指数收跌2.70%，报5690.24点，日内整体呈现出长尾L形走势，逼近2024年9月18日收盘位5639.37点、当年8月28日收盘位5399.48点（当年8月5日盘中曾走低至5373.21点）。 热门中概股里，携程初步收跌12.5%，万国数据跌6.3%，金山云跌5.6%，阿里巴巴跌4.8%，拼多多跌3.2%，日月光半导体涨0.8%。 ETF中，中概互联网指数ETF（KWEB）收跌2.76%，中国科技指数ETF（CQQQ）收涨1.24%。 MSCI新兴市场ex中国ETF（EMXC）收涨1.67%，XtrackersHarvest中证50（ASHS）收涨2.01%，德银嘉实沪深300指数ETF（ASHR）收涨2.31%。",
           "url": "https://wallstreetcn.com/livenews/3124845",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -1239,18 +1464,31 @@
     },
     {
       "keyword_group": "# --- 第二组：中国经济与A股 (保留宽泛的行情词) --- A股 上证 深证 恒生 人民币 汇率 经济 GDP",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "周四（6月25日）纽约尾盘（周五北京时间04:59），离岸人民币（CNH）兑美元报6.8008元，较周三纽约尾盘反弹124点，日内整体交投于6.8164-6.7969元区间，整体持续上扬。",
           "url": "https://wallstreetcn.com/livenews/3124861",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时26分 ~ 07时12分]"
+        },
+        {
+          "title": "A股这轮牛市你赚钱了吗",
+          "url": "https://www.toutiao.com/trending/7655278728469024299/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 07时12分]"
         },
         {
           "title": "世界杯套餐3块薯饼500元人民币",
@@ -1262,6 +1500,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        },
+        {
+          "title": "上证报：利率调控短端化的三重考量",
+          "url": "https://wallstreetcn.com/livenews/3124873",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
         },
         {
           "title": "加拿大央行：私营部门经济学家认为加拿大央行过去十年中采用的核心通胀指标过多，并建议央行应侧重于整体通胀。",
@@ -1319,17 +1568,6 @@
           "time_info": "03时50分"
         },
         {
-          "title": "A股这轮牛市你赚钱了吗",
-          "url": "https://www.toutiao.com/trending/7655278728469024299/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时50分"
-        },
-        {
           "title": "国际货币基金组织（IMF）：上调赞比亚2026年GDP增速预期至5.8%，之前料增4.3%。",
           "url": "https://wallstreetcn.com/livenews/3124755",
           "source": "华尔街见闻-快讯",
@@ -1344,7 +1582,7 @@
     },
     {
       "keyword_group": "# --- 第五组：日本动态 (关键修改：去掉了外交限制) --- 日本 岸田文雄 自卫队 靖国神社 核污水",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "日本主帅森保一的数学时刻又到了",
@@ -1354,8 +1592,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 05时26分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 07时12分]"
         },
         {
           "title": "日本vs瑞典",
@@ -1363,11 +1601,23 @@
           "source": "抖音",
           "ranks": [
             14,
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 05时26分]"
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 07时12分]"
+        },
+        {
+          "title": "日本vs瑞典",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%ACvs%E7%91%9E%E5%85%B8%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
         }
       ]
     },
