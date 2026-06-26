@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-27T00:11:34.362228+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-27T02:26:56.773871+08:00",
+  "total_titles_processed": 427,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- 第三组：美国宏观与军事 --- 美国 白宫 五角大楼 美军 美联储 布林肯 拜登 特朗普",
-      "match_count": 19,
+      "match_count": 42,
       "titles": [
+        {
+          "title": "委内瑞拉强震突发，特朗普火速援救背后全是霸权算计",
+          "url": "https://news.ifeng.com/c/8uHCasu8tQC",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 02时26分]"
+        },
         {
           "title": "美国总统特朗普：伊朗向穿越霍尔木兹海峡的船只发射了至少四架单向攻击无人机。这是对我们停火协议的愚蠢违反。",
           "url": "https://flash.jin10.com/detail/20260626235210506800",
@@ -17,6 +28,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
+        },
+        {
+          "title": "美国总统特朗普批评纽约市的租金冻结措施。",
+          "url": "https://flash.jin10.com/detail/20260627022215773800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        },
+        {
+          "title": "美国总统特朗普：（纽约）市长马姆达尼看起来是个和蔼可亲的人，他说他会确保人们的房租不会上涨，尽管能源价格上涨了。",
+          "url": "https://flash.jin10.com/detail/20260627022141001800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
         },
         {
           "title": "美联储卡什卡利：预计2026年将加息一次",
@@ -41,15 +74,26 @@
           "time_info": "00时11分"
         },
         {
-          "title": "委内瑞拉强震突发，特朗普火速援救背后全是霸权算计",
-          "url": "https://news.ifeng.com/c/8uHCasu8tQC",
-          "source": "凤凰网",
+          "title": "报道：美国政府将决定谁可以使用新版ChatGPT",
+          "url": "https://wallstreetcn.com/livenews/3125428",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时11分"
+          "time_info": "02时26分"
+        },
+        {
+          "title": "以色列交通部：美军将加速撤离停在以机场的美国军机",
+          "url": "https://wallstreetcn.com/livenews/3125427",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
         },
         {
           "title": "美联储卡什卡利：中东局势尚未完全明朗。",
@@ -63,6 +107,28 @@
           "time_info": "00时11分"
         },
         {
+          "title": "美联储三把手威廉姆斯：当前利率足以遏制通胀，预计2028年重返2%目标",
+          "url": "https://wallstreetcn.com/articles/3775544",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 02时26分]"
+        },
+        {
+          "title": "意大利协助美国打伊朗？梅洛尼：吕特你别乱说",
+          "url": "https://news.ifeng.com/c/8uGv7gSoz4a",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 02时26分]"
+        },
+        {
           "title": "美国明尼阿波利斯联储主席卡什卡利（Neel Kashkari）：预计2026年将加息一次，2027年利率将维持不变。 我们需要看看没有前瞻指引的效果如何。",
           "url": "https://wallstreetcn.com/livenews/3125387",
           "source": "华尔街见闻-快讯",
@@ -72,6 +138,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
+        },
+        {
+          "title": "美国、以色列、黎巴嫩签署三边框架协议。",
+          "url": "https://wallstreetcn.com/livenews/3125425",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
         },
         {
           "title": "美联储卡什卡利：目标是在不损害就业的情况下降低通胀。",
@@ -85,26 +162,59 @@
           "time_info": "00时11分"
         },
         {
-          "title": "美联储三把手威廉姆斯：当前利率足以遏制通胀，预计2028年重返2%目标",
-          "url": "https://wallstreetcn.com/articles/3775544",
-          "source": "华尔街见闻",
+          "title": "美国法官命令司法部解释其撤销对印度商人高塔姆·阿达尼刑事指控的决定。",
+          "url": "https://flash.jin10.com/detail/20260627021412684800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：以色列与黎巴嫩在华盛顿会谈后达成框架协议。 未来还需付出更多努力。",
+          "url": "https://wallstreetcn.com/livenews/3125421",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        },
+        {
+          "title": "消息人士：美国众议院民主党人将于周日晚上召开党团会议。会议预计将重点讨论拨款问题，特别是即将进行的与以色列援助相关的修正案投票。",
+          "url": "https://flash.jin10.com/detail/20260627021353172800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普施压参议员丽莎·默科斯基投票支持《拯救美国法案》。",
+          "url": "https://flash.jin10.com/detail/20260627021241822800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        },
+        {
+          "title": "据一位美国官员透露：尽管特朗普总统表示伊朗违反了停火协议，美国与伊朗的谈判预计仍将进行。（NewsNation）",
+          "url": "https://wallstreetcn.com/livenews/3125418",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时11分"
-        },
-        {
-          "title": "意大利协助美国打伊朗？梅洛尼：吕特你别乱说",
-          "url": "https://news.ifeng.com/c/8uGv7gSoz4a",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
+          "time_info": "02时26分"
         },
         {
           "title": "据CNBC：OpenAI在特朗普政府的要求下，计划限制GPT 5.6的推出。",
@@ -116,6 +226,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
+        },
+        {
+          "title": "周五（6月26日），美联储隔夜逆回购协议（RRP）使用规模为64.26亿美元（交易对手 家），上个交易日报57.18亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3125412",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
         },
         {
           "title": "奥巴马回应总被特朗普骂",
@@ -140,6 +261,17 @@
           "time_info": "00时11分"
         },
         {
+          "title": "美媒：美国政府将决定谁可以使用新版ChatGPT",
+          "url": "https://flash.jin10.com/detail/20260627020005789800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        },
+        {
           "title": "美国上诉法院裁决：驳回环保局（EPA）要求撤销2024年针对发电厂和工厂的烟尘排放限值的请求。",
           "url": "https://wallstreetcn.com/livenews/3125376",
           "source": "华尔街见闻-快讯",
@@ -160,6 +292,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
+        },
+        {
+          "title": "以色列交通部：美军将加速撤离停在以机场的美国军机",
+          "url": "https://flash.jin10.com/detail/20260627015529839800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        },
+        {
+          "title": "特朗普指责伊朗攻击霍尔木兹海峡船只违反停火协议",
+          "url": "https://wallstreetcn.com/livenews/3125410",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
         },
         {
           "title": "美联储卡什卡利：我们需要看看没有前瞻指引的效果如何。",
@@ -184,6 +338,17 @@
           "time_info": "00时11分"
         },
         {
+          "title": "美国天然气钻井机单周增幅创四年最大",
+          "url": "https://wallstreetcn.com/livenews/3125409",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        },
+        {
           "title": "美联储卡什卡利：现在是重置FOMC声明的合适时机。",
           "url": "https://flash.jin10.com/detail/20260626232948519800",
           "source": "金十数据",
@@ -206,6 +371,17 @@
           "time_info": "00时11分"
         },
         {
+          "title": "市场消息：特朗普即将发表讲话。",
+          "url": "https://flash.jin10.com/detail/20260627015056714800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        },
+        {
           "title": "美联储卡什卡利：通胀的上升不仅仅与石油和中东因素有关。",
           "url": "https://flash.jin10.com/detail/20260626232919640800",
           "source": "金十数据",
@@ -215,12 +391,89 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
+        },
+        {
+          "title": "美国、以色列、黎巴嫩签署了三边框架协议。",
+          "url": "https://flash.jin10.com/detail/20260627014300413800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队发言人：驳斥有关“与美国建立霍尔木兹海峡‘热线’”的说法，海峡是伊朗的领海，与美国没有任何关系。（NourNews）",
+          "url": "https://wallstreetcn.com/livenews/3125406",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        },
+        {
+          "title": "以色列驻美国大使：三边框架以实际表现为导向。",
+          "url": "https://flash.jin10.com/detail/20260627014148207800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：前方还有很多工作要做。",
+          "url": "https://flash.jin10.com/detail/20260627013648879800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：宣布以色列与黎巴嫩在华盛顿会谈后达成框架协议。",
+          "url": "https://flash.jin10.com/detail/20260627013506595800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        },
+        {
+          "title": "特朗普威胁对任何征收数字服务税的国家加征100%关税",
+          "url": "https://wallstreetcn.com/livenews/3125400",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        },
+        {
+          "title": "美国能源部：去年美国单日炼油产能减少26.3万桶",
+          "url": "https://wallstreetcn.com/livenews/3125399",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
         }
       ]
     },
     {
       "keyword_group": "# --- 第一组：中国宏观 (去掉了必须词，只过滤娱乐) --- 中国 央视 外交部 国防部 解放军 人民日报 新华社",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
         {
           "title": "日本多个经济团体来华参观访问，外交部回应",
@@ -230,8 +483,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 02时26分]"
         },
         {
           "title": "李在明称担忧中国渔船“非法捕捞”，外交部回应",
@@ -241,8 +494,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 02时26分]"
+        },
+        {
+          "title": "2名中国公民在委内瑞拉地震中遇难",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33456921",
+          "source": "澎湃新闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 02时26分]"
         },
         {
           "title": "SemiAnalysis：我们相信中国的刻蚀本地化进程比沉积更快。前端进口数据显示，刻蚀同比下降18%，而沉积同比增长3%。 全球蚀刻行业现任企业的财务数据传达了同样的信息，AMAT（应用材料） 在FY25财年的中国收入同比下降16%，TEL（泰科电子）在FY26财年的中国收入同比下降18%。 我们将Naura视为关键驱动力。",
@@ -256,15 +520,38 @@
           "time_info": "00时11分"
         },
         {
-          "title": "2名中国公民在委内瑞拉地震中遇难",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33456921",
-          "source": "澎湃新闻",
+          "title": "中国车热卖！5月欧洲毎10辆新车中就有一辆中国品牌",
+          "url": "https://www.cls.cn/detail/2410110",
+          "source": "财联社热门",
           "ranks": [
-            5
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 02时26分]"
+        },
+        {
+          "title": "辽宁舰编队完成远海实战化训练，让号称中国海军「御用摄影师」的日本防卫省拍不到、跟不上，反映出哪些信息？",
+          "url": "https://www.zhihu.com/question/2053125507613470786",
+          "source": "知乎",
+          "ranks": [
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 02时26分]"
+        },
+        {
+          "title": "中国妇女报：把女性关铁笼游街宣扬封建糟粕的“摆拍”，必须严打",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33459112",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 02时26分]"
         },
         {
           "title": "中国人就吃恨海情天这套",
@@ -289,28 +576,6 @@
           "time_info": "00时11分"
         },
         {
-          "title": "中国车热卖！5月欧洲毎10辆新车中就有一辆中国品牌",
-          "url": "https://www.cls.cn/detail/2410110",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
-        },
-        {
-          "title": "辽宁舰编队完成远海实战化训练，让号称中国海军「御用摄影师」的日本防卫省拍不到、跟不上，反映出哪些信息？",
-          "url": "https://www.zhihu.com/question/2053125507613470786",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
-        },
-        {
           "title": "中国首席经济学家论坛副理事长李迅雷：黄金长期走势呈现熊长牛短",
           "url": "https://flash.jin10.com/detail/20260626233706680800",
           "source": "金十数据",
@@ -322,15 +587,26 @@
           "time_info": "00时11分"
         },
         {
-          "title": "中国妇女报：把女性关铁笼游街宣扬封建糟粕的“摆拍”，必须严打",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33459112",
-          "source": "澎湃新闻",
+          "title": "日媒承认：中国发动机技术赶超日企",
+          "url": "https://www.toutiao.com/trending/7654876209050091556/",
+          "source": "今日头条",
           "ranks": [
-            16
+            19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时11分"
+          "time_info": "02时26分"
+        },
+        {
+          "title": "据媒体报道：美国国务院一位消息人士表示，外交部长进入了以色列-黎巴嫩谈判厅。",
+          "url": "https://wallstreetcn.com/livenews/3125404",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
         },
         {
           "title": "新华社受权发布｜全国人民代表大会常务委员会关于修改《中华人民共和国注册会计师法》的决定。",
@@ -342,12 +618,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
+        },
+        {
+          "title": "外交部长王毅会见柬埔寨副首相兼外交大臣布拉索昆和副首相孙占托",
+          "url": "https://wallstreetcn.com/livenews/3125422",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        },
+        {
+          "title": "太平年最佳中国电视剧",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AA%E5%B9%B3%E5%B9%B4%E6%9C%80%E4%BD%B3%E4%B8%AD%E5%9B%BD%E7%94%B5%E8%A7%86%E5%89%A7%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
         }
       ]
     },
     {
       "keyword_group": "# --- 第四组：美股与科技 (去掉了具体的“财报”限制) --- 美股 纳指 道琼斯 标普 特斯拉 英伟达 苹果 微软 OpenAI",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "科技股拖累全球股市，美股指下挫，光通信板块普跌，美光跌6%，金银走高，油价跌近4%",
@@ -357,8 +655,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 02时26分]"
         },
         {
           "title": "苹果微软拖累标普收平，美光飙升15%领涨芯片股，油价涨，黄金重回4000",
@@ -368,8 +666,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 02时26分]"
         },
         {
           "title": "苹果涨价——压垮AI存储泡沫的最后一根稻草？",
@@ -379,8 +677,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 02时26分]"
         },
         {
           "title": "亚股遭遇“黑色星期五”！华尔街热议背后推手 苹果涨价是多重利空之一",
@@ -390,8 +688,19 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 02时26分]"
+        },
+        {
+          "title": "OpenAI：开启下一代模型GPT-5.6系列的限量预览",
+          "url": "https://flash.jin10.com/detail/20260627021924211800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时11分"
+          "time_info": "02时26分"
         },
         {
           "title": "苹果、微软被迫涨价，库克承认“40年来前所未见”，AI正在推升新一轮通胀？",
@@ -401,8 +710,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 02时26分]"
         },
         {
           "title": "AI投资可持续性遭质疑 美股期指集体走低 芯片股再度承压 | 今夜看点",
@@ -412,8 +721,19 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 02时26分]"
+        },
+        {
+          "title": "英伟达为什么没有成为顶尖大模型公司？",
+          "url": "https://www.zhihu.com/question/2052136735417557323",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时11分"
+          "time_info": "02时26分"
         },
         {
           "title": "美股盘初，主要行业ETF涨跌不一，医疗业ETF涨近3%，生物科技指数ETF涨超2%，半导体ETF跌超3%，科技行业ETF跌1.5%。",
@@ -430,7 +750,7 @@
     },
     {
       "keyword_group": "# --- 第五组：日本动态 (关键修改：去掉了外交限制) --- 日本 岸田文雄 自卫队 靖国神社 核污水",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "日本对华外交是否在朝错误方向发展？岸田文雄答凤凰",
@@ -440,19 +760,32 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 02时26分]"
         },
         {
           "title": "如何看待韩国网友怒骂德国故意输球，日本不帮韩国队出线？客观分析，韩国出线概率真的很渺茫吗？",
           "url": "https://www.zhihu.com/question/2053827210838893606",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 02时26分]"
+        },
+        {
+          "title": "知情人称因出口管制对日本企业造成冲击，日本驻华大使多次请求与中方会面，但均未成功，传递了什么信号？",
+          "url": "https://www.zhihu.com/question/2053182874514364148",
+          "source": "知乎",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 02时26分]"
         },
         {
           "title": "不挑对手直面巴西，日本挑战世界杯淘汰赛魔咒",
@@ -462,30 +795,31 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
-        },
-        {
-          "title": "知情人称因出口管制对日本企业造成冲击，日本驻华大使多次请求与中方会面，但均未成功，传递了什么信号？",
-          "url": "https://www.zhihu.com/question/2053182874514364148",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 02时26分]"
         },
         {
           "title": "强势之组,荷兰日本瑞典携手晋级",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355656&amp;topic_name=%E5%BC%BA%E5%8A%BF%E4%B9%8B%E7%BB%84%2C%E8%8D%B7%E5%85%B0%E6%97%A5%E6%9C%AC%E7%91%9E%E5%85%B8%E6%90%BA%E6%89%8B%E6%99%8B%E7%BA%A7",
           "source": "贴吧",
           "ranks": [
-            16
+            16,
+            19
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 02时26分]"
+        },
+        {
+          "title": "日本1:1瑞典",
+          "url": "https://www.douyin.com/hot/2547468",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时11分"
+          "time_info": "02时26分"
         },
         {
           "title": "岸田文雄谈中日关系走向",
@@ -501,8 +835,69 @@
       ]
     },
     {
+      "keyword_group": "# --- 第二组：中国经济与A股 (保留宽泛的行情词) --- A股 上证 深证 恒生 人民币 汇率 经济 GDP",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "加拿大外长Anand：与土耳其讨论推进经济关系，包括未来谈判一份自由贸易协议（FTA）。",
+          "url": "https://wallstreetcn.com/livenews/3125393",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时11分"
+        },
+        {
+          "title": "【OpenAI：开启下一代模型GPT-5.6系列的限量预览，其中Sol最强】OpenAI表示，已开启GPT-5.6系列的限量预览。该系列包括旗舰模型Sol、适用于日常工作的均衡模型Terra、以及快速且经济实惠的模型Luna。Terra的性能与 GPT-5.5 相当，但成本低2倍；Luna则以其最低的成本提供了强大的能力。 GPT-5.6 Sol搭载了该公司迄今最强大的安全防护体系。加强了对高风险活动、敏感网络请求以及重复滥用行为的防护，并花费数周时间寻找系统弱点、进行压力测试，以增强其抵御现实世界攻击的能力。 该公司计划在未来几周内全面开放GPT-5.6 Sol、Terra和Luna。作为我们与美国政府持续沟通的一部分，在周五发布之前，OpenAI提前向政府展示了该公司的发布计划以及模型的各项能力。 GPT-5.6 Sol是其迄今最强大的模型。",
+          "url": "https://wallstreetcn.com/livenews/3125429",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        },
+        {
+          "title": "丁薛祥在新疆调研时强调：突出优势特色培育壮大新动能，加快推进经济社会高质量发展",
+          "url": "https://wallstreetcn.com/livenews/3125411",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        },
+        {
+          "title": "IMF首席经济学家：全球经济依然牢牢地“以美元为中心”",
+          "url": "https://wallstreetcn.com/livenews/3125407",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        },
+        {
+          "title": "丁薛祥在新疆调研时强调 突出优势特色培育壮大新动能 加快推进经济社会高质量发展",
+          "url": "https://wallstreetcn.com/livenews/3125367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时11分"
+        }
+      ]
+    },
+    {
       "keyword_group": "# --- 第六组：俄乌局势 --- 俄乌 俄罗斯 乌克兰 普京 泽连斯基 北约",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "业内观察人士预计，在下个月于安卡拉举行的北约（NATO）会议之后，哪些国家可能支持“防务、安全与韧性银行”（Defence, Security and Resilience Bank）将会变得更加明朗。（路透）",
@@ -536,34 +931,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# --- 第二组：中国经济与A股 (保留宽泛的行情词) --- A股 上证 深证 恒生 人民币 汇率 经济 GDP",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "加拿大外长Anand：与土耳其讨论推进经济关系，包括未来谈判一份自由贸易协议（FTA）。",
-          "url": "https://wallstreetcn.com/livenews/3125393",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
         },
         {
-          "title": "丁薛祥在新疆调研时强调 突出优势特色培育壮大新动能 加快推进经济社会高质量发展",
-          "url": "https://wallstreetcn.com/livenews/3125367",
-          "source": "华尔街见闻-快讯",
+          "title": "俄前防长去世 普京向其亲属表示慰问",
+          "url": "https://www.toutiao.com/trending/7655677561623724082/",
+          "source": "今日头条",
           "ranks": [
-            24
+            23
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时11分"
+          "time_info": "02时26分"
         }
       ]
     }
