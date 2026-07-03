@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-04T04:58:32.412156+08:00",
-  "total_titles_processed": 434,
+  "generated_at": "2026-07-04T06:03:56.809447+08:00",
+  "total_titles_processed": 471,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- 第三组：美国宏观与军事 --- 美国 白宫 五角大楼 美军 美联储 布林肯 拜登 特朗普",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "美国电网运营巨头PJM Interconnection LLC：可能在7月2日出现创历史纪录新高的电力需求。",
@@ -14,20 +14,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
         },
         {
-          "title": "美联储：美国上周银行存款19.374万亿美元，之前一周19.304万亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3128833",
+          "title": "受AI热潮与美联储乐观预期提振，新兴市场资产全线反弹",
+          "url": "https://wallstreetcn.com/livenews/3128844",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时58分"
+          "time_info": "06时03分"
         },
         {
           "title": "北约高级指挥官：欧洲已弥补了美国在北约内部削减的大部分份额。",
@@ -38,8 +38,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时09分 ~ 04时58分]"
+          "appearance_count": 3,
+          "time_info": "[03时09分 ~ 06时03分]"
         },
         {
           "title": "从保守派宠儿到MAGA公敌，她为什么敢“背叛”特朗普？",
@@ -49,8 +49,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时18分 ~ 04时58分]"
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 06时03分]"
+        },
+        {
+          "title": "美联储：美国上周银行存款19.374万亿美元，之前一周19.304万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3128833",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时58分 ~ 06时03分]"
         },
         {
           "title": "借总统身份捞钱？特朗普：赚钱没犯法，不管我家人做啥都有人说“利益冲突”",
@@ -60,8 +72,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时18分 ~ 04时58分]"
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 06时03分]"
         },
         {
           "title": "非农“哑火”，华尔街料沃什可再等，“新美联储通讯社”：报告对联储判断几无影响，就业没通胀重要",
@@ -73,6 +85,53 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时18分 ~ 03时09分]"
+        },
+        {
+          "title": "格陵兰岛当局：美国仍在施压，但该岛“绝不出售”",
+          "url": "https://flash.jin10.com/detail/20260704034413740800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时58分 ~ 06时03分]"
+        },
+        {
+          "title": "美联储加息预期降温致美元走弱，拉美资产迎来反弹",
+          "url": "https://wallstreetcn.com/livenews/3128831",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时58分 ~ 06时03分]"
+        },
+        {
+          "title": "特朗普：我知道沃什想做什么，但他须做分内之事，美联储理事会可能有点“敌对”",
+          "url": "https://wallstreetcn.com/articles/3776099",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时58分 ~ 06时03分]"
+        },
+        {
+          "title": "格陵兰岛当局：美国仍在施压，但该岛“绝不出售”",
+          "url": "https://wallstreetcn.com/livenews/3128827",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时58分 ~ 06时03分]"
         },
         {
           "title": "美国总统特朗普周五与内塔尼亚胡通电话。（Axios）",
@@ -87,6 +146,51 @@
           "time_info": "[01时18分 ~ 03时09分]"
         },
         {
+          "title": "特朗普前AI顾问：美国不会设立类FDA的AI监管机构",
+          "url": "https://wallstreetcn.com/livenews/3128826",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时58分 ~ 06时03分]"
+        },
+        {
+          "title": "美国总统特朗普：赦免6名因“修车被起诉”人士。",
+          "url": "https://flash.jin10.com/detail/20260704032701636800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时58分 ~ 06时03分]"
+        },
+        {
+          "title": "美国最大的电网运营商PJM：已无法满足预期的能源需求，因此将实施计划，削减服务区域内的用电量；该区域覆盖大西洋中部地区、南部地区及华盛顿特区，服务用户达6700万。",
+          "url": "https://flash.jin10.com/detail/20260704031424117800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时58分 ~ 06时03分]"
+        },
+        {
+          "title": "卡利巴夫：美国应接受地区现实，呼吁推动解除制裁",
+          "url": "https://flash.jin10.com/detail/20260704031009595800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时58分 ~ 06时03分]"
+        },
+        {
           "title": "尽管汽油价格高企，美国人依然踏上独立日自驾之旅",
           "url": "https://wallstreetcn.com/livenews/3128795",
           "source": "华尔街见闻-快讯",
@@ -97,6 +201,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时18分 ~ 03时09分]"
+        },
+        {
+          "title": "美国电网运营巨头PJM Interconnection LLC在紧急程序网站上发布消息，宣布启动EEA2（二级能源紧急警报）行动，原因是已无法满足预期的能源需求。 该公司表示，正在实施一项运营计划，要求公用事业公司在其服务区域内削减电力需求。该区域覆盖中大西洋地区、南部地区以及华盛顿特区，服务人口达6700万。",
+          "url": "https://wallstreetcn.com/livenews/3128822",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时58分 ~ 06时03分]"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：美国必须“接受贸易领域的既定现实”。",
+          "url": "https://flash.jin10.com/detail/20260704030253296800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时58分 ~ 06时03分]"
         },
         {
           "title": "灼热“热穹顶”笼罩美国东海岸，逼“霉霉”粉丝宅家避暑",
@@ -111,103 +238,26 @@
           "time_info": "[01时18分 ~ 03时09分]"
         },
         {
-          "title": "格陵兰岛当局：美国仍在施压，但该岛“绝不出售”",
-          "url": "https://flash.jin10.com/detail/20260704034413740800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时58分"
-        },
-        {
-          "title": "美联储加息预期降温致美元走弱，拉美资产迎来反弹",
-          "url": "https://wallstreetcn.com/livenews/3128831",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时58分"
-        },
-        {
-          "title": "格陵兰岛当局：美国仍在施压，但该岛“绝不出售”",
-          "url": "https://wallstreetcn.com/livenews/3128827",
+          "title": "Consolidated Edison Inc.临时性地向美国纽约市皇后区西南部9800客户停止供电服务。",
+          "url": "https://wallstreetcn.com/livenews/3128837",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时58分"
+          "time_info": "06时03分"
         },
         {
-          "title": "特朗普：我知道沃什想做什么，但他须做分内之事，美联储理事会可能有点“敌对”",
-          "url": "https://wallstreetcn.com/articles/3776099",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时58分"
-        },
-        {
-          "title": "特朗普前AI顾问：美国不会设立类FDA的AI监管机构",
-          "url": "https://wallstreetcn.com/livenews/3128826",
+          "title": "美国最大电网周四因高温迎来破纪录用电需求",
+          "url": "https://wallstreetcn.com/livenews/3128835",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时58分"
-        },
-        {
-          "title": "美国总统特朗普：赦免6名因“修车被起诉”人士。",
-          "url": "https://flash.jin10.com/detail/20260704032701636800",
-          "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时58分"
-        },
-        {
-          "title": "美国最大的电网运营商PJM：已无法满足预期的能源需求，因此将实施计划，削减服务区域内的用电量；该区域覆盖大西洋中部地区、南部地区及华盛顿特区，服务用户达6700万。",
-          "url": "https://flash.jin10.com/detail/20260704031424117800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时58分"
-        },
-        {
-          "title": "卡利巴夫：美国应接受地区现实，呼吁推动解除制裁",
-          "url": "https://flash.jin10.com/detail/20260704031009595800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时58分"
-        },
-        {
-          "title": "美国电网运营巨头PJM Interconnection LLC在紧急程序网站上发布消息，宣布启动EEA2（二级能源紧急警报）行动，原因是已无法满足预期的能源需求。 该公司表示，正在实施一项运营计划，要求公用事业公司在其服务区域内削减电力需求。该区域覆盖中大西洋地区、南部地区以及华盛顿特区，服务人口达6700万。",
-          "url": "https://wallstreetcn.com/livenews/3128822",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时58分"
+          "time_info": "06时03分"
         },
         {
           "title": "据AXIOS网站：美国总统特朗普今天与以色列总理内塔尼亚胡通了电话。以色列总理办公室表示，双方同意近期在美国举行会晤。",
@@ -219,17 +269,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
-        },
-        {
-          "title": "伊朗议会议长卡利巴夫：美国必须“接受贸易领域的既定现实”。",
-          "url": "https://flash.jin10.com/detail/20260704030253296800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时58分"
         },
         {
           "title": "英国央行行长贝利：如果美国和以色列没有对伊朗发动战争，英国通胀将达到目标。",
@@ -246,19 +285,8 @@
     },
     {
       "keyword_group": "# --- 第一组：中国宏观 (去掉了必须词，只过滤娱乐) --- 中国 央视 外交部 国防部 解放军 人民日报 新华社",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
-        {
-          "title": "中国男篮世预赛主场惨败日本",
-          "url": "https://www.toutiao.com/trending/7657861832220229651/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时18分 ~ 04时58分]"
-        },
         {
           "title": "男篮世预赛 B 组，中国男篮 73-92 不敌日本男篮 ，如何评价本场比赛？",
           "url": "https://www.zhihu.com/question/2056436512388904270",
@@ -267,30 +295,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时18分 ~ 04时58分]"
-        },
-        {
-          "title": "中国空调在欧洲卖爆 格力慢了一拍",
-          "url": "https://www.toutiao.com/trending/7658252585362525732/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时18分 ~ 04时58分]"
-        },
-        {
-          "title": "中国男篮73比92不敌日本男篮",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE73%E6%AF%9492%E4%B8%8D%E6%95%8C%E6%97%A5%E6%9C%AC%E7%94%B7%E7%AF%AE",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时18分 ~ 04时58分]"
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 06时03分]"
         },
         {
           "title": "中国男篮19分不敌日本男篮",
@@ -300,8 +306,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时18分 ~ 04时58分]"
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 06时03分]"
+        },
+        {
+          "title": "中国男篮世预赛主场惨败日本",
+          "url": "https://www.toutiao.com/trending/7657861832220229651/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 06时03分]"
         },
         {
           "title": "中国男篮73:92不敌日本男篮",
@@ -312,8 +330,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时18分 ~ 04时58分]"
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 06时03分]"
         },
         {
           "title": "有人说 LV 四叶花卉疑似抄袭中国古代传统元素，其起诉茉莉奶白站不住脚，是这样吗？这个元素起源于哪里？",
@@ -321,7 +339,19 @@
           "source": "知乎",
           "ranks": [
             3,
-            4
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 06时03分]"
+        },
+        {
+          "title": "中国男篮73比92不敌日本男篮",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE73%E6%AF%9492%E4%B8%8D%E6%95%8C%E6%97%A5%E6%9C%AC%E7%94%B7%E7%AF%AE",
+          "source": "百度热搜",
+          "ranks": [
+            2
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -348,8 +378,81 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时18分 ~ 04时58分]"
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 06时03分]"
+        },
+        {
+          "title": "中国空调在欧洲卖爆 格力慢了一拍",
+          "url": "https://www.toutiao.com/trending/7658252585362525732/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 06时03分]"
+        },
+        {
+          "title": "演上了！美议员当众举起手机：去中国不带，去印度就带",
+          "url": "https://news.ifeng.com/c/8uT5BAgoWQc",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
+        },
+        {
+          "title": "中国造的“老头乐”在美国杀疯了",
+          "url": "https://www.toutiao.com/trending/7658075005603348522/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 06时03分]"
+        },
+        {
+          "title": "港媒：为何西方年轻人日益向往中国",
+          "url": "https://www.baidu.com/s?wd=%E6%B8%AF%E5%AA%92%EF%BC%9A%E4%B8%BA%E4%BD%95%E8%A5%BF%E6%96%B9%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%97%A5%E7%9B%8A%E5%90%91%E5%BE%80%E4%B8%AD%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 06时03分]"
+        },
+        {
+          "title": "人民日报谈党员干部要一心为公：正气不足者，常常遇事和稀泥",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33508567",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 06时03分]"
+        },
+        {
+          "title": "欧洲热到爆,空调全靠中国造",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355836&amp;topic_name=%E6%AC%A7%E6%B4%B2%E7%83%AD%E5%88%B0%E7%88%86%2C%E7%A9%BA%E8%B0%83%E5%85%A8%E9%9D%A0%E4%B8%AD%E5%9B%BD%E9%80%A0",
+          "source": "贴吧",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 06时03分]"
         },
         {
           "title": "媒体：中国篮球醒醒吧",
@@ -365,64 +468,29 @@
           "time_info": "[01时18分 ~ 04时58分]"
         },
         {
-          "title": "中国造的“老头乐”在美国杀疯了",
-          "url": "https://www.toutiao.com/trending/7658075005603348522/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            10,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时18分 ~ 04时58分]"
-        },
-        {
-          "title": "港媒：为何西方年轻人日益向往中国",
-          "url": "https://www.baidu.com/s?wd=%E6%B8%AF%E5%AA%92%EF%BC%9A%E4%B8%BA%E4%BD%95%E8%A5%BF%E6%96%B9%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%97%A5%E7%9B%8A%E5%90%91%E5%BE%80%E4%B8%AD%E5%9B%BD",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时18分 ~ 04时58分]"
-        },
-        {
-          "title": "人民日报谈党员干部要一心为公：正气不足者，常常遇事和稀泥",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33508567",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时18分 ~ 04时58分]"
-        },
-        {
-          "title": "欧洲热到爆,空调全靠中国造",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355836&amp;topic_name=%E6%AC%A7%E6%B4%B2%E7%83%AD%E5%88%B0%E7%88%86%2C%E7%A9%BA%E8%B0%83%E5%85%A8%E9%9D%A0%E4%B8%AD%E5%9B%BD%E9%80%A0",
-          "source": "贴吧",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时18分 ~ 04时58分]"
-        },
-        {
           "title": "中国男篮不敌日本男篮",
           "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%B8%8D%E6%95%8C%E6%97%A5%E6%9C%AC%E7%94%B7%E7%AF%AE&t=31&band_rank=13&Refer=top",
           "source": "微博",
           "ranks": [
             13,
-            9
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 04时58分]"
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 06时03分]"
+        },
+        {
+          "title": "中国船员在被韩海警扣押期间死亡",
+          "url": "https://www.toutiao.com/trending/7658228169959276586/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时09分 ~ 06时03分]"
         },
         {
           "title": "本场比赛中国男篮徐昕庞峥麟未出场",
@@ -435,18 +503,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时18分 ~ 03时09分]"
-        },
-        {
-          "title": "中国船员在被韩海警扣押期间死亡",
-          "url": "https://www.toutiao.com/trending/7658228169959276586/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时09分 ~ 04时58分]"
         },
         {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗国防部副部长表示，伊朗和巴基斯坦可以成为该地区新安全安排的基石。",
@@ -485,18 +541,40 @@
     },
     {
       "keyword_group": "# --- 第六组：俄乌局势 --- 俄乌 俄罗斯 乌克兰 普京 泽连斯基 北约",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
-          "title": "俄总统新闻秘书：普京宣布俄军“完全解放”卢甘斯克",
-          "url": "https://wallstreetcn.com/livenews/3128836",
+          "title": "市场消息：普京再次身穿军装亮相，并表示俄军在前线掌握着“战略主动权”。",
+          "url": "https://flash.jin10.com/detail/20260704035218720800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时58分 ~ 06时03分]"
+        },
+        {
+          "title": "市场消息：俄罗斯对乌克兰北部城市苏梅发动大规模轰炸，击中一栋公寓楼和一家商店，造成三人死亡。",
+          "url": "https://flash.jin10.com/detail/20260704034818302800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时58分 ~ 06时03分]"
+        },
+        {
+          "title": "斯洛伐克称不会承担北约峰会上提出的任何援乌义务",
+          "url": "https://wallstreetcn.com/livenews/3128845",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时58分"
+          "time_info": "06时03分"
         },
         {
           "title": "伊朗总统与俄罗斯讨论扩大合作的事宜。（ISN）",
@@ -510,26 +588,16 @@
           "time_info": "03时09分"
         },
         {
-          "title": "市场消息：普京再次身穿军装亮相，并表示俄军在前线掌握着“战略主动权”。",
-          "url": "https://flash.jin10.com/detail/20260704035218720800",
-          "source": "金十数据",
+          "title": "俄总统新闻秘书：普京宣布俄军“完全解放”卢甘斯克",
+          "url": "https://wallstreetcn.com/livenews/3128836",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            1,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时58分"
-        },
-        {
-          "title": "市场消息：俄罗斯对乌克兰北部城市苏梅发动大规模轰炸，击中一栋公寓楼和一家商店，造成三人死亡。",
-          "url": "https://flash.jin10.com/detail/20260704034818302800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时58分 ~ 06时03分]"
         },
         {
           "title": "学者：俄军空袭成泽连斯基“神助攻”",
@@ -538,11 +606,12 @@
           "ranks": [
             25,
             26,
-            22
+            22,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时18分 ~ 04时58分]"
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 06时03分]"
         },
         {
           "title": "据伊朗学生通讯社：伊朗总统与俄罗斯讨论了扩大合作事宜。",
@@ -553,8 +622,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时09分 ~ 04时58分]"
+          "appearance_count": 3,
+          "time_info": "[03时09分 ~ 06时03分]"
         },
         {
           "title": "克里姆林宫发言人佩斯科夫：俄罗斯联邦已完全解放康斯坦丁诺夫卡（位于乌克兰东部顿涅茨克州中部）。",
@@ -563,9 +632,9 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时58分 ~ 06时03分]"
         },
         {
           "title": "据俄罗斯媒体：俄罗斯总统普京周五视察了联合部队的一个辅助指挥点。普京听取了总参谋长格拉西莫夫的汇报，后者评估了特别军事行动区域内的当前局势。",
@@ -574,26 +643,27 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时58分 ~ 06时03分]"
         },
         {
           "title": "伊朗总统与俄罗斯就扩大合作进行了会谈",
           "url": "https://wallstreetcn.com/livenews/3128816",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            19,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时58分 ~ 06时03分]"
         }
       ]
     },
     {
       "keyword_group": "# --- 第二组：中国经济与A股 (保留宽泛的行情词) --- A股 上证 深证 恒生 人民币 汇率 经济 GDP",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "未来我国循环经济发展重点",
@@ -603,8 +673,20 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 06时03分]"
+        },
+        {
+          "title": "拉加德将罕见亲自出席下周的欧盟经济和财政事务理事会会议",
+          "url": "https://flash.jin10.com/detail/20260704022128126800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时18分 ~ 04时58分]"
+          "time_info": "[03时09分 ~ 06时03分]"
         },
         {
           "title": "欧洲央行行长将亲自出席下周的欧盟经济和财政事务理事会会议",
@@ -625,23 +707,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            18
+            18,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时09分 ~ 04时58分]"
-        },
-        {
-          "title": "拉加德将罕见亲自出席下周的欧盟经济和财政事务理事会会议",
-          "url": "https://flash.jin10.com/detail/20260704022128126800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时09分 ~ 04时58分]"
+          "appearance_count": 3,
+          "time_info": "[03时09分 ~ 06时03分]"
         },
         {
           "title": "Meta股价因AI进展不及预期下跌",
@@ -652,8 +723,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 03时09分]"
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 06时03分]"
         },
         {
           "title": "上半年468只美元理财扎堆上新，收益4%诱人么？汇率“吃掉”三成收益",
@@ -662,37 +733,50 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时58分 ~ 06时03分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7780元，较周四夜盘收盘涨50点。成交量459.30亿美元。",
           "url": "https://wallstreetcn.com/livenews/3128821",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时58分 ~ 06时03分]"
         },
         {
           "title": "恒生指数主连夜盘收跌0.20%，报23253点。 恒生科技指数主连夜盘收跌0.13%，报4492点。",
           "url": "https://wallstreetcn.com/livenews/3128820",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时58分 ~ 06时03分]"
+        },
+        {
+          "title": "周五（7月3日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报6.7853元，较周四纽约尾盘涨35点，日内整体交投于6.7901-6.7811元区间。 本周，离岸人民币累计上涨大约190点，涨幅0.29%。",
+          "url": "https://wallstreetcn.com/livenews/3128840",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时58分"
+          "time_info": "06时03分"
         }
       ]
     },
     {
       "keyword_group": "# --- 第四组：美股与科技 (去掉了具体的“财报”限制) --- 美股 纳指 道琼斯 标普 特斯拉 英伟达 苹果 微软 OpenAI",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "非农降温击碎鹰派叙事，道指新高，芯片股再重挫，纳指100盘中跌2%，黄金大涨",
@@ -702,8 +786,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时18分 ~ 04时58分]"
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 06时03分]"
         },
         {
           "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
@@ -714,8 +798,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时18分 ~ 04时58分]"
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 06时03分]"
         },
         {
           "title": "Anthropic自研AI芯片计划引发美股半导体大跌！闪迪大跌14%，费城半导体指数两日重挫12%",
@@ -740,6 +824,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时09分 ~ 04时58分]"
+        },
+        {
+          "title": "加拿大标普/TSX综合指数收涨0.88%，报35274.84点，投资者看好总理卡尼披露的西海岸新版管道输送项目，本周累计上涨0.84%。 小盘股指收涨1.73%，报1426.61点，本周累涨2.77%。 周五（7月3日）北美尾盘，加拿大10年期基准国债收益率跌0.4个基点，报3.443%，本周累涨5.7个基点。 两年期加债收益率跌0.5个基点，报2.756%，本周累涨1.1个基点。",
+          "url": "https://wallstreetcn.com/livenews/3128838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
         }
       ]
     },
@@ -755,19 +850,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时18分 ~ 04时58分]"
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 06时03分]"
         },
         {
           "title": "酱油日本特有?日网友醒醒",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355853&amp;topic_name=%E9%85%B1%E6%B2%B9%E6%97%A5%E6%9C%AC%E7%89%B9%E6%9C%89%3F%E6%97%A5%E7%BD%91%E5%8F%8B%E9%86%92%E9%86%92",
           "source": "贴吧",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时18分 ~ 04时58分]"
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 06时03分]"
         },
         {
           "title": "日本加速布局印度市场有何考量",
