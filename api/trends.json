@@ -1,182 +1,11 @@
 {
-  "generated_at": "2026-07-06T01:02:23.067979+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-07-06T03:07:15.242543+08:00",
+  "total_titles_processed": 374,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "# --- 第一组：中国宏观 (去掉了必须词，只过滤娱乐) --- 中国 央视 外交部 国防部 解放军 人民日报 新华社",
-      "match_count": 15,
-      "titles": [
-        {
-          "title": "中国制造如何为欧洲降温",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E5%A6%82%E4%BD%95%E4%B8%BA%E6%AC%A7%E6%B4%B2%E9%99%8D%E6%B8%A9",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
-        },
-        {
-          "title": "数说中国经济6月成绩单",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%95%B0%E8%AF%B4%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E6%E6%9C%88%E6%88%90%E7%BB%A9%E5%8D%95%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
-        },
-        {
-          "title": "中国U17 3-0完胜澳大利亚U17",
-          "url": "https://www.toutiao.com/trending/7659012161368768562/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
-        },
-        {
-          "title": "下周重磅日程：中国通胀数据、美联储会议纪要、SK海力士美股首秀、智谱MiniMax解禁",
-          "url": "https://wallstreetcn.com/articles/3776130",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
-        },
-        {
-          "title": "2026 中国（南京）具身智能机器人产业展将于7月10-12日举行",
-          "url": "https://wallstreetcn.com/livenews/3129014",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "印度驻华大使答凤凰：尽可能多地与中国各领域合作",
-          "url": "https://news.ifeng.com/c/8uW0lJaOwsx",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
-        },
-        {
-          "title": "韩国32年来首次重启钨矿开采，美日紧盯：“挑战中国”的希望？",
-          "url": "https://news.ifeng.com/c/8uWP83mcGjB",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
-        },
-        {
-          "title": "LV 在中国密集维权，从茉莉奶白到鸭血粉丝、平价餐吧，目的何在？商标保护范围是不是太宽了？",
-          "url": "https://www.zhihu.com/question/2057021664789882741",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
-        },
-        {
-          "title": "央视起底“违规秤”隐秘产销链",
-          "url": "https://www.toutiao.com/trending/7659017059124330534/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
-        },
-        {
-          "title": "佛得角再谢中国,友谊长存",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355899&amp;topic_name=%E4%BD%9B%E5%BE%97%E8%A7%92%E5%86%8D%E8%B0%A2%E4%B8%AD%E5%9B%BD%2C%E5%8F%8B%E8%B0%8A%E9%95%BF%E5%AD%98",
-          "source": "贴吧",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
-        },
-        {
-          "title": "2026中国电影导演之夜",
-          "url": "https://www.douyin.com/hot/2559505",
-          "source": "抖音",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
-        },
-        {
-          "title": "2026中国互联网大会将举办，聚焦AI产业化落地、算力互联互通等核心议题",
-          "url": "https://wallstreetcn.com/livenews/3129011",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "中国石油集团董事长戴厚良会见壳牌公司首席执行官",
-          "url": "https://wallstreetcn.com/livenews/3128991",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "德国国防部长皮斯托里乌斯：乌克兰已不再需要“金牛座”巡航导弹，因为其自身的无人机已成功打击了俄罗斯境内的炼油厂和军事后勤设施。",
-          "url": "https://flash.jin10.com/detail/20260705232550480800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "波兰国防部长宣布，在与总理图斯克协商后，他已下令解密波兰在2022年至2026年间向乌克兰提供的所有军事援助信息。",
-          "url": "https://flash.jin10.com/detail/20260705231026972800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        }
-      ]
-    },
-    {
       "keyword_group": "# --- 第三组：美国宏观与军事 --- 美国 白宫 五角大楼 美军 美联储 布林肯 拜登 特朗普",
-      "match_count": 15,
+      "match_count": 27,
       "titles": [
         {
           "title": "特朗普对哈梅内伊葬礼感到震惊，认为伊朗民众恨他",
@@ -186,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 03时07分]"
         },
         {
           "title": "与特朗普通话85分钟，普京称“俄军正全线进攻”，此前威胁夺乌克兰更多土地建安全区",
@@ -197,8 +26,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 03时07分]"
+        },
+        {
+          "title": "特朗普又把自己加上了“总统山”",
+          "url": "https://news.ifeng.com/c/8uW6iftDRFS",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 03时07分]"
         },
         {
           "title": "白宫上空烟花与闪电同框",
@@ -212,15 +52,15 @@
           "time_info": "[01时01分 ~ 01时02分]"
         },
         {
-          "title": "特朗普又把自己加上了“总统山”",
-          "url": "https://news.ifeng.com/c/8uW6iftDRFS",
+          "title": "美军：暂停搜寻在阿拉伯海失踪的士兵",
+          "url": "https://news.ifeng.com/c/8uWVZ84UCoP",
           "source": "凤凰网",
           "ranks": [
-            5
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "time_info": "[03时06分 ~ 03时07分]"
         },
         {
           "title": "多数美国选民认为特朗普对伊朗开战得不偿失",
@@ -229,20 +69,54 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "特朗普将在北约峰会期间会晤乌克兰和叙利亚领导人",
+          "url": "https://flash.jin10.com/detail/20260706024451820800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时07分"
         },
         {
           "title": "一图看懂｜宣布关税后大量交易，特朗普账户如何“精准”炒股",
           "url": "https://m.thepaper.cn/newsDetail_forward_33518572",
           "source": "澎湃新闻",
           "ranks": [
-            10
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 03时07分]"
+        },
+        {
+          "title": "佩斯科夫：俄对和平谈判持开放态度 期待美国进行调解",
+          "url": "https://wallstreetcn.com/livenews/3129008",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "time_info": "[01时02分 ~ 03时07分]"
+        },
+        {
+          "title": "俄总统助理：普京提请特朗普注意，欧洲和基辅押注于俄乌冲突延续甚至升级",
+          "url": "https://wallstreetcn.com/livenews/3128968",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 03时07分]"
         },
         {
           "title": "特朗普将自己头像加在林肯旁边",
@@ -256,26 +130,26 @@
           "time_info": "[01时01分 ~ 01时02分]"
         },
         {
-          "title": "佩斯科夫：俄对和平谈判持开放态度 期待美国进行调解",
-          "url": "https://wallstreetcn.com/livenews/3129008",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
           "title": "美军暂停搜寻在阿拉伯海因直升机事故失踪的士兵",
           "url": "https://flash.jin10.com/detail/20260705235231851800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "特朗普再次呼吁废除“冗长辩论”机制",
+          "url": "https://flash.jin10.com/detail/20260706022746976800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时07分"
         },
         {
           "title": "白宫新闻秘书莱维特：财政部已正式推出特朗普账户项目，本届政府希望借助该项目提升下一代民众的金融素养，帮助他们理解投资的价值。",
@@ -284,9 +158,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "据悉特朗普致电普京与泽连斯基，力求重启陷入停滞的和平谈判，并主动提出在土耳其北约峰会之前，协助斡旋俄乌问题的解决方案。",
+          "url": "https://flash.jin10.com/detail/20260706014701554800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时07分"
         },
         {
           "title": "以色列总理内塔尼亚胡：令我担忧的是，首先在民主党内部存在一股反以色列势力。我对此很关心，只要我们能做些什么来弥补，我当然会去做。那些憎恨以色列的人最终也会憎恨美国。",
@@ -295,7 +180,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
         },
@@ -306,9 +191,53 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "美国高级官员：特朗普将在北约峰会期间讨论霍尔木兹海峡的航行问题。盟友已准备好参与保护霍尔木兹海峡的航运安全。",
+          "url": "https://flash.jin10.com/detail/20260706012858730800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时07分"
+        },
+        {
+          "title": "美国高级官员：预计今年不会重新审议《华盛顿条约》。",
+          "url": "https://flash.jin10.com/detail/20260706012618948800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时07分"
+        },
+        {
+          "title": "美国高级官员：特朗普认为必须尽快结束俄乌冲突，俄乌前线战局已僵持数月。美方有望在结束乌克兰战事方面取得进展。",
+          "url": "https://flash.jin10.com/detail/20260706012207769800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时07分"
+        },
+        {
+          "title": "美国高级官员：相信特朗普将与俄罗斯普京进行后续沟通。",
+          "url": "https://flash.jin10.com/detail/20260706012031099800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时07分"
         },
         {
           "title": "以色列总理内塔尼亚胡：我和特朗普在愿景上意见一致，虽然可能会出现分歧，但我们坦率而公开地讨论它们，并且通常能达成解决方案。",
@@ -317,9 +246,31 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "美国高级官员：特朗普将与乌克兰总统泽连斯基讨论如何结束战争。",
+          "url": "https://flash.jin10.com/detail/20260706011737645800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时07分"
+        },
+        {
+          "title": "美国高级官员：（特朗普）将在北约峰会期间宣布涉及数十亿美元的计划。",
+          "url": "https://flash.jin10.com/detail/20260706011614677800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时07分"
         },
         {
           "title": "以色列总理内塔尼亚胡：（谈到与特朗普的关系）我不认为我们之间有裂痕。与其他盟友不同，我们与美国并肩作战，在99%的情况下，我和美国总统的看法是一致的。",
@@ -328,18 +279,248 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
         },
         {
-          "title": "俄总统助理：普京提请特朗普注意，欧洲和基辅押注于俄乌冲突延续甚至升级",
-          "url": "https://wallstreetcn.com/livenews/3128968",
-          "source": "华尔街见闻-快讯",
+          "title": "白宫官员：特朗普将在北约之行期间与土耳其总统埃尔多安举行会晤。",
+          "url": "https://flash.jin10.com/detail/20260706011411437800",
+          "source": "金十数据",
           "ranks": [
-            27
+            25
           ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时07分"
+        },
+        {
+          "title": "白宫：特朗普将在北约峰会期间与乌克兰和叙利亚领导人举行双边会晤。",
+          "url": "https://flash.jin10.com/detail/20260706010803777800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# --- 第一组：中国宏观 (去掉了必须词，只过滤娱乐) --- 中国 央视 外交部 国防部 解放军 人民日报 新华社",
+      "match_count": 19,
+      "titles": [
+        {
+          "title": "中国制造如何为欧洲降温",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E5%A6%82%E4%BD%95%E4%B8%BA%E6%AC%A7%E6%B4%B2%E9%99%8D%E6%B8%A9",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 03时07分]"
+        },
+        {
+          "title": "数说中国经济6月成绩单",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%95%B0%E8%AF%B4%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E6%E6%9C%88%E6%88%90%E7%BB%A9%E5%8D%95%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 03时07分]"
+        },
+        {
+          "title": "下周重磅日程：中国通胀数据、美联储会议纪要、SK海力士美股首秀、智谱MiniMax解禁",
+          "url": "https://wallstreetcn.com/articles/3776130",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 03时07分]"
+        },
+        {
+          "title": "2026 中国（南京）具身智能机器人产业展将于7月10-12日举行",
+          "url": "https://wallstreetcn.com/livenews/3129014",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 03时07分]"
+        },
+        {
+          "title": "中国U17 3-0完胜澳大利亚U17",
+          "url": "https://www.toutiao.com/trending/7659012161368768562/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 03时07分]"
+        },
+        {
+          "title": "印度驻华大使答凤凰：尽可能多地与中国各领域合作",
+          "url": "https://news.ifeng.com/c/8uW0lJaOwsx",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 03时07分]"
+        },
+        {
+          "title": "韩国32年来首次重启钨矿开采，美日紧盯：“挑战中国”的希望？",
+          "url": "https://news.ifeng.com/c/8uWP83mcGjB",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 03时07分]"
+        },
+        {
+          "title": "LV 在中国密集维权，从茉莉奶白到鸭血粉丝、平价餐吧，目的何在？商标保护范围是不是太宽了？",
+          "url": "https://www.zhihu.com/question/2057021664789882741",
+          "source": "知乎",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 03时07分]"
+        },
+        {
+          "title": "央视起底“违规秤”隐秘产销链",
+          "url": "https://www.toutiao.com/trending/7659017059124330534/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 03时07分]"
+        },
+        {
+          "title": "佛得角再谢中国,友谊长存",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355899&amp;topic_name=%E4%BD%9B%E5%BE%97%E8%A7%92%E5%86%8D%E8%B0%A2%E4%B8%AD%E5%9B%BD%2C%E5%8F%8B%E8%B0%8A%E9%95%BF%E5%AD%98",
+          "source": "贴吧",
+          "ranks": [
+            21,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 03时07分]"
+        },
+        {
+          "title": "2026中国电影导演之夜",
+          "url": "https://www.douyin.com/hot/2559505",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 03时07分]"
+        },
+        {
+          "title": "2026中国互联网大会将举办，聚焦AI产业化落地、算力互联互通等核心议题",
+          "url": "https://wallstreetcn.com/livenews/3129011",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 03时07分]"
+        },
+        {
+          "title": "LV在中国疯狂打官司",
+          "url": "https://s.weibo.com/weibo?q=%23LV%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%96%AF%E7%8B%82%E6%89%93%E5%AE%98%E5%8F%B8%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时06分 ~ 03时07分]"
+        },
+        {
+          "title": "欧洲车市变天：中国品牌击败日本对手",
+          "url": "https://www.baidu.com/s?wd=%E6%AC%A7%E6%B4%B2%E8%BD%A6%E5%B8%82%E5%8F%98%E5%A4%A9%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%93%81%E7%89%8C%E5%87%BB%E8%B4%A5%E6%97%A5%E6%9C%AC%E5%AF%B9%E6%89%8B",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时06分 ~ 03时07分]"
+        },
+        {
+          "title": "佛得角球队感谢中国球迷",
+          "url": "https://www.douyin.com/hot/2559010",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时06分 ~ 03时07分]"
+        },
+        {
+          "title": "中国石油集团董事长戴厚良会见壳牌公司首席执行官",
+          "url": "https://wallstreetcn.com/livenews/3128991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 03时07分]"
+        },
+        {
+          "title": "俄国防部：一天内防空系统拦截并摧毁了116架飞越俄罗斯各地区的乌克兰无人机。",
+          "url": "https://flash.jin10.com/detail/20260706015606294800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时07分"
+        },
+        {
+          "title": "德国国防部长皮斯托里乌斯：乌克兰已不再需要“金牛座”巡航导弹，因为其自身的无人机已成功打击了俄罗斯境内的炼油厂和军事后勤设施。",
+          "url": "https://flash.jin10.com/detail/20260705232550480800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "波兰国防部长宣布，在与总理图斯克协商后，他已下令解密波兰在2022年至2026年间向乌克兰提供的所有军事援助信息。",
+          "url": "https://flash.jin10.com/detail/20260705231026972800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
         }
@@ -347,7 +528,7 @@
     },
     {
       "keyword_group": "# --- 第二组：中国经济与A股 (保留宽泛的行情词) --- A股 上证 深证 恒生 人民币 汇率 经济 GDP",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "周末要闻汇总：A股交易新规，明起施行；万亿逆回购来了",
@@ -357,8 +538,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 03时07分]"
         },
         {
           "title": "多家A股公司，业绩大增",
@@ -368,8 +549,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 03时07分]"
         },
         {
           "title": "多股应声涨停！A股中报行情开启，12家上市公司净利最高同比预增超150%",
@@ -379,8 +560,30 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 03时07分]"
+        },
+        {
+          "title": "路透调查：28位受访经济学家中，有22位预计新西兰联储将于7月8日加息25个基点，使利率达到2.50%。",
+          "url": "https://flash.jin10.com/detail/20260706030328110800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时07分"
+        },
+        {
+          "title": "路透调查：七月货币政策会议后，26位经济学家中有14位预计新西兰联储将在九月底前再加息25个基点，最终利率达到2.75%。",
+          "url": "https://flash.jin10.com/detail/20260706030146810800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时07分"
         },
         {
           "title": "龙头四连板！本周披露并购重组进展的A股名单一览",
@@ -390,19 +593,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
-        },
-        {
-          "title": "麦格理：将双汇发展评级下调至中性，目标价23元人民币。",
-          "url": "https://flash.jin10.com/detail/20260705235542214800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时02分"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 03时07分]"
         },
         {
           "title": "招商轮船：预计上半年净利润为人民币66亿元-73亿元，同比增加 214%-248%",
@@ -411,9 +603,83 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 03时07分]"
+        },
+        {
+          "title": "麦格理：将双汇发展评级下调至中性，目标价23元人民币。",
+          "url": "https://flash.jin10.com/detail/20260705235542214800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "A股交易新规今起施行 投资者需注意三大变化",
+          "url": "https://flash.jin10.com/detail/20260706023348767800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# --- 第五组：日本动态 (关键修改：去掉了外交限制) --- 日本 岸田文雄 自卫队 靖国神社 核污水",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "日本为找稀土开始拆空调了",
+          "url": "https://www.toutiao.com/trending/7658570707797934134/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 03时07分]"
+        },
+        {
+          "title": "HBM竞赛升级！美光日本90亿美元扩建项目开工，预计2028年出货",
+          "url": "https://wallstreetcn.com/articles/3776210",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 03时07分]"
+        },
+        {
+          "title": "空调炼稀土,日本没招了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355907&amp;topic_name=%E7%A9%BA%E8%B0%83%E7%82%BC%E7%A8%80%E5%9C%9F%2C%E6%97%A5%E6%9C%AC%E6%B2%A1%E6%8B%9B%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 03时07分]"
+        },
+        {
+          "title": "普京首次承认俄罗斯石油短缺，并拟从日本进口航空燃油，这释放了哪些信号？",
+          "url": "https://www.zhihu.com/question/2056872271713678232",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时06分 ~ 03时07分]"
         }
       ]
     },
@@ -426,72 +692,53 @@
           "url": "https://wallstreetcn.com/articles/3776218",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
-        },
-        {
-          "title": "印度再坑苹果,机密惨遭开源",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355913&amp;topic_name=%E5%8D%B0%E5%BA%A6%E5%86%8D%E5%9D%91%E8%8B%B9%E6%9E%9C%2C%E6%9C%BA%E5%AF%86%E6%83%A8%E9%81%AD%E5%BC%80%E6%BA%90",
-          "source": "贴吧",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 03时07分]"
         },
         {
           "title": "印度工厂泄露 iPhone18Pro 机密，这如何影响苹果在印度的布局？",
           "url": "https://www.zhihu.com/question/2056716909140354522",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 03时07分]"
+        },
+        {
+          "title": "印度再坑苹果,机密惨遭开源",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355913&amp;topic_name=%E5%8D%B0%E5%BA%A6%E5%86%8D%E5%9D%91%E8%8B%B9%E6%9E%9C%2C%E6%9C%BA%E5%AF%86%E6%83%A8%E9%81%AD%E5%BC%80%E6%BA%90",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 03时07分]"
         }
       ]
     },
     {
-      "keyword_group": "# --- 第五组：日本动态 (关键修改：去掉了外交限制) --- 日本 岸田文雄 自卫队 靖国神社 核污水",
-      "match_count": 3,
+      "keyword_group": "# --- 第六组：俄乌局势 --- 俄乌 俄罗斯 乌克兰 普京 泽连斯基 北约",
+      "match_count": 1,
       "titles": [
         {
-          "title": "日本为找稀土开始拆空调了",
-          "url": "https://www.toutiao.com/trending/7658570707797934134/",
-          "source": "今日头条",
+          "title": "乌克兰总统泽连斯基：情报再次显示，俄罗斯正在准备一次新的大规模打击。请注意安全，留意任何空袭警报。",
+          "url": "https://flash.jin10.com/detail/20260706024756354800",
+          "source": "金十数据",
           "ranks": [
-            1
+            4
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
-        },
-        {
-          "title": "HBM竞赛升级！美光日本90亿美元扩建项目开工，预计2028年出货",
-          "url": "https://wallstreetcn.com/articles/3776210",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
-        },
-        {
-          "title": "空调炼稀土,日本没招了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355907&amp;topic_name=%E7%A9%BA%E8%B0%83%E7%82%BC%E7%A8%80%E5%9C%9F%2C%E6%97%A5%E6%9C%AC%E6%B2%A1%E6%8B%9B%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时07分"
         }
       ]
     }
