@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-12T10:06:00.976106+08:00",
-  "total_titles_processed": 613,
+  "generated_at": "2026-07-12T13:50:55.676209+08:00",
+  "total_titles_processed": 800,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- 第三组：美国宏观与军事 --- 美国 白宫 五角大楼 美军 美联储 布林肯 拜登 特朗普",
-      "match_count": 38,
+      "match_count": 60,
       "titles": [
         {
           "title": "特朗普：1000枚导弹已瞄准伊朗",
@@ -88,8 +88,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时43分 ~ 10时06分]"
+          "appearance_count": 7,
+          "time_info": "[05时43分 ~ 13时50分]"
+        },
+        {
+          "title": "伊朗最高领袖称将报复美以，特朗普：1000枚导弹已瞄准伊朗",
+          "url": "https://wallstreetcn.com/articles/3776705",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[05时43分 ~ 13时50分]"
         },
         {
           "title": "美国国务卿鲁比奥：古巴领导人需实施广泛改革，趁现在还来得及。",
@@ -114,19 +127,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时43分 ~ 07时49分]"
-        },
-        {
-          "title": "伊朗最高领袖称将报复美以，特朗普：1000枚导弹已瞄准伊朗",
-          "url": "https://wallstreetcn.com/articles/3776705",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时43分 ~ 10时06分]"
         },
         {
           "title": "美国驻以色列大使：黎巴嫩真主党是黎巴嫩和以色列的共同敌人。",
@@ -182,11 +182,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            8
+            8,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时43分 ~ 10时06分]"
+          "appearance_count": 5,
+          "time_info": "[05时43分 ~ 13时50分]"
         },
         {
           "title": "美国再次公布UFO相关文件",
@@ -229,6 +230,17 @@
           "time_info": "[00时48分 ~ 05时43分]"
         },
         {
+          "title": "伊朗关闭霍尔木兹海峡、打击美在中东目标，美军对伊发动新一轮袭击、多地传出爆炸声",
+          "url": "https://wallstreetcn.com/articles/3776710",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
           "title": "特朗普在北约峰会说了什么",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E5%8C%97%E7%BA%A6%E5%B3%B0%E4%BC%9A%E8%AF%B4%E4%BA%86%E4%BB%80%E4%B9%88",
           "source": "bilibili 热搜",
@@ -244,15 +256,94 @@
           "time_info": "[00时48分 ~ 06时41分]"
         },
         {
+          "title": "伊朗打击美国在中东地区目标",
+          "url": "https://news.ifeng.com/c/8uh9QTGdynH",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
+          "title": "伊朗称打击阿曼杜库姆港美军目标",
+          "url": "https://wallstreetcn.com/livenews/3132387",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
+          "title": "美军持续打击，伊朗驻联合国大使发出警告",
+          "url": "https://news.ifeng.com/c/8uh6mNB6lah",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
           "title": "美高级官员称美军成功打击伊朗军事目标",
           "url": "https://flash.jin10.com/detail/20260712092650984800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
+        },
+        {
+          "title": "伊朗打击科威特巴林的美军设施",
+          "url": "https://wallstreetcn.com/livenews/3132386",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
+          "title": "曝光特朗普临时换专机，美媒吃传票了",
+          "url": "https://news.ifeng.com/c/8ugMf4GiwsZ",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
+          "title": "伊朗称再次打击“违规船只”，并对卡塔尔美军基地发动袭击",
+          "url": "https://wallstreetcn.com/livenews/3132385",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
+          "title": "过去两年规模几乎翻倍，美国ETF“火的发烫”",
+          "url": "https://wallstreetcn.com/articles/3776701",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时48分 ~ 13时50分]"
         },
         {
           "title": "据伊朗Press TV：一位伊朗高级情报消息人士称，美国正在对伊朗展开一场协调一致的施压、威胁和媒体虚假信息宣传行动。",
@@ -281,18 +372,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时48分 ~ 04时02分]"
-        },
-        {
-          "title": "过去两年规模几乎翻倍，美国ETF“火的发烫”",
-          "url": "https://wallstreetcn.com/articles/3776701",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时48分 ~ 10时06分]"
         },
         {
           "title": "美国会议员遭以色列定居者扣留",
@@ -344,6 +423,18 @@
           "time_info": "[05时43分 ~ 07时49分]"
         },
         {
+          "title": "美军称对伊朗发动本周第三轮袭击",
+          "url": "https://wallstreetcn.com/livenews/3132372",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时06分 ~ 13时50分]"
+        },
+        {
           "title": "伊朗宣布关闭霍尔木兹海峡，美军称正在对伊朗发动打击、伊朗多地传出爆炸声",
           "url": "https://wallstreetcn.com/articles/3776710",
           "source": "华尔街见闻",
@@ -372,20 +463,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
         },
         {
-          "title": "美军称对伊朗发动本周第三轮袭击",
-          "url": "https://wallstreetcn.com/livenews/3132372",
-          "source": "华尔街见闻-快讯",
+          "title": "财报季、沃什和美国通胀--美联储和市场将走向何方？下周“初见端倪”！",
+          "url": "https://wallstreetcn.com/articles/3776712",
+          "source": "华尔街见闻",
           "ranks": [
-            7
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时06分"
+          "time_info": "13时50分"
         },
         {
           "title": "据AXIOS：美国官员表示，对伊朗打击的目标包括火箭和无人机发射场，以及空中监视雷达和导弹存储地点。",
@@ -394,7 +485,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
         },
@@ -405,9 +496,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
+        },
+        {
+          "title": "1个月上涨25%后，美国生物医药板块周五重挫",
+          "url": "https://wallstreetcn.com/articles/3776698",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
+          "title": "伊朗打击美国在中东地区目标",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33569534",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
         },
         {
           "title": "伊朗官员称美国对伊朗的袭击“不会没有回应”",
@@ -416,9 +529,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
+        },
+        {
+          "title": "伊朗打击美国在中东地区目标",
+          "url": "https://wallstreetcn.com/livenews/3132379",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
         },
         {
           "title": "据《以色列今日报》（Israel Hayom）：阿曼已通知美国，伊朗拒绝接受有关霍尔木兹海峡的提议条款。这一外交僵局促使美国立即恢复制裁并重新实施海上封锁。",
@@ -427,7 +551,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
         },
@@ -438,7 +562,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
         },
@@ -449,9 +573,119 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
+        },
+        {
+          "title": "伊朗称打击阿曼杜库姆港美军目标",
+          "url": "https://flash.jin10.com/detail/20260712122812350800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
+          "title": "伊朗称再次打击“违规船只” 并对卡塔尔美军基地发动袭击",
+          "url": "https://flash.jin10.com/detail/20260712121925636800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
+          "title": "伊朗革命卫队：摧毁了位于阿曼杜库姆港的美军航母后勤支援中心和加油平台。",
+          "url": "https://flash.jin10.com/detail/20260712121509150800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
+          "title": "特朗普又来喊单？2美元战争报价暴露开火空间！",
+          "url": "https://flash.jin10.com/detail/20260712120342300800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
+          "title": "伊朗打击美国在中东地区目标",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%89%93%E5%87%BB%E7%BE%8E%E5%9B%BD%E5%9C%A8%E4%B8%AD%E4%B8%9C%E5%9C%B0%E5%8C%BA%E7%9B%AE%E6%A0%87",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
+          "title": "伊朗革命卫队：瞄准了卡塔尔的乌代德空军基地，摧毁了战斗机维修中心和指挥控制中心。并且在报复行动中瞄准了位于科威特的美国军方雷达站。",
+          "url": "https://flash.jin10.com/detail/20260712115121223800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
+          "title": "伊朗军方：我们警告，美国的行动及其对地区安全的破坏后果将由美国与以色列承担。",
+          "url": "https://flash.jin10.com/detail/20260712114826607800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
+          "title": "美国中央司令部：商业船只在霍尔木兹海峡这一重要国际海上走廊的通航仍在继续。",
+          "url": "https://flash.jin10.com/detail/20260712113648562800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
+          "title": "美国中央司令部：已根据指示打击了超过300个目标。",
+          "url": "https://flash.jin10.com/detail/20260712113619280800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
+          "title": "美国中央司令部：于7月11日完成了本周第三轮对伊朗的打击。美军动用陆基和舰载战斗机、无人机及海军舰艇，以精确弹药打击了约140个伊朗军事目标。目标包括伊朗导弹和无人机基地、海军能力、弹药储存设施、通信网络以及沿海监视地点。",
+          "url": "https://flash.jin10.com/detail/20260712113603119800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
         },
         {
           "title": "伊朗南部多地遭美军袭击",
@@ -460,15 +694,26 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
+        },
+        {
+          "title": "美国总统特朗普：那些激进左翼疯子，常被称为“民主笨蛋”，已经失去了对党派的控制。他们正被一群吵闹且毫无魅力的人领导着，这些人完全迷失了方向。",
+          "url": "https://flash.jin10.com/detail/20260712113512191800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
         }
       ]
     },
     {
       "keyword_group": "# --- 第一组：中国宏观 (去掉了必须词，只过滤娱乐) --- 中国 央视 外交部 国防部 解放军 人民日报 新华社",
-      "match_count": 24,
+      "match_count": 31,
       "titles": [
         {
           "title": "中国空间站烤蛋糕馋哭老外",
@@ -476,11 +721,12 @@
           "source": "贴吧",
           "ranks": [
             2,
-            5
+            5,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时48分 ~ 10时06分]"
+          "appearance_count": 11,
+          "time_info": "[00时48分 ~ 13时50分]"
         },
         {
           "title": "央视网：“连车位都霸占，你还指望他为人民服务？”",
@@ -500,11 +746,12 @@
           "source": "贴吧",
           "ranks": [
             3,
-            6
+            6,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时48分 ~ 10时06分]"
+          "appearance_count": 11,
+          "time_info": "[00时48分 ~ 13时50分]"
         },
         {
           "title": "“法国客户需求紧急”，中国工厂开足马力",
@@ -607,15 +854,15 @@
           "time_info": "[00时48分 ~ 02时52分]"
         },
         {
-          "title": "深度解析中国第一枚回收火箭",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%80%E6%9E%9A%E5%9B%9E%E6%94%B6%E7%81%AB%E7%AE%AD",
-          "source": "bilibili 热搜",
+          "title": "伊朗外交部发言人：卡塔尔代表团在部分讨论中出席。",
+          "url": "https://flash.jin10.com/detail/20260712133255594800",
+          "source": "金十数据",
           "ranks": [
-            2
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时05分 ~ 10时06分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
         },
         {
           "title": "中国无人机救人事件梳理",
@@ -634,6 +881,51 @@
           "time_info": "[00时48分 ~ 06时41分]"
         },
         {
+          "title": "伊朗外交部发言人：伊朗与阿曼于周六举行的会谈主要讨论了霍尔木兹海峡的交通和航运管理安排。",
+          "url": "https://flash.jin10.com/detail/20260712133135775800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
+          "title": "这就是节节攀升的中国发展成绩单",
+          "url": "https://www.toutiao.com/trending/7661465126898466867/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
+          "title": "深度解析中国第一枚回收火箭",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%80%E6%9E%9A%E5%9B%9E%E6%94%B6%E7%81%AB%E7%AE%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时05分 ~ 13时50分]"
+        },
+        {
+          "title": "卡塔尔国防部：遭到多枚弹道导弹的袭击。",
+          "url": "https://flash.jin10.com/detail/20260712130846310800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
           "title": "美国非常震动！中国追上来的脚步咚咚作响",
           "url": "https://news.ifeng.com/c/8ugUwLXm5GM",
           "source": "凤凰网",
@@ -641,8 +933,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时48分 ~ 10时06分]"
+          "appearance_count": 5,
+          "time_info": "[07时48分 ~ 13时50分]"
         },
         {
           "title": "中国石化完成对中国航油重组",
@@ -650,11 +942,12 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时48分 ~ 10时06分]"
+          "appearance_count": 5,
+          "time_info": "[07时48分 ~ 13时50分]"
         },
         {
           "title": "中国工程院产生新一届院领导班子，张玉卓任院长",
@@ -676,8 +969,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时05分 ~ 10时06分]"
+          "appearance_count": 3,
+          "time_info": "[10时05分 ~ 13时50分]"
         },
         {
           "title": "央视记者探访福建鞋厂火灾现场",
@@ -748,6 +1041,39 @@
           "time_info": "[04时02分 ~ 05时43分]"
         },
         {
+          "title": "怕中国反制，欧盟开始留“后手”",
+          "url": "https://news.ifeng.com/c/8uh0WghOyLP",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
+          "title": "受灾阿姨：解放军来了就像儿子回来了",
+          "url": "https://www.toutiao.com/trending/7661466870432530475/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
+          "title": "中方驳斥美巴对中国的网络攻击指责",
+          "url": "https://www.toutiao.com/trending/7661172728524800043/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
           "title": "沙特外交部：沙特外交大臣与巴基斯坦外长进行了通话，确认支持调解努力及恢复对话。",
           "url": "https://flash.jin10.com/detail/20260711214505237800",
           "source": "金十数据",
@@ -762,7 +1088,7 @@
     },
     {
       "keyword_group": "# --- 第四组：美股与科技 (去掉了具体的“财报”限制) --- 美股 纳指 道琼斯 标普 特斯拉 英伟达 苹果 微软 OpenAI",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "美股处于“极度脆弱”的时候，财报季开启了",
@@ -771,18 +1097,6 @@
           "ranks": [
             3,
             2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时48分 ~ 10时06分]"
-        },
-        {
-          "title": "美股收盘：Meta、英伟达推动指数小幅收高 SK海力士闪耀纳斯达克",
-          "url": "https://www.cls.cn/detail/2423438",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
           ],
           "is_new": false,
           "appearance_count": 10,
@@ -799,6 +1113,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时48分 ~ 06时41分]"
+        },
+        {
+          "title": "美股收盘：Meta、英伟达推动指数小幅收高 SK海力士闪耀纳斯达克",
+          "url": "https://www.cls.cn/detail/2423438",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时48分 ~ 13时50分]"
         },
         {
           "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
@@ -836,6 +1163,18 @@
           "time_info": "[05时43分 ~ 07时49分]"
         },
         {
+          "title": "环球下周看点：通胀、财报与中东风险“三碰头” 标普再冲新高",
+          "url": "https://www.cls.cn/detail/2423676",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时05分 ~ 13时50分]"
+        },
+        {
           "title": "美股涨势背后存在隐忧 数据显示市场内部广度正在收窄",
           "url": "https://flash.jin10.com/detail/20260712034752790800",
           "source": "金十数据",
@@ -848,21 +1187,32 @@
           "time_info": "[05时43分 ~ 07时49分]"
         },
         {
-          "title": "环球下周看点：通胀、财报与中东风险“三碰头” 标普再冲新高",
-          "url": "https://www.cls.cn/detail/2423676",
-          "source": "财联社热门",
+          "title": "特斯拉拆除Model S和X生产线",
+          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%96%AF%E6%8B%89%E6%8B%86%E9%99%A4Model%20S%E5%92%8CX%E7%94%9F%E4%BA%A7%E7%BA%BF&t=31&band_rank=18&Refer=top",
+          "source": "微博",
           "ranks": [
-            13
+            18
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时05分 ~ 10时06分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
+          "title": "苹果起诉OpenAI及两名员工窃取产品机密：曾要求带着“零部件”去面试",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33566535",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
         }
       ]
     },
     {
       "keyword_group": "# --- 第五组：日本动态 (关键修改：去掉了外交限制) --- 日本 岸田文雄 自卫队 靖国神社 核污水",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "日本可回收火箭小型实验机 RV-X「着陆成功」，日媒报道只飞了 11 米，这是什么水平？对其有何意义？",
@@ -896,11 +1246,12 @@
           "source": "贴吧",
           "ranks": [
             7,
-            10
+            10,
+            18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时48分 ~ 10时06分]"
+          "appearance_count": 11,
+          "time_info": "[00时48分 ~ 13时50分]"
         },
         {
           "title": "中赴日游客暴跌,日本顶不住了",
@@ -908,11 +1259,45 @@
           "source": "贴吧",
           "ranks": [
             21,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时48分 ~ 10时06分]"
+          "appearance_count": 11,
+          "time_info": "[00时48分 ~ 13时50分]"
+        },
+        {
+          "title": "日本将推动其巨额养老基金增加另类资产配置",
+          "url": "https://flash.jin10.com/detail/20260712132309724800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
+          "title": "日本死要面子,拟禁吃猫狗",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356111&amp;topic_name=%E6%97%A5%E6%9C%AC%E6%AD%BB%E8%A6%81%E9%9D%A2%E5%AD%90%2C%E6%8B%9F%E7%A6%81%E5%90%83%E7%8C%AB%E7%8B%97",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
+          "title": "14万日本人抗议高市政府：不许高市早苗胡作非为",
+          "url": "https://v.ifeng.com/c/8uhC3Wq7tsB",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
         },
         {
           "title": "市场消息：日本呼吁日本政府养老金投资基金（GPIF）在投资策略中增加另类资产配置。",
@@ -921,7 +1306,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
         },
@@ -964,8 +1349,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时48分 ~ 10时06分]"
+          "appearance_count": 11,
+          "time_info": "[00时48分 ~ 13时50分]"
         },
         {
           "title": "下周A股超40股限售解禁，7股解禁比例超10%",
@@ -1036,7 +1421,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
         },
