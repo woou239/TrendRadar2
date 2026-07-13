@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-13T18:19:40.932562+08:00",
-  "total_titles_processed": 1084,
+  "generated_at": "2026-07-13T21:15:08.536813+08:00",
+  "total_titles_processed": 1258,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- 第一组：中国宏观 (去掉了必须词，只过滤娱乐) --- 中国 央视 外交部 国防部 解放军 人民日报 新华社",
-      "match_count": 90,
+      "match_count": 102,
       "titles": [
         {
           "title": "一组数据看中国经济稳中向优",
@@ -102,11 +102,12 @@
             15,
             11,
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时53分 ~ 18时19分]"
+          "appearance_count": 14,
+          "time_info": "[00时53分 ~ 21时15分]"
         },
         {
           "title": "中华人民共和国外交部郑重声明",
@@ -321,6 +322,31 @@
           "time_info": "[01时55分 ~ 10时07分]"
         },
         {
+          "title": "姚明是公认的中国甚至亚洲篮球第一人，为何他在中国男篮干了七年，他没干出成绩?",
+          "url": "https://www.zhihu.com/question/1941257398313551370",
+          "source": "知乎",
+          "ranks": [
+            4,
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时07分 ~ 21时15分]"
+        },
+        {
+          "title": "中国首个禁售燃油车省份确认，2030 年海南将禁售燃油车，释放了哪些信号？",
+          "url": "https://www.zhihu.com/question/2058849524249015749",
+          "source": "知乎",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时19分 ~ 21时15分]"
+        },
+        {
           "title": "外交部亚洲司负责人就日方涉“南海仲裁案裁决”恶劣言行提出严正交涉",
           "url": "https://www.cls.cn/detail/2423897",
           "source": "财联社热门",
@@ -334,6 +360,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[05时43分 ~ 14时09分]"
+        },
+        {
+          "title": "日本民众集会举牌“中国对不起”",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%E9%9B%86%E4%BC%9A%E4%B8%BE%E7%89%8C%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%AF%B9%E4%B8%8D%E8%B5%B7%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时14分 ~ 21时15分]"
         },
         {
           "title": "中国首个禁售燃油车省份确认",
@@ -372,30 +409,6 @@
           "time_info": "[01时55分 ~ 06时41分]"
         },
         {
-          "title": "姚明是公认的中国甚至亚洲篮球第一人，为何他在中国男篮干了七年，他没干出成绩?",
-          "url": "https://www.zhihu.com/question/1941257398313551370",
-          "source": "知乎",
-          "ranks": [
-            4,
-            5,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时07分 ~ 18时19分]"
-        },
-        {
-          "title": "高盛：中国股票出现“轮动信号”",
-          "url": "https://www.toutiao.com/trending/7660891930447970346/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时19分"
-        },
-        {
           "title": "伊朗外交部发表声明，强烈谴责美军新一轮袭击",
           "url": "https://news.ifeng.com/c/8uiM52n08OU",
           "source": "凤凰网",
@@ -407,24 +420,13 @@
           "time_info": "10时07分"
         },
         {
-          "title": "中国首个禁售燃油车省份确认",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%A6%96%E4%B8%AA%E7%A6%81%E5%94%AE%E7%87%83%E6%B2%B9%E8%BD%A6%E7%9C%81%E4%BB%BD%E7%A1%AE%E8%AE%A4%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时19分"
-        },
-        {
           "title": "中国电力技术创新位居全球首位",
           "url": "https://www.toutiao.com/trending/7661405401853722667/",
           "source": "今日头条",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -435,7 +437,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -449,6 +451,32 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时09分"
+        },
+        {
+          "title": "中国首个禁售燃油车省份确认",
+          "url": "https://www.toutiao.com/trending/7661862953297333798/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时09分 ~ 21时15分]"
+        },
+        {
+          "title": "高盛：中国股票出现“轮动信号”，A股硬科技仍占优，H股互联网等盈利修复",
+          "url": "https://wallstreetcn.com/articles/3776747",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时09分 ~ 21时15分]"
         },
         {
           "title": "中国籍女医生在柬埔寨金边遇害",
@@ -473,15 +501,53 @@
           "time_info": "10时07分"
         },
         {
-          "title": "中国首个禁售燃油车省份确认，2030 年海南将禁售燃油车，释放了哪些信号？",
-          "url": "https://www.zhihu.com/question/2058849524249015749",
-          "source": "知乎",
+          "title": "高盛：中国股票出现“轮动信号”",
+          "url": "https://www.toutiao.com/trending/7660891930447970346/",
+          "source": "今日头条",
           "ranks": [
-            4
+            2,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时19分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时19分 ~ 21时15分]"
+        },
+        {
+          "title": "中国首个禁售燃油车省份确认",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%A6%96%E4%B8%AA%E7%A6%81%E5%94%AE%E7%87%83%E6%B2%B9%E8%BD%A6%E7%9C%81%E4%BB%BD%E7%A1%AE%E8%AE%A4%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时19分 ~ 21时15分]"
+        },
+        {
+          "title": "俄国防部：对乌军设施发动大规模打击",
+          "url": "https://news.ifeng.com/c/8uhuXE1O3cp",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时07分 ~ 21时15分]"
+        },
+        {
+          "title": "中国女排不敌意大利，结束世界联赛分站赛阶段静待总决赛",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33571512",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            11,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时07分 ~ 21时15分]"
         },
         {
           "title": "外交部发言人就日本外务大臣炒作“南海仲裁案裁决”出台十年发表谈话",
@@ -557,18 +623,6 @@
           "time_info": "[01时56分 ~ 04时05分]"
         },
         {
-          "title": "中国首个禁售燃油车省份确认",
-          "url": "https://www.toutiao.com/trending/7661862953297333798/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时09分 ~ 18时19分]"
-        },
-        {
           "title": "伊朗外交部：周六的马斯喀特会谈集中在霍尔木兹海峡的管理问题上，但美国通过施压阿曼阻止了在此问题上达成结果。",
           "url": "https://flash.jin10.com/detail/20260713052720745800",
           "source": "金十数据",
@@ -606,28 +660,72 @@
           "time_info": "[07时46分 ~ 18时19分]"
         },
         {
-          "title": "俄国防部：对乌军设施发动大规模打击",
-          "url": "https://news.ifeng.com/c/8uhuXE1O3cp",
+          "title": "特朗普以为中国还得买，等来却是“谢谢，我们不需要了”",
+          "url": "https://news.ifeng.com/c/8uj34x8QE0R",
           "source": "凤凰网",
           "ranks": [
-            8
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时07分 ~ 18时19分]"
+          "time_info": "[18时19分 ~ 21时15分]"
         },
         {
-          "title": "中国女排不敌意大利，结束世界联赛分站赛阶段静待总决赛",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33571512",
-          "source": "澎湃新闻",
+          "title": "日本民众集会举牌“中国对不起”",
+          "url": "https://www.toutiao.com/trending/7661205293186944518/",
+          "source": "今日头条",
           "ranks": [
-            13,
-            11,
-            8
+            8,
+            24
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时07分 ~ 18时19分]"
+          "time_info": "[18时19分 ~ 21时15分]"
+        },
+        {
+          "title": "重度荒漠化土地减少40%！美媒：中国用最朴素的方式驯服沙漠",
+          "url": "https://news.ifeng.com/c/8uiuInkDR4B",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时19分 ~ 21时15分]"
+        },
+        {
+          "title": "中国或还将遭遇2至3个台风",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%88%96%E8%BF%98%E5%B0%86%E9%81%AD%E9%81%872%E8%87%B33%E4%B8%AA%E5%8F%B0%E9%A3%8E",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时19分 ~ 21时15分]"
+        },
+        {
+          "title": "中国人民大学：根据新线索认定蒋方舟学术不端，撤销其硕士学位",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33576780",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时14分 ~ 21时15分]"
+        },
+        {
+          "title": "为什么江苏本科提前批投档线，中国人民公安大学只比清华大学低三分？",
+          "url": "https://www.zhihu.com/question/2058628068630175892",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时14分 ~ 21时15分]"
         },
         {
           "title": "中华人民共和国外交部郑重声明",
@@ -666,18 +764,6 @@
           "time_info": "[10时07分 ~ 14时09分]"
         },
         {
-          "title": "高盛：中国股票出现“轮动信号”，A股硬科技仍占优，H股互联网等盈利修复",
-          "url": "https://wallstreetcn.com/articles/3776747",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时09分 ~ 18时19分]"
-        },
-        {
           "title": "伊朗外交部强烈谴责美国在过去24小时内对伊朗的侵略性攻击，称这些攻击不仅公然违反了《联合国宪章》的基本原则，还对国际和平与安全构成严重威胁，使得过去几个月减少紧张局势和在西亚地区建立和平的努力付诸东流。",
           "url": "https://flash.jin10.com/detail/20260713051101553800",
           "source": "金十数据",
@@ -714,6 +800,28 @@
           "time_info": "[06时41分 ~ 07时46分]"
         },
         {
+          "title": "中国首个禁售燃油车省份确认：海南",
+          "url": "https://www.cls.cn/detail/2424337",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时14分 ~ 21时15分]"
+        },
+        {
+          "title": "美巴指责中方对巴拿马旗船舶采取惩罚措施，外交部答澎湃",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33574367",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时14分 ~ 21时15分]"
+        },
+        {
           "title": "央视曝违规售卖屏蔽器乱象",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E8%BF%9D%E8%A7%84%E5%94%AE%E5%8D%96%E5%B1%8F%E8%94%BD%E5%99%A8%E4%B9%B1%E8%B1%A1%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
@@ -724,6 +832,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时43分 ~ 06时41分]"
+        },
+        {
+          "title": "“中国首个禁售燃油车省份”，为何是海南？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33575406",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时14分 ~ 21时15分]"
+        },
+        {
+          "title": "那些做减法的年轻人，为什么正在选择传统中国茶作为自己的「生活搭子」？",
+          "url": "https://www.zhihu.com/question/2059957567170910001",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时14分 ~ 21时15分]"
+        },
+        {
+          "title": "中国队男子4×400米接力夺冠",
+          "url": "https://www.douyin.com/hot/2569483",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时14分 ~ 21时15分]"
         },
         {
           "title": "外交部就日方恶劣言行提出严正交涉",
@@ -744,9 +885,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
+        },
+        {
+          "title": "消息人士：希音目标在8月前于中国香港上市，募资额最高达30亿美元。首次公开募股规模将取决于估值和投资者反馈。",
+          "url": "https://flash.jin10.com/detail/20260713204655277800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
         },
         {
           "title": "A股AI应用概念局部异动，中国软件直线涨停，浪潮软件触及涨停，国子软件、绿盟科技、诚迈科技、久其软件等快速冲高。",
@@ -758,28 +910,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时09分"
-        },
-        {
-          "title": "特朗普以为中国还得买，等来却是“谢谢，我们不需要了”",
-          "url": "https://news.ifeng.com/c/8uj34x8QE0R",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时19分"
-        },
-        {
-          "title": "日本民众集会举牌“中国对不起”",
-          "url": "https://www.toutiao.com/trending/7661205293186944518/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时19分"
         },
         {
           "title": "14国声明想吓谁？中国不信邪也不怕邪",
@@ -799,7 +929,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -835,17 +965,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
-        },
-        {
-          "title": "重度荒漠化土地减少40%！美媒：中国用最朴素的方式驯服沙漠",
-          "url": "https://news.ifeng.com/c/8uiuInkDR4B",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时19分"
         },
         {
           "title": "中国卫星、赛力斯、杉杉股份等半年报业绩预告发布",
@@ -898,7 +1017,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -925,17 +1044,6 @@
           "time_info": "10时07分"
         },
         {
-          "title": "中国或还将遭遇2至3个台风",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%88%96%E8%BF%98%E5%B0%86%E9%81%AD%E9%81%872%E8%87%B33%E4%B8%AA%E5%8F%B0%E9%A3%8E",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时19分"
-        },
-        {
           "title": "富时中国A50指数期货跌幅扩大至1%。",
           "url": "https://wallstreetcn.com/livenews/3132632",
           "source": "华尔街见闻-快讯",
@@ -958,6 +1066,17 @@
           "time_info": "10时07分"
         },
         {
+          "title": "德国外交部：我们也呼吁恢复停火并重启谈判。",
+          "url": "https://flash.jin10.com/detail/20260713203852176800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
           "title": "中国籍女医生在柬埔寨诊所内遇害",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%B1%8D%E5%A5%B3%E5%8C%BB%E7%94%9F%E5%9C%A8%E6%9F%AC%E5%9F%94%E5%AF%A8%E8%AF%8A%E6%89%80%E5%86%85%E9%81%87%E5%AE%B3%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -978,6 +1097,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
+        },
+        {
+          "title": "德国外交部：我们重申将继续支持霍尔木兹海峡国际航运全面、迅速恢复。",
+          "url": "https://flash.jin10.com/detail/20260713203848124800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
+          "title": "德国外交部：我们谴责伊朗在霍尔木兹海峡对商船的攻击以及对该地区国家的袭击。",
+          "url": "https://flash.jin10.com/detail/20260713203714564800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
         },
         {
           "title": "富时中国A50指数期货盘初跌0.01%，上一个交易日夜盘收涨0.31%。",
@@ -1093,7 +1234,7 @@
     },
     {
       "keyword_group": "# --- 第三组：美国宏观与军事 --- 美国 白宫 五角大楼 美军 美联储 布林肯 拜登 特朗普",
-      "match_count": 57,
+      "match_count": 67,
       "titles": [
         {
           "title": "伊朗关闭霍尔木兹海峡、打击美在中东目标，美军对伊发动新一轮袭击、多地传出爆炸声",
@@ -1170,6 +1311,17 @@
           "time_info": "[00时53分 ~ 10时07分]"
         },
         {
+          "title": "特朗普：伊朗违背承诺，刚谈完不到一小时就袭击商船",
+          "url": "https://news.ifeng.com/c/8uidsBIJWO9",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时07分 ~ 21时15分]"
+        },
+        {
           "title": "委内瑞拉代总统成傀儡？采访要特朗普批，发文要鲁比奥审",
           "url": "https://news.ifeng.com/c/8uhQRko1ti1",
           "source": "凤凰网",
@@ -1232,17 +1384,6 @@
           "time_info": "[00时53分 ~ 06时41分]"
         },
         {
-          "title": "特朗普：伊朗违背承诺，刚谈完不到一小时就袭击商船",
-          "url": "https://news.ifeng.com/c/8uidsBIJWO9",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时07分 ~ 18时19分]"
-        },
-        {
           "title": "【早报】美国对伊朗发动打击；油价大涨，黄金跌破4100美元；半导体设备龙头，今日复牌",
           "url": "https://www.cls.cn/detail/2423960",
           "source": "财联社热门",
@@ -1290,6 +1431,17 @@
           "time_info": "05时43分"
         },
         {
+          "title": "伊朗议员：将向几代美国人追讨赔偿",
+          "url": "https://flash.jin10.com/detail/20260713205046513800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
           "title": "美国否认伊朗袭击致3名美军士兵死亡",
           "url": "https://wallstreetcn.com/livenews/3132467",
           "source": "华尔街见闻-快讯",
@@ -1299,6 +1451,31 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
+        },
+        {
+          "title": "美国外卖小哥戴项圈抢银行",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356137&amp;topic_name=%E7%BE%8E%E5%9B%BD%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E6%88%B4%E9%A1%B9%E5%9C%88%E6%8A%A2%E9%93%B6%E8%A1%8C",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时09分 ~ 21时15分]"
+        },
+        {
+          "title": "把去年降的息加回来？美联储喉舌：沃什面临任内首个重大抉择！",
+          "url": "https://www.cls.cn/detail/2424390",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时19分 ~ 21时15分]"
         },
         {
           "title": "WTI原油日内涨幅达5.0%，报75美元/桶，据伊朗媒体IRNA，伊朗伊斯兰革命卫队袭击美国在阿曼和巴林的军事资产。",
@@ -1335,6 +1512,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时53分 ~ 05时43分]"
+        },
+        {
+          "title": "美国又降半旗，但有人笑了",
+          "url": "https://news.ifeng.com/c/8uielxpEJXS",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时07分 ~ 21时15分]"
         },
         {
           "title": "伊朗海军军官在美军袭击中身亡",
@@ -1374,18 +1562,6 @@
           "time_info": "[02时57分 ~ 05时43分]"
         },
         {
-          "title": "美国外卖小哥戴项圈抢银行",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356137&amp;topic_name=%E7%BE%8E%E5%9B%BD%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E6%88%B4%E9%A1%B9%E5%9C%88%E6%8A%A2%E9%93%B6%E8%A1%8C",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时09分 ~ 18时19分]"
-        },
-        {
           "title": "美军确认已开始对伊朗进行新一轮打击",
           "url": "https://flash.jin10.com/detail/20260713052039321800",
           "source": "金十数据",
@@ -1410,15 +1586,27 @@
           "time_info": "[02时57分 ~ 04时05分]"
         },
         {
-          "title": "美国又降半旗，但有人笑了",
-          "url": "https://news.ifeng.com/c/8uielxpEJXS",
+          "title": "美国会头号反华鹰派暴毙，“台独”关键人脉靠山塌了",
+          "url": "https://news.ifeng.com/c/8uiqLcByK2A",
           "source": "凤凰网",
           "ranks": [
-            10
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时07分 ~ 18时19分]"
+          "appearance_count": 4,
+          "time_info": "[14时09分 ~ 21时15分]"
+        },
+        {
+          "title": "美国共和党「鹰派」参议员林赛·格雷厄姆在家中突发疾病去世，他有哪些政治主张？其去世会带来什么影响？",
+          "url": "https://www.zhihu.com/question/2059657075496575156",
+          "source": "知乎",
+          "ranks": [
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时09分 ~ 21时15分]"
         },
         {
           "title": "据伊朗Press TV：驻科威特美军基地内的ATACMS导弹系统设施遭到袭击，现场升起浓烟。",
@@ -1432,6 +1620,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时53分 ~ 02时57分]"
+        },
+        {
+          "title": "美军称对伊朗发起新一轮打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33572651",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时19分 ~ 21时15分]"
         },
         {
           "title": "美国10年期国债期货下跌5点，联邦基金期货小幅下滑。",
@@ -1456,28 +1656,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时43分 ~ 06时41分]"
-        },
-        {
-          "title": "美国会头号反华鹰派暴毙，“台独”关键人脉靠山塌了",
-          "url": "https://news.ifeng.com/c/8uiqLcByK2A",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时09分 ~ 18时19分]"
-        },
-        {
-          "title": "美国共和党「鹰派」参议员林赛·格雷厄姆在家中突发疾病去世，他有哪些政治主张？其去世会带来什么影响？",
-          "url": "https://www.zhihu.com/question/2059657075496575156",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时09分 ~ 18时19分]"
         },
         {
           "title": "据伊朗迈赫尔通讯社：初步消息称伊朗对美国在科威特的导弹发射基地发动了攻击。",
@@ -1550,15 +1728,37 @@
           "time_info": "07时46分"
         },
         {
-          "title": "把去年降的息加回来？美联储喉舌：沃什面临任内首个重大抉择！",
-          "url": "https://www.cls.cn/detail/2424390",
-          "source": "财联社热门",
+          "title": "特朗普：我们会给格雷厄姆办一场特别的葬礼。",
+          "url": "https://wallstreetcn.com/livenews/3132916",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时19分"
+          "time_info": "21时15分"
+        },
+        {
+          "title": "特朗普称要接管霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3132914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
+          "title": "特朗普：若冗长辩论规则不终结，9月可能出现政府停摆。 我们正在接管霍尔穆兹海峡。 伊朗一无所有。 伊朗什么都没得到。 伊朗从我这里什么都没得到。 昨晚对伊朗进行了重击。 我们将可能负责管理霍尔木兹海峡。 如果由美国负责霍尔木兹海峡，美国将获得补偿。 我们将成为海峡的守护者。 我们会因为守卫它而获得报酬。",
+          "url": "https://wallstreetcn.com/livenews/3132913",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
         },
         {
           "title": "美伊局势追踪：美军对伊发动新一轮袭击，霍尔木兹“无限期”关闭！",
@@ -1649,15 +1849,15 @@
           "time_info": "14时09分"
         },
         {
-          "title": "美军称对伊朗发起新一轮打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33572651",
-          "source": "澎湃新闻",
+          "title": "美国总统特朗普：我只想收回我们的行动成本，并补偿我们在海峡冒险所付出的代价。",
+          "url": "https://flash.jin10.com/detail/20260713204004244800",
+          "source": "金十数据",
           "ranks": [
             15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时19分"
+          "time_info": "21时15分"
         },
         {
           "title": "历史上美国都为谁降过半旗",
@@ -1666,7 +1866,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -1677,9 +1877,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
+        },
+        {
+          "title": "美国总统特朗普：我们将成为（霍尔木兹海峡）“守护天使”。",
+          "url": "https://flash.jin10.com/detail/20260713203923585800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
         },
         {
           "title": "美国资深共和党参议员麦康奈尔：我还无法返回参议院议事厅投票。我会尽快重返参议院。",
@@ -1715,6 +1926,17 @@
           "time_info": "10时07分"
         },
         {
+          "title": "美国总统特朗普：我们此前一直无偿守卫霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260713203635011800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
           "title": "美国司法部调查针对全美汽车工人联合会主席的指控",
           "url": "https://flash.jin10.com/detail/20260713094157537800",
           "source": "金十数据",
@@ -1726,6 +1948,17 @@
           "time_info": "10时07分"
         },
         {
+          "title": "美国总统特朗普：伊朗总是撕毁协议，所以我就是要狠狠打击他们，我们将控制住海峡，而且将来很可能会主导海峡。",
+          "url": "https://flash.jin10.com/detail/20260713203326724800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
           "title": "特朗普命令全国降半旗",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%91%BD%E4%BB%A4%E5%85%A8%E5%9B%BD%E9%99%8D%E5%8D%8A%E6%97%97%23&t=31&band_rank=25&Refer=top",
           "source": "微博",
@@ -1735,6 +1968,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时09分"
+        },
+        {
+          "title": "美国总统特朗普：每次伊朗派出无人机，我们都予以猛烈打击。",
+          "url": "https://flash.jin10.com/detail/20260713203250105800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
         },
         {
           "title": "2年期美国国债收益率升至2025年2月以来的最高水平。",
@@ -1757,12 +2001,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
+        },
+        {
+          "title": "美国中央司令部：美军并未袭击伊朗哈尔克岛。",
+          "url": "https://wallstreetcn.com/livenews/3132871",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
         }
       ]
     },
     {
       "keyword_group": "# --- 第二组：中国经济与A股 (保留宽泛的行情词) --- A股 上证 深证 恒生 人民币 汇率 经济 GDP",
-      "match_count": 34,
+      "match_count": 38,
       "titles": [
         {
           "title": "多股应声涨停！A股中报行情纵深推进，16家上市公司净利最高同比预增超10倍",
@@ -1788,6 +2043,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时53分 ~ 07时46分]"
+        },
+        {
+          "title": "赛力斯A股股价跌停",
+          "url": "https://www.toutiao.com/trending/7661625503505252393/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时14分 ~ 21时15分]"
         },
         {
           "title": "A股领益智造触及跌停，成交额19.37亿元；港股领益智造(01688.HK)跌7.58%。",
@@ -1818,7 +2084,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -1880,6 +2146,17 @@
           "time_info": "[00时53分 ~ 02时57分]"
         },
         {
+          "title": "A股存储一哥回应跌停",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%AD%98%E5%82%A8%E4%B8%80%E5%93%A5%E5%9B%9E%E5%BA%94%E8%B7%8C%E5%81%9C%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时14分 ~ 21时15分]"
+        },
+        {
           "title": "A股震荡是洗盘还是出货",
           "url": "https://www.toutiao.com/trending/7661858396458454578/",
           "source": "今日头条",
@@ -1897,7 +2174,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -1957,6 +2234,17 @@
           "time_info": "10时07分"
         },
         {
+          "title": "伊朗最高领袖顾问：霍尔木兹海峡的战略地位及其安全和经济重要性没有替代品。",
+          "url": "https://flash.jin10.com/detail/20260713204035209800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
           "title": "A股存储芯片概念股午后持续走弱，兆易创新触及跌停，成交额超300亿元。此前香农芯创、德明利、诚邦股份跌停，普冉股份、雅创电子、北京君正、佰维存储等多股跌超10%。",
           "url": "https://wallstreetcn.com/livenews/3132634",
           "source": "华尔街见闻-快讯",
@@ -1996,7 +2284,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -2040,7 +2328,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -2062,7 +2350,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -2100,13 +2388,24 @@
           "time_info": "14时09分"
         },
         {
+          "title": "李强主持召开经济形势专家和企业家座谈会",
+          "url": "https://wallstreetcn.com/livenews/3132879",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
           "title": "A股齐跌 00后股民：半年白干",
           "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E9%BD%90%E8%B7%8C+00%E5%90%8E%E8%82%A1%E6%B0%91%EF%BC%9A%E5%8D%8A%E5%B9%B4%E7%99%BD%E5%B9%B2",
           "source": "百度热搜",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -2139,7 +2438,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         }
@@ -2147,7 +2446,7 @@
     },
     {
       "keyword_group": "# --- 第四组：美股与科技 (去掉了具体的“财报”限制) --- 美股 纳指 道琼斯 标普 特斯拉 英伟达 苹果 微软 OpenAI",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "英伟达路演：季度收入近千亿美元、增速还在加快，Rubin Ultra没有延期",
@@ -2193,11 +2492,34 @@
           "url": "https://wallstreetcn.com/articles/3776754",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时19分 ~ 21时15分]"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3132925",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时19分"
+          "time_info": "21时15分"
+        },
+        {
+          "title": "美股Q2财报季前瞻：非科技股盈利韧性凸显 科技股“答卷”超预期才能过关",
+          "url": "https://www.cls.cn/detail/2424724",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时14分 ~ 21时15分]"
         },
         {
           "title": "布伦特原油期货周一亚市早盘高开3%，美股期货小幅走低，纳斯达克100指数期货跌0.2%。此前美伊冲突升级。",
@@ -2210,6 +2532,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时41分 ~ 07时46分]"
+        },
+        {
+          "title": "苹果20系列回归玻璃机身",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C20%E7%B3%BB%E5%88%97%E5%9B%9E%E5%BD%92%E7%8E%BB%E7%92%83%E6%9C%BA%E8%BA%AB",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时14分 ~ 21时15分]"
         },
         {
           "title": "SK海力士为何美股热、韩股冷？",
@@ -2229,7 +2562,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -2240,7 +2573,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -2273,7 +2606,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -2306,7 +2639,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -2317,7 +2650,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -2328,7 +2661,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         }
@@ -2336,7 +2669,7 @@
     },
     {
       "keyword_group": "# --- 第六组：俄乌局势 --- 俄乌 俄罗斯 乌克兰 普京 泽连斯基 北约",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "泽连斯基宣布成立远程打击司令部，将打造国产反导系统",
@@ -2372,6 +2705,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时53分 ~ 06时41分]"
+        },
+        {
+          "title": "俄罗斯总统普京：俄罗斯正在改善其武装力量。",
+          "url": "https://flash.jin10.com/detail/20260713205133761800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
         },
         {
           "title": "西方盟友齐聚巴黎，乌克兰冀望破局“弹道导弹危机”与无人机军援",
@@ -2452,7 +2796,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -2507,7 +2851,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         }
@@ -2524,11 +2868,12 @@
           "ranks": [
             5,
             16,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时53分 ~ 18时19分]"
+          "appearance_count": 14,
+          "time_info": "[00时53分 ~ 21时15分]"
         },
         {
           "title": "美银Hartnett：日本银行股是“全球避险情绪领先指标”，下半年有“四大逆向交易机会”",
@@ -2550,11 +2895,12 @@
           "ranks": [
             12,
             21,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时53分 ~ 18时19分]"
+          "appearance_count": 14,
+          "time_info": "[00时53分 ~ 21时15分]"
         },
         {
           "title": "又赢?日本可回收火箭仅飞11米",
@@ -2594,11 +2940,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%AE%A3%E5%B8%83%E5%8F%AF%E5%9B%9E%E6%94%B6%E7%81%AB%E7%AE%AD%E8%AF%95%E9%A3%9E%E6%88%90%E5%8A%9F",
           "source": "bilibili 热搜",
           "ranks": [
-            7
+            7,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时19分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时19分 ~ 21时15分]"
         },
         {
           "title": "摩根士丹利三菱日联：日元和日本国债短期内料受片山皋月言论支撑",
@@ -2629,7 +2976,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -2651,7 +2998,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         }
