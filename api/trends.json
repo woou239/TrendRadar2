@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-21T21:24:07.424955+08:00",
-  "total_titles_processed": 1444,
+  "generated_at": "2026-07-21T23:32:14.486379+08:00",
+  "total_titles_processed": 1594,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- 第三组：美国宏观与军事 --- 美国 白宫 五角大楼 美军 美联储 布林肯 拜登 特朗普",
-      "match_count": 123,
+      "match_count": 146,
       "titles": [
         {
           "title": "美军公布最新伤亡情况",
@@ -58,6 +58,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[03时30分 ~ 19时02分]"
+        },
+        {
+          "title": "美财长贝森特宣称：美国很快将控制全球80%的算力",
+          "url": "https://wallstreetcn.com/articles/3777542",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时02分 ~ 23时32分]"
         },
         {
           "title": "西班牙夺冠庆祝合影，特朗普迟迟不肯离场",
@@ -120,16 +133,44 @@
           "time_info": "[01时30分 ~ 07时53分]"
         },
         {
-          "title": "美财长贝森特宣称：美国很快将控制全球80%的算力",
-          "url": "https://wallstreetcn.com/articles/3777542",
-          "source": "华尔街见闻",
+          "title": "美国宣布对加拿大部分产品加征50%关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33625490",
+          "source": "澎湃新闻",
           "ranks": [
-            5,
-            3
+            17,
+            15,
+            14,
+            12,
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时02分 ~ 21时24分]"
+          "appearance_count": 8,
+          "time_info": "[10时02分 ~ 23时32分]"
+        },
+        {
+          "title": "美国下黑手，加拿大总理强硬回应",
+          "url": "https://news.ifeng.com/c/8uw6DFYEY9O",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时44分 ~ 23时32分]"
+        },
+        {
+          "title": "AI动量交易面临挑战，高盛：对冲基金过去两个月创纪录抛售美国科技股",
+          "url": "https://wallstreetcn.com/articles/3777491",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时44分 ~ 23时32分]"
         },
         {
           "title": "伊朗公布打击多国美军基地战果",
@@ -188,6 +229,17 @@
           "time_info": "16时14分"
         },
         {
+          "title": "美国总统特朗普宣称：伊朗想要见面，但我们没兴趣。",
+          "url": "https://wallstreetcn.com/livenews/3137671",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "“特朗普毫无疑问是美国历史上最腐败的总统”",
           "url": "https://news.ifeng.com/c/8uvIalkczmR",
           "source": "凤凰网",
@@ -215,21 +267,6 @@
           "time_info": "[07时52分 ~ 19时02分]"
         },
         {
-          "title": "美国宣布对加拿大部分产品加征50%关税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33625490",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15,
-            14,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时02分 ~ 21时24分]"
-        },
-        {
           "title": "特朗普放狠话：伊朗杀一名美军将付出“很多倍代价”！美军连续第10天轰炸",
           "url": "https://flash.jin10.com/detail/20260721073043061800",
           "source": "金十数据",
@@ -250,6 +287,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
+        },
+        {
+          "title": "美国总统特朗普：如果红海被封锁，将不得不处理相关业务。",
+          "url": "https://flash.jin10.com/detail/20260721231902762800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "特朗普政府出新招：到美国建厂铝关税打对折",
@@ -285,15 +333,15 @@
           "time_info": "03时31分"
         },
         {
-          "title": "美国下黑手，加拿大总理强硬回应",
-          "url": "https://news.ifeng.com/c/8uw6DFYEY9O",
-          "source": "凤凰网",
+          "title": "美国总统特朗普：（在被记者问及可能的红海封锁时表示）如果发生，我们会处理好。",
+          "url": "https://flash.jin10.com/detail/20260721231816030800",
+          "source": "金十数据",
           "ranks": [
-            7
+            3
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时44分 ~ 21时24分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "美伊对峙愈演愈烈？美军伤亡与日俱增，特朗普扬言要伊朗付数倍代价！",
@@ -317,6 +365,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
+        },
+        {
+          "title": "美国总统特朗普：（谈及胡塞封锁）我们拭目以待。",
+          "url": "https://flash.jin10.com/detail/20260721231753948800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "美官员：本月伊朗袭击已致近100名美军人员受伤",
@@ -363,15 +422,28 @@
           "time_info": "05时05分"
         },
         {
-          "title": "AI动量交易面临挑战，高盛：对冲基金过去两个月创纪录抛售美国科技股",
-          "url": "https://wallstreetcn.com/articles/3777491",
-          "source": "华尔街见闻",
+          "title": "美国总统特朗普谈及红海局势，声称：如果的确发生（也门胡塞武装袭击），我们将处理。",
+          "url": "https://wallstreetcn.com/livenews/3137667",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
+          "title": "如何看待世界杯决赛之后，西班牙队在官方的庆祝照片上把特朗普给裁剪掉了？",
+          "url": "https://www.zhihu.com/question/2062849285499138343",
+          "source": "知乎",
+          "ranks": [
+            20,
+            19,
+            8
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[13时44分 ~ 21时24分]"
+          "time_info": "[19时02分 ~ 23时32分]"
         },
         {
           "title": "伊朗海军同时从3个方向猛烈打击美军",
@@ -458,16 +530,15 @@
           "time_info": "[19时02分 ~ 21时24分]"
         },
         {
-          "title": "如何看待世界杯决赛之后，西班牙队在官方的庆祝照片上把特朗普给裁剪掉了？",
-          "url": "https://www.zhihu.com/question/2062849285499138343",
-          "source": "知乎",
+          "title": "“美国海军第五舰队司令部发生爆炸”",
+          "url": "https://news.ifeng.com/c/8uwrK5sQQBp",
+          "source": "凤凰网",
           "ranks": [
-            20,
-            19
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时02分 ~ 21时24分]"
+          "appearance_count": 2,
+          "time_info": "[23时31分 ~ 23时32分]"
         },
         {
           "title": "一男子向美国联邦调查局大楼投掷可燃物被捕",
@@ -540,6 +611,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时55分 ~ 07时53分]"
+        },
+        {
+          "title": "特朗普暗示美军将对伊朗发动强硬报复：每杀害一名美国士兵将付出数倍代价",
+          "url": "https://wallstreetcn.com/articles/3777496",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时31分 ~ 23时32分]"
         },
         {
           "title": "美军称对伊朗海上封锁期间已迫使7艘商船改道",
@@ -635,6 +717,17 @@
           "time_info": "[01时30分 ~ 01时31分]"
         },
         {
+          "title": "美国总统特朗普：我们对黎巴嫩感觉良好。 以色列正从黎巴嫩“撤军”。",
+          "url": "https://wallstreetcn.com/livenews/3137666",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "美国总统特朗普：本届世界杯取得巨大成功，国际足联主席将世界杯提升至前所未有的高度。",
           "url": "https://flash.jin10.com/detail/20260721003912135800",
           "source": "金十数据",
@@ -663,7 +756,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时24分"
         },
@@ -685,9 +778,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时24分"
+        },
+        {
+          "title": "黎巴嫩总统奥恩感谢美国总统特朗普在签署框架协议方面取得的历史性成就。",
+          "url": "https://flash.jin10.com/detail/20260721231555478800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "据华尔街日报：伊朗导弹上周袭击了约旦基地美军营房。",
@@ -718,9 +822,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时24分"
+        },
+        {
+          "title": "美国总统特朗普：将妥善对待黎巴嫩，给予应有的尊重。",
+          "url": "https://flash.jin10.com/detail/20260721231518766800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "DoubleLine：美债收益率上升将有助于美联储维持利率不变",
@@ -751,9 +866,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时24分"
+        },
+        {
+          "title": "美国总统特朗普：我们将大力帮助黎巴嫩。",
+          "url": "https://flash.jin10.com/detail/20260721231438448800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "高盛称对冲基金以创纪录的速度抛售美国科技股，一些投降迹象也开始出现",
@@ -795,9 +921,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时24分"
+        },
+        {
+          "title": "美国总统特朗普：将与黎巴嫩的黎巴嫩总统奥恩取得重大进展。",
+          "url": "https://flash.jin10.com/detail/20260721231419836800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "美联储7月维持利率不变的概率84.5%",
@@ -809,6 +946,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时55分"
+        },
+        {
+          "title": "美国总统特朗普：黎巴嫩遭受重创已达数十年之久。",
+          "url": "https://flash.jin10.com/detail/20260721231410402800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "美国食品药品管理局（FDA）：目前共有五项针对环孢子虫病的调查正在进行。 五项环孢子虫调查中已有三项结束。 FDA正在继续调查其他潜在的疫情诱因。",
@@ -855,6 +1003,28 @@
           "time_info": "13时44分"
         },
         {
+          "title": "美国总统特朗普：与黎巴嫩的关系非常好。",
+          "url": "https://flash.jin10.com/detail/20260721231407346800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
+          "title": "加拿大总理卡尼：如果美国执意实施关税，将研究一切反制选项。 希望与美方达成全面贸易协定。",
+          "url": "https://wallstreetcn.com/livenews/3137659",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "美国战略石油储备原油库存降至1983年3月以来最低水平",
           "url": "https://flash.jin10.com/detail/20260721015755310800",
           "source": "金十数据",
@@ -872,7 +1042,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时24分"
         },
@@ -938,9 +1108,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时24分"
+        },
+        {
+          "title": "美国总统特朗普：我们对黎巴嫩的情况感到非常乐观。",
+          "url": "https://flash.jin10.com/detail/20260721231244822800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "特朗普：伊朗每杀死一名美国士兵都将付出“数倍”代价",
@@ -963,6 +1144,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
+        },
+        {
+          "title": "加拿大总理卡尼周二与美国总统特朗普通话，双方同意加强沟通。",
+          "url": "https://wallstreetcn.com/livenews/3137656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "据伊朗迈赫尔通讯社：位于科威特、驻有美军的阿里·萨利姆（Ali Salem）空军基地遭到了袭击。",
@@ -993,7 +1185,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时24分"
         },
@@ -1004,7 +1196,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时24分"
         },
@@ -1018,6 +1210,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时05分"
+        },
+        {
+          "title": "苹果(AAPL.O)计划于7月28日在美国推出“升级”设备租赁计划。",
+          "url": "https://flash.jin10.com/detail/20260721231207841800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "美国中长期国债收益率涨超4个基点",
@@ -1037,7 +1240,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时24分"
         },
@@ -1081,7 +1284,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时24分"
         },
@@ -1103,9 +1306,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时24分"
+        },
+        {
+          "title": "美军连续第十晚打击伊朗 调解方提议美伊停火十日",
+          "url": "https://wallstreetcn.com/livenews/3137651",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "美国总统特朗普：加拿大对从美国进口的汽车征收特定关税并实施配额限制，但未对其他国家采取此类措施。",
@@ -1147,9 +1361,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时24分"
+        },
+        {
+          "title": "美国总统特朗普：黎巴嫩总统奥恩备受尊敬。",
+          "url": "https://flash.jin10.com/detail/20260721230922065800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "美国奥兰多市一家七口大吃一顿后逃单",
@@ -1191,9 +1416,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时24分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普在白宫接见黎巴嫩总统，准备举行会晤。",
+          "url": "https://flash.jin10.com/detail/20260721230909971800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "美国财长贝森特：认为今年可通过支付系统改革节省3.5亿美元。 正在追踪阿亚图拉的财产，希望能显示地址。 已听闻关于开源AI模型威胁美国的讨论。 美国支持开源AI模型，但反对侵犯知识产权。",
@@ -1202,7 +1438,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时24分"
         },
@@ -1235,7 +1471,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时24分"
         },
@@ -1323,9 +1559,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时24分"
+        },
+        {
+          "title": "PRESS TV：伊朗伊斯兰革命卫队击中科威特贾比尔基地的美军雷达。",
+          "url": "https://wallstreetcn.com/livenews/3137646",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "白宫：激励计划将要求企业提交“产业回流计划”。经批准后，相关企业可按相应额度进口原铝，并享受降低后的关税税率，税率相当于原本适用的《232条款》关税税率的一半。",
@@ -1359,6 +1606,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "美媒称美国“护不住”驻中东美军",
+          "url": "https://wallstreetcn.com/livenews/3137644",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "美国总统特朗普：要求众议院共和党本周投票支持预算解决方案。",
@@ -1408,7 +1666,7 @@
     },
     {
       "keyword_group": "# --- 第一组：中国宏观 (去掉了必须词，只过滤娱乐) --- 中国 央视 外交部 国防部 解放军 人民日报 新华社",
-      "match_count": 83,
+      "match_count": 84,
       "titles": [
         {
           "title": "菲方围顶冲撞中方巡逻艇、恶意攻击中方执法人员，中国海警局发声",
@@ -1482,8 +1740,19 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时30分 ~ 21时24分]"
+          "appearance_count": 15,
+          "time_info": "[01时30分 ~ 23时32分]"
+        },
+        {
+          "title": "央视曝乙游年龄门槛形同虚设",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356379&amp;topic_name=%E5%A4%AE%E8%A7%86%E6%9B%9D%E4%B9%99%E6%B8%B8%E5%B9%B4%E9%BE%84%E9%97%A8%E6%A7%9B%E5%BD%A2%E5%90%8C%E8%99%9A%E8%AE%BE",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时02分 ~ 23时32分]"
         },
         {
           "title": "中国海警回应菲方蓄意挑衅",
@@ -1509,6 +1778,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时02分 ~ 19时02分]"
+        },
+        {
+          "title": "中国科技这3组数字真提气",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E8%BF%993%E7%BB%84%E6%95%B0%E5%AD%97%E7%9C%9F%E6%8F%90%E6%B0%94",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时23分 ~ 23时32分]"
         },
         {
           "title": "坚定看好中国资本市场，两大央企国新和诚通宣布继续增持，上一次是去年4月",
@@ -1547,17 +1827,6 @@
           "time_info": "[01时30分 ~ 07时53分]"
         },
         {
-          "title": "央视曝乙游年龄门槛形同虚设",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356379&amp;topic_name=%E5%A4%AE%E8%A7%86%E6%9B%9D%E4%B9%99%E6%B8%B8%E5%B9%B4%E9%BE%84%E9%97%A8%E6%A7%9B%E5%BD%A2%E5%90%8C%E8%99%9A%E8%AE%BE",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时02分 ~ 21时24分]"
-        },
-        {
           "title": "美媒炒作称解放军种种动向难以捉摸",
           "url": "https://www.toutiao.com/trending/7663805959026966574/",
           "source": "今日头条",
@@ -1593,17 +1862,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时44分 ~ 16时14分]"
-        },
-        {
-          "title": "中国科技这3组数字真提气",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E8%BF%993%E7%BB%84%E6%95%B0%E5%AD%97%E7%9C%9F%E6%8F%90%E6%B0%94",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时23分 ~ 21时24分]"
         },
         {
           "title": "中美外长会在东盟会议期间会晤吗？外交部回应",
@@ -1689,6 +1947,18 @@
           "time_info": "[01时30分 ~ 06时55分]"
         },
         {
+          "title": "成吉思鸡小哥致谢中国粉丝",
+          "url": "https://www.douyin.com/hot/2579641",
+          "source": "抖音",
+          "ranks": [
+            16,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时14分 ~ 23时32分]"
+        },
+        {
           "title": "中国电车杀入燃油车诞生地",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%94%B5%E8%BD%A6%E6%9D%80%E5%85%A5%E7%87%83%E6%B2%B9%E8%BD%A6%E8%AF%9E%E7%94%9F%E5%9C%B0",
           "source": "百度热搜",
@@ -1765,6 +2035,32 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[19时02分 ~ 21时24分]"
+        },
+        {
+          "title": "视频丨允许菲方采取舰载小艇转运伤员，中国海警全程监管",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33626905",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时02分 ~ 23时32分]"
+        },
+        {
+          "title": "外交部：中方仍要求菲方拖走非法的坐滩军舰，恢复仁爱礁原状",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33582096",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时02分 ~ 23时32分]"
         },
         {
           "title": "境外绑架杀害中国公民嫌犯被遣返",
@@ -1852,28 +2148,16 @@
           "time_info": "[16时14分 ~ 21时24分]"
         },
         {
-          "title": "成吉思鸡小哥致谢中国粉丝",
-          "url": "https://www.douyin.com/hot/2579641",
-          "source": "抖音",
+          "title": "中国数学家王虹邓煜有望斩获最高奖项",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%A6%E5%AE%B6%E7%8E%8B%E8%99%B9%E9%82%93%E7%85%9C%E6%9C%89%E6%9C%9B%E6%96%A9%E8%8E%B7%E6%9C%80%E9%AB%98%E5%A5%96%E9%A1%B9",
+          "source": "百度热搜",
           "ranks": [
-            16,
-            22
+            15,
+            19
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[16时14分 ~ 21时24分]"
-        },
-        {
-          "title": "视频丨允许菲方采取舰载小艇转运伤员，中国海警全程监管",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33626905",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时02分 ~ 21时24分]"
+          "time_info": "[21时23分 ~ 23时32分]"
         },
         {
           "title": "新华社世界杯出图",
@@ -1886,18 +2170,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时02分 ~ 19时02分]"
-        },
-        {
-          "title": "外交部：中方仍要求菲方拖走非法的坐滩军舰，恢复仁爱礁原状",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33582096",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时02分 ~ 21时24分]"
         },
         {
           "title": "13岁中国小将8战7冠称霸欧洲赛场",
@@ -1935,17 +2207,6 @@
           "time_info": "[07时52分 ~ 07时53分]"
         },
         {
-          "title": "中国数学家王虹邓煜有望斩获最高奖项",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%A6%E5%AE%B6%E7%8E%8B%E8%99%B9%E9%82%93%E7%85%9C%E6%9C%89%E6%9C%9B%E6%96%A9%E8%8E%B7%E6%9C%80%E9%AB%98%E5%A5%96%E9%A1%B9",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时23分 ~ 21时24分]"
-        },
-        {
           "title": "中国 K3 大模型震惊 AI 界，美巨头高价模式还能撑多久？",
           "url": "https://www.zhihu.com/question/2061405940272960418",
           "source": "知乎",
@@ -1966,6 +2227,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时30分 ~ 01时31分]"
+        },
+        {
+          "title": "又一银行公开力挺中国资本市场",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%88%E4%B8%80%E9%93%B6%E8%A1%8C%E5%85%AC%E5%BC%80%E5%8A%9B%E6%8C%BA%E4%B8%AD%E5%9B%BD%E8%B5%84%E6%9C%AC%E5%B8%82%E5%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时31分 ~ 23时32分]"
         },
         {
           "title": "中国能建 齐夏",
@@ -2074,7 +2346,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时24分"
         },
@@ -2184,7 +2456,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时24分"
         },
@@ -2294,7 +2566,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时24分"
         },
@@ -2338,7 +2610,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时24分"
         },
@@ -2368,7 +2640,7 @@
     },
     {
       "keyword_group": "# --- 第二组：中国经济与A股 (保留宽泛的行情词) --- A股 上证 深证 恒生 人民币 汇率 经济 GDP",
-      "match_count": 54,
+      "match_count": 57,
       "titles": [
         {
           "title": "今日一批A股公司披露增持回购计划，累计金额最高超百亿",
@@ -2439,6 +2711,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时44分 ~ 16时14分]"
+        },
+        {
+          "title": "A股又一波增持回购来了！近20家公司今日公布最新计划",
+          "url": "https://www.cls.cn/detail/2432887",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时23分 ~ 23时32分]"
         },
         {
           "title": "工业对经济增长贡献率超35%",
@@ -2570,17 +2854,6 @@
           "time_info": "[19时02分 ~ 21时24分]"
         },
         {
-          "title": "A股又一波增持回购来了！近20家公司今日公布最新计划",
-          "url": "https://www.cls.cn/detail/2432887",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时23分 ~ 21时24分]"
-        },
-        {
           "title": "上期所原油期货2609合约夜盘收跌0.43%，报535.30元人民币/桶。 沪金夜盘收涨0.05%，沪银收涨1.26%。",
           "url": "https://wallstreetcn.com/livenews/3137056",
           "source": "华尔街见闻-快讯",
@@ -2605,6 +2878,17 @@
           "time_info": "[06时55分 ~ 07时53分]"
         },
         {
+          "title": "A股六大重磅信号落地",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%85%AD%E5%A4%A7%E9%87%8D%E7%A3%85%E4%BF%A1%E5%8F%B7%E8%90%BD%E5%9C%B0",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时31分 ~ 23时32分]"
+        },
+        {
           "title": "上证报头版文章：三季度货币政策宽松空间或进一步打开",
           "url": "https://wallstreetcn.com/livenews/3137109",
           "source": "华尔街见闻-快讯",
@@ -2615,6 +2899,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时55分 ~ 07时53分]"
+        },
+        {
+          "title": "事关A股市场 证监会最新发声",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%8B%E5%85%B3A%E8%82%A1%E5%B8%82%E5%9C%BA+%E8%AF%81%E7%9B%91%E4%BC%9A%E6%9C%80%E6%96%B0%E5%8F%91%E5%A3%B0",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时31分 ~ 23时32分]"
         },
         {
           "title": "A股深“V”反弹 “六大方阵”齐出手",
@@ -2713,7 +3008,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时24分"
         },
@@ -2773,6 +3068,17 @@
           "time_info": "10时02分"
         },
         {
+          "title": "Klarna股价直线拉升，涨幅超9%。",
+          "url": "https://flash.jin10.com/detail/20260721231404000800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "A股油服工程板块回调，通源石油跌超14%，科力股份跌超11%，博迈科、仁智股份、贝肯能源、中曼石油等个股跟跌。当地时间7月20日，美军中央司令部表示，美军于美东时间当天21时完成对伊朗的最新一轮打击行动。",
           "url": "https://flash.jin10.com/detail/20260721093347674800",
           "source": "金十数据",
@@ -2823,7 +3129,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时24分"
         },
@@ -2867,7 +3173,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时24分"
         },
@@ -2985,7 +3291,7 @@
     },
     {
       "keyword_group": "# --- 第四组：美股与科技 (去掉了具体的“财报”限制) --- 美股 纳指 道琼斯 标普 特斯拉 英伟达 苹果 微软 OpenAI",
-      "match_count": 36,
+      "match_count": 45,
       "titles": [
         {
           "title": "中东局势与财报季双重压力下，美股三连跌，芯片股抛售暂歇，中概收涨，油价过山车",
@@ -2997,8 +3303,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时52分 ~ 21时24分]"
+          "appearance_count": 10,
+          "time_info": "[07时52分 ~ 23时32分]"
         },
         {
           "title": "芯片股抛售暂歇，美股高开，存储芯片股普涨，SK海力士涨4%，油价转跌",
@@ -3051,6 +3357,44 @@
           "time_info": "[06时55分 ~ 13时44分]"
         },
         {
+          "title": "OpenAI负责人抨击Kimi开源",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356366&amp;topic_name=OpenAI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%8A%A8%E5%87%BBKimi%E5%BC%80%E6%BA%90",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            15,
+            20,
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时44分 ~ 23时32分]"
+        },
+        {
+          "title": "全球科技股反弹！美股盘初走高，存储芯片股普涨，闪迪涨9%，布油重回90美元上方，现货白银涨4%",
+          "url": "https://wallstreetcn.com/articles/3777518",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时31分 ~ 23时32分]"
+        },
+        {
+          "title": "美股AI概念盘前昂扬齐涨 美伊战火仍在持续 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2433005",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时23分 ~ 23时32分]"
+        },
+        {
           "title": "中东局势与财报季双重压力下，美股高开走低，芯片股抛售暂歇，中概收涨，油价过山车",
           "url": "https://wallstreetcn.com/articles/3777383",
           "source": "华尔街见闻",
@@ -3093,20 +3437,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
-        },
-        {
-          "title": "OpenAI负责人抨击Kimi开源",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356366&amp;topic_name=OpenAI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%8A%A8%E5%87%BBKimi%E5%BC%80%E6%BA%90",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            15,
-            20,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时44分 ~ 21时24分]"
         },
         {
           "title": "OpenAI 负责人称 Kimi 开源是减速主义，他的说法有道理吗？开源对 AI 的发展能带来什么？",
@@ -3158,15 +3488,15 @@
           "time_info": "[21时23分 ~ 21时24分]"
         },
         {
-          "title": "美股AI概念盘前昂扬齐涨 美伊战火仍在持续 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2433005",
-          "source": "财联社热门",
+          "title": "美股全线高开 闪迪、西部数据均涨超8%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%85%A8%E7%BA%BF%E9%AB%98%E5%BC%80+%E9%97%AA%E8%BF%AA%E3%80%81%E8%A5%BF%E9%83%A8%E6%95%B0%E6%8D%AE%E5%9D%87%E6%B6%A8%E8%B6%858%25",
+          "source": "百度热搜",
           "ranks": [
-            8
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时23分 ~ 21时24分]"
+          "time_info": "[23时31分 ~ 23时32分]"
         },
         {
           "title": "英伟达对Nebius持股9.3%",
@@ -3205,6 +3535,17 @@
           "time_info": "[06时55分 ~ 07时53分]"
         },
         {
+          "title": "苹果将​​与Klarna合作推出“升级”设备租赁计划以提振销量",
+          "url": "https://flash.jin10.com/detail/20260721231602726800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "美股盘前，存储芯片股普涨，闪迪涨约7%，SK海力士涨约6%，美光科技涨约5%，西部数据涨约5%，希捷科技涨约5%。 光通信板块上涨，迈威尔科技涨超6%，Credo涨超5%，Coherent涨5%，Lumentum、康宁涨4.5%。",
           "url": "https://wallstreetcn.com/livenews/3137441",
           "source": "华尔街见闻-快讯",
@@ -3227,6 +3568,17 @@
           "time_info": "19时02分"
         },
         {
+          "title": "苹果将推出“升级”设备租赁计划以提振销量",
+          "url": "https://wallstreetcn.com/livenews/3137665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "美股大类资产类ETF涨跌各异",
           "url": "https://wallstreetcn.com/livenews/3137079",
           "source": "华尔街见闻-快讯",
@@ -3236,6 +3588,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时05分"
+        },
+        {
+          "title": "美股存储芯片指数涨超10%，美光科技上涨10.17%，SK海力士上涨11.18%，闪迪上涨11.86%，西部数据上涨12.67%，希捷科技上涨10.42%，铠侠ADR上涨13.78%。",
+          "url": "https://wallstreetcn.com/livenews/3137664",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "美股盘前三大股指期货齐涨",
@@ -3255,7 +3618,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时24分"
         },
@@ -3299,9 +3662,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时24分"
+        },
+        {
+          "title": "苹果(AAPL.O)与Klarna合作推出“升级”设备租赁计划。",
+          "url": "https://flash.jin10.com/detail/20260721231322582800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "新加坡交易所推出Grab、Sea及SpaceX存托凭证，拓展美股投资渠道",
@@ -3326,15 +3700,37 @@
           "time_info": "05时05分"
         },
         {
+          "title": "英伟达称向客户交付新款Rubin架构芯片进展顺利",
+          "url": "https://flash.jin10.com/detail/20260721231208344800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "芯片股反弹盖过伊朗局势担忧 美股期货走高",
           "url": "https://flash.jin10.com/detail/20260721205409686800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时24分"
+        },
+        {
+          "title": "苹果(AAPL.O)“升级”设备租赁计划将涵盖iPhone、iPad、Mac和Apple Watch。",
+          "url": "https://flash.jin10.com/detail/20260721231128557800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "道琼斯指数7月20日（周一）收盘下跌305.32点，跌幅0.59%，报51841.10点；<br/>标普500指数7月20日（周一）收盘下跌14.28点，跌幅0.19%，报7443.41点；<br/>纳斯达克综合指数7月20日（周一）收盘下跌12.17点，跌幅0.05%，报25508.07点。",
@@ -3346,6 +3742,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时05分"
+        },
+        {
+          "title": "苹果(AAPL.O)将推出“升级”设备租赁计划以刺激销量。",
+          "url": "https://flash.jin10.com/detail/20260721231109246800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "金十图示：2026年07月20日（周一）美股热门股票行情一览（美股收盘）",
@@ -3406,7 +3813,7 @@
     },
     {
       "keyword_group": "# --- 第五组：日本动态 (关键修改：去掉了外交限制) --- 日本 岸田文雄 自卫队 靖国神社 核污水",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "AI不准用,日本漫画家被迫停更",
@@ -3477,6 +3884,17 @@
           "time_info": "16时14分"
         },
         {
+          "title": "听说日本自行车拥有量亚洲第一，日本人真的这么喜欢骑自行车吗？",
+          "url": "https://www.zhihu.com/question/58397168",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时23分 ~ 23时32分]"
+        },
+        {
           "title": "高盛：日本政策讨论或更多通过信号传递来提振日本国债",
           "url": "https://wallstreetcn.com/livenews/3137119",
           "source": "华尔街见闻-快讯",
@@ -3489,15 +3907,15 @@
           "time_info": "[06时55分 ~ 07时53分]"
         },
         {
-          "title": "听说日本自行车拥有量亚洲第一，日本人真的这么喜欢骑自行车吗？",
-          "url": "https://www.zhihu.com/question/58397168",
-          "source": "知乎",
+          "title": "赖岳谦：日本一旦做出核弹对美不利",
+          "url": "https://www.toutiao.com/trending/7664039637693759514/",
+          "source": "今日头条",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时23分 ~ 21时24分]"
+          "time_info": "[23时31分 ~ 23时32分]"
         },
         {
           "title": "日本FTC（公正交易委员会）考虑，针对IT巨头们向小微企业提供更多保护。（日本读卖新闻）",
@@ -3510,6 +3928,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时55分 ~ 07时53分]"
+        },
+        {
+          "title": "美元兑日元涨至163上方，日内涨超0.3%，日本当局干预的风险加重。",
+          "url": "https://wallstreetcn.com/livenews/3137655",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "日本内阁官房长官木原稔：货币政策的具体细节应交由日本央行决定。",
