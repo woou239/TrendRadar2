@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-22T13:25:14.687193+08:00",
-  "total_titles_processed": 952,
+  "generated_at": "2026-07-22T16:15:00.709694+08:00",
+  "total_titles_processed": 1112,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- 第三组：美国宏观与军事 --- 美国 白宫 五角大楼 美军 美联储 布林肯 拜登 特朗普",
-      "match_count": 102,
+      "match_count": 107,
       "titles": [
         {
           "title": "美财长贝森特宣称：美国很快将控制全球80%的算力",
@@ -37,11 +37,12 @@
           "source": "凤凰网",
           "ranks": [
             5,
-            3
+            3,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时01分 ~ 13时25分]"
+          "appearance_count": 6,
+          "time_info": "[10时01分 ~ 16时15分]"
         },
         {
           "title": "“美国海军第五舰队司令部发生爆炸”",
@@ -213,6 +214,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时08分 ~ 06时08分]"
+        },
+        {
+          "title": "这条40余年的禁令，被特朗普解除了",
+          "url": "https://news.ifeng.com/c/8uxiWY6YntB",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时24分 ~ 16时15分]"
         },
         {
           "title": "核能企业Oklo和X-energy已加入特朗普政府推动的新核反应堆建设计划，旨在加快为人工智能数据中心提供能源支持。",
@@ -394,17 +407,6 @@
           "time_info": "[07时52分 ~ 10时02分]"
         },
         {
-          "title": "这条40余年的禁令，被特朗普解除了",
-          "url": "https://news.ifeng.com/c/8uxiWY6YntB",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 13时25分]"
-        },
-        {
           "title": "美国至7月17日当周API库欣原油库存 -73.7万桶，前值23.8万桶。",
           "url": "https://flash.jin10.com/detail/20260722043658962800",
           "source": "金十数据",
@@ -475,6 +477,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时01分 ~ 06时08分]"
+        },
+        {
+          "title": "特朗普：如果也门胡塞武装封锁红海，美国将采取行动",
+          "url": "https://www.cls.cn/detail/2433325",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 16时15分]"
         },
         {
           "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在04:32前后获得数据详情。",
@@ -555,6 +568,17 @@
           "time_info": "07时52分"
         },
         {
+          "title": "如果美国踏上伊朗的陆地，伊朗将全力反击。（伊朗国家电视台）",
+          "url": "https://wallstreetcn.com/livenews/3138079",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
+        },
+        {
           "title": "美国至7月17日当周API精炼油库存 175.9万桶，预期100万桶，前值225.9万桶。",
           "url": "https://flash.jin10.com/detail/20260722043647291800",
           "source": "金十数据",
@@ -632,6 +656,28 @@
           "time_info": "10时02分"
         },
         {
+          "title": "据伊朗国家电视台：如果美国在伊朗土地上采取行动，伊朗将全力以赴进行反击。",
+          "url": "https://flash.jin10.com/detail/20260722160100035800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
+        },
+        {
+          "title": "伊朗称目前没有与美国进行任何磋商。伊朗称与美国“信息交流”是可能的。（迈赫尔通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3138074",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
+        },
+        {
           "title": "白宫：约旦皇家航空公司向美国订购了波音(BA.N)787-9客机。",
           "url": "https://flash.jin10.com/detail/20260722000941339800",
           "source": "金十数据",
@@ -704,7 +750,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         },
@@ -737,7 +783,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         },
@@ -814,7 +860,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         },
@@ -913,7 +959,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         },
@@ -1017,6 +1063,17 @@
           "time_info": "01时10分"
         },
         {
+          "title": "伊朗周三凌晨袭击了驻约旦和巴林的美军。（塔斯尼姆通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3138059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
+        },
+        {
           "title": "金十提示：美国总统特朗普与黎巴嫩总统白宫会晤的媒体公开部分结束。",
           "url": "https://flash.jin10.com/detail/20260721234532750800",
           "source": "金十数据",
@@ -1100,7 +1157,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         },
@@ -1163,7 +1220,7 @@
     },
     {
       "keyword_group": "# --- 第一组：中国宏观 (去掉了必须词，只过滤娱乐) --- 中国 央视 外交部 国防部 解放军 人民日报 新华社",
-      "match_count": 54,
+      "match_count": 67,
       "titles": [
         {
           "title": "中国科技这3组数字真提气",
@@ -1197,11 +1254,12 @@
           "ranks": [
             2,
             4,
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时10分 ~ 13时25分]"
+          "appearance_count": 13,
+          "time_info": "[01时10分 ~ 16时15分]"
         },
         {
           "title": "外交部：中方仍要求菲方拖走非法的坐滩军舰，恢复仁爱礁原状",
@@ -1212,11 +1270,25 @@
             12,
             9,
             5,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时10分 ~ 13时25分]"
+          "appearance_count": 13,
+          "time_info": "[01时10分 ~ 16时15分]"
+        },
+        {
+          "title": "联合国会议上，中国发布重要文件",
+          "url": "https://news.ifeng.com/c/8uxL1hNztEC",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时01分 ~ 16时15分]"
         },
         {
           "title": "外交部谈菲挑衅生事",
@@ -1228,11 +1300,12 @@
             16,
             5,
             29,
-            12
+            12,
+            20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时10分 ~ 13时25分]"
+          "appearance_count": 13,
+          "time_info": "[01时10分 ~ 16时15分]"
         },
         {
           "title": "开局之年看中国",
@@ -1244,6 +1317,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时10分 ~ 06时08分]"
+        },
+        {
+          "title": "耐克将清退中国数千家在线经销商",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%80%90%E5%85%8B%E5%B0%86%E6%B8%85%E9%80%80%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%8D%83%E5%AE%B6%E5%9C%A8%E7%BA%BF%E7%BB%8F%E9%94%80%E5%95%86%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时24分 ~ 16时15分]"
         },
         {
           "title": "中国游客亲历印尼沉船",
@@ -1276,27 +1360,28 @@
           "time_info": "[01时10分 ~ 13时25分]"
         },
         {
-          "title": "联合国会议上，中国发布重要文件",
-          "url": "https://news.ifeng.com/c/8uxL1hNztEC",
+          "title": "美国防部发布声明，公布美军最新死亡人数",
+          "url": "https://news.ifeng.com/c/8uxfcoeJAyo",
           "source": "凤凰网",
           "ranks": [
-            1,
-            4
+            6,
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时01分 ~ 13时25分]"
+          "appearance_count": 6,
+          "time_info": "[10时01分 ~ 16时15分]"
         },
         {
-          "title": "耐克将清退中国数千家在线经销商",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%80%90%E5%85%8B%E5%B0%86%E6%B8%85%E9%80%80%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%8D%83%E5%AE%B6%E5%9C%A8%E7%BA%BF%E7%BB%8F%E9%94%80%E5%95%86%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
+          "title": "中国GDP第10省又易主了",
+          "url": "https://www.toutiao.com/trending/7665204495978073642/",
+          "source": "今日头条",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时24分 ~ 13时25分]"
+          "time_info": "[16时14分 ~ 16时15分]"
         },
         {
           "title": "中国人寿减持兆易创新110.97万股，套现6.82亿元",
@@ -1312,6 +1397,19 @@
           "time_info": "[01时10分 ~ 07时52分]"
         },
         {
+          "title": "视频丨中国海警局公布全程监管菲转运伤员现场画面",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33630862",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时52分 ~ 16时15分]"
+        },
+        {
           "title": "中国外贸增势强劲、走势稳健",
           "url": "https://www.toutiao.com/trending/7665189611903356425/",
           "source": "今日头条",
@@ -1321,6 +1419,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时24分 ~ 13时25分]"
+        },
+        {
+          "title": "看见中国AI产业的“硬核家底”",
+          "url": "https://www.toutiao.com/trending/7664428554470113321/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 16时15分]"
         },
         {
           "title": "澳外长宣称：中国要就军事建设做出保证",
@@ -1360,6 +1469,31 @@
           "time_info": "07时52分"
         },
         {
+          "title": "美国政府有人要用阴招？美媒：被中国这个产品刺激了",
+          "url": "https://news.ifeng.com/c/8uxgiHDgogm",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时01分 ~ 16时15分]"
+        },
+        {
+          "title": "成吉思鸡小哥将来到中国",
+          "url": "https://www.douyin.com/hot/2580313",
+          "source": "抖音",
+          "ranks": [
+            16,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时01分 ~ 16时15分]"
+        },
+        {
           "title": "又一银行公开力挺中国资本市场",
           "url": "https://www.baidu.com/s?wd=%E5%8F%88%E4%B8%80%E9%93%B6%E8%A1%8C%E5%85%AC%E5%BC%80%E5%8A%9B%E6%8C%BA%E4%B8%AD%E5%9B%BD%E8%B5%84%E6%9C%AC%E5%B8%82%E5%9C%BA",
           "source": "百度热搜",
@@ -1393,6 +1527,17 @@
           "time_info": "10时02分"
         },
         {
+          "title": "中国证监会：吴清主席会见加拿大养老基金投资公司总裁兼首席执行官格雷厄姆",
+          "url": "https://wallstreetcn.com/livenews/3138085",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
+        },
+        {
           "title": "金十图示：2026年07月22日（周三）中国工商银行账户贵金属行情",
           "url": "https://flash.jin10.com/detail/20260722095025250800",
           "source": "金十数据",
@@ -1410,34 +1555,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
-        },
-        {
-          "title": "视频丨中国海警局公布全程监管菲转运伤员现场画面",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33630862",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时52分 ~ 13时25分]"
-        },
-        {
-          "title": "美国防部发布声明，公布美军最新死亡人数",
-          "url": "https://news.ifeng.com/c/8uxfcoeJAyo",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时01分 ~ 13时25分]"
         },
         {
           "title": "2026年财富中国500强出炉",
@@ -1452,15 +1572,28 @@
           "time_info": "[10时01分 ~ 13时25分]"
         },
         {
-          "title": "美国政府有人要用阴招？美媒：被中国这个产品刺激了",
-          "url": "https://news.ifeng.com/c/8uxgiHDgogm",
-          "source": "凤凰网",
+          "title": "耐克将清退中国数千家在线经销商",
+          "url": "https://www.toutiao.com/trending/7664432037209948214/",
+          "source": "今日头条",
           "ranks": [
-            9
+            9,
+            25
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时01分 ~ 13时25分]"
+          "time_info": "[13时24分 ~ 16时15分]"
+        },
+        {
+          "title": "耐克将清退中国数千家在线经销商",
+          "url": "https://www.baidu.com/s?wd=%E8%80%90%E5%85%8B%E5%B0%86%E6%B8%85%E9%80%80%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%8D%83%E5%AE%B6%E5%9C%A8%E7%BA%BF%E7%BB%8F%E9%94%80%E5%95%86",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时24分 ~ 16时15分]"
         },
         {
           "title": "硬要替换中国技术，美国车企算完账“下巴都惊掉了”",
@@ -1474,16 +1607,27 @@
           "time_info": "[10时01分 ~ 13时25分]"
         },
         {
-          "title": "成吉思鸡小哥将来到中国",
-          "url": "https://www.douyin.com/hot/2580313",
-          "source": "抖音",
+          "title": "2026年《财富》中国500强排行榜：国家电网、中石油和中石化位列前三",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33632636",
+          "source": "澎湃新闻",
           "ranks": [
-            16,
-            18
+            20,
+            19
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时01分 ~ 13时25分]"
+          "time_info": "[13时24分 ~ 16时15分]"
+        },
+        {
+          "title": "印尼游轮遭浪击沉中国游客漂流数小时",
+          "url": "https://www.toutiao.com/trending/7665148107360947750/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时24分 ~ 16时15分]"
         },
         {
           "title": "只剩72小时！中国果断出手跨国追索",
@@ -1509,15 +1653,37 @@
           "time_info": "[01时10分 ~ 03时09分]"
         },
         {
-          "title": "耐克将清退中国数千家在线经销商",
-          "url": "https://www.toutiao.com/trending/7664432037209948214/",
-          "source": "今日头条",
+          "title": "多位中国公民在沙特被捕，中使馆回应",
+          "url": "https://news.ifeng.com/c/8uxzPsDiHKz",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 16时15分]"
+        },
+        {
+          "title": "特朗普承认美方干预中国事务",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%BF%E8%AE%A4%E7%BE%8E%E6%96%B9%E5%B9%B2%E9%A2%84%E4%B8%AD%E5%9B%BD%E4%BA%8B%E5%8A%A1%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 16时15分]"
+        },
+        {
+          "title": "特朗普承认美方干预中国事务，并称“中国今时不同往日”",
+          "url": "https://news.ifeng.com/c/8uy1V150ZKO",
+          "source": "凤凰网",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时24分 ~ 13时25分]"
+          "time_info": "[16时14分 ~ 16时15分]"
         },
         {
           "title": "这个夏天中国出口暴增的不只是空调",
@@ -1529,6 +1695,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时01分 ~ 10时02分]"
+        },
+        {
+          "title": "史无前例！OpenAI模型“失控”攻入全球最大AI开源社区 中国开源模型参与取证",
+          "url": "https://www.cls.cn/detail/2433554",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 16时15分]"
+        },
+        {
+          "title": "中国火箭给大家比了个V",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%81%AB%E7%AE%AD%E7%BB%99%E5%A4%A7%E5%AE%B6%E6%AF%94%E4%BA%86%E4%B8%AAV%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 16时15分]"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.68%，报6294.45点。 热门中概股里，腾讯跌3.5%，网易跌3.4%，阿里跌2%，拼多多跌1.3%，日月光半导体涨8.7%。 ETF中，中概互联网指数ETF（KWEB）收跌1.53%，中国科技指数ETF（CQQQ）收涨3.81%。 德银嘉实沪深300指数ETF（ASHR）收涨3.09%，MSCI新兴市场ex中国ETF（EMXC）收涨3.63%，XtrackersHarvest中证50（ASHS）收涨5.46%。",
@@ -1543,44 +1731,11 @@
           "time_info": "[05时01分 ~ 06时08分]"
         },
         {
-          "title": "印尼游轮遭浪击沉中国游客漂流数小时",
-          "url": "https://www.toutiao.com/trending/7665148107360947750/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 13时25分]"
-        },
-        {
-          "title": "2026年《财富》中国500强排行榜：国家电网、中石油和中石化位列前三",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33632636",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 13时25分]"
-        },
-        {
           "title": "开局之年看中国解码创新浙江",
           "url": "https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%B1%80%E4%B9%8B%E5%B9%B4%E7%9C%8B%E4%B8%AD%E5%9B%BD%E8%A7%A3%E7%A0%81%E5%88%9B%E6%96%B0%E6%B5%99%E6%B1%9F%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
           "ranks": [
             20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 13时25分]"
-        },
-        {
-          "title": "耐克将清退中国数千家在线经销商",
-          "url": "https://www.baidu.com/s?wd=%E8%80%90%E5%85%8B%E5%B0%86%E6%B8%85%E9%80%80%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%8D%83%E5%AE%B6%E5%9C%A8%E7%BA%BF%E7%BB%8F%E9%94%80%E5%95%86",
-          "source": "百度热搜",
-          "ranks": [
-            21
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -1596,6 +1751,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时08分 ~ 03时09分]"
+        },
+        {
+          "title": "董路谈中国足球与青训",
+          "url": "https://www.toutiao.com/trending/7664272821233205311/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 16时15分]"
         },
         {
           "title": "外交部回应中巴海运协定续签",
@@ -1637,7 +1803,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         },
@@ -1648,7 +1814,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         },
@@ -1675,6 +1841,28 @@
           "time_info": "07时52分"
         },
         {
+          "title": "外交部：有关导弹试射是中国军队例行军事训练活动，不针对任何特定国家和目标",
+          "url": "https://wallstreetcn.com/livenews/3138069",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
+        },
+        {
+          "title": "中国台湾6月失业率 3.33%，前值3.32%。",
+          "url": "https://flash.jin10.com/detail/20260722160004432800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
+        },
+        {
           "title": "中国央行公开市场开展760亿元7天期逆回购操作，操作利率1.40%。今日4265亿元逆回购到期。",
           "url": "https://wallstreetcn.com/livenews/3137843",
           "source": "华尔街见闻-快讯",
@@ -1686,13 +1874,24 @@
           "time_info": "10时02分"
         },
         {
+          "title": "欧盟中国商会关于欧委会对全球速卖通罚款的答记者问",
+          "url": "https://flash.jin10.com/detail/20260722155916640800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
+        },
+        {
           "title": "澳大利亚外交部长：中东冲突可能在没有太多预警的情况下进一步恶化。",
           "url": "https://flash.jin10.com/detail/20260722123604276800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         },
@@ -1703,7 +1902,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         },
@@ -1714,9 +1913,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
+        },
+        {
+          "title": "外交部：中方向联合国提交《中国关于数智时代全球网络治理的立场文件》",
+          "url": "https://wallstreetcn.com/livenews/3138062",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
         },
         {
           "title": "富时中国A50指数期货盘初涨0.17%，上一个交易日夜盘收涨0.11%。",
@@ -1769,7 +1979,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         },
@@ -1791,7 +2001,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         }
@@ -1799,8 +2009,19 @@
     },
     {
       "keyword_group": "# --- 第四组：美股与科技 (去掉了具体的“财报”限制) --- 美股 纳指 道琼斯 标普 特斯拉 英伟达 苹果 微软 OpenAI",
-      "match_count": 34,
+      "match_count": 38,
       "titles": [
+        {
+          "title": "科技股力撑美股指反弹，芯片指数大涨，美光市值重回万亿，日元跌破163，金银猛涨",
+          "url": "https://wallstreetcn.com/articles/3777518",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时52分 ~ 16时15分]"
+        },
         {
           "title": "中东局势与财报季双重压力下，美股三连跌，芯片股抛售暂歇，中概收涨，油价过山车",
           "url": "https://wallstreetcn.com/articles/3777383",
@@ -1825,17 +2046,6 @@
           "time_info": "[01时10分 ~ 10时02分]"
         },
         {
-          "title": "科技股力撑美股指反弹，芯片指数大涨，美光市值重回万亿，日元跌破163，金银猛涨",
-          "url": "https://wallstreetcn.com/articles/3777518",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时52分 ~ 13时25分]"
-        },
-        {
           "title": "OpenAI负责人抨击Kimi开源",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356366&amp;topic_name=OpenAI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%8A%A8%E5%87%BBKimi%E5%BC%80%E6%BA%90",
           "source": "贴吧",
@@ -1847,6 +2057,31 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[01时10分 ~ 13时25分]"
+        },
+        {
+          "title": "美股存储概念全线爆发！华尔街喊话坚守AI硬件股：Kimi K3将催生新需求",
+          "url": "https://www.cls.cn/detail/2433303",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时01分 ~ 16时15分]"
+        },
+        {
+          "title": "Kimi 员工震惊和 OpenAI 算力的差距，为什么在这么大差距下 Kimi 还能做出来 K3 ？",
+          "url": "https://www.zhihu.com/question/2062943431668789795",
+          "source": "知乎",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时24分 ~ 16时15分]"
         },
         {
           "title": "全球科技股反弹！纳指涨2%，美股存储芯片指数涨超10%，布油重回90美元上方",
@@ -1872,6 +2107,18 @@
           "time_info": "[06时07分 ~ 06时08分]"
         },
         {
+          "title": "剧烈反弹！美股“科技动量股”创史上最大单日涨幅，但暴跌结束了吗？",
+          "url": "https://wallstreetcn.com/articles/3777612",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时24分 ~ 16时15分]"
+        },
+        {
           "title": "苹果折叠屏爆料汇总",
           "url": "https://www.douyin.com/hot/2580541",
           "source": "抖音",
@@ -1883,29 +2130,6 @@
           "time_info": "[13时24分 ~ 13时25分]"
         },
         {
-          "title": "Kimi 员工震惊和 OpenAI 算力的差距，为什么在这么大差距下 Kimi 还能做出来 K3 ？",
-          "url": "https://www.zhihu.com/question/2062943431668789795",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 13时25分]"
-        },
-        {
-          "title": "美股存储概念全线爆发！华尔街喊话坚守AI硬件股：Kimi K3将催生新需求",
-          "url": "https://www.cls.cn/detail/2433303",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时01分 ~ 13时25分]"
-        },
-        {
           "title": "全球科技股反弹！美股存储芯片指数涨超10%，布油重回90美元上方，现货白银涨4%",
           "url": "https://wallstreetcn.com/articles/3777518",
           "source": "华尔街见闻",
@@ -1915,6 +2139,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时10分"
+        },
+        {
+          "title": "美股盘前，存储芯片股普跌，闪迪跌约2%，SK海力士跌约5%，美光科技跌约2%，西部数据跌约3%，希捷科技跌约3%。",
+          "url": "https://wallstreetcn.com/livenews/3138080",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
         },
         {
           "title": "纳斯达克100指数涨幅扩大至2%，刷新日高，成分股Nebius涨16.1%，闪迪涨13.2%泰瑞达涨13.1%，美光涨13%，西部数据涨12.8%，希捷科技涨11.5%，Lumentum涨9.3%，CoreWeave涨9.3%。 标普500指数涨幅扩大至将近1%，道指涨526点涨幅超过1%，纳指涨353点涨幅1.4%，半导体指数涨5.4%，银行指数涨1%。",
@@ -1929,6 +2164,17 @@
           "time_info": "[01时10分 ~ 03时09分]"
         },
         {
+          "title": "AMD AI大会前英伟达秀亮CPU“战果”，Vera Rubin全面量产，超300合作伙伴部署",
+          "url": "https://wallstreetcn.com/articles/3777595",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时01分 ~ 16时15分]"
+        },
+        {
           "title": "美股全线高开 闪迪、西部数据均涨超8%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%85%A8%E7%BA%BF%E9%AB%98%E5%BC%80+%E9%97%AA%E8%BF%AA%E3%80%81%E8%A5%BF%E9%83%A8%E6%95%B0%E6%8D%AE%E5%9D%87%E6%B6%A8%E8%B6%858%25",
           "source": "百度热搜",
@@ -1941,15 +2187,15 @@
           "time_info": "[01时10分 ~ 03时09分]"
         },
         {
-          "title": "剧烈反弹！美股“科技动量股”创史上最大单日涨幅，但暴跌结束了吗？",
-          "url": "https://wallstreetcn.com/articles/3777612",
-          "source": "华尔街见闻",
+          "title": "AI交换芯片走到聚光灯下：英伟达发布Spectrum-6 或推动Token生成能力倍增",
+          "url": "https://www.cls.cn/detail/2433429",
+          "source": "财联社热门",
           "ranks": [
-            7
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时24分 ~ 13时25分]"
+          "time_info": "[16时14分 ~ 16时15分]"
         },
         {
           "title": "周二（7月21日）纽约尾盘，标普500股指期货最终涨0.82%，道指期货涨0.73%，纳斯达克100股指期货涨1.75%。 罗素2000股指期货涨1.36%。",
@@ -1962,17 +2208,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时08分 ~ 07时52分]"
-        },
-        {
-          "title": "AMD AI大会前英伟达秀亮CPU“战果”，Vera Rubin全面量产，超300合作伙伴部署",
-          "url": "https://wallstreetcn.com/articles/3777595",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 10时02分]"
         },
         {
           "title": "新兴市场ETF收涨2.8%，与布油基金、黄金ETF等领跑美股大类资产类ETF",
@@ -2034,6 +2269,17 @@
           "time_info": "[05时01分 ~ 06时08分]"
         },
         {
+          "title": "苹果iPhone18系列已量产",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9CiPhone18%E7%B3%BB%E5%88%97%E5%B7%B2%E9%87%8F%E4%BA%A7",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 16时15分]"
+        },
+        {
           "title": "AI逃离沙盒 OpenAI认下Hugging Face被黑事件",
           "url": "https://wallstreetcn.com/livenews/3137753",
           "source": "华尔街见闻-快讯",
@@ -2043,6 +2289,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
+        },
+        {
+          "title": "美股期货走低，纳斯达克100指数期货跌1%，标普500指数期货跌0.4%，道指期货跌0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3138075",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
         },
         {
           "title": "AI逃离沙盒 OpenAI认下Hugging Face被黑事件",
@@ -2191,7 +2448,7 @@
     },
     {
       "keyword_group": "# --- 第二组：中国经济与A股 (保留宽泛的行情词) --- A股 上证 深证 恒生 人民币 汇率 经济 GDP",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "A股又一波增持回购来了！近20家公司今日公布最新计划",
@@ -2310,6 +2567,28 @@
           "time_info": "[06时08分 ~ 07时52分]"
         },
         {
+          "title": "A股收盘：创业板指低开低走跌超3%",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E4%BD%8E%E5%BC%80%E4%BD%8E%E8%B5%B0%E8%B7%8C%E8%B6%853%25",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 16时15分]"
+        },
+        {
+          "title": "经济越差足球越火吗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BB%8F%E6%B5%8E%E8%B6%8A%E5%B7%AE%E8%B6%B3%E7%90%83%E8%B6%8A%E7%81%AB%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 16时15分]"
+        },
+        {
           "title": "多地加紧推进重大项目建设，助力三季度经济稳增长",
           "url": "https://wallstreetcn.com/livenews/3137787",
           "source": "华尔街见闻-快讯",
@@ -2338,7 +2617,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         },
@@ -2437,7 +2716,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         },
@@ -2470,7 +2749,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         }
@@ -2478,7 +2757,7 @@
     },
     {
       "keyword_group": "# --- 第五组：日本动态 (关键修改：去掉了外交限制) --- 日本 岸田文雄 自卫队 靖国神社 核污水",
-      "match_count": 18,
+      "match_count": 23,
       "titles": [
         {
           "title": "日本财务省：日本6月动力煤进口同比增长18.5%，达到714.8万吨。",
@@ -2503,6 +2782,18 @@
           "time_info": "[01时10分 ~ 06时08分]"
         },
         {
+          "title": "日元跌破 1 美元兑 163 日元关口，创下近 40 年来新低，日本央行已加息至 1%，政府最新政策有何意义？",
+          "url": "https://www.zhihu.com/question/2063034932763669204",
+          "source": "知乎",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时01分 ~ 16时15分]"
+        },
+        {
           "title": "日本财务省：日本6月初步原油进口量同比下降13.7%。日本6月液化天然气进口同比增长6.2%，达到471.8万吨。",
           "url": "https://flash.jin10.com/detail/20260722075158010800",
           "source": "金十数据",
@@ -2512,18 +2803,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
-        },
-        {
-          "title": "日元跌破 1 美元兑 163 日元关口，创下近 40 年来新低，日本央行已加息至 1%，政府最新政策有何意义？",
-          "url": "https://www.zhihu.com/question/2063034932763669204",
-          "source": "知乎",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时01分 ~ 13时25分]"
         },
         {
           "title": "赖岳谦：日本一旦做出核弹对美不利",
@@ -2548,6 +2827,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时52分 ~ 10时02分]"
+        },
+        {
+          "title": "俄远程战略轰炸机巡航日本海",
+          "url": "https://www.douyin.com/hot/2580342",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 16时15分]"
         },
         {
           "title": "俄罗斯远程战略轰炸机巡航日本海",
@@ -2594,6 +2884,17 @@
           "time_info": "07时52分"
         },
         {
+          "title": "日本两年期国债收益率升至1.47%，为1995年以来首次。",
+          "url": "https://wallstreetcn.com/livenews/3138076",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
+        },
+        {
           "title": "日本6月商品进口年率 25.4%，预期21%，前值12.50%。",
           "url": "https://flash.jin10.com/detail/20260722075002337800",
           "source": "金十数据",
@@ -2603,6 +2904,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
+        },
+        {
+          "title": "日本2年期国债收益率上升4个基点，至1.475%。为1995年5月以来最高水平。",
+          "url": "https://flash.jin10.com/detail/20260722160107917800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
+        },
+        {
+          "title": "美元兑日元跌幅扩大，下跌0.3%至162.69的日内低点。报道称日本央行愿考虑更快的加息步伐。",
+          "url": "https://wallstreetcn.com/livenews/3138068",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
         },
         {
           "title": "日本30年期国债收益率上行1.5个基点至3.9%。",
@@ -2616,13 +2939,24 @@
           "time_info": "10时02分"
         },
         {
+          "title": "报道：日本央行愿意考虑更快的加息步伐 因日元贬值加剧通胀风险",
+          "url": "https://wallstreetcn.com/livenews/3138064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
+        },
+        {
           "title": "日本40年期国债收益率上涨2个基点至3.910%。",
           "url": "https://wallstreetcn.com/livenews/3137955",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         },
@@ -2633,7 +2967,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         },
@@ -2644,7 +2978,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         },
@@ -2655,7 +2989,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         },
@@ -2666,7 +3000,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         },
@@ -2692,11 +3026,12 @@
           "url": "https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E9%AB%98%E5%B1%82%E7%88%86%E5%8F%91%E4%B8%A5%E9%87%8D%E5%86%85%E6%96%97",
           "source": "百度热搜",
           "ranks": [
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 13时25分]"
+          "appearance_count": 4,
+          "time_info": "[13时24分 ~ 16时15分]"
         },
         {
           "title": "泽连斯基决定任命德拉帕特为乌军总司令",
@@ -2716,7 +3051,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         },
@@ -2783,7 +3118,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         },
