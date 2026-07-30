@@ -1,11 +1,516 @@
 {
-  "generated_at": "2026-07-31T05:01:38.789870+08:00",
-  "total_titles_processed": 393,
+  "generated_at": "2026-07-31T06:11:31.040472+08:00",
+  "total_titles_processed": 458,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "# --- 第四组：美股与科技 (去掉了具体的“财报”限制) --- 美股 纳指 道琼斯 标普 特斯拉 英伟达 苹果 微软 OpenAI",
+      "match_count": 45,
+      "titles": [
+        {
+          "title": "微软上季云+AI强劲答卷：Azure收入增超40%，资本支出低于预期，新增数据中心租约超1300亿｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778264",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时15分 ~ 06时11分]"
+        },
+        {
+          "title": "OpenAI首席财务官“放暖风”：7月年化收入超过第二季！",
+          "url": "https://www.cls.cn/detail/2441076",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时15分 ~ 06时11分]"
+        },
+        {
+          "title": "逢低买盘推动美股走高，费城半导体指数涨超7%，微软涨超14%，油价转跌",
+          "url": "https://wallstreetcn.com/articles/3778287",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时15分 ~ 05时01分]"
+        },
+        {
+          "title": "苹果总营收略超预期，大中华区营收逊色盘后跌4%",
+          "url": "https://flash.jin10.com/detail/20260731044802288800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "苹果CEO库克：如果有更多的DRAM供应商，那将是件好事",
+          "url": "https://wallstreetcn.com/livenews/3142669",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
+          "title": "微软业绩提振AI信心，纳指100创年内第三大涨幅，芯片指数暴涨8%，美元跳水黄金夺回4100",
+          "url": "https://wallstreetcn.com/articles/3778287",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
+          "title": "苹果(AAPL.O)首席财务官：App Store的移动游戏收入出现“疲软”迹象。",
+          "url": "https://flash.jin10.com/detail/20260731055153844800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
+          "title": "苹果(AAPL.O)2026财年Q3服务营收为307.4亿美元，低于市场预期的312.2亿美元。",
+          "url": "https://flash.jin10.com/detail/20260731043546572800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "在分析师电话会上，苹果预计第四财季营收同比将增长9%-11%，分析师预期增长12.1%。 预计第四财季总体收入将遭受两大因素的拖累：外汇和供应限制。 预计第四财季iPhone收入将受到供应限制的拖累，增速将陷入“10%-20%区间”（mid-teens）。 Mac和iPad产品也将遭受供应链的冲击。 苹果盘后跌幅扩大至7%。",
+          "url": "https://wallstreetcn.com/livenews/3142665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
+          "title": "微软股价涨幅扩大至15%",
+          "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E8%BD%AF%E8%82%A1%E4%BB%B7%E6%B6%A8%E5%B9%85%E6%89%A9%E5%A4%A7%E8%87%B315%25",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时15分 ~ 05时01分]"
+        },
+        {
+          "title": "标普500指数的11个板块中，信息技术/科技板块收涨5.24%，可选消费板块涨1.57%，原材料板块涨1%，电信板块跌2.52%。",
+          "url": "https://wallstreetcn.com/livenews/3142642",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时11分]"
+        },
+        {
+          "title": "周四（7月30日），美股行业ETF多数收涨，半导体ETF涨6.88%，全球科技股指数ETF、科技行业ETF至少涨5.5%。",
+          "url": "https://wallstreetcn.com/livenews/3142641",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时11分]"
+        },
+        {
+          "title": "微软电话会：2026年资本开支“变相”下降，Azure需求持续超越可用容量，AI变现进入加速轨道",
+          "url": "https://wallstreetcn.com/articles/3778268",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时11分]"
+        },
+        {
+          "title": "Reddit二季度营收8.049亿美元，分析师预期7.318亿美元。 Reddit美股盘后跌6%。",
+          "url": "https://wallstreetcn.com/livenews/3142637",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时11分]"
+        },
+        {
+          "title": "小苹果阿姨的家迎来大改造",
+          "url": "https://www.douyin.com/hot/2590563",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时11分]"
+        },
+        {
+          "title": "苹果(AAPL.O)2026财年Q3毛利率为50.1%，高于市场预期的47.92%。",
+          "url": "https://flash.jin10.com/detail/20260731043348456800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "周四（7月30日）纽约尾盘，标普500股指期货最终涨1.73%，道指期货涨1.30%，纳斯达克100股指期货涨3.71%。 罗素2000股指期货涨1.40%。",
+          "url": "https://wallstreetcn.com/livenews/3142664",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
+          "title": "苹果(AAPL.O)2026财年Q3大中华区营收为188.2亿美元，市场预期为196.7亿美元。",
+          "url": "https://flash.jin10.com/detail/20260731043243783800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "苹果(AAPL.O)CEO库克：对于希望重度使用新AI产品的用户，苹果将提供“升级选项”。",
+          "url": "https://flash.jin10.com/detail/20260731054211887800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
+          "title": "苹果：平台上现在拥有15亿付费订阅（用户）。",
+          "url": "https://wallstreetcn.com/livenews/3142663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
+          "title": "财报公布后，苹果(AAPL.O)盘后下挫，现跌2%。",
+          "url": "https://flash.jin10.com/detail/20260731043111025800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "苹果高管：iPhone营收增长22%，主要得益于iPhone 17系列新品。 （注：苹果高管没有提到iPhone air。）",
+          "url": "https://wallstreetcn.com/livenews/3142662",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
+          "title": "苹果(AAPL.O)2026财年Q3 iPhone销售业务收入为542.5亿美元，市场预期538.57亿美元。",
+          "url": "https://flash.jin10.com/detail/20260731043055960800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "苹果(AAPL.O)CEO库克：我们正在评估关于内存供应的所有选项，以寻找替代组件供应商。",
+          "url": "https://flash.jin10.com/detail/20260731053908794800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
+          "title": "亚马逊高管预计2026年资本开支2200亿美元，主要用于AI。 亚马逊美股盘后涨幅扩大至超过10%。",
+          "url": "https://wallstreetcn.com/livenews/3142660",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
+          "title": "苹果(AAPL.O)2026财年Q3营收1094.2亿美元，去年同期940.36亿美元，市场预期1085.78亿美元。",
+          "url": "https://flash.jin10.com/detail/20260731043024065800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "美股存储芯片概念股盘后继续走强，西部数据(WDC.O)涨超4%，希捷科技(STX.O)、美光科技(MU.O)和SK海力士(SKHY.O)涨3%，闪迪(SNDK.O)涨6%。",
+          "url": "https://flash.jin10.com/detail/20260731053830299800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
+          "title": "苹果(AAPL.O)CEO库克：如果有更多的DRAM供应商，那将是件好事。",
+          "url": "https://flash.jin10.com/detail/20260731053821318800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
+          "title": "微软市值单日增加4500亿美元，创股市之最",
+          "url": "https://wallstreetcn.com/livenews/3142634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "苹果(AAPL.O)CEO库克：第三财季在内存方面的支出“显著高于”第二财季。",
+          "url": "https://flash.jin10.com/detail/20260731053541359800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
+          "title": "金十图示：2026年07月30日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260731041111515800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "苹果(AAPL.O)CEO库克：我们看到的供应链灵活性低于正常水平。供应限制主要影响了Mac。",
+          "url": "https://flash.jin10.com/detail/20260731053500135800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
+          "title": "金十图示：2026年07月30日（周四）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260731041106345800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "标普500指数收涨121.48点，涨幅1.66%，报7437.63点。 道琼斯工业平均指数收涨613.92点，涨幅1.19%，报52208.06点。 纳斯达克综合指数（纳指）收涨679.235点，涨幅2.78%，报25122.177点。 纳斯达克100指数收涨914.04点，涨幅3.36%，报28106.346点。 纳斯达克科技市值加权指数收涨4.34%，报2812.9871点。 费城半导体指数收涨855.499点，涨幅8.19%，报11302.988点。 费城证交所KBW银行指数收涨1.55%，报186.78点。 道琼斯KBW地区银行指数收跌0.08%，报147.14点。 罗素2000指数收涨1.37%，报2946.101点。 纳斯达克生物科技指数收涨0.78%，报6572.12点。 恐慌指数VIX收跌17.33%，报17.08，欧洲股市开盘以来持续下跌。",
+          "url": "https://wallstreetcn.com/livenews/3142630",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "苹果(AAPL.O)预计第四财季外汇将带来2.5个百分点的负面影响。",
+          "url": "https://flash.jin10.com/detail/20260731053434407800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
+          "title": "微软市值飙升4900亿美元，有望创下史上最大单日市值涨幅纪录",
+          "url": "https://wallstreetcn.com/livenews/3142608",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
+          "title": "苹果(AAPL.O)首席财务官：第四财季供应限制将“显著加剧”。",
+          "url": "https://flash.jin10.com/detail/20260731053234255800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
+          "title": "OpenAI：将GPT-5.6Luna的价格下调80%",
+          "url": "https://wallstreetcn.com/livenews/3142590",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
+          "title": "即将卸任的苹果(AAPL.O)CEO库克在其最后一次财报电话会议上感谢股东和分析师。",
+          "url": "https://flash.jin10.com/detail/20260731053149548800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
+          "title": "苹果(AAPL.O)CEO库克：苹果首席执行官交接“顺利进行”。",
+          "url": "https://flash.jin10.com/detail/20260731053107931800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
+          "title": "苹果(AAPL.O)首席财务官：预计第四财季运营费用将在191亿美元至194亿美元之间。",
+          "url": "https://flash.jin10.com/detail/20260731053059175800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
+          "title": "苹果(AAPL.O)首席财务官：预计第四财季毛利率将在47%到48%之间，其中关税退税将贡献约1个百分点。",
+          "url": "https://flash.jin10.com/detail/20260731053045783800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
+          "title": "苹果(AAPL.O)首席财务官：预计第四财季iPhone收入同比增长率将达到15%左右。",
+          "url": "https://flash.jin10.com/detail/20260731053022924800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
+          "title": "苹果盘后大跌7%，营收指引不及预期",
+          "url": "https://flash.jin10.com/detail/20260731052932458800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
+          "title": "苹果(AAPL.O)首席财务官：越来越多公司选择Mac以利用设备端AI优势。",
+          "url": "https://flash.jin10.com/detail/20260731052605982800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        }
+      ]
+    },
+    {
       "keyword_group": "# --- 第三组：美国宏观与军事 --- 美国 白宫 五角大楼 美军 美联储 布林肯 拜登 特朗普",
-      "match_count": 29,
+      "match_count": 35,
       "titles": [
         {
           "title": "在美国和内塔尼亚胡吃了顿饭，黎巴嫩银行家回国或被捕",
@@ -15,8 +520,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时15分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[03时15分 ~ 06时11分]"
         },
         {
           "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税",
@@ -30,28 +535,6 @@
           "time_info": "[03时15分 ~ 03时16分]"
         },
         {
-          "title": "伊朗谴责美军袭击格什姆岛居民区致3人死亡",
-          "url": "https://wallstreetcn.com/livenews/3142649",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
-        },
-        {
-          "title": "白宫发布关于可回收关键矿产的备忘录：美国寻求保障可回收关键矿产的供应。 将可回收关键矿产相关行动与国防挂钩。",
-          "url": "https://wallstreetcn.com/livenews/3142647",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
-        },
-        {
           "title": "中东局势突变叠加美联储鹰派分歧，油价飙8%，纳指六连跌，30年美债收益率创2007年最高",
           "url": "https://wallstreetcn.com/articles/3778176",
           "source": "华尔街见闻",
@@ -60,8 +543,41 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时15分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[03时15分 ~ 06时11分]"
+        },
+        {
+          "title": "美国和乌克兰上周签署了无人机技术协议。 乌克兰无人机可以送到美国进行军事测试。（NBC）",
+          "url": "https://wallstreetcn.com/livenews/3142668",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
+          "title": "美国财长贝森特：日元在我看来“似乎被严重低估”。",
+          "url": "https://flash.jin10.com/detail/20260731055132400800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
+          "title": "亚马逊在二季度获得6亿美元与（美国总统特朗普）关税相关的退款。 公司将向某些客户自动发放关税退款。",
+          "url": "https://wallstreetcn.com/livenews/3142667",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
         },
         {
           "title": "白宫称哈马斯或数日内同意解除武装协议",
@@ -75,6 +591,17 @@
           "time_info": "03时16分"
         },
         {
+          "title": "美国财长贝森特：日本可能在（美东时间）周四早些时候干预了外汇市场。",
+          "url": "https://flash.jin10.com/detail/20260731054921788800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
           "title": "伊朗称摧毁3架F-35战机，美军回应",
           "url": "https://news.ifeng.com/c/8vBxRifaFrE",
           "source": "凤凰网",
@@ -82,19 +609,44 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时15分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[03时15分 ~ 06时11分]"
+        },
+        {
+          "title": "伊朗谴责美军袭击格什姆岛居民区致3人死亡",
+          "url": "https://wallstreetcn.com/livenews/3142649",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时11分]"
+        },
+        {
+          "title": "白宫发布关于可回收关键矿产的备忘录：美国寻求保障可回收关键矿产的供应。 将可回收关键矿产相关行动与国防挂钩。",
+          "url": "https://wallstreetcn.com/livenews/3142647",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时11分]"
         },
         {
           "title": "美联储维持利率不变",
           "url": "https://www.douyin.com/hot/2590053",
           "source": "抖音",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时15分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[03时15分 ~ 06时11分]"
         },
         {
           "title": "以媒：内塔尼亚胡向特朗普阐述对伊“三种情景”",
@@ -104,8 +656,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时15分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[03时15分 ~ 06时11分]"
         },
         {
           "title": "“极不寻常”！爆料称特朗普或拒绝法国驻美大使提名",
@@ -115,8 +667,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时15分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[03时15分 ~ 06时11分]"
         },
         {
           "title": "美联储按兵不动，遭遇3张反对票、主张加息25个基点（附声明全文）",
@@ -126,8 +678,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时15分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[03时15分 ~ 06时11分]"
         },
         {
           "title": "伊朗称打击约旦美军基地摧毁3架F-35",
@@ -146,11 +698,23 @@
           "url": "https://wallstreetcn.com/livenews/3142643",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时11分]"
+        },
+        {
+          "title": "华尔街点评美联储决议：沃什欢迎市场代替“加息”？",
+          "url": "https://wallstreetcn.com/articles/3778274",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时11分]"
         },
         {
           "title": "据Axios：据四位知情人士透露，白宫和特朗普总统的和平委员会认为，哈马斯可能会在未来几天内签署一项协议，逐步解除武装并实现加沙地带的非军事化。",
@@ -181,18 +745,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
-        },
-        {
-          "title": "华尔街点评美联储决议：沃什欢迎市场代替“加息”？",
-          "url": "https://wallstreetcn.com/articles/3778274",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -230,15 +783,37 @@
           "time_info": "03时16分"
         },
         {
+          "title": "白宫顾问哈塞特：人工智能（AI）并没有给美国造成通货膨胀。 如有必要，我们将继续降低油价。",
+          "url": "https://wallstreetcn.com/livenews/3142656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
           "title": "白宫官员：美国总统特朗普下令限制关键矿物废料的出口。",
           "url": "https://flash.jin10.com/detail/20260731042633412800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
+        },
+        {
+          "title": "美国两年期国债收益率跌约2.9个基点",
+          "url": "https://wallstreetcn.com/livenews/3142653",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
         },
         {
           "title": "周四（7月30日），美联储隔夜逆回购协议（RRP）使用规模为10.76亿美元（交易对手3家），上个交易日报25.76亿美元。",
@@ -291,7 +866,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -331,268 +906,20 @@
       ]
     },
     {
-      "keyword_group": "# --- 第四组：美股与科技 (去掉了具体的“财报”限制) --- 美股 纳指 道琼斯 标普 特斯拉 英伟达 苹果 微软 OpenAI",
-      "match_count": 22,
-      "titles": [
-        {
-          "title": "微软上季云+AI强劲答卷：Azure收入增超40%，资本支出低于预期，新增数据中心租约超1300亿｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778264",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时15分 ~ 05时01分]"
-        },
-        {
-          "title": "逢低买盘推动美股走高，费城半导体指数涨超7%，微软涨超14%，油价转跌",
-          "url": "https://wallstreetcn.com/articles/3778287",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时15分 ~ 05时01分]"
-        },
-        {
-          "title": "OpenAI首席财务官“放暖风”：7月年化收入超过第二季！",
-          "url": "https://www.cls.cn/detail/2441076",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时15分 ~ 05时01分]"
-        },
-        {
-          "title": "苹果总营收略超预期，大中华区营收逊色盘后跌4%",
-          "url": "https://flash.jin10.com/detail/20260731044802288800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
-        },
-        {
-          "title": "苹果(AAPL.O)2026财年Q3服务营收为307.4亿美元，低于市场预期的312.2亿美元。",
-          "url": "https://flash.jin10.com/detail/20260731043546572800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
-        },
-        {
-          "title": "微软股价涨幅扩大至15%",
-          "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E8%BD%AF%E8%82%A1%E4%BB%B7%E6%B6%A8%E5%B9%85%E6%89%A9%E5%A4%A7%E8%87%B315%25",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时15分 ~ 05时01分]"
-        },
-        {
-          "title": "苹果(AAPL.O)2026财年Q3毛利率为50.1%，高于市场预期的47.92%。",
-          "url": "https://flash.jin10.com/detail/20260731043348456800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
-        },
-        {
-          "title": "苹果(AAPL.O)2026财年Q3大中华区营收为188.2亿美元，市场预期为196.7亿美元。",
-          "url": "https://flash.jin10.com/detail/20260731043243783800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
-        },
-        {
-          "title": "标普500指数的11个板块中，信息技术/科技板块收涨5.24%，可选消费板块涨1.57%，原材料板块涨1%，电信板块跌2.52%。",
-          "url": "https://wallstreetcn.com/livenews/3142642",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
-        },
-        {
-          "title": "财报公布后，苹果(AAPL.O)盘后下挫，现跌2%。",
-          "url": "https://flash.jin10.com/detail/20260731043111025800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
-        },
-        {
-          "title": "周四（7月30日），美股行业ETF多数收涨，半导体ETF涨6.88%，全球科技股指数ETF、科技行业ETF至少涨5.5%。",
-          "url": "https://wallstreetcn.com/livenews/3142641",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
-        },
-        {
-          "title": "微软电话会：2026年资本开支“变相”下降，Azure需求持续超越可用容量，AI变现进入加速轨道",
-          "url": "https://wallstreetcn.com/articles/3778268",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
-        },
-        {
-          "title": "苹果(AAPL.O)2026财年Q3 iPhone销售业务收入为542.5亿美元，市场预期538.57亿美元。",
-          "url": "https://flash.jin10.com/detail/20260731043055960800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
-        },
-        {
-          "title": "苹果(AAPL.O)2026财年Q3营收1094.2亿美元，去年同期940.36亿美元，市场预期1085.78亿美元。",
-          "url": "https://flash.jin10.com/detail/20260731043024065800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
-        },
-        {
-          "title": "Reddit二季度营收8.049亿美元，分析师预期7.318亿美元。 Reddit美股盘后跌6%。",
-          "url": "https://wallstreetcn.com/livenews/3142637",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
-        },
-        {
-          "title": "微软市值单日增加4500亿美元，创股市之最",
-          "url": "https://wallstreetcn.com/livenews/3142634",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
-        },
-        {
-          "title": "金十图示：2026年07月30日（周四）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260731041111515800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
-        },
-        {
-          "title": "金十图示：2026年07月30日（周四）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260731041106345800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
-        },
-        {
-          "title": "标普500指数收涨121.48点，涨幅1.66%，报7437.63点。 道琼斯工业平均指数收涨613.92点，涨幅1.19%，报52208.06点。 纳斯达克综合指数（纳指）收涨679.235点，涨幅2.78%，报25122.177点。 纳斯达克100指数收涨914.04点，涨幅3.36%，报28106.346点。 纳斯达克科技市值加权指数收涨4.34%，报2812.9871点。 费城半导体指数收涨855.499点，涨幅8.19%，报11302.988点。 费城证交所KBW银行指数收涨1.55%，报186.78点。 道琼斯KBW地区银行指数收跌0.08%，报147.14点。 罗素2000指数收涨1.37%，报2946.101点。 纳斯达克生物科技指数收涨0.78%，报6572.12点。 恐慌指数VIX收跌17.33%，报17.08，欧洲股市开盘以来持续下跌。",
-          "url": "https://wallstreetcn.com/livenews/3142630",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
-        },
-        {
-          "title": "微软市值飙升4900亿美元，有望创下史上最大单日市值涨幅纪录",
-          "url": "https://wallstreetcn.com/livenews/3142608",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时16分"
-        },
-        {
-          "title": "OpenAI：将GPT-5.6Luna的价格下调80%",
-          "url": "https://wallstreetcn.com/livenews/3142590",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时16分"
-        },
-        {
-          "title": "小苹果阿姨的家迎来大改造",
-          "url": "https://www.douyin.com/hot/2590563",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
-        }
-      ]
-    },
-    {
       "keyword_group": "# --- 第一组：中国宏观 (去掉了必须词，只过滤娱乐) --- 中国 央视 外交部 国防部 解放军 人民日报 新华社",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "一艘商用无人艇接近中方军舰？外交部回应",
           "url": "https://news.ifeng.com/c/8vBNOLBn9rt",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时15分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[03时15分 ~ 06时11分]"
         },
         {
           "title": "解放军两次警告日方不能自称海军",
@@ -602,8 +929,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时15分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[03时15分 ~ 06时11分]"
         },
         {
           "title": "有报道称中方将提供400枚肩扛式导弹给伊朗，外交部：毫无根据",
@@ -613,8 +940,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时15分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[03时15分 ~ 06时11分]"
         },
         {
           "title": "解放军两次警告日方不能自称海军",
@@ -622,11 +949,12 @@
           "source": "抖音",
           "ranks": [
             1,
-            6
+            6,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时15分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[03时15分 ~ 06时11分]"
         },
         {
           "title": "卡塔尔外交部：卡塔尔谴责伊朗再次袭击约旦和科威特领土，此举侵犯了两国的主权。",
@@ -644,22 +972,12 @@
           "url": "https://news.ifeng.com/c/8vBr1Y5Lncc",
           "source": "凤凰网",
           "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时15分 ~ 05时01分]"
-        },
-        {
-          "title": "外机成体系逼近，中国飞行员果断驱离",
-          "url": "https://news.ifeng.com/c/8vAy8khYJKG",
-          "source": "凤凰网",
-          "ranks": [
+            7,
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时15分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[03时15分 ~ 06时11分]"
         },
         {
           "title": "南部战区位中国黄岩岛组织战备警巡",
@@ -669,8 +987,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时15分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[03时15分 ~ 06时11分]"
         },
         {
           "title": "外长要华裔议员“滚回自己国家”，新西兰总理、中国大使发声",
@@ -680,8 +998,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时15分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[03时15分 ~ 06时11分]"
         },
         {
           "title": "高市早苗说中国是重要邻国，究竟是战略性调整还是公关话术？",
@@ -691,8 +1009,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时15分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[03时15分 ~ 06时11分]"
         },
         {
           "title": "中国向伊朗提供400枚导弹？外交部回应",
@@ -702,8 +1020,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时15分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[03时15分 ~ 06时11分]"
+        },
+        {
+          "title": "长沙天马德馨园7-0中国足球小将蓝队",
+          "url": "https://www.toutiao.com/trending/7667752219152711690/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时15分 ~ 06时11分]"
         },
         {
           "title": "伊朗将接收中国造肩扛式防空导弹发射装置？外交部：不符合事实",
@@ -714,19 +1044,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时15分 ~ 05时01分]"
-        },
-        {
-          "title": "长沙天马德馨园7-0中国足球小将蓝队",
-          "url": "https://www.toutiao.com/trending/7667752219152711690/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时15分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[03时15分 ~ 06时11分]"
         },
         {
           "title": "台称解放军直升机过所谓“台海中线”长时间活动，国防部答澎湃：天经地义",
@@ -736,8 +1055,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时15分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[03时15分 ~ 06时11分]"
         },
         {
           "title": "老外领悟中国小说,含蓄中藏暗示",
@@ -745,6 +1064,17 @@
           "source": "贴吧",
           "ranks": [
             15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时15分 ~ 06时11分]"
+        },
+        {
+          "title": "外机成体系逼近，中国飞行员果断驱离",
+          "url": "https://news.ifeng.com/c/8vAy8khYJKG",
+          "source": "凤凰网",
+          "ranks": [
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -784,15 +1114,37 @@
           "time_info": "03时16分"
         },
         {
+          "title": "库克称苹果Q2在中国大陆等新兴市场和部分发达市场打破纪录，公司股价盘后跌幅仍然扩大至5%",
+          "url": "https://wallstreetcn.com/livenews/3142654",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
           "title": "纳斯达克金龙中国指数收涨1.05%，报6502.80点。 热门中概股里，世纪互联涨16.7%，日月光半导体涨12.2%，万国数据涨8%，阿特斯太阳能涨7.7%，腾讯涨2.4%，百度涨2%，网易涨1.8%，阿里涨1%。 ETF中，MSCI新兴市场ex中国ETF（EMXC）收涨4.97%，德银嘉实沪深300指数ETF（ASHR）收涨1.15%，XtrackersHarvest中证50（ASHS）收跌0.65%。 中概互联网指数ETF（KWEB）收涨0.94%，中国科技指数ETF（CQQQ）收跌0.54%。",
           "url": "https://wallstreetcn.com/livenews/3142632",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
+        },
+        {
+          "title": "荷兰弟来中国为啥火了森马",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8D%B7%E5%85%B0%E5%BC%9F%E6%9D%A5%E4%B8%AD%E5%9B%BD%E4%B8%BA%E5%95%A5%E7%81%AB%E4%BA%86%E6%A3%AE%E9%A9%AC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
         },
         {
           "title": "沙特国防部：沙特阿拉伯召开国际会议，讨论海洋防御联盟的相关安排。 沙特方面表示，联盟将加强在曼德海峡、红海及亚丁湾的防务合作。",
@@ -804,12 +1156,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        },
+        {
+          "title": "2025中国网络文学影响力榜发布",
+          "url": "https://www.baidu.com/s?wd=2025%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E6%96%87%E5%AD%A6%E5%BD%B1%E5%93%8D%E5%8A%9B%E6%A6%9C%E5%8F%91%E5%B8%83",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
         }
       ]
     },
     {
       "keyword_group": "# --- 第二组：中国经济与A股 (保留宽泛的行情词) --- A股 上证 深证 恒生 人民币 汇率 经济 GDP",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "中共中央政治局召开会议，决定召开二十届五中全会，分析研究当前经济形势和经济工作，中共中央总书记习近平主持会议",
@@ -819,8 +1182,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时15分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[03时15分 ~ 06时11分]"
         },
         {
           "title": "A股又一波增持回购潮来了！三环集团十天内“两”回购",
@@ -830,8 +1193,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时15分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[03时15分 ~ 06时11分]"
         },
         {
           "title": "中共中央政治局召开会议，决定召开二十届五中全会，分析研究当前经济形势和经济工作，中共中央总书记习近平主持会议",
@@ -842,8 +1205,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时15分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[03时15分 ~ 06时11分]"
         },
         {
           "title": "据日经新闻：美国当局也进行了汇率核查。",
@@ -852,7 +1215,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -876,8 +1239,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时15分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[03时15分 ~ 06时11分]"
         },
         {
           "title": "美国二季度GDP增速不及预期 但消费和AI投资释放积极信号",
@@ -888,19 +1251,42 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时15分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[03时15分 ~ 06时11分]"
         },
         {
           "title": "政治局会议释放哪些重要经济信号",
           "url": "https://www.toutiao.com/trending/7668295382706687507/",
           "source": "今日头条",
           "ranks": [
-            18
+            18,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时15分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[03时15分 ~ 06时11分]"
+        },
+        {
+          "title": "离岸人民币创2023年年初以来新高",
+          "url": "https://wallstreetcn.com/livenews/3142661",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
+          "title": "日本媒体：日本实施汇市干预，美国亦进行了汇率询价",
+          "url": "https://wallstreetcn.com/livenews/3142645",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7528元，较周三夜盘收盘涨102点。成交量391.57亿美元。",
@@ -909,7 +1295,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -920,7 +1306,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         }
@@ -931,15 +1317,16 @@
       "match_count": 7,
       "titles": [
         {
-          "title": "据日经新闻：日本政府与日本央行在外汇市场进行干预。",
-          "url": "https://flash.jin10.com/detail/20260731043732594800",
-          "source": "金十数据",
+          "title": "日本广岛现新物质 系原子弹爆炸形成",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%B9%BF%E5%B2%9B%E7%8E%B0%E6%96%B0%E7%89%A9%E8%B4%A8+%E7%B3%BB%E5%8E%9F%E5%AD%90%E5%BC%B9%E7%88%86%E7%82%B8%E5%BD%A2%E6%88%90",
+          "source": "百度热搜",
           "ranks": [
+            8,
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时15分 ~ 06时11分]"
         },
         {
           "title": "日本震后老年人睡地板民众哭喊怕余震",
@@ -947,11 +1334,23 @@
           "source": "今日头条",
           "ranks": [
             7,
-            5
+            5,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时15分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[03时15分 ~ 06时11分]"
+        },
+        {
+          "title": "据日经新闻：日本政府与日本央行在外汇市场进行干预。",
+          "url": "https://flash.jin10.com/detail/20260731043732594800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时01分"
         },
         {
           "title": "日本政府与日本央行在外汇市场进行干预。（日经新闻）",
@@ -960,20 +1359,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
-        },
-        {
-          "title": "日本广岛现新物质 系原子弹爆炸形成",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%B9%BF%E5%B2%9B%E7%8E%B0%E6%96%B0%E7%89%A9%E8%B4%A8+%E7%B3%BB%E5%8E%9F%E5%AD%90%E5%BC%B9%E7%88%86%E7%82%B8%E5%BD%A2%E6%88%90",
-          "source": "百度热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时15分 ~ 05时01分]"
         },
         {
           "title": "凤凰记者深入日本震区工厂：烟囱断裂，工人被困，全面停工",
@@ -983,19 +1371,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时15分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[03时15分 ~ 06时11分]"
         },
         {
           "title": "记者用两个非常惨烈形容日本震后现场",
           "url": "https://www.toutiao.com/trending/7668085321384529418/",
           "source": "今日头条",
           "ranks": [
-            16
+            16,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时11分]"
         },
         {
           "title": "花旗称日元将转弱，建议在日本央行决议前做多美元兑日元",
@@ -1021,7 +1410,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         }
