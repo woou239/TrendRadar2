@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-31T10:34:12.601906+08:00",
-  "total_titles_processed": 749,
+  "generated_at": "2026-07-31T14:01:58.828563+08:00",
+  "total_titles_processed": 937,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- 第四组：美股与科技 (去掉了具体的“财报”限制) --- 美股 纳指 道琼斯 标普 特斯拉 英伟达 苹果 微软 OpenAI",
-      "match_count": 59,
+      "match_count": 61,
       "titles": [
         {
           "title": "微软上季云+AI强劲答卷：Azure收入增超40%，资本支出低于预期，新增数据中心租约超1300亿｜财报见闻",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时58分 ~ 10时34分]"
+          "appearance_count": 4,
+          "time_info": "[07时58分 ~ 14时01分]"
         },
         {
           "title": "【早报】美科技股全线暴涨；苹果、亚马逊业绩公布；油价下行、黄金走强；宇树科技，8月10日申购",
@@ -38,19 +38,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时58分 ~ 10时34分]"
+          "appearance_count": 4,
+          "time_info": "[07时58分 ~ 14时01分]"
         },
         {
           "title": "美股收盘：满屏都是两位数涨幅 微软单日市值暴增3万亿",
           "url": "https://www.cls.cn/detail/2441995",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时58分 ~ 10时34分]"
+          "appearance_count": 4,
+          "time_info": "[07时58分 ~ 14时01分]"
         },
         {
           "title": "逢低买盘推动美股走高，费城半导体指数涨超7%，微软涨超14%，油价转跌",
@@ -189,6 +190,18 @@
           "time_info": "[07时58分 ~ 10时34分]"
         },
         {
+          "title": "降幅高达80%！OpenAI大砍两款AI模型价格 “Token价格战”升温",
+          "url": "https://www.cls.cn/detail/2442077",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时33分 ~ 14时01分]"
+        },
+        {
           "title": "小苹果阿姨的家迎来大改造",
           "url": "https://www.douyin.com/hot/2590563",
           "source": "抖音",
@@ -234,17 +247,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时01分 ~ 06时11分]"
-        },
-        {
-          "title": "降幅高达80%！OpenAI大砍两款AI模型价格 “Token价格战”升温",
-          "url": "https://www.cls.cn/detail/2442077",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时33分 ~ 10时34分]"
         },
         {
           "title": "Reddit二季度营收8.049亿美元，分析师预期7.318亿美元。 Reddit美股盘后跌6%。",
@@ -347,6 +349,17 @@
           "time_info": "06时11分"
         },
         {
+          "title": "一图看懂丨AI算力军备持续升温：美股四巨头开支指引再度上调",
+          "url": "https://www.cls.cn/detail/2442218",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
+        },
+        {
           "title": "财报公布后，苹果(AAPL.O)盘后下挫，现跌2%。",
           "url": "https://flash.jin10.com/detail/20260731043111025800",
           "source": "金十数据",
@@ -356,6 +369,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
+        },
+        {
+          "title": "经典技术信号失灵，美股离完全见底不远了",
+          "url": "https://flash.jin10.com/detail/20260731133907783800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
         },
         {
           "title": "苹果高管：iPhone营收增长22%，主要得益于iPhone 17系列新品。 （注：苹果高管没有提到iPhone air。）",
@@ -441,7 +465,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
         },
@@ -669,7 +693,7 @@
     },
     {
       "keyword_group": "# --- 第三组：美国宏观与军事 --- 美国 白宫 五角大楼 美军 美联储 布林肯 拜登 特朗普",
-      "match_count": 53,
+      "match_count": 58,
       "titles": [
         {
           "title": "伊朗称摧毁3架F-35战机，美军回应",
@@ -695,17 +719,6 @@
           "time_info": "[03时15分 ~ 06时11分]"
         },
         {
-          "title": "美国吸毒女子像虫子一样在地上蠕动",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%90%B8%E6%AF%92%E5%A5%B3%E5%AD%90%E5%83%8F%E8%99%AB%E5%AD%90%E4%B8%80%E6%A0%B7%E5%9C%A8%E5%9C%B0%E4%B8%8A%E8%A0%95%E5%8A%A8%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时33分 ~ 10时34分]"
-        },
-        {
           "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税",
           "url": "https://wallstreetcn.com/articles/3778237",
           "source": "华尔街见闻",
@@ -729,26 +742,26 @@
           "time_info": "[03时15分 ~ 06时11分]"
         },
         {
-          "title": "日本、韩国据传于昨夜干预汇市 美国再现“AI暴走”事件 | 环球市场",
-          "url": "https://www.cls.cn/detail/2442063",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时33分 ~ 10时34分]"
-        },
-        {
           "title": "美国参议院少数党领袖舒默：特朗普削减了负责防范此类网络攻击的机构——美国网络安全与基础设施安全局（CISA）——的7亿美元预算，却连一位CISA常任局长都未提名。既无远见，也无战略，只有这种冲动且危险的决策，持续将美国民众置于风险之中。",
           "url": "https://flash.jin10.com/detail/20260731101401911800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
+        },
+        {
+          "title": "美国被曝正筹备规模空前的对伊打击行动",
+          "url": "https://news.ifeng.com/c/8vCgUR1lXdw",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
         },
         {
           "title": "特朗普：与哈马斯达成全面解除武装协议",
@@ -774,6 +787,31 @@
           "time_info": "06时11分"
         },
         {
+          "title": "美国务院一出手，非洲全乱了",
+          "url": "https://news.ifeng.com/c/8vCOAeHmmup",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时58分 ~ 14时01分]"
+        },
+        {
+          "title": "美国吸毒女子像虫子一样在地上蠕动",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%90%B8%E6%AF%92%E5%A5%B3%E5%AD%90%E5%83%8F%E8%99%AB%E5%AD%90%E4%B8%80%E6%A0%B7%E5%9C%A8%E5%9C%B0%E4%B8%8A%E8%A0%95%E5%8A%A8%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时33分 ~ 14时01分]"
+        },
+        {
           "title": "美国财长贝森特：日元在我看来“似乎被严重低估”。",
           "url": "https://flash.jin10.com/detail/20260731055132400800",
           "source": "金十数据",
@@ -796,16 +834,16 @@
           "time_info": "06时11分"
         },
         {
-          "title": "美国务院一出手，非洲全乱了",
-          "url": "https://news.ifeng.com/c/8vCOAeHmmup",
-          "source": "凤凰网",
+          "title": "日本、韩国据传于昨夜干预汇市 美国再现“AI暴走”事件 | 环球市场",
+          "url": "https://www.cls.cn/detail/2442063",
+          "source": "财联社热门",
           "ranks": [
-            2,
-            11
+            5,
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[07时58分 ~ 10时34分]"
+          "time_info": "[10时33分 ~ 14时01分]"
         },
         {
           "title": "不敢掀桌子了又不肯罢休，美国对华连使坏招",
@@ -935,6 +973,18 @@
           "time_info": "[07时58分 ~ 10时34分]"
         },
         {
+          "title": "特朗普称与哈马斯及加沙其他武装团体达成解除武装协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33688329",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时33分 ~ 14时01分]"
+        },
+        {
           "title": "伊朗称打击约旦美军基地摧毁3架F-35",
           "url": "https://www.toutiao.com/trending/7668276655902690879/",
           "source": "今日头条",
@@ -970,17 +1020,6 @@
           "time_info": "[05时01分 ~ 06时11分]"
         },
         {
-          "title": "特朗普称与哈马斯及加沙其他武装团体达成解除武装协议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33688329",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时33分 ~ 10时34分]"
-        },
-        {
           "title": "据Axios：据四位知情人士透露，白宫和特朗普总统的和平委员会认为，哈马斯可能会在未来几天内签署一项协议，逐步解除武装并实现加沙地带的非军事化。",
           "url": "https://flash.jin10.com/detail/20260731023101313800",
           "source": "金十数据",
@@ -998,7 +1037,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
         },
@@ -1045,6 +1084,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        },
+        {
+          "title": "伊朗称击毁驻约旦美军基地 3 架 F-35，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2066282514805679344",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
         },
         {
           "title": "据员工邮件通知，美国联邦航空管理局副局长罗切洛将于下周卸任。",
@@ -1201,6 +1251,17 @@
           "time_info": "05时01分"
         },
         {
+          "title": "美媒爆料：泽连斯基请特朗普说服马斯克，允许乌借助“星链”打击俄导弹发射装置",
+          "url": "https://wallstreetcn.com/livenews/3142913",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
+        },
+        {
           "title": "美国总统特朗普：“并不确定”是否会允许乌克兰建造爱国者导弹。",
           "url": "https://flash.jin10.com/detail/20260731073406103800",
           "source": "金十数据",
@@ -1256,6 +1317,28 @@
           "time_info": "07时58分"
         },
         {
+          "title": "伊朗称摧毁3架美军F35战机",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E7%A7%B0%E6%91%A7%E6%AF%813%E6%9E%B6%E7%BE%8E%E5%86%9BF35%E6%88%98%E6%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
+        },
+        {
+          "title": "据日经新闻：印度遇难海员家属分别向美国和伊朗索赔500万美元。",
+          "url": "https://flash.jin10.com/detail/20260731125649919800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
+        },
+        {
           "title": "特朗普：加沙将迎来新的巴勒斯坦政府",
           "url": "https://wallstreetcn.com/livenews/3142682",
           "source": "华尔街见闻-快讯",
@@ -1270,21 +1353,8 @@
     },
     {
       "keyword_group": "# --- 第一组：中国宏观 (去掉了必须词，只过滤娱乐) --- 中国 央视 外交部 国防部 解放军 人民日报 新华社",
-      "match_count": 42,
+      "match_count": 52,
       "titles": [
-        {
-          "title": "解放军两次警告日方不能自称海军",
-          "url": "https://www.toutiao.com/trending/7667674880024428570/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时15分 ~ 10时34分]"
-        },
         {
           "title": "解放军两次警告日方不能自称海军",
           "url": "https://www.douyin.com/hot/2590737",
@@ -1295,8 +1365,22 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时15分 ~ 10时34分]"
+          "appearance_count": 8,
+          "time_info": "[03时15分 ~ 14时01分]"
+        },
+        {
+          "title": "解放军两次警告日方不能自称海军",
+          "url": "https://www.toutiao.com/trending/7667674880024428570/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            5,
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[03时15分 ~ 14时01分]"
         },
         {
           "title": "有报道称中方将提供400枚肩扛式导弹给伊朗，外交部：毫无根据",
@@ -1323,29 +1407,31 @@
           "time_info": "[03时15分 ~ 07时58分]"
         },
         {
-          "title": "中国向伊朗提供400枚导弹？外交部回应",
-          "url": "https://www.toutiao.com/trending/7668128346190053385/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时15分 ~ 10时34分]"
-        },
-        {
           "title": "伊朗将接收中国造肩扛式防空导弹发射装置？外交部：不符合事实",
           "url": "https://m.thepaper.cn/newsDetail_forward_33684903",
           "source": "澎湃新闻",
           "ranks": [
             13,
             14,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时15分 ~ 10时34分]"
+          "appearance_count": 8,
+          "time_info": "[03时15分 ~ 14时01分]"
+        },
+        {
+          "title": "中国向伊朗提供400枚导弹？外交部回应",
+          "url": "https://www.toutiao.com/trending/7668128346190053385/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[03时15分 ~ 14时01分]"
         },
         {
           "title": "台称解放军直升机过所谓“台海中线”长时间活动，国防部答澎湃：天经地义",
@@ -1353,22 +1439,46 @@
           "source": "澎湃新闻",
           "ranks": [
             15,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时15分 ~ 10时34分]"
+          "appearance_count": 8,
+          "time_info": "[03时15分 ~ 14时01分]"
         },
         {
           "title": "老外领悟中国小说,含蓄中藏暗示",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356633&amp;topic_name=%E8%80%81%E5%A4%96%E9%A2%86%E6%82%9F%E4%B8%AD%E5%9B%BD%E5%B0%8F%E8%AF%B4%2C%E5%90%AB%E8%93%84%E4%B8%AD%E8%97%8F%E6%9A%97%E7%A4%BA",
           "source": "贴吧",
           "ranks": [
-            15
+            15,
+            24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时15分 ~ 10时34分]"
+          "appearance_count": 8,
+          "time_info": "[03时15分 ~ 14时01分]"
+        },
+        {
+          "title": "A股固态电池板块午后震荡走强，星云股份、海顺新材涨超10%，此前中国宝安2连板，武汉蓝电、双杰电气、灵鸽科技、纳科诺尔、金龙羽等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260731134147137800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
+        },
+        {
+          "title": "中国台湾证交所加权股价指数收高8%报43,119.75点。",
+          "url": "https://wallstreetcn.com/livenews/3142944",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
         },
         {
           "title": "解放军喊话菲军机不要抵近否则遭拦截",
@@ -1376,11 +1486,12 @@
           "source": "今日头条",
           "ranks": [
             2,
-            6
+            6,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时58分 ~ 10时34分]"
+          "appearance_count": 4,
+          "time_info": "[07时58分 ~ 14时01分]"
         },
         {
           "title": "中国“黄金大外环”要来了",
@@ -1417,6 +1528,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时11分 ~ 10时34分]"
+        },
+        {
+          "title": "阿迪达斯快成“中国达斯”了",
+          "url": "https://www.baidu.com/s?wd=%E9%98%BF%E8%BF%AA%E8%BE%BE%E6%96%AF%E5%BF%AB%E6%88%90%E2%80%9C%E4%B8%AD%E5%9B%BD%E8%BE%BE%E6%96%AF%E2%80%9D%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
         },
         {
           "title": "南部战区位中国黄岩岛组织战备警巡",
@@ -1488,6 +1610,30 @@
           "time_info": "[03时15分 ~ 05时01分]"
         },
         {
+          "title": "八一建军节之际致敬中国军人",
+          "url": "https://www.douyin.com/hot/2590897",
+          "source": "抖音",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时33分 ~ 14时01分]"
+        },
+        {
+          "title": "中国空军喊话菲军机：不要抵近，否则将遭到拦截！",
+          "url": "https://v.ifeng.com/c/8vCX7uN77Qd",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时33分 ~ 14时01分]"
+        },
+        {
           "title": "事关黄岩岛，南部战区、中国海警同日行动",
           "url": "https://news.ifeng.com/c/8vCTDdfuHuM",
           "source": "凤凰网",
@@ -1508,28 +1654,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时15分 ~ 03时16分]"
-        },
-        {
-          "title": "中国空军喊话菲军机：不要抵近，否则将遭到拦截！",
-          "url": "https://v.ifeng.com/c/8vCX7uN77Qd",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时33分 ~ 10时34分]"
-        },
-        {
-          "title": "八一建军节之际致敬中国军人",
-          "url": "https://www.douyin.com/hot/2590897",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时33分 ~ 10时34分]"
         },
         {
           "title": "中国电力的历史性时刻到来",
@@ -1571,7 +1695,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
         },
@@ -1604,9 +1728,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
+        },
+        {
+          "title": "画面首次公开，中国机器狼扛着单兵火箭筒冲上滩头",
+          "url": "https://v.ifeng.com/c/8vCkx7M1Alj",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
         },
         {
           "title": "库克称苹果Q2在中国大陆等新兴市场和部分发达市场打破纪录，公司股价盘后跌幅仍然扩大至5%",
@@ -1629,6 +1764,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
+        },
+        {
+          "title": "特斯拉正考虑剥离中国业务？特斯拉中国官方回应：不实消息",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33688958",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
         },
         {
           "title": "环球时报：美多名议员阻挠苹果采购中国芯片",
@@ -1659,7 +1805,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
         },
@@ -1670,9 +1816,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
+        },
+        {
+          "title": "马斯克在社交平台X上称，有关特斯拉考虑剥离中国业务的媒体报道是“假新闻”。",
+          "url": "https://wallstreetcn.com/livenews/3142911",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
         },
         {
           "title": "中国7月官方非制造业PMI 49，前值 50.2。",
@@ -1681,9 +1838,31 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
+        },
+        {
+          "title": "据俄新社：俄罗斯国防部称，俄罗斯军队袭击了一艘运送军事货物前往乌克兰敖德萨附近港口的船只。",
+          "url": "https://flash.jin10.com/detail/20260731130928253800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
+        },
+        {
+          "title": "特斯拉正考虑剥离中国业务？特斯拉中国官方回应：不实消息",
+          "url": "https://wallstreetcn.com/livenews/3142905",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
         },
         {
           "title": "A股银行板块逆势下挫，农业银行、建设银行跌超4%，工商银行、中国银行、交通银行、浦发银行、中信银行跌超3%。",
@@ -1692,7 +1871,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
         },
@@ -1703,7 +1882,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
         },
@@ -1717,6 +1896,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
+        },
+        {
+          "title": "央视关注AI汽车",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E5%85%B3%E6%B3%A8AI%E6%B1%BD%E8%BD%A6%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
         },
         {
           "title": "沙特国防部：沙特阿拉伯召开国际会议，讨论海洋防御联盟的相关安排。 沙特方面表示，联盟将加强在曼德海峡、红海及亚丁湾的防务合作。",
@@ -1736,9 +1926,20 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
+        },
+        {
+          "title": "特斯拉中国否认将剥离中国业务",
+          "url": "https://www.toutiao.com/trending/7668525759765417515/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
         },
         {
           "title": "2025中国网络文学影响力榜发布",
@@ -1755,7 +1956,7 @@
     },
     {
       "keyword_group": "# --- 第五组：日本动态 (关键修改：去掉了外交限制) --- 日本 岸田文雄 自卫队 靖国神社 核污水",
-      "match_count": 37,
+      "match_count": 48,
       "titles": [
         {
           "title": "日本震后老年人睡地板民众哭喊怕余震",
@@ -1766,11 +1967,12 @@
             5,
             14,
             10,
-            16
+            16,
+            25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时15分 ~ 10时34分]"
+          "appearance_count": 8,
+          "time_info": "[03时15分 ~ 14时01分]"
         },
         {
           "title": "日本广岛现新物质 系原子弹爆炸形成",
@@ -1783,6 +1985,30 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时15分 ~ 07时58分]"
+        },
+        {
+          "title": "日本自卫队在太平洋首次试射“战斧”导弹",
+          "url": "https://news.ifeng.com/c/8vCOAeHmmpn",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时58分 ~ 14时01分]"
+        },
+        {
+          "title": "未来30年80%概率遇特大地震，日本全民被危机感裹挟",
+          "url": "https://news.ifeng.com/c/8vBnHR2hR3n",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时58分 ~ 14时01分]"
         },
         {
           "title": "日本6月库存月率 2.3%，前值-1.1%。",
@@ -1835,7 +2061,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
         },
@@ -1857,33 +2083,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
         },
         {
-          "title": "日本自卫队在太平洋首次试射“战斧”导弹",
-          "url": "https://news.ifeng.com/c/8vCOAeHmmpn",
-          "source": "凤凰网",
+          "title": "救援不力?日本商场爆炸多人死亡",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356659&amp;topic_name=%E6%95%91%E6%8F%B4%E4%B8%8D%E5%8A%9B%3F%E6%97%A5%E6%9C%AC%E5%95%86%E5%9C%BA%E7%88%86%E7%82%B8%E5%A4%9A%E4%BA%BA%E6%AD%BB%E4%BA%A1",
+          "source": "贴吧",
           "ranks": [
-            3,
-            8
+            4
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时58分 ~ 10时34分]"
-        },
-        {
-          "title": "未来30年80%概率遇特大地震，日本全民被危机感裹挟",
-          "url": "https://news.ifeng.com/c/8vBnHR2hR3n",
-          "source": "凤凰网",
-          "ranks": [
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时58分 ~ 10时34分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
         },
         {
           "title": "据日经新闻：日本政府与日本央行在外汇市场进行干预。",
@@ -1956,11 +2169,12 @@
           "url": "https://www.toutiao.com/trending/7667830413276872747/",
           "source": "今日头条",
           "ranks": [
-            8
+            8,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时33分 ~ 10时34分]"
+          "appearance_count": 3,
+          "time_info": "[10时33分 ~ 14时01分]"
         },
         {
           "title": "记者用两个非常惨烈形容日本震后现场",
@@ -2019,6 +2233,17 @@
           "time_info": "07时58分"
         },
         {
+          "title": "日本“特高课”死灰复燃",
+          "url": "https://www.toutiao.com/trending/7668169288318140462/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
+        },
+        {
           "title": "日本6月工业产出月率初值 1.3%，预期1.00%，前值0.10%。",
           "url": "https://flash.jin10.com/detail/20260731075005445800",
           "source": "金十数据",
@@ -2052,6 +2277,28 @@
           "time_info": "07时58分"
         },
         {
+          "title": "日本6月新屋开工同比 18.57%，预期 12.7%，前值 33.9%。",
+          "url": "https://wallstreetcn.com/livenews/3142929",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
+        },
+        {
+          "title": "日本国家情报局正式成立",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356667&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%9B%BD%E5%AE%B6%E6%83%85%E6%8A%A5%E5%B1%80%E6%AD%A3%E5%BC%8F%E6%88%90%E7%AB%8B",
+          "source": "贴吧",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
+        },
+        {
           "title": "日本财务大臣片山皋月：始终准备以高度紧迫感应对外汇市场。",
           "url": "https://flash.jin10.com/detail/20260731074834877800",
           "source": "金十数据",
@@ -2072,6 +2319,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
+        },
+        {
+          "title": "日本6月新屋开工年化户数 78.6万户，预期 75万户，前值 75.7万户。",
+          "url": "https://wallstreetcn.com/livenews/3142928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
         },
         {
           "title": "日本财务大臣片山皋月：对潜在的外汇干预不予置评。",
@@ -2129,13 +2387,24 @@
           "time_info": "07时58分"
         },
         {
+          "title": "日本自卫队试射战斧导弹",
+          "url": "https://www.douyin.com/hot/2591383",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
+        },
+        {
           "title": "日本央行或成黄金短线涨势延续的“胜负手”？月线有望止步于四连跌——新版发布",
           "url": "https://flash.jin10.com/detail/20260731100010136800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
         },
@@ -2151,6 +2420,28 @@
           "time_info": "07时58分"
         },
         {
+          "title": "日本6月营建订单年率 2.3%，前值-6.7%。",
+          "url": "https://flash.jin10.com/detail/20260731130200725800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
+        },
+        {
+          "title": "日本6月新屋开工年率 18.57%，预期12.8%，前值33.90%。",
+          "url": "https://flash.jin10.com/detail/20260731130053976800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
+        },
+        {
           "title": "花旗称日元将转弱，建议在日本央行决议前做多美元兑日元",
           "url": "https://wallstreetcn.com/livenews/3142583",
           "source": "华尔街见闻-快讯",
@@ -2160,6 +2451,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        },
+        {
+          "title": "731这天日本“特高课”还魂",
+          "url": "https://www.baidu.com/s?wd=731%E8%BF%99%E5%A4%A9%E6%97%A5%E6%9C%AC%E2%80%9C%E7%89%B9%E9%AB%98%E8%AF%BE%E2%80%9D%E8%BF%98%E9%AD%82",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
+        },
+        {
+          "title": "日本央行利率决议过后，美元/日元短线波动不大。",
+          "url": "https://wallstreetcn.com/livenews/3142899",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
+        },
+        {
+          "title": "日本央行：2026财年下半年CPI同比涨幅可能明显超过2%。",
+          "url": "https://wallstreetcn.com/livenews/3142898",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
         },
         {
           "title": "日本新情报体系成立",
@@ -2176,7 +2500,7 @@
     },
     {
       "keyword_group": "# --- 第二组：中国经济与A股 (保留宽泛的行情词) --- A股 上证 深证 恒生 人民币 汇率 经济 GDP",
-      "match_count": 22,
+      "match_count": 31,
       "titles": [
         {
           "title": "中共中央政治局召开会议，决定召开二十届五中全会，分析研究当前经济形势和经济工作，中共中央总书记习近平主持会议",
@@ -2186,8 +2510,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时15分 ~ 10时34分]"
+          "appearance_count": 8,
+          "time_info": "[03时15分 ~ 14时01分]"
         },
         {
           "title": "中共中央政治局召开会议，决定召开二十届五中全会，分析研究当前经济形势和经济工作，中共中央总书记习近平主持会议",
@@ -2198,8 +2522,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时15分 ~ 10时34分]"
+          "appearance_count": 8,
+          "time_info": "[03时15分 ~ 14时01分]"
         },
         {
           "title": "A股又一波增持回购潮来了！三环集团十天内“两”回购",
@@ -2256,7 +2580,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
         },
@@ -2292,8 +2616,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时33分 ~ 10时34分]"
+          "appearance_count": 3,
+          "time_info": "[10时33分 ~ 14时01分]"
         },
         {
           "title": "A股光纤概念板块盘中震荡反弹，通鼎互联触及涨停，长盈通涨17%，长飞光纤、中天科技、亨通光电、特发信息等跟涨。",
@@ -2302,7 +2626,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
         },
@@ -2316,6 +2640,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
+        },
+        {
+          "title": "A股军工板块午后异动，观想科技直线涨停，华如科技涨超10%，建设工业等多股冲高。",
+          "url": "https://wallstreetcn.com/livenews/3142933",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
+        },
+        {
+          "title": "A股全线飘红",
+          "url": "https://www.douyin.com/hot/2591645",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
+        },
+        {
+          "title": "财信证券袁闯：政治局会议释放稳预期信号 短期A股市场有望夯实阶段性底部",
+          "url": "https://flash.jin10.com/detail/20260731133910285800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
         },
         {
           "title": "离岸人民币创2023年年初以来新高",
@@ -2335,9 +2692,31 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
+        },
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
+        },
+        {
+          "title": "A股北证50指数午后涨超4%，国子软件涨超24%，万达轴承、三协电机等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260731131903910800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
         },
         {
           "title": "A股贵金属板块盘中走强，株冶集团涨超7%，晓程科技、招金黄金、赤峰黄金、中金黄金、兴业银锡等跟涨。",
@@ -2346,9 +2725,31 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
+        },
+        {
+          "title": "A股午后军工板块异动拉升，观想科技20cm涨停，科思科技、华如科技、三瑞智能涨超10%，佳缘科技、兴图新科、建设工业、六九一二、中无人机等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260731131352609800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
+        },
+        {
+          "title": "日本经济再生担当大臣木内康弘：政府将继续密切关注市场走势。 外汇政策由财务大臣片山负责。",
+          "url": "https://wallstreetcn.com/livenews/3142909",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
         },
         {
           "title": "A股C长鑫成交额超200亿元，现涨12.9%。",
@@ -2357,7 +2758,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
         },
@@ -2382,6 +2783,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
+        },
+        {
+          "title": "上证指数早盘收报3833.65点，涨0.76%。 深证成指早盘收报13705.42点，涨3.16%。 创业板指早盘收报3408.15点，涨5.04%。 沪深300早盘收报4605.92点，涨1.24%。 科创50早盘收报1682.27点，涨5.91%。 中证500早盘收报7561.47点，涨3.45%。 中证1000早盘收报7145.92点，涨3.55%。",
+          "url": "https://wallstreetcn.com/livenews/3142903",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
         },
         {
           "title": "恒生指数主连夜盘收涨0.45%，报26021点。 恒生科技指数主连夜盘收涨0.31%，报4832点。",
@@ -2412,7 +2824,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
         },
@@ -2423,16 +2835,38 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
+        },
+        {
+          "title": "日本央行：需要关注外汇对经济和通胀的影响。 经济展望面临的风险包括中东局势及其对外汇和日本经济的影响。 需要特别关注中东局势发展。 全球AI需求有助于提振日本经济。 价格趋势正在接近2%的物价目标，将价格趋势稳定在2%附近至关重要。 将密切关注中东局势、AI及外汇以决定下一次加息时点。 中短期内实质利率一直处于负值状态。 日元贬值可能会推高物价，近期日元下跌是导致物价上涨的因素之一。",
+          "url": "https://wallstreetcn.com/livenews/3142897",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
         }
       ]
     },
     {
       "keyword_group": "# --- 第六组：俄乌局势 --- 俄乌 俄罗斯 乌克兰 普京 泽连斯基 北约",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "俄罗斯导弹偏航砸进波兰",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356664&amp;topic_name=%E4%BF%84%E7%BD%97%E6%96%AF%E5%AF%BC%E5%BC%B9%E5%81%8F%E8%88%AA%E7%A0%B8%E8%BF%9B%E6%B3%A2%E5%85%B0",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
+        },
         {
           "title": "乌克兰称收到欧盟34.7亿欧元国防援助贷款",
           "url": "https://wallstreetcn.com/livenews/3142625",
