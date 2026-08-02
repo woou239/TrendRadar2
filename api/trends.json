@@ -1,11 +1,428 @@
 {
-  "generated_at": "2026-08-03T00:56:02.043231+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-08-03T01:58:07.918247+08:00",
+  "total_titles_processed": 374,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "# --- 第一组：中国宏观 (去掉了必须词，只过滤娱乐) --- 中国 央视 外交部 国防部 解放军 人民日报 新华社",
+      "match_count": 37,
+      "titles": [
+        {
+          "title": "遇难中国登山者王钟遗体已找到",
+          "url": "https://www.toutiao.com/trending/7668891178091921450/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 01时58分]"
+        },
+        {
+          "title": "多重优势支撑中国经济向新向优",
+          "url": "https://www.toutiao.com/trending/7668842811780845062/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 01时58分]"
+        },
+        {
+          "title": "解放军报钧声：中方加强黄岩岛管控合法合理",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33696559",
+          "source": "澎湃新闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 01时58分]"
+        },
+        {
+          "title": "中国人能飞真人版",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9E%E7%9C%9F%E4%BA%BA%E7%89%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 01时58分]"
+        },
+        {
+          "title": "中国人民银行召开2026年下半年工作会议",
+          "url": "https://www.cls.cn/detail/2443498",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 01时58分]"
+        },
+        {
+          "title": "中国预警机独立指挥空中战场",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%A2%84%E8%AD%A6%E6%9C%BA%E7%8B%AC%E7%AB%8B%E6%8C%87%E6%8C%A5%E7%A9%BA%E4%B8%AD%E6%88%98%E5%9C%BA%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 00时56分]"
+        },
+        {
+          "title": "伊朗外交部发言人Baghaei：我方与阿曼讨论在霍尔木兹海峡新开辟一条航道。（伊朗电视台IRIB）",
+          "url": "https://wallstreetcn.com/livenews/3143712",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时56分"
+        },
+        {
+          "title": "俄国防部：防空力量当天在俄罗斯各地区及黑海水域上空击落了245架乌克兰无人机。",
+          "url": "https://wallstreetcn.com/livenews/3143721",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时58分"
+        },
+        {
+          "title": "卡塔尔外交部：首相兼外交部长强调，各方必须坚持对话，并确保霍尔木兹海峡的航行自由。",
+          "url": "https://wallstreetcn.com/livenews/3143719",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时58分"
+        },
+        {
+          "title": "伊朗外交部发言人：美国的威胁早已司空见惯，德黑兰将基于自身利益采取行动，不会受各类威胁影响。",
+          "url": "https://wallstreetcn.com/livenews/3143710",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时56分"
+        },
+        {
+          "title": "伊朗外交部：霍尔木兹海峡不会恢复战前状态，开放问题与阿曼谈判无关",
+          "url": "https://flash.jin10.com/detail/20260803010726582800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时58分"
+        },
+        {
+          "title": "下周重磅日程：美国非农与中国CPI、SpaceX首份财报+解禁、AMD闪迪财报",
+          "url": "https://wallstreetcn.com/articles/3778433",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 01时58分]"
+        },
+        {
+          "title": "央视曝光网红漂流乱象",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E7%BD%91%E7%BA%A2%E6%BC%82%E6%B5%81%E4%B9%B1%E8%B1%A1",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 01时58分]"
+        },
+        {
+          "title": "中国人能飞,揽佬新歌魔性洗脑",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356724&amp;topic_name=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9E%2C%E6%8F%BD%E4%BD%AC%E6%96%B0%E6%AD%8C%E9%AD%94%E6%80%A7%E6%B4%97%E8%84%91",
+          "source": "贴吧",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 01时58分]"
+        },
+        {
+          "title": "这就是中国军人的承诺",
+          "url": "https://search.bilibili.com/all?keyword=%E8%BF%99%E5%B0%B1%E6%98%AF%E4%B8%AD%E5%9B%BD%E5%86%9B%E4%BA%BA%E7%9A%84%E6%89%BF%E8%AF%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 01时58分]"
+        },
+        {
+          "title": "活力中国调研行｜嘉兴桐乡走出的锂电材料巨头，要用五年再造一个自己",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33695378",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 01时58分]"
+        },
+        {
+          "title": "人民日报再谈王虹邓煜获菲尔兹奖：中国青年要闯“无人区”，做深耕者",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33696557",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 01时58分]"
+        },
+        {
+          "title": "全中国最好吃虫子大盘点",
+          "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%A5%BD%E5%90%83%E8%99%AB%E5%AD%90%E5%A4%A7%E7%9B%98%E7%82%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 01时58分]"
+        },
+        {
+          "title": "俄罗斯国防部：乌克兰尼古拉耶夫港港口基础设施及两艘载有军用物资的船只被击中。",
+          "url": "https://wallstreetcn.com/livenews/3143708",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 01时58分]"
+        },
+        {
+          "title": "伊朗外交部发言人：与巴基斯坦和土耳其官员的对话中涉及到针对美国威胁的警告和回应，如果伊朗受到攻击，将进行报复。",
+          "url": "https://flash.jin10.com/detail/20260803010226366800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时58分"
+        },
+        {
+          "title": "伊朗外交部发言人：任何与美国合作或共谋攻击伊朗的国家将面临伊朗的正当防卫。向侵略方提供基地或军事、后勤设施的国家将被视为侵略者。",
+          "url": "https://flash.jin10.com/detail/20260803005746377800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时58分"
+        },
+        {
+          "title": "伊朗外交部发言人：霍尔木兹海峡未来的管理工作，将由伊朗与阿曼协商进行。",
+          "url": "https://flash.jin10.com/detail/20260803005641869800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时58分"
+        },
+        {
+          "title": "伊朗外交部发言人：美国的威胁早已司空见惯，德黑兰将基于自身利益采取行动，不会受各类威胁影响。 伊朗与巴基斯坦、土耳其官员会谈时谈及美方发出的警告与威胁，美方称遭到若伊朗袭击，美方将采取报复行动。",
+          "url": "https://wallstreetcn.com/livenews/3143710",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时58分"
+        },
+        {
+          "title": "伊朗外交部发言人：我们接到了来自英国、乌克兰和保加利亚的电话，他们表示不会参与这场战争。",
+          "url": "https://flash.jin10.com/detail/20260803005334929800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时58分"
+        },
+        {
+          "title": "伊朗外交部发言人：对方知道，我们对任何针对我们的冒险行为将作出强烈回应。",
+          "url": "https://flash.jin10.com/detail/20260803005027684800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时58分"
+        },
+        {
+          "title": "伊朗外交部发言人：重新开放霍尔木兹海峡的问题与伊朗和阿曼的谈判无关，因为海峡的关闭与美国违反其承诺有关。",
+          "url": "https://flash.jin10.com/detail/20260803005001017800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时58分"
+        },
+        {
+          "title": "俄罗斯国防部：对乌克兰尼古拉耶夫港的基础设施进行了打击，并袭击了两艘向乌克兰武装部队运送补给的货船，以及一艘用于部署水下无人机的海上拖船。",
+          "url": "https://flash.jin10.com/detail/20260802230802235800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时56分"
+        },
+        {
+          "title": "伊朗外交部发言人：所有朋友和邻国应当知道，美国对伊朗基础设施的任何攻击将会影响所有人。",
+          "url": "https://flash.jin10.com/detail/20260803004623394800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时58分"
+        },
+        {
+          "title": "伊朗外交部发言人：美国与地区部分势力合作，在霍尔木兹海峡强行开辟了一条南部航线，该航线并不安全。",
+          "url": "https://flash.jin10.com/detail/20260803004359199800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时58分"
+        },
+        {
+          "title": "伊朗外交部发言人：华盛顿未按期允许霍尔木兹海峡航运恢复，并在期限届满前对我们发动攻击。",
+          "url": "https://flash.jin10.com/detail/20260803004345324800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时58分"
+        },
+        {
+          "title": "伊朗外交部发言人：我们目前正在与阿曼讨论一条通过霍尔木兹海峡的路线，该路线既不是北向也不是南向。我们关于新航线的理解并不意味着霍尔木兹海峡的开放或关闭。",
+          "url": "https://flash.jin10.com/detail/20260803004114541800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时58分"
+        },
+        {
+          "title": "伊朗外交部发言人：与阿曼的谈判旨在寻找霍尔木兹海峡的共同机制。",
+          "url": "https://flash.jin10.com/detail/20260803003858072800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时58分"
+        },
+        {
+          "title": "伊朗外交部发言人：伊朗与阿曼的会谈是双边的，不涉及其他任何方。我们重申，霍尔木兹海峡的局势不会回到战争前的状态。",
+          "url": "https://flash.jin10.com/detail/20260803003809252800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时58分"
+        },
+        {
+          "title": "伊朗外交部长：与阿曼就霍尔木兹海峡的谈判进入最后阶段。",
+          "url": "https://flash.jin10.com/detail/20260803003616622800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时58分"
+        },
+        {
+          "title": "伊朗外交部发言人：美国的威胁并不新鲜，德黑兰根据自身利益行事，不受威胁影响。",
+          "url": "https://flash.jin10.com/detail/20260803003218098800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时58分"
+        },
+        {
+          "title": "金十整理：下周重要事件与数据预告——美国非农周来袭，中国7月外汇储备、CPI及贸易帐将公布，SpaceX将公布Q2业绩",
+          "url": "https://flash.jin10.com/detail/20260802212924338800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时56分"
+        },
+        {
+          "title": "国家防总、应急管理部针对贵州启动防汛四级应急响应。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3143677",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时56分"
+        }
+      ]
+    },
+    {
       "keyword_group": "# --- 第三组：美国宏观与军事 --- 美国 白宫 五角大楼 美军 美联储 布林肯 拜登 特朗普",
-      "match_count": 30,
+      "match_count": 33,
       "titles": [
         {
           "title": "TACO！特朗普“取消对伊朗打击”，伊朗否认曾要求停火，沙特王储曾致电美方“敦促缓和局势”",
@@ -15,8 +432,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 01时58分]"
         },
         {
           "title": "取消对伊打击，美国为何总上演“临门收手”戏码？",
@@ -26,8 +443,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 01时58分]"
         },
         {
           "title": "被“忽略”的市场大事：美日韩联合干预，美国财政部“罕见”下场！贝森特悄悄“救市”？",
@@ -37,8 +454,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 01时58分]"
         },
         {
           "title": "特朗普相关的超过300个银行帐户被关闭，原因公布",
@@ -48,8 +465,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 01时58分]"
+        },
+        {
+          "title": "日本被曝大规模干预汇市，美国也同日出手，这意味着什么？",
+          "url": "https://www.zhihu.com/question/2066898462831031735",
+          "source": "知乎",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 01时58分]"
         },
         {
           "title": "“近30年来首次”？美国、日本联手干预",
@@ -59,8 +488,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 01时58分]"
         },
         {
           "title": "涉嫌酒驾和猥亵，多名驻日美军士兵被捕",
@@ -70,52 +499,41 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 01时58分]"
         },
         {
-          "title": "日本被曝大规模干预汇市，美国也同日出手，这意味着什么？",
-          "url": "https://www.zhihu.com/question/2066898462831031735",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
-        },
-        {
-          "title": "伊朗议会国家安全委员会：调解方正在协助恢复伊朗与美国之间的谅解备忘录，各方就所有问题交换了意见。",
-          "url": "https://flash.jin10.com/detail/20260803002308138800",
+          "title": "市场消息：以色列官员对特朗普在一周内第二次取消对伊朗的计划打击感到沮丧，称这种临时反转破坏了军事计划。以色列现在认为，特朗普更倾向于与伊朗达成协议，而不是升级冲突。",
+          "url": "https://flash.jin10.com/detail/20260803013114997800",
           "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时56分"
+          "time_info": "01时58分"
         },
         {
-          "title": "黎巴嫩力量党主席萨米尔·贾加：我怀疑美国会在未解决伊朗核问题以及霍尔木兹海峡危机的情况下结束战争。",
-          "url": "https://flash.jin10.com/detail/20260803001748142800",
+          "title": "据以色列广播公司：一位以色列官员表示，特朗普处理事务的方式使得认真准备和规划未来变得困难。",
+          "url": "https://flash.jin10.com/detail/20260803012453800800",
           "source": "金十数据",
           "ranks": [
-            2
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时56分"
+          "time_info": "01时58分"
         },
         {
-          "title": "伊朗议会国家安全委员会：调停方正提供协助，以期重启与美国的谅解备忘录谈判。 各方正就所有议题交换意见。",
-          "url": "https://wallstreetcn.com/livenews/3143709",
+          "title": "以色列对特朗普二度取消伊朗打击行动感到失望",
+          "url": "https://wallstreetcn.com/livenews/3143717",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时56分"
+          "time_info": "01时58分"
         },
         {
           "title": "特朗普：同意取消对伊朗的打击",
@@ -125,8 +543,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 01时58分]"
+        },
+        {
+          "title": "DeepSeek v4 flash 如此强大，接下来发布的 pro 会不会让美国御三家全部倒闭？",
+          "url": "https://www.zhihu.com/question/2067212789714778007",
+          "source": "知乎",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 01时58分]"
         },
         {
           "title": "库里签约李宁，轮不到美国政客来反对",
@@ -136,19 +566,32 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 01时58分]"
         },
         {
-          "title": "DeepSeek v4 flash 如此强大，接下来发布的 pro 会不会让美国御三家全部倒闭？",
-          "url": "https://www.zhihu.com/question/2067212789714778007",
-          "source": "知乎",
+          "title": "伊朗议会国家安全委员会：调解方正在协助恢复伊朗与美国之间的谅解备忘录，各方就所有问题交换了意见。",
+          "url": "https://flash.jin10.com/detail/20260803002308138800",
+          "source": "金十数据",
           "ranks": [
-            7
+            1,
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
+          "time_info": "[00时56分 ~ 01时58分]"
+        },
+        {
+          "title": "黎巴嫩力量党主席萨米尔·贾加：我怀疑美国会在未解决伊朗核问题以及霍尔木兹海峡危机的情况下结束战争。",
+          "url": "https://flash.jin10.com/detail/20260803001748142800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 01时58分]"
         },
         {
           "title": "特朗普称应伊方要求同意取消打击 伊朗反驳：并未要求停战！",
@@ -158,8 +601,20 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 01时58分]"
+        },
+        {
+          "title": "伊朗议会国家安全委员会：调停方正提供协助，以期重启与美国的谅解备忘录谈判。 各方正就所有议题交换意见。",
+          "url": "https://wallstreetcn.com/livenews/3143709",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            10
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
+          "time_info": "[00时56分 ~ 01时58分]"
         },
         {
           "title": "美国一养老社区将推出面向老人的大麻自助售卖机",
@@ -169,8 +624,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 01时58分]"
         },
         {
           "title": "货币政策的“安娜卡列尼娜原则”：沃什要保住信誉，美联储9月就必须加息？",
@@ -180,8 +635,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 01时58分]"
         },
         {
           "title": "8 月 1 日特朗普称同意取消军事打击伊朗，这次军事打击行动终于要结束了吗？",
@@ -191,30 +646,56 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
-        },
-        {
-          "title": "美军机险些被韩军击落暴露啥问题",
-          "url": "https://www.toutiao.com/trending/7669420853938884115/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 01时58分]"
         },
         {
           "title": "美国为何总上演“临门收手”戏码",
           "url": "https://www.toutiao.com/trending/7669275015686160447/",
           "source": "今日头条",
           "ranks": [
-            25
+            25,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 01时58分]"
+        },
+        {
+          "title": "美军机险些被韩军击落暴露啥问题",
+          "url": "https://www.toutiao.com/trending/7669420853938884115/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 01时58分]"
+        },
+        {
+          "title": "特朗普预计将于9月12日访问爱尔兰。（爱尔兰时报）",
+          "url": "https://wallstreetcn.com/livenews/3143688",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
+          "time_info": "[00时56分 ~ 01时58分]"
+        },
+        {
+          "title": "驻日美军多名士兵涉嫌酒驾和猥亵被捕",
+          "url": "https://wallstreetcn.com/livenews/3143684",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 01时58分]"
         },
         {
           "title": "美国华盛顿州全州进入紧急状态",
@@ -234,7 +715,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
         },
@@ -245,7 +726,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
         },
@@ -256,7 +737,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
         },
@@ -267,7 +748,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
         },
@@ -278,7 +759,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
         },
@@ -289,7 +770,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
         },
@@ -300,29 +781,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时56分"
-        },
-        {
-          "title": "特朗普预计将于9月12日访问爱尔兰。（爱尔兰时报）",
-          "url": "https://wallstreetcn.com/livenews/3143688",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时56分"
-        },
-        {
-          "title": "驻日美军多名士兵涉嫌酒驾和猥亵被捕",
-          "url": "https://wallstreetcn.com/livenews/3143684",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
         },
@@ -333,222 +792,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# --- 第一组：中国宏观 (去掉了必须词，只过滤娱乐) --- 中国 央视 外交部 国防部 解放军 人民日报 新华社",
-      "match_count": 19,
-      "titles": [
-        {
-          "title": "遇难中国登山者王钟遗体已找到",
-          "url": "https://www.toutiao.com/trending/7668891178091921450/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
-        },
-        {
-          "title": "多重优势支撑中国经济向新向优",
-          "url": "https://www.toutiao.com/trending/7668842811780845062/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
-        },
-        {
-          "title": "解放军报钧声：中方加强黄岩岛管控合法合理",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33696559",
-          "source": "澎湃新闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
-        },
-        {
-          "title": "中国预警机独立指挥空中战场",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%A2%84%E8%AD%A6%E6%9C%BA%E7%8B%AC%E7%AB%8B%E6%8C%87%E6%8C%A5%E7%A9%BA%E4%B8%AD%E6%88%98%E5%9C%BA%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
-        },
-        {
-          "title": "中国人能飞真人版",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9E%E7%9C%9F%E4%BA%BA%E7%89%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
-        },
-        {
-          "title": "中国人民银行召开2026年下半年工作会议",
-          "url": "https://www.cls.cn/detail/2443498",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
-        },
-        {
-          "title": "伊朗外交部发言人Baghaei：我方与阿曼讨论在霍尔木兹海峡新开辟一条航道。（伊朗电视台IRIB）",
-          "url": "https://wallstreetcn.com/livenews/3143712",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时56分"
-        },
-        {
-          "title": "伊朗外交部发言人：美国的威胁早已司空见惯，德黑兰将基于自身利益采取行动，不会受各类威胁影响。",
-          "url": "https://wallstreetcn.com/livenews/3143710",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时56分"
-        },
-        {
-          "title": "下周重磅日程：美国非农与中国CPI、SpaceX首份财报+解禁、AMD闪迪财报",
-          "url": "https://wallstreetcn.com/articles/3778433",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
-        },
-        {
-          "title": "央视曝光网红漂流乱象",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E7%BD%91%E7%BA%A2%E6%BC%82%E6%B5%81%E4%B9%B1%E8%B1%A1",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
-        },
-        {
-          "title": "中国人能飞,揽佬新歌魔性洗脑",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356724&amp;topic_name=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9E%2C%E6%8F%BD%E4%BD%AC%E6%96%B0%E6%AD%8C%E9%AD%94%E6%80%A7%E6%B4%97%E8%84%91",
-          "source": "贴吧",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
-        },
-        {
-          "title": "这就是中国军人的承诺",
-          "url": "https://search.bilibili.com/all?keyword=%E8%BF%99%E5%B0%B1%E6%98%AF%E4%B8%AD%E5%9B%BD%E5%86%9B%E4%BA%BA%E7%9A%84%E6%89%BF%E8%AF%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
-        },
-        {
-          "title": "活力中国调研行｜嘉兴桐乡走出的锂电材料巨头，要用五年再造一个自己",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33695378",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
-        },
-        {
-          "title": "人民日报再谈王虹邓煜获菲尔兹奖：中国青年要闯“无人区”，做深耕者",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33696557",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
-        },
-        {
-          "title": "全中国最好吃虫子大盘点",
-          "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%A5%BD%E5%90%83%E8%99%AB%E5%AD%90%E5%A4%A7%E7%9B%98%E7%82%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
-        },
-        {
-          "title": "俄罗斯国防部：乌克兰尼古拉耶夫港港口基础设施及两艘载有军用物资的船只被击中。",
-          "url": "https://wallstreetcn.com/livenews/3143708",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时56分"
-        },
-        {
-          "title": "俄罗斯国防部：对乌克兰尼古拉耶夫港的基础设施进行了打击，并袭击了两艘向乌克兰武装部队运送补给的货船，以及一艘用于部署水下无人机的海上拖船。",
-          "url": "https://flash.jin10.com/detail/20260802230802235800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时56分"
-        },
-        {
-          "title": "金十整理：下周重要事件与数据预告——美国非农周来袭，中国7月外汇储备、CPI及贸易帐将公布，SpaceX将公布Q2业绩",
-          "url": "https://flash.jin10.com/detail/20260802212924338800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时56分"
-        },
-        {
-          "title": "国家防总、应急管理部针对贵州启动防汛四级应急响应。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3143677",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "00时56分"
         }
@@ -566,8 +810,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 01时58分]"
         },
         {
           "title": "日本千纸鹤援助为何引争议",
@@ -577,8 +821,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 01时58分]"
         },
         {
           "title": "日本灾区呼吁别送千纸鹤了",
@@ -588,8 +832,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 01时58分]"
         },
         {
           "title": "越南人日本救灾反遭网暴",
@@ -599,8 +843,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 01时58分]"
         },
         {
           "title": "日本地震灾区呼吁不要再送千纸鹤",
@@ -610,19 +854,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 01时58分]"
         },
         {
           "title": "日本熊本高温创纪录，一地震灾民疑似中暑死亡",
           "url": "https://wallstreetcn.com/livenews/3143687",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            21,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 01时58分]"
         }
       ]
     },
@@ -638,8 +883,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 01时58分]"
         },
         {
           "title": "A股8月修复可期？科技仍为中长期主线？十大券商策略来了",
@@ -649,8 +894,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 01时58分]"
         },
         {
           "title": "A股最危险的阶段已经过去了吗",
@@ -660,8 +905,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 01时58分]"
         },
         {
           "title": "龙头九连板！本周披露并购重组进展的A股名单一览",
@@ -671,8 +916,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 01时58分]"
         }
       ]
     },
@@ -685,11 +930,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%BE%AE%E8%BD%AF%E6%89%BF%E8%AF%BA%E4%BC%98%E5%8C%96Win11%E5%86%85%E5%AD%98%E5%8D%A0%E7%94%A8",
           "source": "bilibili 热搜",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 01时58分]"
         },
         {
           "title": "近120万辆特斯拉汽车遭调查",
@@ -699,8 +945,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 01时58分]"
         },
         {
           "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
@@ -710,8 +956,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 01时58分]"
         },
         {
           "title": "神了,OpenAI攻克十年数学难题",
@@ -721,8 +967,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 01时58分]"
         }
       ]
     },
@@ -735,11 +981,12 @@
           "url": "https://wallstreetcn.com/livenews/3143707",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 01时58分]"
         }
       ]
     }
