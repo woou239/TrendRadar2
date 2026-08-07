@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T03:48:13.752667+08:00",
-  "total_titles_processed": 501,
+  "generated_at": "2026-08-08T04:34:25.070996+08:00",
+  "total_titles_processed": 542,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- 第三组：美国宏观与军事 --- 美国 白宫 五角大楼 美军 美联储 布林肯 拜登 特朗普",
-      "match_count": 87,
+      "match_count": 99,
       "titles": [
         {
           "title": "爆冷！美国7月非农就业人数意外减少2.3万，前两月就业下修10.3万人",
@@ -15,30 +15,32 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 03时48分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 04时34分]"
         },
         {
           "title": "美国就业市场意外“熄火”：7月非农负增长 劳动参与率跌至5年来新低",
           "url": "https://www.cls.cn/detail/2448836",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 03时48分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 04时34分]"
         },
         {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
           "url": "https://www.cls.cn/detail/2448784",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 03时48分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 04时34分]"
         },
         {
           "title": "今晚美国非农大考，“弱7月”魔咒会重演吗？此前三年均不及预期",
@@ -48,8 +50,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 03时48分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 04时34分]"
         },
         {
           "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
@@ -59,8 +61,21 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 03时48分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 04时34分]"
+        },
+        {
+          "title": "释疑｜建多少数据中心才够？美国AI基建热潮撞上“社区保卫战”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33729568",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 04时34分]"
         },
         {
           "title": "美国国务院：美国财政部今天采取措施，瓦解了一个由货币兑换机构和空壳公司组成的网络。该网络曾帮助伊朗通过国际金融体系秘密转移数亿美元资金。通过这些网络，德黑兰获取石油收入，并利用幌子公司洗钱，规避旨在遏制其破坏稳定活动的制裁。",
@@ -85,6 +100,17 @@
           "time_info": "01时44分"
         },
         {
+          "title": "据美国证券交易委员会（SEC）文件显示，IMG财富管理持有212股SpaceX(SPCX.O)A类股份。",
+          "url": "https://flash.jin10.com/detail/20260808040624326800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时34分"
+        },
+        {
           "title": "美国财政部制裁伊朗所使用的两家大型数字资产交易所。",
           "url": "https://wallstreetcn.com/livenews/3146860",
           "source": "华尔街见闻-快讯",
@@ -96,17 +122,15 @@
           "time_info": "01时44分"
         },
         {
-          "title": "释疑｜建多少数据中心才够？美国AI基建热潮撞上“社区保卫战”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33729568",
-          "source": "澎湃新闻",
+          "title": "据特朗普媒体科技临时CEO Kevin McGurn，特朗普媒体退出与Crypto.com相关的两笔交易。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3146913",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14,
-            15,
-            16
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 03时48分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时34分"
         },
         {
           "title": "美国参议院批准布雷特·松本出任劳工统计局局长",
@@ -118,28 +142,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时45分"
-        },
-        {
-          "title": "据华尔街日报：美国情报部门将德国机场发生的爆炸无人机事件与俄罗斯联系起来。",
-          "url": "https://flash.jin10.com/detail/20260808032342600800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时48分"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：截至8月4日当周，投机者将芝加哥期货交易所（CBOT）美国国债期货净空头头寸减少41,225份合约，至176,272份合约。 将CBOT美国2年期国债期货净空头头寸减少120,346份合约，至1,004,228份合约。 将CBOT美国5年期国债期货净空头头寸增加179,319份合约，至1,325,719份合约。 将CBOT美国2年期国债期货净空头头寸减少120,346份合约，至1,004,228份合约。 将CBOT美国超长期国债期货净空头头寸减少5,723份合约，至314,985份合约。",
-          "url": "https://wallstreetcn.com/livenews/3146900",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时48分"
         },
         {
           "title": "特朗普称将就上诉法院涉白宫宴会厅项目裁决提起上诉",
@@ -162,17 +164,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时45分"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：8月4日当周，投机者所持NYMEX WTI原油净多头头寸减少7,257手合约，至101,050手合约。 所持布伦特与WTI原油净多头头寸降低至274,577手合约，创三周新低。 所持NYMEX天然气净空头头寸达到93,629手合约，创六年新高。",
-          "url": "https://wallstreetcn.com/livenews/3146899",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时48分"
         },
         {
           "title": "市场消息：苹果(AAPL.O)、亚马逊(AMZN.O)、耐克(NKE.N)在特朗普政府关税退款问题上遭到美国民主党参议员沃伦的质询。沃伦在信函中敦促企业向消费者退还关税款项。",
@@ -208,24 +199,13 @@
           "time_info": "02时45分"
         },
         {
-          "title": "美国商品期货交易委员会（CFTC）：8月4日当周，投机者所持COMEX黄金净多头头寸增加12,070手合约，至132,398手合约，创逾六个月新高。 所持COMEX白银净多头头寸增加至11,067手合约，创四周新高。 所持COMEX铜净多头头寸增加至77,796手合约，创逾五年新高。 所持NYMEX铂金净多头头寸增加至10,882手合约，创逾两个月新高。 所持NYMEX钯金净多头头寸减少至5,429手合约，创六周新低。",
-          "url": "https://wallstreetcn.com/livenews/3146898",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时48分"
-        },
-        {
           "title": "美国总统特朗普：宣布一系列价值30亿美元的矿业项目。",
           "url": "https://flash.jin10.com/detail/20260808032058540800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时48分"
         },
@@ -255,6 +235,18 @@
           "time_info": "[02时45分 ~ 03时48分]"
         },
         {
+          "title": "据华尔街日报：美国情报部门将德国机场发生的爆炸无人机事件与俄罗斯联系起来。",
+          "url": "https://flash.jin10.com/detail/20260808032342600800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时48分 ~ 04时34分]"
+        },
+        {
           "title": "据某斡旋国一名外交官透露，伊朗谈判代表正等待伊朗最高国家安全委员会就伊朗与阿曼、美国达成的协议作出最终批准。 该外交官称：“我们预计很快就能拿到这项批准。”（Axios）",
           "url": "https://wallstreetcn.com/livenews/3146859",
           "source": "华尔街见闻-快讯",
@@ -265,6 +257,42 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时44分 ~ 02时45分]"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至8月4日当周，投机者将芝加哥期货交易所（CBOT）美国国债期货净空头头寸减少41,225份合约，至176,272份合约。 将CBOT美国2年期国债期货净空头头寸减少120,346份合约，至1,004,228份合约。 将CBOT美国5年期国债期货净空头头寸增加179,319份合约，至1,325,719份合约。 将CBOT美国2年期国债期货净空头头寸减少120,346份合约，至1,004,228份合约。 将CBOT美国超长期国债期货净空头头寸减少5,723份合约，至314,985份合约。",
+          "url": "https://wallstreetcn.com/livenews/3146900",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时48分 ~ 04时34分]"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：8月4日当周，投机者所持NYMEX WTI原油净多头头寸减少7,257手合约，至101,050手合约。 所持布伦特与WTI原油净多头头寸降低至274,577手合约，创三周新低。 所持NYMEX天然气净空头头寸达到93,629手合约，创六年新高。",
+          "url": "https://wallstreetcn.com/livenews/3146899",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时48分 ~ 04时34分]"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：8月4日当周，投机者所持COMEX黄金净多头头寸增加12,070手合约，至132,398手合约，创逾六个月新高。 所持COMEX白银净多头头寸增加至11,067手合约，创四周新高。 所持COMEX铜净多头头寸增加至77,796手合约，创逾五年新高。 所持NYMEX铂金净多头头寸增加至10,882手合约，创逾两个月新高。 所持NYMEX钯金净多头头寸减少至5,429手合约，创六周新低。",
+          "url": "https://wallstreetcn.com/livenews/3146898",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时48分 ~ 04时34分]"
         },
         {
           "title": "苹果公司、亚马逊、耐克在特朗普政府关税退款问题上遭到美国参议院民主党成员Warren的质询。 Warren要求各家公司提供消费者关税退款。",
@@ -292,6 +320,41 @@
           "time_info": "[00时46分 ~ 02时45分]"
         },
         {
+          "title": "伊朗发视频隐喻美国国运衰落原因",
+          "url": "https://www.toutiao.com/trending/7671188288800899082/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时47分 ~ 04时34分]"
+        },
+        {
+          "title": "释新闻｜槽点密集的造舰计划：特朗普的“黄金舰队”梦能实现吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33739173",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时47分 ~ 04时34分]"
+        },
+        {
+          "title": "美国生物战为何从未停止",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E7%94%9F%E7%89%A9%E6%88%98%E4%B8%BA%E4%BD%95%E4%BB%8E%E6%9C%AA%E5%81%9C%E6%AD%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时47分 ~ 04时34分]"
+        },
+        {
           "title": "美国FAA发布适航指令，要求检查部分波音客机",
           "url": "https://wallstreetcn.com/livenews/3146854",
           "source": "华尔街见闻-快讯",
@@ -304,15 +367,16 @@
           "time_info": "[01时44分 ~ 02时45分]"
         },
         {
-          "title": "伊朗发视频隐喻美国国运衰落原因",
-          "url": "https://www.toutiao.com/trending/7671188288800899082/",
-          "source": "今日头条",
+          "title": "周五（8月7日）纽约尾盘，美元兑日元跌0.56%，报157.55日元，美国非农就业报告出炉时跳水，本周累计上涨0.08%，整体交投区间为155.23-158.57日元。 欧元兑日元跌0.18%，本周累涨0.40%；英镑兑日元跌0.20%，本周累涨0.26%。",
+          "url": "https://wallstreetcn.com/livenews/3146896",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            6,
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时47分 ~ 03时48分]"
+          "time_info": "[03时48分 ~ 04时34分]"
         },
         {
           "title": "周五（8月7日），美联储隔夜逆回购协议（RRP）使用规模为14.50亿美元（交易对手2家），上个交易日报14.29亿美元。",
@@ -325,6 +389,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时44分 ~ 02时45分]"
+        },
+        {
+          "title": "美国总统特朗普：到场的人太多了，不然我得在这儿待上一整天。 希望大家提问尽量简短，我不胜感激，毕竟我们还有战事要推进，明白吗？ 这就是我要提前离场的理由。",
+          "url": "https://wallstreetcn.com/livenews/3146895",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时48分 ~ 04时34分]"
         },
         {
           "title": "美国上诉法院维持对白宫宴会厅改造项目的暂停令",
@@ -351,6 +427,18 @@
           "time_info": "[01时44分 ~ 02时45分]"
         },
         {
+          "title": "特朗普政府将向电池及材料企业拨付 20 亿美元",
+          "url": "https://wallstreetcn.com/livenews/3146893",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时48分 ~ 04时34分]"
+        },
+        {
           "title": "美国8月7日当周总钻井数 588，前值 588。",
           "url": "https://wallstreetcn.com/livenews/3146849",
           "source": "华尔街见闻-快讯",
@@ -375,6 +463,18 @@
           "time_info": "[01时44分 ~ 02时45分]"
         },
         {
+          "title": "特朗普政府拟向电池及材料企业拨付20亿美元。 特朗普盛赞 MP 材料公司获得政府注资。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3146889",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时48分 ~ 04时34分]"
+        },
+        {
           "title": "特朗普称将就上诉法院涉白宫宴会厅项目裁决提起上诉",
           "url": "https://wallstreetcn.com/livenews/3146844",
           "source": "华尔街见闻-快讯",
@@ -385,6 +485,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时44分 ~ 02时45分]"
+        },
+        {
+          "title": "报道：伊朗与阿曼宣布达成协议后，美国将解除对伊朗的封锁",
+          "url": "https://wallstreetcn.com/livenews/3146887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时48分 ~ 04时34分]"
         },
         {
           "title": "报道：特朗普继续推进罢免美联储理事库克",
@@ -399,26 +511,40 @@
           "time_info": "[01时44分 ~ 02时45分]"
         },
         {
-          "title": "释新闻｜槽点密集的造舰计划：特朗普的“黄金舰队”梦能实现吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33739173",
-          "source": "澎湃新闻",
+          "title": "美国国务院：美国制裁六个实体和一名个人。 制裁是在伊朗袭击海峡船只后出台。",
+          "url": "https://wallstreetcn.com/livenews/3146886",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            16,
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时47分 ~ 03时48分]"
+          "time_info": "[03时48分 ~ 04时34分]"
         },
         {
-          "title": "美国生物战为何从未停止",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E7%94%9F%E7%89%A9%E6%88%98%E4%B8%BA%E4%BD%95%E4%BB%8E%E6%9C%AA%E5%81%9C%E6%AD%A2",
-          "source": "bilibili 热搜",
+          "title": "美国总统特朗普主持美国矿业圆桌会议开始。",
+          "url": "https://wallstreetcn.com/livenews/3146882",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            27
+            20,
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时47分 ~ 03时48分]"
+          "time_info": "[03时48分 ~ 04时34分]"
+        },
+        {
+          "title": "美国官员：阿曼与伊朗在霍尔木兹海峡的谈判取得进展，预计将很快达成协议。 一旦宣布达成霍尔木兹海峡恢复商业航运、不受阻碍通行的协议，美国将解除对伊朗港口的封锁。 美国的行动将继续以执行情况为依据，并与伊朗履行其承诺的情况挂钩。",
+          "url": "https://wallstreetcn.com/livenews/3146881",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时48分 ~ 04时34分]"
         },
         {
           "title": "五角大楼拟年底测试太空导弹拦截系统 “金穹”计划迈出关键一步",
@@ -432,15 +558,15 @@
           "time_info": "02时45分"
         },
         {
-          "title": "周五（8月7日）纽约尾盘，美元兑日元跌0.56%，报157.55日元，美国非农就业报告出炉时跳水，本周累计上涨0.08%，整体交投区间为155.23-158.57日元。 欧元兑日元跌0.18%，本周累涨0.40%；英镑兑日元跌0.20%，本周累涨0.26%。",
-          "url": "https://wallstreetcn.com/livenews/3146896",
-          "source": "华尔街见闻-快讯",
+          "title": "据美国证券交易委员会（SEC）文件显示，AT&T(T.N)提交了发行12亿欧元浮动利率全球票据的最终条款文件，该票据将于2028年到期。",
+          "url": "https://flash.jin10.com/detail/20260808040421744800",
+          "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时48分"
+          "time_info": "04时34分"
         },
         {
           "title": "通用动力旗下部门与美国总务管理局签署协议，为陆军国民警卫队及其他联邦政府合作伙伴提供企业IT和网络安全服务。",
@@ -471,18 +597,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时48分"
-        },
-        {
-          "title": "美国总统特朗普：到场的人太多了，不然我得在这儿待上一整天。 希望大家提问尽量简短，我不胜感激，毕竟我们还有战事要推进，明白吗？ 这就是我要提前离场的理由。",
-          "url": "https://wallstreetcn.com/livenews/3146895",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时48分"
         },
@@ -515,7 +630,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时48分"
         },
@@ -531,15 +646,15 @@
           "time_info": "02时45分"
         },
         {
-          "title": "特朗普政府将向电池及材料企业拨付 20 亿美元",
-          "url": "https://wallstreetcn.com/livenews/3146893",
+          "title": "美国商品期货交易委员会（CFTC）：日本当局与特朗普政府干预过后，8月4日当周，对冲基金将日元空头仓位砍半。 杠杆基金将墨西哥比索净多头头寸推升至2025年12月以来最高水平。",
+          "url": "https://wallstreetcn.com/livenews/3146902",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时48分"
+          "time_info": "04时34分"
         },
         {
           "title": "据华尔街日报：白宫官员称，特朗普政府将向四家电池和矿产公司提供超过20亿美元资金支持。电池初创企业Sila Nanotechnologies已获得五角大楼14亿美元贷款。澳大利亚Sunrise Energy Metals已与五角大楼达成4亿美元贷款协议，用于生产钪。",
@@ -548,7 +663,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时48分"
         },
@@ -608,15 +723,15 @@
           "time_info": "02时45分"
         },
         {
-          "title": "特朗普政府拟向电池及材料企业拨付20亿美元。 特朗普盛赞 MP 材料公司获得政府注资。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3146889",
-          "source": "华尔街见闻-快讯",
+          "title": "据CNN：美国总统特朗普将于下周一为达琳·格雷厄姆（已故参议员林赛·格雷厄姆的妹妹）举行电话集会。",
+          "url": "https://flash.jin10.com/detail/20260808035911250800",
+          "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时48分"
+          "time_info": "04时34分"
         },
         {
           "title": "特朗普提名律师丹妮尔·图曼·塞弗斯出任美国联邦通信委员会（FCC）委员。",
@@ -658,9 +773,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时48分"
+        },
+        {
+          "title": "美国加州州长纽森：加州正在为首次购买电动汽车的消费者提供数千美元的购车优惠。现在，购买一辆新的电动汽车最高可节省3500美元，购买二手电动汽车最高可节省1750美元。",
+          "url": "https://flash.jin10.com/detail/20260808035655589800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时34分"
         },
         {
           "title": "美媒：特朗普推进罢免美联储理事库克 以“严重失职”为由正式启动罢免程序",
@@ -691,18 +817,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时48分"
-        },
-        {
-          "title": "报道：伊朗与阿曼宣布达成协议后，美国将解除对伊朗的封锁",
-          "url": "https://wallstreetcn.com/livenews/3146887",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时48分"
         },
@@ -713,18 +828,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时48分"
-        },
-        {
-          "title": "美国国务院：美国制裁六个实体和一名个人。 制裁是在伊朗袭击海峡船只后出台。",
-          "url": "https://wallstreetcn.com/livenews/3146886",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时48分"
         },
@@ -735,9 +839,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时48分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基对美国参议院通过俄罗斯制裁法案表示感谢。",
+          "url": "https://flash.jin10.com/detail/20260808034132601800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时34分"
         },
         {
           "title": "美国总统特朗普：两名奥巴马和拜登任命的联邦上诉法院法官刚刚投票反对这个迫切需要的军事中心。该中心对于华盛顿特区以及美国国家安全本身都是必需的。这显然是对裁量权的严重滥用。",
@@ -757,7 +872,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时48分"
         },
@@ -779,9 +894,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时48分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至8月4日当周，日元净空头头寸为45,473份合约。欧元净空头头寸为58,091份合约。英镑净空头头寸为57,814份合约。瑞郎净空头头寸为32,822份合约。",
+          "url": "https://flash.jin10.com/detail/20260808033411743800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时34分"
         },
         {
           "title": "美国陆军开放五大测试场，加速防务企业武器研发",
@@ -806,15 +932,15 @@
           "time_info": "01时44分"
         },
         {
-          "title": "美国总统特朗普主持美国矿业圆桌会议开始。",
-          "url": "https://wallstreetcn.com/livenews/3146882",
-          "source": "华尔街见闻-快讯",
+          "title": "美国商品期货交易委员会（CFTC）：截至8月4日当周，投机者将芝加哥期货交易所（CBOT）美国国债期货净空头头寸减少41,225份合约，至176,272份合约。将CBOT美国2年期国债期货净空头头寸减少120,346份合约，至1,004,228份合约。将CBOT美国5年期国债期货净空头头寸增加179,319份合约，至1,325,719份合约。将CBOT美国2年期国债期货净空头头寸减少120,346份合约，至1,004,228份合约。将CBOT美国超长期国债期货净空头头寸减少5,723份合约，至314,985份合约。",
+          "url": "https://flash.jin10.com/detail/20260808033249167800",
+          "source": "金十数据",
           "ranks": [
             20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时48分"
+          "time_info": "04时34分"
         },
         {
           "title": "美国至8月7日当周石油钻井总数将于十分钟后公布。",
@@ -834,20 +960,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时48分"
         },
         {
-          "title": "美国官员：阿曼与伊朗在霍尔木兹海峡的谈判取得进展，预计将很快达成协议。 一旦宣布达成霍尔木兹海峡恢复商业航运、不受阻碍通行的协议，美国将解除对伊朗港口的封锁。 美国的行动将继续以执行情况为依据，并与伊朗履行其承诺的情况挂钩。",
-          "url": "https://wallstreetcn.com/livenews/3146881",
-          "source": "华尔街见闻-快讯",
+          "title": "美国商品期货交易委员会（CFTC）：截至8月4日当周，在四大纽约商品交易所（NYMEX）和洲际交易所（ICE）市场中，天然气投机者净空头头寸增加28,093份合约，至89,090份合约。",
+          "url": "https://flash.jin10.com/detail/20260808033220867800",
+          "source": "金十数据",
           "ranks": [
             21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时48分"
+          "time_info": "04时34分"
         },
         {
           "title": "据ABC新闻：特朗普在最高法院遭遇挫折后，仍继续推进解雇美联储理事丽莎·库克的尝试。",
@@ -867,9 +993,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时48分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至8月4日当周，投机者将WTI原油净多头头寸减少4,683份合约，至101,824份合约。",
+          "url": "https://flash.jin10.com/detail/20260808033141547800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时34分"
         },
         {
           "title": "伊朗总统佩泽希其扬：伊朗无意将邻国作为打击目标，但被用来发起针对伊朗袭击的地点本身或将成为打击对象。 在与法国为阻止快速恢复制裁机制而开展的谈判中，我们曾达成共识，但遭到美国阻挠。欧洲没有作出独立决策的权限。",
@@ -878,9 +1015,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时48分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至8月4日当周，COMEX黄金投机者净多头头寸增加12,070份合约，至132,398份合约。COMEX白银投机者净多头头寸增加2,679份合约，至11,067份合约。COMEX铜投机者净多头头寸增加11,307份合约，至77,796份合约。",
+          "url": "https://flash.jin10.com/detail/20260808033126161800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时34分"
         },
         {
           "title": "伊朗敦促海湾国家说服特朗普停止军事行动",
@@ -911,7 +1059,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时48分"
         },
@@ -955,7 +1103,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时48分"
         },
@@ -966,7 +1114,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时48分"
         },
@@ -977,7 +1125,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时48分"
         }
@@ -985,7 +1133,7 @@
     },
     {
       "keyword_group": "# --- 第一组：中国宏观 (去掉了必须词，只过滤娱乐) --- 中国 央视 外交部 国防部 解放军 人民日报 新华社",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "未来五年中国民航重磅规划出炉",
@@ -995,8 +1143,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 03时48分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 04时34分]"
         },
         {
           "title": "中国人能飞AI版vs实拍版",
@@ -1005,11 +1153,12 @@
           "ranks": [
             17,
             9,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 03时48分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 04时34分]"
         },
         {
           "title": "中国7月出口同比增23.9%，半导体出口按价值计算同比近乎翻番，进口同比增27.5%",
@@ -1019,8 +1168,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 03时48分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 04时34分]"
         },
         {
           "title": "印度要搞自主AI：模型靠中国，芯片靠美国",
@@ -1030,8 +1179,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 03时48分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 04时34分]"
         },
         {
           "title": "中国央行连续21个月增持黄金，7月购金力度提速",
@@ -1041,8 +1190,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 03时48分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 04时34分]"
         },
         {
           "title": "中国游客景福宫偶遇李在明一起合影",
@@ -1052,11 +1201,12 @@
             16,
             14,
             8,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 03时48分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 04时34分]"
         },
         {
           "title": "中国要用5万亿织一张网",
@@ -1068,8 +1218,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 03时48分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 04时34分]"
         },
         {
           "title": "人民日报刊文：党员干部需在“拎”与“捂”间作出清醒而坚定的抉择",
@@ -1081,22 +1231,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 03时48分]"
-        },
-        {
-          "title": "中国女篮70-67险胜尼日利亚女篮",
-          "url": "https://www.toutiao.com/trending/7670790051076309030/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            23,
-            24,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 03时48分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 04时34分]"
         },
         {
           "title": "中国消防官方整活",
@@ -1109,8 +1245,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 03时48分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 04时34分]"
         },
         {
           "title": "中国要用5万亿织一张网",
@@ -1118,6 +1254,20 @@
           "source": "微博",
           "ranks": [
             30
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 04时34分]"
+        },
+        {
+          "title": "中国女篮70-67险胜尼日利亚女篮",
+          "url": "https://www.toutiao.com/trending/7670790051076309030/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            23,
+            24,
+            28
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -1144,6 +1294,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数初步收涨0.8%，本周累涨约0.3%。 热门中概股里，再鼎医药初步收涨12.2%，大全新能源涨8.8%，晶科能源涨6%，世纪互联涨5%，腾讯涨1.8%，拼多多、阿里巴巴涨超1%，日月光半导体大致持平。 ETF中，ASHS初步收涨2.5%，CQQQ涨1.7%，KWEB涨0.8%。",
+          "url": "https://wallstreetcn.com/livenews/3146908",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时34分"
         },
         {
           "title": "伊朗外交部长表示，面对全球军费开支最高的军队，伊朗实力强大的武装部队已展现出自身的备战状态、作战能力与军事力量。",
@@ -1193,7 +1354,7 @@
     },
     {
       "keyword_group": "# --- 第二组：中国经济与A股 (保留宽泛的行情词) --- A股 上证 深证 恒生 人民币 汇率 经济 GDP",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "乌克兰总统泽连斯基：我和我的团队已抵达塞尔维亚。今天和明天，我们将与总统武契奇和部长尤拉伊·马图谢克举行重要会议。我们将讨论扩大两国经济联系、与欧盟的关系以及安全事务。",
@@ -1291,7 +1452,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时48分"
         },
@@ -1357,7 +1518,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时48分"
         },
@@ -1368,27 +1529,27 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时48分"
+        },
+        {
+          "title": "A股一周牛股出炉 最牛股近乎翻倍",
+          "url": "https://www.toutiao.com/trending/7670202670728839195/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时34分"
         }
       ]
     },
     {
       "keyword_group": "# --- 第四组：美股与科技 (去掉了具体的“财报”限制) --- 美股 纳指 道琼斯 标普 特斯拉 英伟达 苹果 微软 OpenAI",
-      "match_count": 10,
+      "match_count": 16,
       "titles": [
-        {
-          "title": "美股光模块黑马计划大幅扩产 全力押注800G、1.6T产品",
-          "url": "https://www.cls.cn/detail/2448354",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 03时48分]"
-        },
         {
           "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
           "url": "https://wallstreetcn.com/articles/3778821",
@@ -1397,8 +1558,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 03时48分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 04时34分]"
         },
         {
           "title": "非农爆冷打击加息预期，美股高开，光通信概念股普涨，光模块制造商AAOI涨超12%，现货黄金突破4350",
@@ -1406,6 +1567,17 @@
           "source": "华尔街见闻",
           "ranks": [
             4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 04时34分]"
+        },
+        {
+          "title": "美股光模块黑马计划大幅扩产 全力押注800G、1.6T产品",
+          "url": "https://www.cls.cn/detail/2448354",
+          "source": "财联社热门",
+          "ranks": [
+            2
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -1419,8 +1591,35 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 03时48分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 04时34分]"
+        },
+        {
+          "title": "美股存储板块集体大跌",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%AD%98%E5%82%A8%E6%9D%BF%E5%9D%97%E9%9B%86%E4%BD%93%E5%A4%A7%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            20,
+            17,
+            15,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 04时34分]"
+        },
+        {
+          "title": "韩股跌倒，美股吃饱！“受伤”的韩国散户大军重返华尔街怀抱",
+          "url": "https://www.cls.cn/detail/2448478",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 04时34分]"
         },
         {
           "title": "OpenAI：为高性能模型及相关业务落实更严格的安全管控，其中包括隔离测试环境",
@@ -1434,29 +1633,37 @@
           "time_info": "00时46分"
         },
         {
-          "title": "韩股跌倒，美股吃饱！“受伤”的韩国散户大军重返华尔街怀抱",
-          "url": "https://www.cls.cn/detail/2448478",
-          "source": "财联社热门",
+          "title": "金十图示：2026年08月07日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260808040607361800",
+          "source": "金十数据",
           "ranks": [
-            13
+            2
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 03时48分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时34分"
         },
         {
-          "title": "美股存储板块集体大跌",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%AD%98%E5%82%A8%E6%9D%BF%E5%9D%97%E9%9B%86%E4%BD%93%E5%A4%A7%E8%B7%8C",
-          "source": "百度热搜",
+          "title": "周五（8月7日），美股行业ETF多数收涨，生物科技指数ETF涨2.46%，网络股指数ETF涨2.09%，半导体ETF涨1.96%，科技行业ETF、全球科技股指数ETF至多涨1.42%，银行业ETF、全球航空业ETF、区域银行ETF至多跌0.37%，能源业ETF跌1.17%。",
+          "url": "https://wallstreetcn.com/livenews/3146912",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            22,
-            20,
-            17,
-            15
+            2
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 03时48分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时34分"
+        },
+        {
+          "title": "金十图示：2026年08月07日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260808040559195800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时34分"
         },
         {
           "title": "OpenAI：Astra是一款尚未发布的模型，无法排除Astra模型具备关键网络攻击能力",
@@ -1475,11 +1682,45 @@
           "url": "https://wallstreetcn.com/livenews/3146884",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时48分 ~ 04时34分]"
+        },
+        {
+          "title": "道琼斯指数8月7日（周五）收盘上涨151.42点，涨幅0.28%，报54036.52点；<br/>标普500指数8月7日（周五）收盘上涨47.63点，涨幅0.62%，报7757.59点；<br/>纳斯达克综合指数8月7日（周五）收盘上涨342.26点，涨幅1.30%，报26690.62点。",
+          "url": "https://flash.jin10.com/detail/20260808040341952800",
+          "source": "金十数据",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时48分"
+          "time_info": "04时34分"
+        },
+        {
+          "title": "本周，标普累涨约3.5%，道指累涨约3%，纳指累涨5%，存储芯片指数跌约1.9%，半导体指数涨8.6%——周二高开以来持续高位窄幅震荡，科技股七巨头指数涨4.7%，降息赢家指数涨5.2%。 周五非农日当天，标普500指数初步收涨0.6%，原材料、可选消费、科技板块涨超1%，能源板块跌1.3%。 纳斯达克100指数初步收涨1.2%，成分股中，爱彼迎初步收涨17.1%，SpaceX涨14.5%，微芯科技、Palantir、AXON、Rocket Lab、HONA、TTWO、Lumentum至少涨6%，AMD、泰瑞达、闪迪、西部数据至多跌3.6%，希捷科技跌4.3%。",
+          "url": "https://wallstreetcn.com/livenews/3146906",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时34分"
+        },
+        {
+          "title": "美股收盘： 三大股指收涨 SpaceX大涨近16%",
+          "url": "https://flash.jin10.com/detail/20260808040100140800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时34分"
         },
         {
           "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
@@ -1495,105 +1736,8 @@
       ]
     },
     {
-      "keyword_group": "# --- 第五组：日本动态 (关键修改：去掉了外交限制) --- 日本 岸田文雄 自卫队 靖国神社 核污水",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "韩企捐水日本被骂只配冲马桶",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356935&amp;topic_name=%E9%9F%A9%E4%BC%81%E6%8D%90%E6%B0%B4%E6%97%A5%E6%9C%AC%E8%A2%AB%E9%AA%82%E5%8F%AA%E9%85%8D%E5%86%B2%E9%A9%AC%E6%A1%B6",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 03时48分]"
-        },
-        {
-          "title": "中方：日本当局应倾听民众呼声，停止在核问题上玩火",
-          "url": "https://news.ifeng.com/c/8vOpFNciqLA",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 03时48分]"
-        },
-        {
-          "title": "值得反思!日本运动员偷鸡蛋被捕",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356951&amp;topic_name=%E5%80%BC%E5%BE%97%E5%8F%8D%E6%80%9D%21%E6%97%A5%E6%9C%AC%E8%BF%90%E5%8A%A8%E5%91%98%E5%81%B7%E9%B8%A1%E8%9B%8B%E8%A2%AB%E6%8D%95",
-          "source": "贴吧",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 03时48分]"
-        },
-        {
-          "title": "高市早苗站在防弹玻璃后发表讲话，日本网友：防止别人吐口水？",
-          "url": "https://v.ifeng.com/c/8vOZWLqUjIW",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 03时48分]"
-        },
-        {
-          "title": "日本原子弹爆炸亲历者反对高市修改无核三原则，“她应该下台”",
-          "url": "https://news.ifeng.com/c/8vOh3wOkWNP",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 03时48分]"
-        },
-        {
-          "title": "猫娘抽烟番被日本家长投诉",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356861&amp;topic_name=%E7%8C%AB%E5%A8%98%E6%8A%BD%E7%83%9F%E7%95%AA%E8%A2%AB%E6%97%A5%E6%9C%AC%E5%AE%B6%E9%95%BF%E6%8A%95%E8%AF%89",
-          "source": "贴吧",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 03时48分]"
-        },
-        {
-          "title": "物价飞涨,日本青年戒饭成潮流",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356864&amp;topic_name=%E7%89%A9%E4%BB%B7%E9%A3%9E%E6%B6%A8%2C%E6%97%A5%E6%9C%AC%E9%9D%92%E5%B9%B4%E6%88%92%E9%A5%AD%E6%88%90%E6%BD%AE%E6%B5%81",
-          "source": "贴吧",
-          "ranks": [
-            20,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 03时48分]"
-        },
-        {
-          "title": "机构：日本不太可能为干预而出售中期美债，对长端收益率的影响有限",
-          "url": "https://wallstreetcn.com/livenews/3146873",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时45分 ~ 03时48分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "# --- 第六组：俄乌局势 --- 俄乌 俄罗斯 乌克兰 普京 泽连斯基 北约",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "据塞尔维亚N1电视台：乌克兰总统泽连斯基抵达塞尔维亚，是他首次访问该国。",
@@ -1613,11 +1757,12 @@
           "ranks": [
             23,
             10,
-            9
+            9,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 02时45分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 04时34分]"
         },
         {
           "title": "俄安全部门取缔多个与乌克兰有关的加密货币兑换点",
@@ -1644,6 +1789,41 @@
           "time_info": "[00时46分 ~ 01时44分]"
         },
         {
+          "title": "普京为何此时对国防系统进行人事调整",
+          "url": "https://www.toutiao.com/trending/7671263233499467300/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时45分 ~ 04时34分]"
+        },
+        {
+          "title": "俄乌互袭对方黑海船只等军事目标",
+          "url": "https://wallstreetcn.com/livenews/3146883",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时48分 ~ 04时34分]"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：在塞尔维亚开始了双边会谈。",
+          "url": "https://flash.jin10.com/detail/20260808034408364800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时34分"
+        },
+        {
           "title": "俄黑客称获取北约直接参与袭击俄领土证据",
           "url": "https://wallstreetcn.com/livenews/3146822",
           "source": "华尔街见闻-快讯",
@@ -1655,28 +1835,6 @@
           "time_info": "00时46分"
         },
         {
-          "title": "普京为何此时对国防系统进行人事调整",
-          "url": "https://www.toutiao.com/trending/7671263233499467300/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时45分"
-        },
-        {
-          "title": "俄乌互袭对方黑海船只等军事目标",
-          "url": "https://wallstreetcn.com/livenews/3146883",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时48分"
-        },
-        {
           "title": "据塔斯社：乌克兰对克里米亚的攻击导致两人死亡。",
           "url": "https://flash.jin10.com/detail/20260807232140598800",
           "source": "金十数据",
@@ -1686,6 +1844,103 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# --- 第五组：日本动态 (关键修改：去掉了外交限制) --- 日本 岸田文雄 自卫队 靖国神社 核污水",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "韩企捐水日本被骂只配冲马桶",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356935&amp;topic_name=%E9%9F%A9%E4%BC%81%E6%8D%90%E6%B0%B4%E6%97%A5%E6%9C%AC%E8%A2%AB%E9%AA%82%E5%8F%AA%E9%85%8D%E5%86%B2%E9%A9%AC%E6%A1%B6",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 04时34分]"
+        },
+        {
+          "title": "中方：日本当局应倾听民众呼声，停止在核问题上玩火",
+          "url": "https://news.ifeng.com/c/8vOpFNciqLA",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 04时34分]"
+        },
+        {
+          "title": "值得反思!日本运动员偷鸡蛋被捕",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356951&amp;topic_name=%E5%80%BC%E5%BE%97%E5%8F%8D%E6%80%9D%21%E6%97%A5%E6%9C%AC%E8%BF%90%E5%8A%A8%E5%91%98%E5%81%B7%E9%B8%A1%E8%9B%8B%E8%A2%AB%E6%8D%95",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 04时34分]"
+        },
+        {
+          "title": "高市早苗站在防弹玻璃后发表讲话，日本网友：防止别人吐口水？",
+          "url": "https://v.ifeng.com/c/8vOZWLqUjIW",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 04时34分]"
+        },
+        {
+          "title": "日本原子弹爆炸亲历者反对高市修改无核三原则，“她应该下台”",
+          "url": "https://news.ifeng.com/c/8vOh3wOkWNP",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 04时34分]"
+        },
+        {
+          "title": "猫娘抽烟番被日本家长投诉",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356861&amp;topic_name=%E7%8C%AB%E5%A8%98%E6%8A%BD%E7%83%9F%E7%95%AA%E8%A2%AB%E6%97%A5%E6%9C%AC%E5%AE%B6%E9%95%BF%E6%8A%95%E8%AF%89",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 04时34分]"
+        },
+        {
+          "title": "物价飞涨,日本青年戒饭成潮流",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356864&amp;topic_name=%E7%89%A9%E4%BB%B7%E9%A3%9E%E6%B6%A8%2C%E6%97%A5%E6%9C%AC%E9%9D%92%E5%B9%B4%E6%88%92%E9%A5%AD%E6%88%90%E6%BD%AE%E6%B5%81",
+          "source": "贴吧",
+          "ranks": [
+            20,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 04时34分]"
+        },
+        {
+          "title": "机构：日本不太可能为干预而出售中期美债，对长端收益率的影响有限",
+          "url": "https://wallstreetcn.com/livenews/3146873",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时45分 ~ 03时48分]"
         }
       ]
     }
