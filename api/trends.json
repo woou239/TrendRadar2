@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T06:24:04.749686+08:00",
-  "total_titles_processed": 455,
+  "generated_at": "2026-08-10T09:13:18.674343+08:00",
+  "total_titles_processed": 618,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- 第三组：美国宏观与军事 --- 美国 白宫 五角大楼 美军 美联储 布林肯 拜登 特朗普",
-      "match_count": 31,
+      "match_count": 42,
       "titles": [
         {
           "title": "万斯称美伊冲突仍处于“博弈中段”，美军“寻找出口”，伊朗开出“重开海峡6大条件”",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 06时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 09时13分]"
         },
         {
           "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
@@ -46,11 +46,12 @@
           "source": "澎湃新闻",
           "ranks": [
             5,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时25分 ~ 06时24分]"
+          "appearance_count": 10,
+          "time_info": "[01时25分 ~ 09时13分]"
         },
         {
           "title": "下周重磅日程：美国CPI，宇树科技打新，腾讯、京东、茅台、中芯国际财报",
@@ -84,11 +85,12 @@
           "url": "https://www.cls.cn/detail/2449177",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 06时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 09时13分]"
         },
         {
           "title": "鲁比奥一句“别回头”，特朗普：这画不错，我要带走",
@@ -123,8 +125,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 06时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 09时13分]"
         },
         {
           "title": "美国科学家首次用 AI 设计出病毒，意味着什么？生物安全防线该如何应对？",
@@ -134,11 +136,12 @@
             19,
             13,
             12,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时31分 ~ 06时24分]"
+          "appearance_count": 9,
+          "time_info": "[02时31分 ~ 09时13分]"
         },
         {
           "title": "特朗普称正在“低调处理”伊朗问题",
@@ -220,13 +223,24 @@
           "time_info": "[01时25分 ~ 05时26分]"
         },
         {
+          "title": "本周重磅日程：美国CPI，宇树科技打新，腾讯、京东、茅台、中芯国际财报",
+          "url": "https://wallstreetcn.com/articles/3778910",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
           "title": "美联储9月加息25个基点的概率为44.4%",
           "url": "https://flash.jin10.com/detail/20260810055655060800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         },
@@ -331,13 +345,24 @@
           "time_info": "[00时27分 ~ 01时25分]"
         },
         {
+          "title": "美军基地遭袭，伊朗公布最新卫星对比图",
+          "url": "https://news.ifeng.com/c/8vT6dxUIQom",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
           "title": "美国中央司令部：截至8月9日，中央司令部已调转55艘在霍尔木兹海峡的商船航线，使2艘船只失去行动能力，并登船检查了2艘船只，以确保其遵守封锁令。",
           "url": "https://flash.jin10.com/detail/20260810054710218800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         },
@@ -348,9 +373,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
+        },
+        {
+          "title": "2架飞机靠近特朗普高尔夫俱乐部，F-16出动拦截",
+          "url": "https://news.ifeng.com/c/8vT4r6JlFq0",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
+          "title": "特朗普这是此地无银三百两吗？",
+          "url": "https://news.ifeng.com/c/8vT8RYkNUYi",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         },
         {
           "title": "美国总统特朗普：自9月1日起，威尔·沙夫将接替大卫·沃灵顿，成为总统助理兼白宫法律顾问。",
@@ -359,9 +406,64 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
+        },
+        {
+          "title": "特朗普宣布威尔·沙夫将出任总统助理兼白宫法律顾问",
+          "url": "https://wallstreetcn.com/livenews/3147162",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
+          "title": "如何看待美军林肯号航母被曝出物资短缺，环境恶劣、飞行甲板磨出洞等情况？",
+          "url": "https://www.zhihu.com/question/2069728803518148969",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
+          "title": "特朗普公布新任总统助理人选",
+          "url": "https://news.ifeng.com/c/8vT8RYkNUQr",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
+          "title": "新闻交易员：特朗普说低调处理，市场可能听得太认真了",
+          "url": "https://flash.jin10.com/detail/20260810082438238800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
+          "title": "战略专家警告：伊朗袭击暴露美军漏洞，美军海外资产面临毁灭风险！",
+          "url": "https://flash.jin10.com/detail/20260810081200980800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         },
         {
           "title": "美媒：美官员称特朗普耐心应对伊朗僵局，重点聚焦海峡通航",
@@ -384,12 +486,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
+        },
+        {
+          "title": "特朗普加沙和平计划遭遇重大阻击：内塔尼亚胡拒绝下一阶段安排",
+          "url": "https://flash.jin10.com/detail/20260810075735271800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
+          "title": "伊朗公布美军基地遭袭前后卫星对比图",
+          "url": "https://www.toutiao.com/trending/7671344515512762409/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         }
       ]
     },
     {
       "keyword_group": "# --- 第一组：中国宏观 (去掉了必须词，只过滤娱乐) --- 中国 央视 外交部 国防部 解放军 人民日报 新华社",
-      "match_count": 17,
+      "match_count": 25,
       "titles": [
         {
           "title": "中国7月CPI同比涨幅收窄至0.5%，PPI同比上涨3.5%，AI驱动平板电脑价格环比上涨11.3%",
@@ -399,8 +523,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 06时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 09时13分]"
         },
         {
           "title": "中国制造硬核瞬间",
@@ -410,8 +534,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 06时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 09时13分]"
         },
         {
           "title": "中国拒绝美鹰派副防长访华？弦外之音被热议",
@@ -450,6 +574,18 @@
           "time_info": "[00时27分 ~ 06时24分]"
         },
         {
+          "title": "以军突然发起大规模军事行动！还把枪口对准中国记者",
+          "url": "https://news.ifeng.com/c/8vRKA573RKo",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 09时13分]"
+        },
+        {
           "title": "大V：日称解放军有8架歼35是自欺欺人",
           "url": "https://www.toutiao.com/trending/7671945014229863942/",
           "source": "今日头条",
@@ -459,17 +595,6 @@
             7,
             8,
             17
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 06时24分]"
-        },
-        {
-          "title": "以军突然发起大规模军事行动！还把枪口对准中国记者",
-          "url": "https://news.ifeng.com/c/8vRKA573RKo",
-          "source": "凤凰网",
-          "ranks": [
-            9
           ],
           "is_new": false,
           "appearance_count": 10,
@@ -494,11 +619,12 @@
             13,
             21,
             17,
-            14
+            14,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 06时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 09时13分]"
         },
         {
           "title": "10万台中国空调坐着火车去欧洲",
@@ -526,6 +652,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时27分 ~ 06时24分]"
+        },
+        {
+          "title": "富时中国A50指数期货盘初涨0.19%，上一个交易日夜盘收涨0.23%。",
+          "url": "https://wallstreetcn.com/livenews/3147172",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         },
         {
           "title": "俄罗斯国防部：俄罗斯防空系统拦截并摧毁285架乌克兰无人机。",
@@ -573,11 +710,45 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33750096",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时23分 ~ 06时24分]"
+          "appearance_count": 3,
+          "time_info": "[06时23分 ~ 09时13分]"
+        },
+        {
+          "title": "中国外汇交易中心（CFETS）：8月7日人民币汇率指数按周跌0.16至102.03。",
+          "url": "https://wallstreetcn.com/livenews/3147166",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
+          "title": "欢迎进入链接网页右侧下载本周财经数据与事件精美周历壁纸：今日公布中国7月M2货币供应年率、欧元区8月Sentix投资者信心指数。",
+          "url": "https://flash.jin10.com/detail/20260810083815987800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
+          "title": "中国富商之子在泰国被刺身亡",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%AF%8C%E5%95%86%E4%B9%8B%E5%AD%90%E5%9C%A8%E6%B3%B0%E5%9B%BD%E8%A2%AB%E5%88%BA%E8%BA%AB%E4%BA%A1",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         },
         {
           "title": "雪佛兰正式停售中国市场，如何评价这个汽车品牌在华的 21 年？",
@@ -591,6 +762,28 @@
           "time_info": "00时27分"
         },
         {
+          "title": "中国即将发行或正在发行的国债和政策性金融债",
+          "url": "https://wallstreetcn.com/livenews/3147155",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
+          "title": "中国即将发行或正在发行的地方政府债",
+          "url": "https://wallstreetcn.com/livenews/3147154",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
           "title": "期刊《中国经济问题》发布AI使用规范：不得替代作者开展实质性研究",
           "url": "https://m.thepaper.cn/newsDetail_forward_33749121",
           "source": "澎湃新闻",
@@ -600,12 +793,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
+        },
+        {
+          "title": "央视详解南天门计划",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E8%AF%A6%E8%A7%A3%E5%8D%97%E5%A4%A9%E9%97%A8%E8%AE%A1%E5%88%92",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
+          "title": "本周中国央行公开市场短期限逆回购到期规模1165亿元",
+          "url": "https://wallstreetcn.com/livenews/3147150",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         }
       ]
     },
     {
       "keyword_group": "# --- 第二组：中国经济与A股 (保留宽泛的行情词) --- A股 上证 深证 恒生 人民币 汇率 经济 GDP",
-      "match_count": 7,
+      "match_count": 16,
       "titles": [
         {
           "title": "多家A股公司：收到美国关税退税",
@@ -624,11 +839,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 06时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 09时13分]"
         },
         {
           "title": "“木头姐”：就业数据未显衰退，AI正驱动美国经济进入通缩与高生产率新周期",
@@ -671,6 +887,28 @@
           "time_info": "[00时27分 ~ 06时24分]"
         },
         {
+          "title": "A股温度计",
+          "url": "https://flash.jin10.com/detail/20260810084904424800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
+          "title": "如何评价阿根廷总统米莱的《经济思想的激辩：凯恩斯、弗里德曼与奥地利学派》？",
+          "url": "https://www.zhihu.com/question/2069687163239625579",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
           "title": "据伊朗学生通讯社：伊朗商会会长表示，私营部门已准备好运用其观点和能力来设计相关机制，以巩固任何潜在协议对国家的经济利益，并保护其经济成果。他强调，各国之间健康、平衡的经济联系和共同利益越深厚，回归紧张局势的成本就越高。",
           "url": "https://flash.jin10.com/detail/20260810035604925800",
           "source": "金十数据",
@@ -694,12 +932,89 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时25分 ~ 05时26分]"
+        },
+        {
+          "title": "美国以经济施压替代对伊军事行动",
+          "url": "https://www.toutiao.com/trending/7672181167310769706/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
+          "title": "日本央行7月货币政策会议审议委员意见摘要：内阁府代表表示，有助于实现物价稳定的适当货币政策，对于打造强劲经济至关重要。希望日本央行与政府密切协调政策，实施适当的货币政策。",
+          "url": "https://wallstreetcn.com/livenews/3147153",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
+          "title": "日本央行7月货币政策会议审议委员意见摘要：一名委员表示，取决于经济、物价和金融状况，日本央行的加息节奏可能比市场预期的更快。 一名委员表示，在警惕通胀上行风险的同时，敏捷灵活地调整政策利率水平至关重要。 一名委员表示，日本央行必须通过将政策利率推高至中性利率估计范围的下限以上，来实现货币政策正常化。 一名委员表示，鉴于通胀压力可能从夏季开始显现，日本央行必须明确其避免通胀过度的决心。 一名委员表示，日本央行必须加快调整货币支持力度，因为推迟加息的代价绝非轻微。",
+          "url": "https://wallstreetcn.com/livenews/3147152",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
+          "title": "日本央行七月会议意见摘要：内阁办公室代表表示，适当的货币政策对实现强劲经济和价格稳定至关重要。希望日本央行采取适当的货币政策，并与政府密切协调政策。",
+          "url": "https://flash.jin10.com/detail/20260810080428649800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
+          "title": "日本央行7月货币政策会议审议委员意见摘要：一名委员表示，中东局势发展、不断扩大的AI相关需求以及日元走软均有助于推高物价。 一名委员表示，预计入秋后消费品通胀将再次加速。 一名委员表示，尽管生产价格受进口成本上涨影响有所上升，但消费者通胀率仍低于2%。 一名委员表示，警惕受日元走软和AI相关需求强劲影响所带来的通胀上行风险。 一名委员表示，通胀前景面临巨大的上行风险，主要由于石油成本上涨传导至消费者通胀，同时全球AI需求与日本扩张性财政政策提振了需求。 一名委员表示，金融环境仍保持宽松，因为短期实际利率依然为负。 一名委员表示，在本次会议上维持利率稳定是恰当的，因为过去的加息对通胀和国内经济产生影响存在1至1.5年的滞后。 一名委员表示，我们目前处于需要警惕核心通胀可能向上偏离风险的阶段。 一名委员表示，在评估日本核心通胀能否稳定在符合日本央行价格目标的水平时，必须仔细审查中长期通胀预期是否稳定在2%左右。",
+          "url": "https://wallstreetcn.com/livenews/3147151",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
+          "title": "A股多家上市公司收到美政府退税",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1%E5%A4%9A%E5%AE%B6%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E6%94%B6%E5%88%B0%E7%BE%8E%E6%94%BF%E5%BA%9C%E9%80%80%E7%A8%8E&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
+          "title": "华泰证券：A股超跌反弹仍有演绎空间 重点关注创业板指",
+          "url": "https://wallstreetcn.com/livenews/3147148",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         }
       ]
     },
     {
       "keyword_group": "# --- 第五组：日本动态 (关键修改：去掉了外交限制) --- 日本 岸田文雄 自卫队 靖国神社 核污水",
-      "match_count": 7,
+      "match_count": 13,
       "titles": [
         {
           "title": "如何看待日本一医院错把患者脑部当肿瘤切除？",
@@ -719,11 +1034,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356989&amp;topic_name=%E6%80%A5%E7%9C%BC%E4%BA%86%2C%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%81%9A%E6%B3%95%E5%92%92%E5%A5%A5%E6%9C%AC%E6%B5%B7%E9%BB%98",
           "source": "贴吧",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 06时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 09时13分]"
         },
         {
           "title": "日媒：战时日本多所大学进行输血人体实验，向患者注射动物血",
@@ -734,8 +1050,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 06时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 09时13分]"
         },
         {
           "title": "日本父女闹掰,一句恶心伤透心",
@@ -745,8 +1061,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 06时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 09时13分]"
         },
         {
           "title": "日本医院把患者大脑当肿瘤切了",
@@ -756,8 +1072,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 06时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 09时13分]"
         },
         {
           "title": "学者：日本精工制造不容小觑",
@@ -786,12 +1102,78 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时27分 ~ 03时28分]"
+        },
+        {
+          "title": "日本7月季调后除信托外银行贷款年率 5.9%，前值由6.30%修正为6.2%。",
+          "url": "https://flash.jin10.com/detail/20260810082317003800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
+          "title": "提醒：北京时间07:50，日本央行将公布7月货币政策会议审议委员意见摘要。",
+          "url": "https://wallstreetcn.com/livenews/3147147",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
+          "title": "日本央行七月会议意见摘要：一名成员表示，日本央行必须加快调整货币支持政策，因为延迟加息的成本不可小觑。",
+          "url": "https://flash.jin10.com/detail/20260810075855408800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
+          "title": "日本央行七月会议意见摘要：一名成员表示，日本央行必须明确其避免通胀超标的决心，因为通胀压力可能从夏季开始显现。",
+          "url": "https://flash.jin10.com/detail/20260810075748328800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
+          "title": "日本央行七月会议意见摘要：一名成员表示，灵活调整政策利率水平非常重要，以关注潜在的通胀风险。",
+          "url": "https://flash.jin10.com/detail/20260810075726327800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
+          "title": "日本央行七月会议意见摘要：一位成员表示，日本央行必须通过将政策利率上调至中性利率预估区间下限以上，来实现货币政策正常化。",
+          "url": "https://flash.jin10.com/detail/20260810075720007800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         }
       ]
     },
     {
       "keyword_group": "# --- 第四组：美股与科技 (去掉了具体的“财报”限制) --- 美股 纳指 道琼斯 标普 特斯拉 英伟达 苹果 微软 OpenAI",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
@@ -801,8 +1183,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 06时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 09时13分]"
         },
         {
           "title": "2026 上半年国内手机销量 TOP30 出炉，苹果包揽前三、华为领跑国产，哪些品牌的表现值得关注？",
@@ -812,11 +1194,12 @@
             2,
             9,
             11,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 06时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 09时13分]"
         },
         {
           "title": "一边买黄金，一边买美股",
@@ -849,9 +1232,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
+        },
+        {
+          "title": "纳指ETF富国：本基金将于2026年8月10日开市起至当日10:30停牌",
+          "url": "https://flash.jin10.com/detail/20260810085113404800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         },
         {
           "title": "市场消息：据悉特斯拉(TSLA.O)今年将在日本增加60%的交付网点。",
