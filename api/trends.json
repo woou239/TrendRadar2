@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T00:47:22.388772+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-08-11T01:47:00.987883+08:00",
+  "total_titles_processed": 379,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- 第三组：美国宏观与军事 --- 美国 白宫 五角大楼 美军 美联储 布林肯 拜登 特朗普",
-      "match_count": 24,
+      "match_count": 37,
       "titles": [
         {
           "title": "还剩85天，特朗普全面收缩，伊朗左冲右突",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 01时47分]"
         },
         {
           "title": "伊朗的5个条件，美国是否会照单全收？",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 01时47分]"
         },
         {
           "title": "伊朗回应特朗普“棋局”比喻：伊朗人是“专业棋手”",
@@ -37,8 +37,64 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 01时47分]"
+        },
+        {
+          "title": "新闻蒸馏器｜内塔尼亚胡公开拒绝美国15点加沙计划，与特朗普罕见摊牌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33750452",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 01时47分]"
+        },
+        {
+          "title": "Meta发布小型AI模型，一块显卡即可本地运行，扎克伯格喊话美国政府：降低对开源AI的准入门槛",
+          "url": "https://wallstreetcn.com/articles/3779081",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 01时47分]"
+        },
+        {
+          "title": "周一（8月10日），美联储隔夜逆回购协议（RRP）使用规模为9.75亿美元（交易对手2家），上个交易日报14.50亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3147634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时47分"
+          "time_info": "01时47分"
+        },
+        {
+          "title": "美联储在固定利率逆回购操作中总计接纳了2个对手方的9.75亿美元。",
+          "url": "https://flash.jin10.com/detail/20260811011628751800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时47分"
+        },
+        {
+          "title": "美国得州州长Abbott：OpenAI承诺将遵守本地数据中心标准。",
+          "url": "https://wallstreetcn.com/livenews/3147632",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时47分"
         },
         {
           "title": "奈飞(NFLX.O)：2026年美国广告承诺几乎翻倍。",
@@ -52,26 +108,15 @@
           "time_info": "00时47分"
         },
         {
-          "title": "Meta发布小型AI模型，一块显卡即可本地运行，扎克伯格喊话美国政府：降低对开源AI的准入门槛",
-          "url": "https://wallstreetcn.com/articles/3779081",
-          "source": "华尔街见闻",
+          "title": "特朗普延长《琼斯法案》航运豁免90天 适用范围转向能源运输",
+          "url": "https://flash.jin10.com/detail/20260811011430495800",
+          "source": "金十数据",
           "ranks": [
-            5
+            4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时47分"
-        },
-        {
-          "title": "新闻蒸馏器｜内塔尼亚胡公开拒绝美国15点加沙计划，与特朗普罕见摊牌",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33750452",
-          "source": "澎湃新闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
+          "time_info": "01时47分"
         },
         {
           "title": "美国上诉法院拒绝暂停针对Meta Platforms(META.O)、TikTok及其他公司的数千起社交媒体成瘾诉讼。",
@@ -85,6 +130,17 @@
           "time_info": "00时47分"
         },
         {
+          "title": "美国总统特朗普将美国琼斯法案针对货轮的豁免措施延长90天，但范围缩小。 特朗普将航运豁免范围限制在能源大宗商品和化肥领域。",
+          "url": "https://wallstreetcn.com/livenews/3147630",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时47分"
+        },
+        {
           "title": "2架飞机靠近特朗普高尔夫俱乐部，F-16出动拦截",
           "url": "https://news.ifeng.com/c/8vT4r6JlFq0",
           "source": "凤凰网",
@@ -92,8 +148,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 01时47分]"
+        },
+        {
+          "title": "拜登之子：拜登癌症已扩散，令他非常痛苦",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33750313",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 01时47分]"
         },
         {
           "title": "伊朗称“目前伊美没有进行任何谈判”，特朗普表态“正在低调处理”",
@@ -103,19 +171,63 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 01时47分]"
         },
         {
-          "title": "拜登之子：拜登癌症已扩散，令他非常痛苦",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33750313",
-          "source": "澎湃新闻",
+          "title": "五角大楼再公布UFO视频",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%94%E8%A7%92%E5%A4%A7%E6%A5%BC%E5%86%8D%E5%85%AC%E5%B8%83UFO%E8%A7%86%E9%A2%91",
+          "source": "百度热搜",
           "ranks": [
-            10
+            18
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 01时47分]"
+        },
+        {
+          "title": "释疑｜总在开盘前喊停？从两万五千条交易数据，看特朗普投资“玄学”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33561179",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 01时47分]"
+        },
+        {
+          "title": "白宫官员：美国总统特朗普延长了《琼斯法案》的豁免，但附加了一些限制。",
+          "url": "https://flash.jin10.com/detail/20260811011059897800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时47分"
+          "time_info": "01时47分"
+        },
+        {
+          "title": "谷歌公司：相信我们遵守美国得州数据中心标准。",
+          "url": "https://wallstreetcn.com/livenews/3147629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时47分"
+        },
+        {
+          "title": "美国总统特朗普：将《琼斯法案》航运豁免期限延长了90天，同时缩小了豁免范围。运输豁免范围限定于能源商品和化肥。",
+          "url": "https://flash.jin10.com/detail/20260811010308412800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时47分"
         },
         {
           "title": "美国国务卿鲁比奥；美国正在关注哥伦比亚地震的灾情。",
@@ -129,6 +241,17 @@
           "time_info": "00时47分"
         },
         {
+          "title": "美国32所高校被指控招生过程相互合谋",
+          "url": "https://wallstreetcn.com/livenews/3147623",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时47分"
+        },
+        {
           "title": "美国国务卿卢比奥：美方正哥伦比亚发生的地震。",
           "url": "https://wallstreetcn.com/livenews/3147598",
           "source": "华尔街见闻-快讯",
@@ -138,6 +261,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
+        },
+        {
+          "title": "特朗普要求伊朗赔偿",
+          "url": "https://wallstreetcn.com/livenews/3147621",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时47分"
         },
         {
           "title": "美国财政部拍卖三个月期国债，得标利率3.735%，投标倍数2.88。 拍卖六个月期国债，得标利率3.830%，投标倍数2.85。",
@@ -151,33 +285,22 @@
           "time_info": "00时47分"
         },
         {
+          "title": "特朗普：将赔偿问题纳入未来的谈判",
+          "url": "https://wallstreetcn.com/livenews/3147619",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时47分"
+        },
+        {
           "title": "美国2年期与10年期国债收益率曲线达到自5月底以来的最陡水平，最新利差为45.7个基点。",
           "url": "https://flash.jin10.com/detail/20260810233637521800",
           "source": "金十数据",
           "ranks": [
             17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
-        },
-        {
-          "title": "五角大楼再公布UFO视频",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%94%E8%A7%92%E5%A4%A7%E6%A5%BC%E5%86%8D%E5%85%AC%E5%B8%83UFO%E8%A7%86%E9%A2%91",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
-        },
-        {
-          "title": "释疑｜总在开盘前喊停？从两万五千条交易数据，看特朗普投资“玄学”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33561179",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -195,6 +318,17 @@
           "time_info": "00时47分"
         },
         {
+          "title": "特朗普要求伊朗赔偿 称将纳入未来谈判",
+          "url": "https://flash.jin10.com/detail/20260811003934129800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时47分"
+        },
+        {
           "title": "美国至8月10日6个月国债竞拍-得标利率配置百分比 96.11%，前值65.4%。",
           "url": "https://flash.jin10.com/detail/20260810233337602800",
           "source": "金十数据",
@@ -204,6 +338,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗要求对过去五个月军事冲突中对其造成的损失进行赔偿。我同样要求伊朗赔偿。已指示我的代表们在未来的任何谈判中，都要坚定地提出这一点。",
+          "url": "https://flash.jin10.com/detail/20260811003419512800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时47分"
         },
         {
           "title": "美国至8月10日6个月国债竞拍-得标利率 3.83%，前值3.86%。",
@@ -275,7 +420,7 @@
     },
     {
       "keyword_group": "# --- 第一组：中国宏观 (去掉了必须词，只过滤娱乐) --- 中国 央视 外交部 国防部 解放军 人民日报 新华社",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "外交部：藏南地区是中国领土",
@@ -285,8 +430,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 01时47分]"
         },
         {
           "title": "外交部：百余名菲律宾公民被依法处理",
@@ -296,19 +441,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
-        },
-        {
-          "title": "良田被毁、污水入河，央视曝光多地乡村排污乱象",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33750096",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 01时47分]"
         },
         {
           "title": "《中国人民银行“十五五”改革发展规划》发布",
@@ -316,6 +450,39 @@
           "source": "财联社热门",
           "ranks": [
             2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 01时47分]"
+        },
+        {
+          "title": "中国黑科技圈粉老外",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%BB%91%E7%A7%91%E6%8A%80%E5%9C%88%E7%B2%89%E8%80%81%E5%A4%96%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 01时47分]"
+        },
+        {
+          "title": "中国驻日本大使馆：台湾不是一个国家，不存在“国格”一说",
+          "url": "https://news.ifeng.com/c/8vTrgaTJuzw",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 01时47分]"
+        },
+        {
+          "title": "良田被毁、污水入河，央视曝光多地乡村排污乱象",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33750096",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -333,37 +500,28 @@
           "time_info": "00时47分"
         },
         {
-          "title": "中国黑科技圈粉老外",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%BB%91%E7%A7%91%E6%8A%80%E5%9C%88%E7%B2%89%E8%80%81%E5%A4%96%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
+          "title": "百余名菲律宾公民在中国被依法处理",
+          "url": "https://www.toutiao.com/trending/7672364038260526601/",
+          "source": "今日头条",
           "ranks": [
-            3
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 01时47分]"
         },
         {
           "title": "纳斯达克金龙中国指数涨超1%，中进医疗涨63.38%，中比能源涨15.77%，陆金所控股涨13.00%，搜狐涨6.60%，海天网络涨5.49%。",
           "url": "https://wallstreetcn.com/livenews/3147609",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
-        },
-        {
-          "title": "中国驻日本大使馆：台湾不是一个国家，不存在“国格”一说",
-          "url": "https://news.ifeng.com/c/8vTrgaTJuzw",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
+          "appearance_count": 2,
+          "time_info": "[00时47分 ~ 01时47分]"
         },
         {
           "title": "那些搬到越南的工厂，正在重新回到中国",
@@ -373,19 +531,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
-        },
-        {
-          "title": "百余名菲律宾公民在中国被依法处理",
-          "url": "https://www.toutiao.com/trending/7672364038260526601/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 01时47分]"
         },
         {
           "title": "中国驻菲律宾大使馆：重大涉诈逃犯檀某落网",
@@ -395,19 +542,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 01时47分]"
         },
         {
-          "title": "市场消息：伊朗外长阿拉格齐与德国外交部长讨论了双边、地区和国际局势。",
-          "url": "https://flash.jin10.com/detail/20260810234432760800",
-          "source": "金十数据",
+          "title": "中国足球几十年都没有冲出亚洲，不是不努力，是不是中国人的体质不适合踢足球？",
+          "url": "https://www.zhihu.com/question/1917135578203399143",
+          "source": "知乎",
           "ranks": [
+            15,
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 01时47分]"
         },
         {
           "title": "原料、设备和资金全是坑，怎么跟中国争！印度稀土大计卡了",
@@ -415,6 +563,64 @@
           "source": "凤凰网",
           "ranks": [
             11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 01时47分]"
+        },
+        {
+          "title": "看中国航天如何绝处逢生",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9C%8B%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%A6%82%E4%BD%95%E7%BB%9D%E5%A4%84%E9%80%A2%E7%94%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 01时47分]"
+        },
+        {
+          "title": "中国可控核聚变最新进展",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%8F%AF%E6%8E%A7%E6%A0%B8%E8%81%9A%E5%8F%98%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 01时47分]"
+        },
+        {
+          "title": "媒体评雪佛兰退出中国市场",
+          "url": "https://www.douyin.com/hot/2604587",
+          "source": "抖音",
+          "ranks": [
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 01时47分]"
+        },
+        {
+          "title": "外交部：百余名菲律宾公民因非法就业、非法居留被依法处理",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33754109",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 01时47分]"
+        },
+        {
+          "title": "市场消息：伊朗外长阿拉格齐与德国外交部长讨论了双边、地区和国际局势。",
+          "url": "https://flash.jin10.com/detail/20260810234432760800",
+          "source": "金十数据",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -432,55 +638,11 @@
           "time_info": "00时47分"
         },
         {
-          "title": "看中国航天如何绝处逢生",
-          "url": "https://search.bilibili.com/all?keyword=%E7%9C%8B%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%A6%82%E4%BD%95%E7%BB%9D%E5%A4%84%E9%80%A2%E7%94%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
-        },
-        {
-          "title": "中国足球几十年都没有冲出亚洲，不是不努力，是不是中国人的体质不适合踢足球？",
-          "url": "https://www.zhihu.com/question/1917135578203399143",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
-        },
-        {
           "title": "男乒世界前十仅2名中国选手",
           "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E4%B9%92%E4%B8%96%E7%95%8C%E5%89%8D%E5%8D%81%E4%BB%852%E5%90%8D%E4%B8%AD%E5%9B%BD%E9%80%89%E6%89%8B%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
           "ranks": [
             16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
-        },
-        {
-          "title": "中国可控核聚变最新进展",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%8F%AF%E6%8E%A7%E6%A0%B8%E8%81%9A%E5%8F%98%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
-        },
-        {
-          "title": "媒体评雪佛兰退出中国市场",
-          "url": "https://www.douyin.com/hot/2604587",
-          "source": "抖音",
-          "ranks": [
-            22
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -500,26 +662,222 @@
       ]
     },
     {
+      "keyword_group": "# --- 第四组：美股与科技 (去掉了具体的“财报”限制) --- 美股 纳指 道琼斯 标普 特斯拉 英伟达 苹果 微软 OpenAI",
+      "match_count": 16,
+      "titles": [
+        {
+          "title": "美股开盘三大指数下挫，纳指跌0.1%，英特尔跌约3%，霍尔木兹谈判僵局推升油价，黄金维持高位",
+          "url": "https://wallstreetcn.com/articles/3779052",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 01时47分]"
+        },
+        {
+          "title": "OpenAI：我们正在扩展网络安全计划Daybreak，并推出新模型GPT-5.6-Cyber，用于开展先进且经过授权的网络安全工作。",
+          "url": "https://flash.jin10.com/detail/20260811012108617800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时47分"
+        },
+        {
+          "title": "OpenAI曝光GPT-6！传10万亿参数，8月强行发布",
+          "url": "https://wallstreetcn.com/articles/3779038",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 01时47分]"
+        },
+        {
+          "title": "特斯拉将建史上最大芯片厂，这对全球芯片产业有何影响？",
+          "url": "https://www.zhihu.com/question/2068943667189002947",
+          "source": "知乎",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 01时47分]"
+        },
+        {
+          "title": "OpenAI：推出ChatGPT企业版高级席位，月租至少100美元",
+          "url": "https://wallstreetcn.com/livenews/3147627",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时47分"
+        },
+        {
+          "title": "OpenAI：限时期间，符合条件的工作区管理员每增加一个高级席位（Premium Seat），将获得价值100美元的额度奖励，最多可为5个席位获得总计500美元的额度。",
+          "url": "https://flash.jin10.com/detail/20260811005211685800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时47分"
+        },
+        {
+          "title": "OpenAI：高级席位（Premium Seats）价格为每位用户每月125美元，按年付费则为每位用户每月100美元。",
+          "url": "https://flash.jin10.com/detail/20260811005131000800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时47分"
+        },
+        {
+          "title": "OpenAI：为ChatGPT Business推出高级席位（Premium Seats）。",
+          "url": "https://flash.jin10.com/detail/20260811005120672800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时47分"
+        },
+        {
+          "title": "英伟达跌幅扩大至3%，刷新日低，标普500指数跌0.1%，道指跌0.16%，纳指跌0.4%，半导体指数跌超1.8%。",
+          "url": "https://wallstreetcn.com/livenews/3147620",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时47分"
+        },
+        {
+          "title": "美股三大指数集体走低，纳指跌0.51%，道指跌0.25%， 标普500指数跌0.17%。",
+          "url": "https://flash.jin10.com/detail/20260811004521998800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时47分"
+        },
+        {
+          "title": "金十图示：2026年08月10日（周一）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260811004311524800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时47分"
+        },
+        {
+          "title": "英伟达跌幅扩大至2.6%，刷新日低。",
+          "url": "https://wallstreetcn.com/livenews/3147618",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时47分"
+        },
+        {
+          "title": "金十图示：2026年08月10日（周一）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260811004202641800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时47分"
+        },
+        {
+          "title": "报道：英伟达与多家公司围绕5000亿美元AI融资协议合作",
+          "url": "https://wallstreetcn.com/livenews/3147615",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时47分"
+        },
+        {
+          "title": "英伟达(NVDA.O)跌至盘中低点，日内跌2.6%。",
+          "url": "https://flash.jin10.com/detail/20260811003255080800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时47分"
+        },
+        {
+          "title": "据悉英伟达联手华尔街巨头筹划5000亿美元AI基建融资",
+          "url": "https://flash.jin10.com/detail/20260811002725586800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时47分"
+        }
+      ]
+    },
+    {
       "keyword_group": "# --- 第二组：中国经济与A股 (保留宽泛的行情词) --- A股 上证 深证 恒生 人民币 汇率 经济 GDP",
       "match_count": 4,
       "titles": [
+        {
+          "title": "十大券商看后市｜A股仍处于上行周期，超跌反弹还有演绎空间",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33750320",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 01时47分]"
+        },
+        {
+          "title": "印度为何突然在经济上对华开绿灯",
+          "url": "https://www.toutiao.com/trending/7672344182060486190/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 01时47分]"
+        },
         {
           "title": "人民币跨境支付系统在纳米比亚启动",
           "url": "https://wallstreetcn.com/livenews/3147596",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
-        },
-        {
-          "title": "十大券商看后市｜A股仍处于上行周期，超跌反弹还有演绎空间",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33750320",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -535,56 +893,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
-        },
-        {
-          "title": "印度为何突然在经济上对华开绿灯",
-          "url": "https://www.toutiao.com/trending/7672344182060486190/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
         }
       ]
     },
     {
-      "keyword_group": "# --- 第四组：美股与科技 (去掉了具体的“财报”限制) --- 美股 纳指 道琼斯 标普 特斯拉 英伟达 苹果 微软 OpenAI",
-      "match_count": 3,
+      "keyword_group": "# --- 第六组：俄乌局势 --- 俄乌 俄罗斯 乌克兰 普京 泽连斯基 北约",
+      "match_count": 4,
       "titles": [
         {
-          "title": "美股开盘三大指数下挫，纳指跌0.1%，英特尔跌约3%，霍尔木兹谈判僵局推升油价，黄金维持高位",
-          "url": "https://wallstreetcn.com/articles/3779052",
-          "source": "华尔街见闻",
+          "title": "乌克兰袭击俄罗斯腹地大型炼油厂及石化工厂，13名罹难人员中包含一名儿童",
+          "url": "https://wallstreetcn.com/livenews/3147610",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
+          "appearance_count": 2,
+          "time_info": "[00时47分 ~ 01时47分]"
         },
         {
-          "title": "OpenAI曝光GPT-6！传10万亿参数，8月强行发布",
-          "url": "https://wallstreetcn.com/articles/3779038",
-          "source": "华尔街见闻",
+          "title": "泽连斯基声称5万朝军或入俄，呼吁韩国与乌克兰加强合作",
+          "url": "https://news.ifeng.com/c/8vTdI4YiJIX",
+          "source": "凤凰网",
           "ranks": [
-            6
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 01时47分]"
         },
         {
-          "title": "特斯拉将建史上最大芯片厂，这对全球芯片产业有何影响？",
-          "url": "https://www.zhihu.com/question/2068943667189002947",
-          "source": "知乎",
+          "title": "俄罗斯最高法院禁止Yabloko党派参与杜马选举。（塔斯社）",
+          "url": "https://wallstreetcn.com/livenews/3147624",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时47分"
+          "time_info": "01时47分"
+        },
+        {
+          "title": "俄罗斯最高法院禁止反战的雅布洛科党参加议会选举。",
+          "url": "https://flash.jin10.com/detail/20260811004929286800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时47分"
         }
       ]
     },
@@ -600,8 +959,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 01时47分]"
         },
         {
           "title": "急眼了,日本人做法咒奥本海默",
@@ -611,8 +970,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 01时47分]"
         },
         {
           "title": "日本父女闹掰,一句恶心伤透心",
@@ -622,36 +981,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# --- 第六组：俄乌局势 --- 俄乌 俄罗斯 乌克兰 普京 泽连斯基 北约",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "乌克兰袭击俄罗斯腹地大型炼油厂及石化工厂，13名罹难人员中包含一名儿童",
-          "url": "https://wallstreetcn.com/livenews/3147610",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
-        },
-        {
-          "title": "泽连斯基声称5万朝军或入俄，呼吁韩国与乌克兰加强合作",
-          "url": "https://news.ifeng.com/c/8vTdI4YiJIX",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 01时47分]"
         }
       ]
     }
