@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T09:11:50.032207+08:00",
-  "total_titles_processed": 806,
+  "generated_at": "2026-08-11T11:31:19.008495+08:00",
+  "total_titles_processed": 965,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- 第三组：美国宏观与军事 --- 美国 白宫 五角大楼 美军 美联储 布林肯 拜登 特朗普",
-      "match_count": 102,
+      "match_count": 107,
       "titles": [
         {
           "title": "还剩85天，特朗普全面收缩，伊朗左冲右突",
@@ -31,19 +31,6 @@
           "time_info": "[00时47分 ~ 07时29分]"
         },
         {
-          "title": "Meta发布小型AI模型，一块显卡即可本地运行，扎克伯格喊话美国政府：降低对开源AI的准入门槛",
-          "url": "https://wallstreetcn.com/articles/3779081",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时47分 ~ 09时11分]"
-        },
-        {
           "title": "新闻蒸馏器｜内塔尼亚胡公开拒绝美国15点加沙计划，与特朗普罕见摊牌",
           "url": "https://m.thepaper.cn/newsDetail_forward_33750452",
           "source": "澎湃新闻",
@@ -55,6 +42,20 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时47分 ~ 09时11分]"
+        },
+        {
+          "title": "Meta发布小型AI模型，一块显卡即可本地运行，扎克伯格喊话美国政府：降低对开源AI的准入门槛",
+          "url": "https://wallstreetcn.com/articles/3779081",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时47分 ~ 11时31分]"
         },
         {
           "title": "五角大楼再公布UFO视频",
@@ -113,6 +114,29 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[05时35分 ~ 07时29分]"
+        },
+        {
+          "title": "美联储鹰派释放强硬信号：一次升息不够 或需多次加息",
+          "url": "https://www.cls.cn/detail/2450633",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时11分 ~ 11时31分]"
+        },
+        {
+          "title": "“特朗普关联”石油公司擅运钻探设备上岛，格陵兰强烈警告",
+          "url": "https://news.ifeng.com/c/8vUAxbsrTSq",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时11分 ~ 11时31分]"
         },
         {
           "title": "释疑｜总在开盘前喊停？从两万五千条交易数据，看特朗普投资“玄学”",
@@ -182,17 +206,6 @@
           "time_info": "02时47分"
         },
         {
-          "title": "“特朗普关联”石油公司擅运钻探设备上岛，格陵兰强烈警告",
-          "url": "https://news.ifeng.com/c/8vUAxbsrTSq",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时11分"
-        },
-        {
           "title": "托德·布兰奇宣誓就任美国司法部长",
           "url": "https://flash.jin10.com/detail/20260811031910191800",
           "source": "金十数据",
@@ -224,17 +237,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时51分"
-        },
-        {
-          "title": "美联储鹰派释放强硬信号：一次升息不够 或需多次加息",
-          "url": "https://www.cls.cn/detail/2450633",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时11分"
         },
         {
           "title": "奈飞(NFLX.O)：2026年美国广告承诺几乎翻倍。",
@@ -279,6 +281,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
+        },
+        {
+          "title": "外媒曝出惊人消息：特朗普放弃对伊朗的头号要求",
+          "url": "https://news.ifeng.com/c/8vUFosuJumv",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时11分 ~ 11时31分]"
         },
         {
           "title": "美国纽约市长马姆达尼的Pied-a-Terre税收方案暂时被法官拒绝。",
@@ -425,6 +439,41 @@
           "time_info": "[06时31分 ~ 07时29分]"
         },
         {
+          "title": "霍尔木兹海峡重启预期降温 美国战略石油储备创40多年新低 国际油价大涨4%",
+          "url": "https://www.cls.cn/detail/2450585",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时29分 ~ 11时31分]"
+        },
+        {
+          "title": "特朗普：美军已100%控制霍尔木兹海峡",
+          "url": "https://news.ifeng.com/c/8vUfcNGWBFb",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时11分 ~ 11时31分]"
+        },
+        {
+          "title": "特朗普称美军已“100%控制”霍尔木兹海峡 | 环球市场",
+          "url": "https://www.cls.cn/detail/2450675",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时11分 ~ 11时31分]"
+        },
+        {
           "title": "白宫官员：美国总统特朗普延长了《琼斯法案》的豁免，但附加了一些限制。",
           "url": "https://flash.jin10.com/detail/20260811011059897800",
           "source": "金十数据",
@@ -449,6 +498,17 @@
           "time_info": "[01时47分 ~ 02时47分]"
         },
         {
+          "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
+          "url": "https://wallstreetcn.com/articles/3779107",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时30分 ~ 11时31分]"
+        },
+        {
           "title": "特朗普称美军实际控制霍尔木兹并清除了水雷",
           "url": "https://flash.jin10.com/detail/20260811055607188800",
           "source": "金十数据",
@@ -471,18 +531,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时36分 ~ 06时31分]"
-        },
-        {
-          "title": "霍尔木兹海峡重启预期降温 美国战略石油储备创40多年新低 国际油价大涨4%",
-          "url": "https://www.cls.cn/detail/2450585",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时29分 ~ 09时11分]"
         },
         {
           "title": "美国32所高校被指控招生过程相互合谋",
@@ -545,6 +593,17 @@
           "time_info": "[05时36分 ~ 06时31分]"
         },
         {
+          "title": "核爆81周年日本为何不敢点名美国",
+          "url": "https://www.toutiao.com/trending/7671866200909643795/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时30分 ~ 11时31分]"
+        },
+        {
           "title": "特朗普：将赔偿问题纳入未来的谈判",
           "url": "https://wallstreetcn.com/livenews/3147619",
           "source": "华尔街见闻-快讯",
@@ -579,6 +638,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时36分 ~ 06时31分]"
+        },
+        {
+          "title": "伊朗：美国对制裁“病态依赖”",
+          "url": "https://www.toutiao.com/trending/7672205841336483846/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时30分 ~ 11时31分]"
         },
         {
           "title": "伊朗议会副议长：美国必须接受伊朗在霍尔木兹海峡建立的安排，这些安排已经为波斯湾带来了新的政治和军事秩序。",
@@ -636,17 +706,6 @@
           "time_info": "03时51分"
         },
         {
-          "title": "特朗普：美军已100%控制霍尔木兹海峡",
-          "url": "https://news.ifeng.com/c/8vUfcNGWBFb",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时11分"
-        },
-        {
           "title": "美联储哈玛克：可能需要多次加息压低通胀",
           "url": "https://flash.jin10.com/detail/20260811030959482800",
           "source": "金十数据",
@@ -669,17 +728,6 @@
           "time_info": "03时51分"
         },
         {
-          "title": "外媒曝出惊人消息：特朗普放弃对伊朗的头号要求",
-          "url": "https://news.ifeng.com/c/8vUFosuJumv",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时11分"
-        },
-        {
           "title": "美国总统特朗普：不再建议所有儿童接种乙型肝炎、COVID-19和流感等疫苗。",
           "url": "https://flash.jin10.com/detail/20260811025855382800",
           "source": "金十数据",
@@ -697,7 +745,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
@@ -719,7 +767,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
@@ -766,17 +814,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时51分"
-        },
-        {
-          "title": "特朗普称美军已“100%控制”霍尔木兹海峡 | 环球市场",
-          "url": "https://www.cls.cn/detail/2450675",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时11分"
         },
         {
           "title": "美国总统特朗普：签署疫苗行政命令。",
@@ -832,6 +869,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时51分"
+        },
+        {
+          "title": "特朗普发帖称，美国最高法院大法官阿利托已宣布他将再留任一个任期。",
+          "url": "https://wallstreetcn.com/livenews/3147809",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
         },
         {
           "title": "美国总统特朗普：关于伊朗谈判，伊朗应对其给黎巴嫩、叙利亚、也门和加沙人民造成的损害及死亡负责。",
@@ -917,7 +965,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
@@ -939,7 +987,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
@@ -997,6 +1045,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
+        },
+        {
+          "title": "美银：CPI恐证通胀韧性，美联储9月仍可能加息",
+          "url": "https://flash.jin10.com/detail/20260811105125686800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
         },
         {
           "title": "美国至8月10日6个月国债竞拍-得标利率配置百分比 96.11%，前值65.4%。",
@@ -1167,7 +1226,7 @@
     },
     {
       "keyword_group": "# --- 第四组：美股与科技 (去掉了具体的“财报”限制) --- 美股 纳指 道琼斯 标普 特斯拉 英伟达 苹果 微软 OpenAI",
-      "match_count": 51,
+      "match_count": 53,
       "titles": [
         {
           "title": "美股开盘三大指数下挫，纳指跌0.1%，英特尔跌约3%，霍尔木兹谈判僵局推升油价，黄金维持高位",
@@ -1208,6 +1267,30 @@
           "time_info": "[00时47分 ~ 07时29分]"
         },
         {
+          "title": "美股收盘：芯片股&光通信概念重挫 三大指数收低中概逆市走强",
+          "url": "https://www.cls.cn/detail/2450652",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时30分 ~ 11时31分]"
+        },
+        {
+          "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
+          "url": "https://wallstreetcn.com/articles/3779052",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时11分 ~ 11时31分]"
+        },
+        {
           "title": "霍尔木兹僵局推油价大涨5%，英伟达\"循环融资\"担忧打压美股指，芯片指数跌3%，黄金续涨",
           "url": "https://wallstreetcn.com/articles/3779052",
           "source": "华尔街见闻",
@@ -1220,28 +1303,15 @@
           "time_info": "[06时30分 ~ 07时29分]"
         },
         {
-          "title": "美股收盘：芯片股&光通信概念重挫 三大指数收低中概逆市走强",
-          "url": "https://www.cls.cn/detail/2450652",
+          "title": "英伟达CDS狂飙！5000亿美元表外“债务幽灵”引爆 华尔街吓坏了？",
+          "url": "https://www.cls.cn/detail/2450754",
           "source": "财联社热门",
           "ranks": [
-            8,
-            3,
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时30分 ~ 09时11分]"
-        },
-        {
-          "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
-          "url": "https://wallstreetcn.com/articles/3779052",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时11分"
+          "appearance_count": 2,
+          "time_info": "[11时30分 ~ 11时31分]"
         },
         {
           "title": "OpenAI：我们正在扩展网络安全计划Daybreak，并推出新模型GPT-5.6-Cyber，用于开展先进且经过授权的网络安全工作。",
@@ -1266,6 +1336,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时36分 ~ 07时29分]"
+        },
+        {
+          "title": "英伟达联手华尔街六大巨头，筹5000亿美元押注AI基础设施，信用违约互换创两周最大涨幅",
+          "url": "https://wallstreetcn.com/articles/3779115",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时11分 ~ 11时31分]"
+        },
+        {
+          "title": "私募巨头集体入局 据称英伟达将牵头5000亿美元融资大单",
+          "url": "https://www.cls.cn/detail/2450613",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时11分 ~ 11时31分]"
         },
         {
           "title": "台积电因内存短缺积压10亿美元苹果芯片？分析师郭明錤否认",
@@ -1471,28 +1565,6 @@
           "time_info": "02时47分"
         },
         {
-          "title": "英伟达联手华尔街六大巨头，筹5000亿美元押注AI基础设施，信用违约互换创两周最大涨幅",
-          "url": "https://wallstreetcn.com/articles/3779115",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时11分"
-        },
-        {
-          "title": "私募巨头集体入局 据称英伟达将牵头5000亿美元融资大单",
-          "url": "https://www.cls.cn/detail/2450613",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时11分"
-        },
-        {
           "title": "英伟达信用违约互换跃升，巨额融资报道引发关注",
           "url": "https://wallstreetcn.com/livenews/3147665",
           "source": "华尔街见闻-快讯",
@@ -1587,7 +1659,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
@@ -1664,7 +1736,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
@@ -1678,6 +1750,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
+        },
+        {
+          "title": "报道：苹果以玻璃为主体的iPhone仍将按计划于2027周年纪念日推出",
+          "url": "https://wallstreetcn.com/livenews/3147778",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
         },
         {
           "title": "据悉英伟达联手华尔街巨头筹划5000亿美元AI基建融资",
@@ -1752,7 +1835,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         }
@@ -1760,7 +1843,7 @@
     },
     {
       "keyword_group": "# --- 第一组：中国宏观 (去掉了必须词，只过滤娱乐) --- 中国 央视 外交部 国防部 解放军 人民日报 新华社",
-      "match_count": 39,
+      "match_count": 44,
       "titles": [
         {
           "title": "外交部：百余名菲律宾公民被依法处理",
@@ -1797,8 +1880,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时46分 ~ 09时11分]"
+          "appearance_count": 12,
+          "time_info": "[01时46分 ~ 11时31分]"
         },
         {
           "title": "外交部：藏南地区是中国领土",
@@ -1922,11 +2005,24 @@
             20,
             23,
             22,
-            21
+            21,
+            29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时47分 ~ 09时11分]"
+          "appearance_count": 9,
+          "time_info": "[00时47分 ~ 11时31分]"
+        },
+        {
+          "title": "央视首次曝光 055 遵义舰演习遭潜艇伏击「击沉」，这一操作的意图是什么？算暴露 055 的短板吗？",
+          "url": "https://www.zhihu.com/question/2069804922732860138",
+          "source": "知乎",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时11分 ~ 11时31分]"
         },
         {
           "title": "良田被毁、污水入河，央视曝光多地乡村排污乱象",
@@ -1957,7 +2053,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
@@ -1968,18 +2064,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时11分"
-        },
-        {
-          "title": "央视首次曝光 055 遵义舰演习遭潜艇伏击「击沉」，这一操作的意图是什么？算暴露 055 的短板吗？",
-          "url": "https://www.zhihu.com/question/2069804922732860138",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
@@ -2001,9 +2086,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
+        },
+        {
+          "title": "山东菏泽古沉船一件元青花杯被曝下落不明，举报者称其曾出现在央视画面中，却未移交给博物馆，具体情况如何？",
+          "url": "https://www.zhihu.com/question/2069191321374418713",
+          "source": "知乎",
+          "ranks": [
+            11,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时11分 ~ 11时31分]"
         },
         {
           "title": "伊朗外交部发言人巴加埃：美国财政部长曾吹嘘通过经济制裁“扼杀”了伊朗。这明显暴露出美国对制裁手段的强迫性依赖。",
@@ -2070,6 +2167,28 @@
           "time_info": "[06时30分 ~ 07时29分]"
         },
         {
+          "title": "涉及中国AI，日本自卫队极为担心",
+          "url": "https://news.ifeng.com/c/8vUvXS11rLG",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时30分 ~ 11时31分]"
+        },
+        {
+          "title": "中国网红「雅典娜」确认遇害，被闺蜜骗去菲律宾后被绑架，哪些细节值得关注？",
+          "url": "https://www.zhihu.com/question/2070285462472582864",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时30分 ~ 11时31分]"
+        },
+        {
           "title": "中国地震台网正式测定：8月11日05时31分，在四川宜宾市高县（北纬28.53度，东经104.66度）发生3.9级地震，震源深度5公里。",
           "url": "https://flash.jin10.com/detail/20260811054227367800",
           "source": "金十数据",
@@ -2088,7 +2207,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
@@ -2099,7 +2218,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
@@ -2137,24 +2256,13 @@
           "time_info": "00时47分"
         },
         {
-          "title": "山东菏泽古沉船一件元青花杯被曝下落不明，举报者称其曾出现在央视画面中，却未移交给博物馆，具体情况如何？",
-          "url": "https://www.zhihu.com/question/2069191321374418713",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时11分"
-        },
-        {
           "title": "中国即将发行或正在发行的地方政府债",
           "url": "https://wallstreetcn.com/livenews/3147746",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
@@ -2165,7 +2273,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
@@ -2187,7 +2295,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
@@ -2198,9 +2306,31 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
+        },
+        {
+          "title": "中国地震台网正式测定：08月11日10时46分在四川宜宾市高县（北纬28.54度，东经104.66度）发生3.4级地震，震源深度5千米。",
+          "url": "https://flash.jin10.com/detail/20260811105116994800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
+          "title": "A股商业航天概念早盘下挫，中国卫星逼近跌停，超捷股份、斯瑞新材跌超10%，神剑股份、电科蓝天、航天环宇、金风科技跌超7%。",
+          "url": "https://wallstreetcn.com/livenews/3147780",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
         },
         {
           "title": "巴基斯坦外交部：伊朗外长同巴基斯坦外长讨论地区与国际局势。 双方就地区及国际事态交换看法，重点围绕地区局势演变以及维护和平稳定的各项努力。 巴外长与阿拉格齐复盘巴、土、沙三方《麦加协议》的各项条款，并着重强调该协议对促进地区和平安全的目标。",
@@ -2223,12 +2353,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
+        },
+        {
+          "title": "中国央行公开市场7天期逆回购操作量为零。今日465亿元逆回购到期。",
+          "url": "https://wallstreetcn.com/livenews/3147769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
         }
       ]
     },
     {
       "keyword_group": "# --- 第二组：中国经济与A股 (保留宽泛的行情词) --- A股 上证 深证 恒生 人民币 汇率 经济 GDP",
-      "match_count": 17,
+      "match_count": 28,
       "titles": [
         {
           "title": "印度为何突然在经济上对华开绿灯",
@@ -2268,8 +2409,52 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时29分 ~ 11时31分]"
+        },
+        {
+          "title": "一组数据看7月经济活力",
+          "url": "https://www.douyin.com/hot/2605301",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时29分 ~ 09时11分]"
+          "time_info": "[11时30分 ~ 11时31分]"
+        },
+        {
+          "title": "A股又现“超级大肉签”，中一签最高赚超22万元",
+          "url": "https://www.cls.cn/detail/2450866",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时30分 ~ 11时31分]"
+        },
+        {
+          "title": "恒生科技指数高开低走，午盘前跌逾1%，恒指现跌0.54%。",
+          "url": "https://flash.jin10.com/detail/20260811111227648800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
+          "title": "恒生科技指数日内跌幅扩大至1%。蔚来、京东、比亚迪股份、小米等跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3147828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
         },
         {
           "title": "周一（8月10日）纽约尾盘（周二北京时间04:59），离岸人民币（CNH）兑美元报6.7460元，较上周五（非农日）纽约尾盘跌31点，日内整体交投于6.7419-6.7481元区间，脱离2023年2月3日（盘中最高位6.7342元）以来最高位6.7401元。",
@@ -2303,7 +2488,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
@@ -2314,7 +2499,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
@@ -2325,7 +2510,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
@@ -2361,6 +2546,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时51分"
+        },
+        {
+          "title": "A股电力板块异动拉升，华能蒙电直线封板，兆新股份此前涨停，立新能源、京能电力、百通能源、华电辽能跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3147800",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
         },
         {
           "title": "人民币跨境支付系统在纳米比亚启动",
@@ -2402,7 +2598,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
@@ -2418,6 +2614,39 @@
           "time_info": "03时51分"
         },
         {
+          "title": "A股创新药、CRO概念延续涨势，百花医药6连板，甘李药业涨停，长春高新、万邦医药、博瑞医药、亚太药业涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3147785",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
+          "title": "A股人形机器人概念震荡拉升，斯菱智驱涨超10%，拓斯达、五洲新春、奥比中光、北自科技、三花智控跟涨。",
+          "url": "https://flash.jin10.com/detail/20260811105022482800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
+          "title": "A股光刻机板块短线拉升，旭光电子涨停，联合化学、海立股份、中瓷电子跟涨。",
+          "url": "https://flash.jin10.com/detail/20260811104230842800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
           "title": "上期所原油期货2609合约夜盘收涨4.06%，报553.70元人民币/桶。 沪金夜盘收涨0.66%，沪银收涨1.89%。",
           "url": "https://wallstreetcn.com/livenews/3147644",
           "source": "华尔街见闻-快讯",
@@ -2427,12 +2656,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时51分"
+        },
+        {
+          "title": "上证指数开盘报3950.71点，跌0.40%。 深证成指开盘报14266.44点，跌0.35%。 创业板指开盘报3533.89点，跌0.09%。 沪深300开盘报4689.45点，跌0.27%。 科创50开盘报1713.26点，跌1.41%。 中证500开盘报7979.28点，跌0.64%。 中证1000开盘报7686.04点，跌0.62%。",
+          "url": "https://wallstreetcn.com/livenews/3147771",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
+          "title": "A股存储芯片板块走高，太极实业涨停，联芸科技涨超10%，麦捷科技、圣邦股份、江波龙、托伦斯、科翔股份跟涨。",
+          "url": "https://flash.jin10.com/detail/20260811103924565800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
+          "title": "香港恒生指数开盘上涨0.24%，报25998.59点；恒生科技指数涨0.27%。MNIMAX涨4.2%，智谱涨3%。",
+          "url": "https://wallstreetcn.com/livenews/3147768",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
         }
       ]
     },
     {
       "keyword_group": "# --- 第六组：俄乌局势 --- 俄乌 俄罗斯 乌克兰 普京 泽连斯基 北约",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "泽连斯基声称5万朝军或入俄，呼吁韩国与乌克兰加强合作",
@@ -2485,6 +2747,18 @@
           "time_info": "[06时31分 ~ 07时29分]"
         },
         {
+          "title": "德国记者要帮泽连斯基“杀死更多俄罗斯人”，武契奇表情震惊",
+          "url": "https://news.ifeng.com/c/8vU5AoRmRLo",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时11分 ~ 11时31分]"
+        },
+        {
           "title": "乌克兰首都基辅响起持续强烈爆炸声",
           "url": "https://flash.jin10.com/detail/20260811055436620800",
           "source": "金十数据",
@@ -2533,15 +2807,15 @@
           "time_info": "[05时36分 ~ 06时31分]"
         },
         {
-          "title": "德国记者要帮泽连斯基“杀死更多俄罗斯人”，武契奇表情震惊",
-          "url": "https://news.ifeng.com/c/8vU5AoRmRLo",
-          "source": "凤凰网",
+          "title": "曝俄最大石化厂被乌克兰无人机击中",
+          "url": "https://www.toutiao.com/trending/7672572475762282047/",
+          "source": "今日头条",
           "ranks": [
-            6
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时30分 ~ 11时31分]"
         },
         {
           "title": "金十数据整理：俄乌冲突最新24小时局势跟踪（2026-08-11）",
@@ -2583,7 +2857,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
@@ -2613,7 +2887,7 @@
     },
     {
       "keyword_group": "# --- 第五组：日本动态 (关键修改：去掉了外交限制) --- 日本 岸田文雄 自卫队 靖国神社 核污水",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "日本民众质问高市政府：粮食自给率只有36%，拿什么去打仗？",
@@ -2632,11 +2906,12 @@
           "source": "贴吧",
           "ranks": [
             18,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时47分 ~ 09时11分]"
+          "appearance_count": 13,
+          "time_info": "[00时47分 ~ 11时31分]"
         },
         {
           "title": "日本父女闹掰,一句恶心伤透心",
@@ -2644,22 +2919,46 @@
           "source": "贴吧",
           "ranks": [
             24,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时47分 ~ 09时11分]"
+          "appearance_count": 13,
+          "time_info": "[00时47分 ~ 11时31分]"
         },
         {
           "title": "“日本没被原子弹炸过”！篡改历史的回旋镖砸向日本",
           "url": "https://news.ifeng.com/c/8vUL8mvmfET",
           "source": "凤凰网",
           "ranks": [
-            10
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时11分 ~ 11时31分]"
+        },
+        {
+          "title": "日媒：据悉日本央行将在9月加息以应对通胀风险",
+          "url": "https://flash.jin10.com/detail/20260811110026484800",
+          "source": "金十数据",
+          "ranks": [
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时11分"
+          "time_info": "11时31分"
+        },
+        {
+          "title": "据日本时事通讯社：知情人士称，日本央行可能会在9月17日至18日举行的下次政策会议上考虑再次加息，以应对通胀加剧的风险。",
+          "url": "https://flash.jin10.com/detail/20260811105914552800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
         },
         {
           "title": "韩国首尔综指盘初跌1.1%，日本股市今日休市。",
@@ -2668,7 +2967,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
